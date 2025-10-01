@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "updatedAt": "2025-09-30T00:00:00Z",
+  "modules": [
+    { "id": "module1", "url": "modules/module1.json" },
+    { "id": "module2", "url": "modules/module2.json" }
+  ],
+  "assetsBaseUrl": "images/"
+}

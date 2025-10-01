@@ -1,0 +1,17 @@
+{
+  "id": "module1",
+  "title": "Foundations: What Is Crypto?",
+  "version": 1,
+  "sections": [
+    {
+      "type": "text",
+      "heading": "Crypto is Digital Money",
+      "body": "Crypto is money you can send on the internet without a bank. It uses math and shared rules."
+    },
+    {
+      "type": "image",
+      "caption": "Coins vs Tokens",
+      "src": "images/coins-vs-tokens.png"
+    }
+  ]
+}

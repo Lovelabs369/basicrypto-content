@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-01T09:16:15.937Z",
+  "updatedAt": "2025-11-01T09:36:57.563Z",
   "count": 50,
   "items": [
+    {
+      "title": "Stablecoin Usage Patterns Reveal East-West Divide in Blockchain Adoption",
+      "link": "https://news.bitcoin.com/stablecoin-usage-patterns-reveal-east-west-divide-in-blockchain-adoption/",
+      "summary": "A recent study by Electric Capital reveals that while stablecoin usage is global, the Americas lead in stablecoin activity compared to more populous regions. Wallet Size and User Activity Patterns According to the latest study by Electric Capital, stablecoin usage is global, but the Americas generate more stablecoin activity than even more populous regions. The […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-01T09:30:30.000Z",
+      "image": null
+    },
     {
       "title": "‘Bitcoin Never Shuts Down’: U.S. Treasury Secretary Marks Anniversary, Needles Democrats",
       "link": "https://www.coindesk.com/policy/2025/11/01/bitcoin-never-shuts-down-treasury-s-bessent-marks-anniversary-needles-democrats",
@@ -185,14 +193,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-10-31T17:54:43.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png"
-    },
-    {
-      "title": "Peter Schiff Argues Bitcoin Is ‘Fool’s Gold,’ Not the Real Thing",
-      "link": "https://news.bitcoin.com/peter-schiff-argues-bitcoin-is-fools-gold-not-the-real-thing/",
-      "summary": "Peter Schiff, a known gold bug, argued that because of the behavior that bitcoin and gold registered yesterday in response to the rate cut announced by the Federal Reserve, the former cannot be taken as a digital form of the latter. Peter Schiff Blasts Bitcoin Performance After Rate Cuts, Calls It ‘Fool’s Gold’ The Facts […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-10-31T17:50:42.000Z",
-      "image": null
     },
     {
       "title": "REX IncomeMax ETF Taps Volatile Crypto Firms to Turn Price Swings Into Weekly Income",

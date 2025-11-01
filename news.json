@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-01T17:39:09.983Z",
+  "updatedAt": "2025-11-01T17:50:11.106Z",
   "count": 50,
   "items": [
+    {
+      "title": "Bitcoin Resurrection: $298M in Dormant BTC Springs Back to Life in October",
+      "link": "https://news.bitcoin.com/bitcoin-resurrection-298m-in-dormant-btc-springs-back-to-life-in-october/",
+      "summary": "On Halloween — fittingly the 17th anniversary of Bitcoin’s white paper — a vintage wallet from Nov. 4, 2011, jolted back to life, moving 100 long-sleeping BTC for the first time since they were mined. Throughout October, 98 dormant wallets stirred, transferring a combined $298 million worth of bitcoin that hadn’t budged in years. Old […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-01T17:45:12.000Z",
+      "image": null
+    },
     {
       "title": "Crypto Leverage Trading a 'Major Problem', Says Former FTX US President",
       "link": "https://decrypt.co/347047/crypto-leverage-trading-major-problem-former-ftx-us-president",
@@ -152,14 +160,6 @@
       "summary": "Ripple is accelerating a global shift in humanitarian finance as its RLUSD stablecoin sees explosive growth and adoption by top aid organizations leveraging blockchain to deliver faster, cheaper, and more transparent disaster relief across underserved regions. Ripple Hits Hard With RLUSD Surge as Aid Giants Tap Blockchain for Relief Ripple’s increasing influence in blockchain-based philanthropy […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-01T03:05:01.000Z",
-      "image": null
-    },
-    {
-      "title": "RLUSD Debuts on Bitpanda, Expanding Ripple’s Stablecoin Reach",
-      "link": "https://news.bitcoin.com/rlusd-debuts-on-bitpanda-expanding-ripples-stablecoin-reach/",
-      "summary": "Ripple’s RLUSD stablecoin gains powerful momentum as Bitpanda adds the dollar-backed token, expanding its global reach and reinforcing Ripple’s growing dominance in cross-border payments through transparent, compliant, and highly interoperable blockchain infrastructure. Ripple’s RLUSD Added to Bitpanda, Strengthening Ripple’s Stablecoin Network Growing interest in stablecoins continues to reshape the digital payments landscape as major exchanges […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-01T01:30:59.000Z",
       "image": null
     },
     {

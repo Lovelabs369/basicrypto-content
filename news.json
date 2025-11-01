@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-01T14:49:58.132Z",
+  "updatedAt": "2025-11-01T15:14:21.810Z",
   "count": 50,
   "items": [
+    {
+      "title": "Bitcoin Miners Feel the Heat After 6.31% Difficulty Jump and Falling Hashprice",
+      "link": "https://news.bitcoin.com/bitcoin-miners-feel-the-heat-after-6-31-difficulty-jump-and-falling-hashprice/",
+      "summary": "Bitcoin miners just got hit with a hefty 6.31% bump in difficulty this week, pushing the rating to a hefty 155.97 trillion. Even so, miners kept the hashrate roaring above the 1,100 exahash per second (EH/s) mark, with block times clocking in close to the classic 10-minute rhythm. Bitcoin Miners Face the Squeeze Despite Modest […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-01T15:05:25.000Z",
+      "image": null
+    },
+    {
+      "title": "ARK Invest’s Crypto Exposure Tops $2.15B as Bullish Holdings Rise Across 3 Funds",
+      "link": "https://www.coindesk.com/business/2025/11/01/ark-invest-s-crypto-exposure-tops-usd2-15b-as-bullish-holdings-rise-across-3-funds",
+      "summary": "ARK Invest increased its stake in Bullish by 105,000 shares, worth $5.3 million, to 2.27 million shares valued at $114 million. Its crypto exposure now tops $2.15 billion.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-01T14:58:40.000Z",
+      "image": null
+    },
+    {
+      "title": "Red Uptober: Why Bitcoin Just Had Its Worst October in Years",
+      "link": "https://decrypt.co/347060/red-uptober-why-bitcoin-worst-october-years",
+      "summary": "Analysts spoke to Decrypt about why October—dubbed \"Uptober\" for its historically strong returns—ended up being a downer for Bitcoin.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-01T14:49:35.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
+    },
     {
       "title": "Satoshi's Bitcoin Whitepaper Turns 17: From Cypherpunk Rebellion to Wall Street Staple",
       "link": "https://www.coindesk.com/markets/2025/11/01/satoshi-s-bitcoin-whitepaper-turns-17-from-cypherpunk-rebellion-to-wall-street-staple",
@@ -104,14 +128,6 @@
       "summary": "Steak ’n Shake ignited industry buzz by launching a Strategic Bitcoin Reserve and a bitcoin rewards program, merging digital finance with fast food in a nationwide rollout that’s boosting sales, customer loyalty, and mainstream crypto adoption. Steak ’n Shake Unveils Strategic Bitcoin Reserve Alongside Burger Reward Program Steak ’n Shake announced on Oct. 31 the […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-01T00:05:20.000Z",
-      "image": null
-    },
-    {
-      "title": "Australian Police ‘Cracks’ Crypto Wallets, Recovers Over $7 Million in Illicit Digital Assets",
-      "link": "https://news.bitcoin.com/australian-police-cracks-crypto-wallets-recovers-over-7-million-in-illicit-digital-assets/",
-      "summary": "Australian Federal Police (AFP) Commissioner Krissy Barrett announced that an agency data scientist successfully cracked two password-protected crypto wallets, recovering millions in digital assets linked to organized crime. The Challenge of the Criminal’s Wallet Australian Federal Police (AFP) Commissioner Krissy Barrett revealed on Oct. 29 that one of the agency’s data scientists has successfully cracked […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-10-31T22:30:21.000Z",
       "image": null
     },
     {
@@ -331,14 +347,6 @@
       "image": null
     },
     {
-      "title": "H.C. Wainwright Turns Bullish on Coinbase, Double Upgrades to Buy With $425 Target",
-      "link": "https://www.coindesk.com/markets/2025/10/31/h-c-wainwright-turns-bullish-on-coinbase-double-upgrades-to-buy-with-usd425-target",
-      "summary": "The investment bank reversed its bearish call on Coinbase, citing renewed crypto momentum and potential U.S. regulatory breakthroughs.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-10-31T12:21:15.000Z",
-      "image": null
-    },
-    {
       "title": "Morning Minute: Coinbase Smashes Q3 Earnings Despite Sideways Crypto Market",
       "link": "https://decrypt.co/346959/morning-minute-coinbase-smashes-q3-earnings-despite-sideways-crypto-market",
       "summary": "The crypto exchange is targeting big continued growth despite lingering questions about the near-term state of the market.",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-10-31T04:00:16.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/SBF-DecryptStyle2-scaled-gID_7.jpg@png"
-    },
-    {
-      "title": "New York Court Extends Asset Freeze to Aid Singapore's Multichain Liquidation",
-      "link": "https://decrypt.co/346907/new-york-court-extends-asset-freeze-singapores-multichain-liquidation",
-      "summary": "A U.S. court is now handling claims tied to $63 million in frozen Multichain USDC as New York and Singapore coordinate.",
-      "source": "Decrypt",
-      "publishedAt": "2025-10-31T03:03:50.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/usdc-stablecoin-decrypt-style-gID_7.jpg@png"
     }
   ]
 }

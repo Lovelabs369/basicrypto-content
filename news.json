@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-11-01T13:50:06.413Z",
+  "updatedAt": "2025-11-01T14:13:51.455Z",
   "count": 50,
   "items": [
+    {
+      "title": "Satoshi's Bitcoin Whitepaper Turns 17: From Cypherpunk Rebellion to Wall Street Staple",
+      "link": "https://www.coindesk.com/markets/2025/11/01/satoshi-s-bitcoin-whitepaper-turns-17-from-cypherpunk-rebellion-to-wall-street-staple",
+      "summary": "Once envisioned as peer-to-peer cash, Bitcoin’s journey reflects both mainstream triumph and existential tension.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-01T14:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Billions on the Move: October’s Winners and Losers in the Stablecoin Market",
+      "link": "https://news.bitcoin.com/billions-on-the-move-octobers-winners-and-losers-in-the-stablecoin-market/",
+      "summary": "The latest data from defillama.com shows the stablecoin market didn’t skip a beat in October, climbing 2.47% even after trimming $1.84 billion in the past week. Tether ( USDT) was the main heavyweight, swelling its market cap by roughly $7.78 billion during the monthlong stretch. October’s Stablecoin Snapshot: Who Rose, Who Fell, and Who’s Still […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-01T13:56:21.000Z",
+      "image": null
+    },
     {
       "title": "MiCA Won’t Save Us from a Stablecoin Crisis. It Might be Building One",
       "link": "https://www.coindesk.com/opinion/2025/10/31/mica-won-t-save-us-from-a-stablecoin-crisis-it-might-be-building-one",
@@ -113,14 +129,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-10-31T21:34:50.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-whale-decrypt-style-03-gID_7.png@png"
-    },
-    {
-      "title": "Zcash Surges to $388, Hits 7-Year High and Tops Monero in Privacy Coin Rankings",
-      "link": "https://news.bitcoin.com/zcash-surges-to-388-hits-7-year-high-and-tops-monero-in-privacy-coin-rankings/",
-      "summary": "The price of Zcash soared on Oct. 31, reaching $388—its highest level in over seven years. October Gains Fueled by Hype and Fundamentals On Oct. 31, the price of privacy-focused cryptocurrency Zcash (ZEC) surged over 10% to reach $388—its highest level in more than seven years. The rally pushed its seven-day gains to over 50% […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-10-31T20:50:38.000Z",
-      "image": null
     },
     {
       "title": "Coinbase CEO Garners Praise, Pushback for Prediction Market Shoutouts in Earnings Call",
@@ -337,14 +345,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-10-31T12:14:13.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Brian-Armstrong-coinbase-wikimedia-decrypt-style-gID_7.png@png"
-    },
-    {
-      "title": "Unveiling GoDark: Crypto’s New Institutional Dark Pool Backed by Copper, GSR, Others",
-      "link": "https://www.coindesk.com/business/2025/10/31/unveiling-godark-crypto-s-new-institutional-dark-pool-backed-by-copper-gsr-others",
-      "summary": "There is no real institutional dark pool in crypto, according to the builder of GoDark.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-10-31T12:08:00.000Z",
-      "image": null
     },
     {
       "title": "Panic and Greed Are Shaping Ethereum’s Price: What’s Next?",

@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-01T11:25:38.505Z",
+  "updatedAt": "2025-11-01T11:37:06.038Z",
   "count": 50,
   "items": [
+    {
+      "title": "Decentralized AI Could Unlock a Post-Scarcity Society, Says 0G Labs CEO",
+      "link": "https://news.bitcoin.com/decentralized-ai-could-unlock-a-post-scarcity-society-says-0g-labs-ceo/",
+      "summary": "The conversation around AI has evolved from questioning its relevance to focusing on making it more reliable and efficient as its use becomes widespread. Michael Heinrich envisions a future where AI fosters a post-scarcity society, freeing individuals from mundane jobs and enabling more creative pursuits. The Data Dilemma: Quality, Provenance, and Trust The discussion around […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-01T11:30:37.000Z",
+      "image": null
+    },
     {
       "title": "Stablecoin Usage Patterns Reveal East-West Divide in Blockchain Adoption",
       "link": "https://news.bitcoin.com/stablecoin-usage-patterns-reveal-east-west-divide-in-blockchain-adoption/",
@@ -121,14 +129,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-10-31T19:21:18.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ECB-gID_7.jpg@png"
-    },
-    {
-      "title": "Tether Registers $10B in Profit YTD, Record $135B Exposure to US Treasuries",
-      "link": "https://news.bitcoin.com/tether-registers-10b-in-profit-ytd-record-135b-exposure-to-us-treasuries/",
-      "summary": "Tether has published a financial attestation prepared by BDO, a leading accounting firm, showing stellar results for the third quarter of the year. The company surpassed the $10 billion mark in profits year to date (YTD) with a $135 billion exposure to U.S. Treasuries. Tether Shows ‘Consistent Growth’ As Attestation Boasts Over $10B in Profit […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-10-31T19:10:49.000Z",
-      "image": null
     },
     {
       "title": "Analyst Says Ethereum Is the Best Ecosystem and Ether Is Poised to Top $5,000",

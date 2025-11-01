@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-01T12:32:01.638Z",
+  "updatedAt": "2025-11-01T13:04:52.657Z",
   "count": 50,
   "items": [
+    {
+      "title": "MiCA Won’t Save Us from a Stablecoin Crisis. It Might be Building One",
+      "link": "https://www.coindesk.com/opinion/2025/10/31/mica-won-t-save-us-from-a-stablecoin-crisis-it-might-be-building-one",
+      "summary": "MiCA deserves credit for imposing order on chaos, but its structure rests on a dangerous assumption: that proof-of-reserves equals proof-of-stability, argues Dr. Daniel D’Alvia. It does not.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-01T13:00:00.000Z",
+      "image": null
+    },
     {
       "title": "Bitcoin Price Watch: $110K Standoff Signals Market Indecision at Resistance Line",
       "link": "https://news.bitcoin.com/bitcoin-price-watch-110k-standoff-signals-market-indecision-at-resistance-line/",
@@ -336,14 +344,6 @@
       "summary": "There is no real institutional dark pool in crypto, according to the builder of GoDark.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-10-31T12:08:00.000Z",
-      "image": null
-    },
-    {
-      "title": "Crypto Markets Today: Bitcoin Slips, Altcoins Slide as AI Spending Concerns Hit U.S. Equities",
-      "link": "https://www.coindesk.com/markets/2025/10/31/crypto-markets-today-bitcoin-slips-altcoins-slide-as-ai-spending-concerns-hit-u-s-equities",
-      "summary": "Token prices were hit after a sell-off in U.S. equities as Meta and Microsoft raised their AI investment projections, prompting overspending concerns.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-10-31T12:00:00.000Z",
       "image": null
     },
     {

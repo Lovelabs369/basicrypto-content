@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-11-01T15:50:08.702Z",
+  "updatedAt": "2025-11-01T16:18:10.833Z",
   "count": 50,
   "items": [
+    {
+      "title": "Latin American Crypto Exchange Ripio Launches Argentine Peso Stablecoin 'wARS'",
+      "link": "https://www.coindesk.com/markets/2025/11/01/latin-american-crypto-exchange-ripio-launches-argentine-peso-stablecoin-wars",
+      "summary": "The launch follows Ripio's previous release of a tokenized sovereign bond and is part of a broader push to bring real-world assets onto blockchain rails.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-01T16:17:06.000Z",
+      "image": null
+    },
+    {
+      "title": "State of Crypto: The Government Shutdown Nears a Record",
+      "link": "https://www.coindesk.com/policy/2025/11/01/state-of-crypto-the-government-shutdown-nears-a-record",
+      "summary": "The ongoing U.S. government shutdown may become the longest in history, with reverberating effects on crypto legislation.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-01T16:00:00.000Z",
+      "image": null
+    },
     {
       "title": "Bitcoin Miners Feel the Heat After 6.31% Difficulty Jump and Falling Hashprice",
       "link": "https://news.bitcoin.com/bitcoin-miners-feel-the-heat-after-6-31-difficulty-jump-and-falling-hashprice/",
@@ -329,22 +345,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-10-31T13:39:24.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png"
-    },
-    {
-      "title": "Inflation Still Too High — Fed's Jeff Schmid Explains His Vote Not to Cut Rates This Week",
-      "link": "https://www.coindesk.com/markets/2025/10/31/inflation-still-too-high-fed-s-jeff-schmid-explains-his-vote-not-to-cut-rates-this-week",
-      "summary": "The Kansas City Fed President said lower rates can't do a lot to improve what he calls \"structural changes\" in the labor market.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-10-31T13:19:37.000Z",
-      "image": null
-    },
-    {
-      "title": "CoinDesk 20 Performance Update: Filecoin (FIL) Gains 7.3% as All Constituents Rise",
-      "link": "https://www.coindesk.com/coindesk-indices/2025/10/31/coindesk-20-performance-update-filecoin-fil-gains-7-3-as-all-constituents-rise",
-      "summary": "Sui (SUI) was also a top performer, gaining 6.6% from Thursday.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-10-31T13:09:11.000Z",
-      "image": null
     },
     {
       "title": "Morning Minute: Coinbase Smashes Q3 Earnings Despite Sideways Crypto Market",

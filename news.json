@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-01T16:50:12.723Z",
+  "updatedAt": "2025-11-01T17:13:17.237Z",
   "count": 50,
   "items": [
+    {
+      "title": "Crypto Leverage Trading a 'Major Problem', Says Former FTX US President",
+      "link": "https://decrypt.co/347047/crypto-leverage-trading-major-problem-former-ftx-us-president",
+      "summary": "The former FTX US exec is launching a perpetual futures exchange for traditional assets, and wants to avoid the risks present in crypto.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-01T17:01:03.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_green-gID_7.png@png"
+    },
     {
       "title": "Human Rights Foundation Raises Alarm Over ‘Quantum Threat’ to Bitcoin",
       "link": "https://news.bitcoin.com/human-rights-foundation-raises-alarm-over-quantum-threat-to-bitcoin/",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-10-31T04:54:10.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png"
-    },
-    {
-      "title": "SBF’s X Account Says FTX Was Never Insolvent—And FTT Would Be $22 Billion Today",
-      "link": "https://decrypt.co/346911/sbfs-x-account-says-ftx-was-never-insolvent-and-ftt-would-be-32-billion-today",
-      "summary": "A document posted to the disgraced crypto mogul’s X account has reprised arguments from his trial, arguing FTX was never insolvent.",
-      "source": "Decrypt",
-      "publishedAt": "2025-10-31T04:00:16.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/SBF-DecryptStyle2-scaled-gID_7.jpg@png"
     }
   ]
 }

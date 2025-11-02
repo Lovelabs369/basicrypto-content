@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-11-02T18:52:38.227Z",
+  "updatedAt": "2025-11-02T19:12:02.040Z",
   "count": 50,
   "items": [
+    {
+      "title": "Report: Coinbase Eyes $2 Billion BVNK Buyout to Turbocharge Its Stablecoin Empire",
+      "link": "https://news.bitcoin.com/report-coinbase-eyes-2-billion-bvnk-buyout-to-turbocharge-its-stablecoin-empire/",
+      "summary": "Coinbase Global Inc. is reportedly eyeing a $2 billion takeover of BVNK, a stablecoin infrastructure startup, in a move that could supercharge its bid to dominate crypto payments, “people familiar with the matter,” told Bloomberg. According to Bloomberg reporters Olga Kharif and Matthew Monks, Coinbase (Nasdaq: COIN) is in “late-stage” talks to acquire BVNK, pending […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-02T19:06:26.000Z",
+      "image": null
+    },
+    {
+      "title": "What Is Tempo? The Payments and Stablecoin Blockchain Built by Stripe",
+      "link": "https://decrypt.co/resources/what-tempo-payments-stablecoin-blockchain-stripe",
+      "summary": "Payments giant Stripe is helping build Tempo, a layer-1 blockchain focused on payments and stablecoins. Here's what you need to know.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-02T19:01:39.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/BLOCKCHAIN-gID_7-pID_3.png@png"
+    },
     {
       "title": "XRP Clocks $2.50 on Nov. 2 as 2025 Gains Cool: Global Traders Eye Year-End Price Path",
       "link": "https://news.bitcoin.com/xrp-clocks-2-50-on-nov-2-as-2025-gains-cool-global-traders-eye-year-end-price-path/",
@@ -120,14 +136,6 @@
       "summary": "The company, Brazil’s largest of its kind, repurchased nearly 100,000 ordinary shares between Oct. 27 and 30 as net asset value (NAV) fell below 1. OranjeBTC said the move “represents an efficient way to increase shareholder exposure to bitcoin.” OranjeBTC Repurchases Stock Amid Price Slump The Facts OranjeBTC, the largest Brazilian bitcoin treasury company ( […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-02T08:30:27.000Z",
-      "image": null
-    },
-    {
-      "title": "Canaan’s 4.5 MW Bitcoin Mining Servers Aim to Stabilize Japan’s Power Grid",
-      "link": "https://news.bitcoin.com/canaans-4-5-mw-bitcoin-mining-servers-aim-to-stabilize-japans-power-grid/",
-      "summary": "Canaan revealed it has inked a 4.5-megawatt deal to deploy its Avalon A1566HA hydro-cooled mining servers in Japan to help balance and stabilize the nation’s power grid. Canaan’s Avalon Systems to Power Japan’s Sustainable Energy Effort The Singapore-headquartered company, Canaan Inc. (Nasdaq: CAN), said the project will support grid reliability by dynamically adjusting frequency, voltage, […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-02T05:30:34.000Z",
       "image": null
     },
     {
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-10-31T12:14:13.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Brian-Armstrong-coinbase-wikimedia-decrypt-style-gID_7.png@png"
-    },
-    {
-      "title": "Panic and Greed Are Shaping Ethereum’s Price: What’s Next?",
-      "link": "https://decrypt.co/346956/panic-and-greed-are-shaping-ethereums-price-whats-next",
-      "summary": "Ethereum is stuck in a volatile cycle driven by leverage, and a breakout will require a bid from spot investors, analysts told Decrypt.",
-      "source": "Decrypt",
-      "publishedAt": "2025-10-31T11:28:20.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-01-gID_7.png@png"
     }
   ]
 }

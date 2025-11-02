@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-02T15:50:46.156Z",
+  "updatedAt": "2025-11-02T16:18:41.992Z",
   "count": 50,
   "items": [
+    {
+      "title": "Quantum Threat to Bitcoin: How Panic Could Break Crypto Before Physics Does",
+      "link": "https://decrypt.co/346256/quantum-threat-bitcoin-how-panic-could-break-crypto-before-physics-does",
+      "summary": "Experts say the real danger to Bitcoin isn’t quantum machines—it’s human panic and slow preparation.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-02T16:01:43.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-B2-decrypt-style-gID_7.png@png"
+    },
     {
       "title": "ASTER Zooms 20% as Binance's CZ Purchases 2M Tokens",
       "link": "https://www.coindesk.com/markets/2025/11/02/aster-zooms-20-as-binance-s-cz-purchases-2m-tokens",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-10-31T11:28:20.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-01-gID_7.png@png"
-    },
-    {
-      "title": "Meta Moves to Dismiss Porn-Piracy Suit, Calls AI-Training Claims 'Nonsensical'",
-      "link": "https://decrypt.co/346953/meta-moves-to-dismiss-porn-piracy-suit-calls-ai-training-claims-nonsensical",
-      "summary": "The alleged porn downloads were for personal use, not AI training, Meta claimed in a motion asking to toss the suit.",
-      "source": "Decrypt",
-      "publishedAt": "2025-10-31T10:57:22.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png@png"
     }
   ]
 }

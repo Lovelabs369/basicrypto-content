@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-02T14:49:49.146Z",
+  "updatedAt": "2025-11-02T15:14:53.965Z",
   "count": 50,
   "items": [
+    {
+      "title": "The AWS Outage Shows Why Crypto Can't Keep Relying On Centralized Infrastructure",
+      "link": "https://www.coindesk.com/opinion/2025/11/01/the-aws-outage-shows-why-crypto-can-t-keep-relying-on-centralized-infrastructure",
+      "summary": "For an industry that prides itself on decentralization and constantly lauds its benefits, crypto exchanges being so reliant on vulnerable centralized cloud platforms for their own infrastructure feels like hypocrisy, argues Dr. Max Li, founder and CEO of OORT.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-02T15:00:00.000Z",
+      "image": null
+    },
     {
       "title": "Prediction Markets Favor Bitcoin Stability as Traders Bet on Six-Figure Support",
       "link": "https://news.bitcoin.com/prediction-markets-favor-bitcoin-stability-as-traders-bet-on-six-figure-support/",
@@ -352,14 +360,6 @@
       "summary": "A fast rebound met heavier trading, but rallies stalled near resistance as advocates shared Halloween-themed comments on X.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-10-31T17:27:26.000Z",
-      "image": null
-    },
-    {
-      "title": "ICP Rebounds Above $2.92 to Reverse Some Mid-Week Losses",
-      "link": "https://www.coindesk.com/markets/2025/10/31/icp-rebounds-above-usd2-92-to-reverse-some-mid-week-losses",
-      "summary": "ICP bounces 1.04% to $2.94, reversing part of its recent decline as traders return and buying activity strengthens above key support.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-10-31T17:04:58.000Z",
       "image": null
     },
     {

@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-02T05:16:36.424Z",
+  "updatedAt": "2025-11-02T05:39:58.166Z",
   "count": 50,
   "items": [
+    {
+      "title": "Canaan’s 4.5 MW Bitcoin Mining Servers Aim to Stabilize Japan’s Power Grid",
+      "link": "https://news.bitcoin.com/canaans-4-5-mw-bitcoin-mining-servers-aim-to-stabilize-japans-power-grid/",
+      "summary": "Canaan revealed it has inked a 4.5-megawatt deal to deploy its Avalon A1566HA hydro-cooled mining servers in Japan to help balance and stabilize the nation’s power grid. Canaan’s Avalon Systems to Power Japan’s Sustainable Energy Effort The Singapore-headquartered company, Canaan Inc. (Nasdaq: CAN), said the project will support grid reliability by dynamically adjusting frequency, voltage, […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-02T05:30:34.000Z",
+      "image": null
+    },
     {
       "title": "Bitpanda Enters UK Crypto Market With 600+ Digital Assets and Major Institutional Partnerships",
       "link": "https://news.bitcoin.com/bitpanda-enters-uk-crypto-market-with-600-digital-assets-and-major-institutional-partnerships/",
@@ -89,14 +97,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-01T21:01:03.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png@png"
-    },
-    {
-      "title": "Coinbase Showcases Action-Filled October With Product Launches and Global Push",
-      "link": "https://news.bitcoin.com/coinbase-showcases-action-filled-october-with-product-launches-and-global-push/",
-      "summary": "Coinbase’s explosive October marks a defining moment in the crypto revolution, as the U.S. exchange accelerates global adoption through bold partnerships, record-breaking revenue, and groundbreaking DeFi and payment innovations that set a new standard for digital finance. Coinbase Powers Through October With Global Expansion and Game-Changing Innovation Crypto exchange Coinbase (Nasdaq: COIN) shared an impressive […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-01T20:20:35.000Z",
-      "image": null
     },
     {
       "title": "Public Keys: Coinbase Cashes In, IBIT Slips, and REX Spins Volatility Into Gold",

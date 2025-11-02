@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-11-02T20:50:09.236Z",
+  "updatedAt": "2025-11-02T21:13:56.290Z",
   "count": 50,
   "items": [
+    {
+      "title": "Cryptoquant Report Shows US Bitcoin and Ethereum Appetite Taking a Breather",
+      "link": "https://news.bitcoin.com/cryptoquant-report-shows-us-bitcoin-and-ethereum-appetite-taking-a-breather/",
+      "summary": "According to researchers at Cryptoquant, demand for bitcoin and ethereum in the U.S. has cooled significantly across spot and derivatives markets after the September rally. Cryptoquant: Coinbase Premium Drop Signals Fading U.S. Buying Pressure A new Cryptoquant report shows that U.S. investors are easing off bitcoin and ethereum exposure, signaling a cooling phase rather than […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-02T21:05:19.000Z",
+      "image": null
+    },
+    {
+      "title": "The Biggest Games Releasing in November 2025",
+      "link": "https://decrypt.co/347123/biggest-games-releasing-november-2025",
+      "summary": "It's a big month for gaming, thanks to the impending release of Call of Duty: Black Ops 7, Kirby Air Riders, and a new Zelda game on Switch 2.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-02T21:01:03.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/black-ops-7-gID_7.webp@png"
+    },
     {
       "title": "The Complete Idiot's Guide to MCP: Giving Your AI Web Superpowers",
       "link": "https://decrypt.co/346185/complete-idiots-guide-mcp-giving-your-ai-web-superpowers",
@@ -136,14 +152,6 @@
       "summary": "The crypto economy closed the last week of October with significant volatility, marked by price swings and liquidations. Bitcoin epitomized this trend, with its weekly price range exceeding $10,000. Price Drivers and Global Factors The crypto economy ended the last week of October much as it began, characterized by violent price swings and the liquidation […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-02T10:30:25.000Z",
-      "image": null
-    },
-    {
-      "title": "CZ Highlights Gambaryan Detention in Nigeria as Trump, US War Secretary Call for Action",
-      "link": "https://news.bitcoin.com/cz-highlights-gambaryan-detention-in-nigeria-as-trump-us-war-secretary-call-for-action/",
-      "summary": "CZ reminded that Nigeria detained ex‑Binance employee Tigran Gambaryan, responding to Trump and War Secretary Hegseth. Binance founder Changpeng Zhao (CZ) tweeted that “Nigeria also basically kidnapped Tigran Gambaryan, an ex‑Binance employee and an ex‑US federal agent, for 8 months without cause a year ago,” posting the remark in reaction to a Truth Social post […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-02T09:30:16.000Z",
       "image": null
     },
     {
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-10-31T15:30:20.000Z",
       "image": "https://cdn.jwplayer.com/v2/media/NSatW9jv/poster.jpg"
-    },
-    {
-      "title": "BlackRock's IBIT Sheds $291M in a Day, as Bitcoin ETFs Pull Back",
-      "link": "https://decrypt.co/346963/blackrocks-ibit-sheds-291m-in-a-day-as-bitcoin-etfs-pull-back",
-      "summary": "BlackRock's Bitcoin ETF posted its largest outflow since August, but the longer-term picture for institutional demand remains intact.",
-      "source": "Decrypt",
-      "publishedAt": "2025-10-31T13:39:24.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png"
     }
   ]
 }

@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-02T19:49:51.126Z",
+  "updatedAt": "2025-11-02T20:16:53.657Z",
   "count": 50,
   "items": [
+    {
+      "title": "The Complete Idiot's Guide to MCP: Giving Your AI Web Superpowers",
+      "link": "https://decrypt.co/346185/complete-idiots-guide-mcp-giving-your-ai-web-superpowers",
+      "summary": "Tired of feeding data to OpenAI, Google, or Anthropic? A few open-source tools and the Model Context Protocol let you give any lightweight model real-time browsing powers.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-02T20:01:12.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png"
+    },
     {
       "title": "Research Signals XRP Advancing Toward Institutional Maturity With XRPL and RLUSD Expansion",
       "link": "https://news.bitcoin.com/research-signals-xrp-advancing-toward-institutional-maturity-with-xrpl-and-rlusd-expansion/",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-10-31T13:39:24.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png"
-    },
-    {
-      "title": "Morning Minute: Coinbase Smashes Q3 Earnings Despite Sideways Crypto Market",
-      "link": "https://decrypt.co/346959/morning-minute-coinbase-smashes-q3-earnings-despite-sideways-crypto-market",
-      "summary": "The crypto exchange is targeting big continued growth despite lingering questions about the near-term state of the market.",
-      "source": "Decrypt",
-      "publishedAt": "2025-10-31T12:14:13.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Brian-Armstrong-coinbase-wikimedia-decrypt-style-gID_7.png@png"
     }
   ]
 }

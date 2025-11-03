@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-03T17:40:25.738Z",
+  "updatedAt": "2025-11-03T17:50:08.234Z",
   "count": 60,
   "items": [
+    {
+      "title": "IREN Inks $9.7 Billion AI Cloud Deal With Microsoft",
+      "link": "https://news.bitcoin.com/iren-inks-9-7-billion-ai-cloud-deal-with-microsoft/",
+      "summary": "IREN Limited announced it has inked a multi-year GPU cloud services contract with Microsoft, marking a major partnership in the rapidly expanding field of artificial intelligence (AI) infrastructure. Microsoft Taps IREN for Next-Gen GPU Infrastructure As explained in the release, under the five-year agreement, IREN (Nasdaq: IREN) will supply Microsoft with access to Nvidia GB300 […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-03T17:42:35.000Z",
+      "image": null
+    },
+    {
+      "title": "Morning Minute: Tether Prints $10 Billion in Profit",
+      "link": "https://decrypt.co/347149/morning-minute-tether-prints-10-billion-profit",
+      "summary": "Stablecoin giant Tether has tripled its USDT supply since 2023, and generating profits that would make major banks jealous.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-03T17:41:27.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Tether-decrypt-style-03-gID_7.png@png"
+    },
+    {
+      "title": "Ripple Prime Clients Gain Access to Spot Crypto Trading",
+      "link": "https://decrypt.co/347164/ripple-prime-clients-access-spot-crypto-trading",
+      "summary": "Ripple acquired prime brokerage Hidden Road for $1.25 billion in April.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-03T17:40:11.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ripple-logo-2-gID_7.png@png"
+    },
     {
       "title": "BitMine Adds $294 Million in Ethereum as Tom Lee Makes Bullish Bitcoin, ETH Price Projections",
       "link": "https://decrypt.co/347155/bitmine-294-million-ethereum-lee-bullish-bitcoin-eth-price",
@@ -411,14 +435,6 @@
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmQzZmItM2E3My03MzU3LWE2NWUtNWI3NmMyOTQwYzA3.jpg"
     },
     {
-      "title": "Why Is Bitcoin Going Sideways? The Silent IPO Theory",
-      "link": "https://news.bitcoin.com/why-is-bitcoin-going-sideways-the-silent-ipo-theory/",
-      "summary": "Jordi Visser, financial analyst and former president of Weiss Multi-Strategy Advisers, explained bitcoin’s price movement, saying it has entered a distribution phase after a silent IPO as initial investors sell part of their gains and a new guard takes the torch. Bitcoin Going Sideways Explained: A Silent IPO and the Changing of the Guard The […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-03T11:30:05.000Z",
-      "image": null
-    },
-    {
       "title": "Retail investors &#039;retreat’ to $98.5K: 5 things to know in Bitcoin this week",
       "link": "https://cointelegraph.com/news/retail-investor-retreat-to-98-5k-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "Bitcoin dropped another 2% to start November as network data warned of a potential BTC price dip below the $100,000 support level.",
@@ -465,22 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-03T02:07:23.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-gID_7.png@png"
-    },
-    {
-      "title": "The Biggest Games Releasing in November 2025",
-      "link": "https://decrypt.co/347123/biggest-games-releasing-november-2025",
-      "summary": "It's a big month for gaming, thanks to the impending release of Call of Duty: Black Ops 7, Kirby Air Riders, and a new Zelda game on Switch 2.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-02T21:01:03.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/black-ops-7-gID_7.webp@png"
-    },
-    {
-      "title": "The Complete Idiot's Guide to MCP: Giving Your AI Web Superpowers",
-      "link": "https://decrypt.co/346185/complete-idiots-guide-mcp-giving-your-ai-web-superpowers",
-      "summary": "Tired of feeding data to OpenAI, Google, or Anthropic? A few open-source tools and the Model Context Protocol let you give any lightweight model real-time browsing powers.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-02T20:01:12.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png"
     }
   ]
 }

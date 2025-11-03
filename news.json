@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-11-03T03:57:25.361Z",
+  "updatedAt": "2025-11-03T04:30:10.006Z",
   "count": 50,
   "items": [
+    {
+      "title": "DOGE Falls to $0.18 as Long-Term Holders Exit, 'Death Cross' Price Action Appears",
+      "link": "https://www.coindesk.com/markets/2025/11/03/doge-falls-to-usd0-18-as-long-term-holders-exit-death-cross-price-action-appears",
+      "summary": "The decline came amid a deteriorating technical backdrop and increased selling activity across large wallets.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T04:11:24.000Z",
+      "image": null
+    },
+    {
+      "title": "XRP Chart Turns Neutral, Repeated $2.55 Rejections Define Next Breakout Zone",
+      "link": "https://www.coindesk.com/markets/2025/11/03/xrp-chart-turns-neutral-repeated-usd2-55-rejections-define-next-breakout-zone",
+      "summary": "Traders are closely monitoring the $2.49 support level, as sustained closes below could lead to further declines.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T04:00:58.000Z",
+      "image": null
+    },
     {
       "title": "Crypto Prices Slip Ahead of US Jobs Data as Bessent Flags Rate Risks",
       "link": "https://decrypt.co/347138/crypto-prices-slip-us-jobs-data-bessent-flags-rate-risks",
@@ -363,28 +379,12 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/shutterstock_1261474762-gID_7.jpg@png"
     },
     {
-      "title": "Chainlink's LINK Bounces 3.6% From Lows; Stellar Integration Expands RWA Reach",
-      "link": "https://www.coindesk.com/markets/2025/10/31/chainlink-s-link-bounces-3-6-from-lows-stellar-integration-expands-rwa-reach",
-      "summary": "Stellar is integrating Chainlink’s CCIP, Data Feeds, and Streams to enable tokenized asset flow across chains.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-10-31T18:39:17.000Z",
-      "image": null
-    },
-    {
       "title": "Tether Reports $10 Billion Profit in 2025 So Far—Here's How That Compares to the Big Banks",
       "link": "https://decrypt.co/347009/tether-reports-10-billion-profit-2025-so-far-compares-big-banks",
       "summary": "Stablecoin giant Tether is making billions on its US Treasury reserves, putting it in league with some of Wall Street’s top earners.",
       "source": "Decrypt",
       "publishedAt": "2025-10-31T18:26:46.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/hs-paolo-ardonio-tether-decrypt-style-01-gID_7.png@png"
-    },
-    {
-      "title": "Crypto Bank Custodia Suffers Another Court Rejection in Fed Master Account Pursuit",
-      "link": "https://www.coindesk.com/policy/2025/10/31/crypto-bank-custodia-suffers-another-court-rejection-in-fed-master-account-pursuit",
-      "summary": "The 10th Circuit Court of Appeals ruled against Custodia nine months after hearing arguments in the company's effort to secure a Federal Reserve master account.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-10-31T18:17:09.000Z",
-      "image": null
     },
     {
       "title": "Steak 'n Shake Bitcoin Burger Comes With Actual BTC as Firm Creates 'Strategic Reserve'",

@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2025-11-03T12:36:58.637Z",
+  "updatedAt": "2025-11-03T13:19:30.069Z",
   "count": 50,
   "items": [
+    {
+      "title": "The Buying Spree Never Ends: Strategy Scoops up 397 Bitcoin",
+      "link": "https://news.bitcoin.com/the-buying-spree-never-ends-strategy-scoops-up-397-bitcoin/",
+      "summary": "On Monday, Nov. 3, Strategy’s founder and BTC evangelist Michael Saylor revealed his firm had quietly stacked another batch of bitcoin. The move came right after Saylor dropped a sly hint on Sunday, teasing that “Orange is the color of November.” The public company holding the world’s largest stash of bitcoin (BTC) just topped up […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-03T13:07:41.000Z",
+      "image": null
+    },
+    {
+      "title": "Bitcoin Network Hashrate Hit Record High in October, JPMorgan Says",
+      "link": "https://www.coindesk.com/markets/2025/11/03/bitcoin-network-hashrate-hit-record-high-in-october-jpmorgan-says",
+      "summary": "The monthly average network hashrate, a proxy for competition in the industry and mining difficulty, rose 5% to 1,082 EH/s.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T13:04:08.000Z",
+      "image": null
+    },
+    {
+      "title": "Crypto Markets Today: BTC Wilts After First Red October Since 2018",
+      "link": "https://www.coindesk.com/markets/2025/11/03/crypto-markets-today-btc-wilts-after-first-red-october-since-2018",
+      "summary": "Charts indicate growing risk of a deeper decline to $100,000 or below, with consistent bias for put options in the options market.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T13:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Zcash Overtaking Monero Market Cap Points to Privacy-Coin Power Shift",
+      "link": "https://www.coindesk.com/markets/2025/11/01/zcash-overtaking-monero-market-cap-points-to-privacy-coin-power-shift",
+      "summary": "Zcash's market cap rose to as high as $7.2 billion, while Monero's held around $6.3 billion.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T12:51:32.000Z",
+      "image": null
+    },
     {
       "title": "MARA Sues to Block Texas County Vote Creating Town Around Its Bitcoin Mine",
       "link": "https://news.bitcoin.com/mara-sues-to-block-texas-county-vote-creating-town-around-its-bitcoin-mine/",
@@ -27,7 +59,7 @@
       "image": null
     },
     {
-      "title": "IREN Soars 30% After Inking $9.7B AI Cloud Deal With Tech Giant MicroSoft",
+      "title": "IREN Soars 30% After Inking $9.7B AI Cloud Deal With Tech Giant Microsoft",
       "link": "https://www.coindesk.com/markets/2025/11/03/microsoft-signs-usd9-7b-ai-cloud-deal-with-bitcoin-mining-stalwart-iren-zooms",
       "summary": "The deal is indicative of how miners’ once-volatile hardware fleets are increasingly viewed as strategic compute assets, bridging the gap between blockchain and AI.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -195,14 +227,6 @@
       "image": null
     },
     {
-      "title": "Latam Insights: Venezuelan Banking System to Harness Stablecoins, Milei Scores Landslide Victory",
-      "link": "https://news.bitcoin.com/latam-insights-venezuelan-banking-system-to-harness-stablecoins-milei-scores-landslide-victory/",
-      "summary": "Welcome to Latam Insights, a compilation of the most relevant crypto news from Latin America over the past week. In this week’s edition, Venezuela prepares to implement a blockchain-based settlement system, Milei’s party wins big in Argentina’s midterm elections, and tokenization booms in Brazil. Historic: Bitcoin and Stablecoins to Be Integrated Into Venezuelan Banking Network […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-03T04:30:51.000Z",
-      "image": null
-    },
-    {
       "title": "DOGE Falls to $0.18 as Long-Term Holders Exit, 'Death Cross' Price Action Appears",
       "link": "https://www.coindesk.com/markets/2025/11/03/doge-falls-to-usd0-18-as-long-term-holders-exit-death-cross-price-action-appears",
       "summary": "The decline came amid a deteriorating technical backdrop and increased selling activity across large wallets.",
@@ -273,30 +297,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-02T16:01:43.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-B2-decrypt-style-gID_7.png@png"
-    },
-    {
-      "title": "ASTER Zooms 20% as Binance's CZ Purchases 2M Tokens",
-      "link": "https://www.coindesk.com/markets/2025/11/02/aster-zooms-20-as-binance-s-cz-purchases-2m-tokens",
-      "summary": "ASTER is a rebranded derivative platform token with a max supply of 8 billion, focusing on community incentives and decentralized exchange features.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-02T15:15:10.000Z",
-      "image": null
-    },
-    {
-      "title": "The AWS Outage Shows Why Crypto Can't Keep Relying On Centralized Infrastructure",
-      "link": "https://www.coindesk.com/opinion/2025/11/01/the-aws-outage-shows-why-crypto-can-t-keep-relying-on-centralized-infrastructure",
-      "summary": "For an industry that prides itself on decentralization and constantly lauds its benefits, crypto exchanges being so reliant on vulnerable centralized cloud platforms for their own infrastructure feels like hypocrisy, argues Dr. Max Li, founder and CEO of OORT.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-02T15:00:00.000Z",
-      "image": null
-    },
-    {
-      "title": "'Bitcoin's Silent IPO': Analyst Addresses BTC's Lame Price Action in Viral Weekend Essay",
-      "link": "https://www.coindesk.com/markets/2025/11/02/bitcoin-s-silent-ipo-analyst-addresses-btc-s-lame-price-action-in-viral-weekend-essay",
-      "summary": "Wildly successful ETFs, accelerating institutional adoption and friendly regulatory policy, yet bitcoin watches from the sidelines as other assets surge. What gives?",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-02T14:40:47.000Z",
-      "image": null
     },
     {
       "title": "Criminal Crypto Use Is Becoming 'Increasingly Sophisticated', Says Europol",

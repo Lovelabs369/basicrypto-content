@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-03T18:45:40.646Z",
+  "updatedAt": "2025-11-03T19:14:04.428Z",
   "count": 50,
   "items": [
+    {
+      "title": "SUI Token Drops 9% as Institutional Selling Hits Harder Than Broader Crypto Market",
+      "link": "https://www.coindesk.com/markets/2025/11/03/sui-token-drops-9-as-institutional-selling-hits-harder-than-broader-crypto-market",
+      "summary": "Volume jumped 628% as SUI sliced through key support, then bounced — without buyer conviction.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T19:08:48.000Z",
+      "image": null
+    },
+    {
+      "title": "US Bitcoin ETFs Lost $946 Million After Hawkish Tone From Fed",
+      "link": "https://decrypt.co/347176/us-bitcoin-etfs-lost-946-million-hawkish-tone-fed",
+      "summary": "Solana funds surged with $421 million in fresh capital. Overall, crypto ETFs shed $360 million in assets.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-03T19:02:54.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png@png"
+    },
+    {
+      "title": "Balancer Exploited for $128 Million Across Ethereum Chains as Berachain Halts Network",
+      "link": "https://decrypt.co/347173/balancer-exploited-128-million-across-ethereum-chains-berachain-halts",
+      "summary": "Some $128 million in crypto was stolen from Balancer liquidity pools on Ethereum and beyond, with Berachain halting its chain as a result.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-03T18:47:12.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png"
+    },
     {
       "title": "Onchain Analyst: Long-Sleeping Bitcoin Whale Resurfaces, Shifting 2,300 BTC to Paxos Wallet",
       "link": "https://news.bitcoin.com/onchain-analyst-long-sleeping-bitcoin-whale-resurfaces-shifting-2300-btc-to-paxos-wallet/",
@@ -275,14 +299,6 @@
       "image": null
     },
     {
-      "title": "Cipher Mining Surges 19% $5.5B Amazon Web Services HPC Deal",
-      "link": "https://www.coindesk.com/business/2025/11/03/cipher-mining-surges-19-usd5-5b-amazon-web-services-deal",
-      "summary": "The crypto miner is pushing deeper toward AI infrastructure with AWS lease, new West Texas data center plans.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T13:45:31.000Z",
-      "image": null
-    },
-    {
       "title": "Bitcoin Price Watch: Slipping South With No Safety Net in Sight",
       "link": "https://news.bitcoin.com/bitcoin-price-watch-slipping-south-with-no-safety-net-in-sight/",
       "summary": "Bitcoin is straddling the fine line between “just a correction” and “full-blown mood swing,” with a market price of $107,659. The total market capitalization sits at $2.15 trillion, accompanied by a robust 24-hour trading volume of $48.3 billion and an intraday range stretching from $107,047 to $110,946. Bitcoin Chart Outlook The daily chart paints a […]",
@@ -385,22 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-01T18:23:38.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg@png"
-    },
-    {
-      "title": "Crypto Leverage Trading a 'Major Problem', Says Former FTX US President",
-      "link": "https://decrypt.co/347047/crypto-leverage-trading-major-problem-former-ftx-us-president",
-      "summary": "The former FTX US exec is launching a perpetual futures exchange for traditional assets, and wants to avoid the risks present in crypto.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-01T17:01:03.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_green-gID_7.png@png"
-    },
-    {
-      "title": "Red Uptober: Why Bitcoin Just Had Its Worst October in Years",
-      "link": "https://decrypt.co/347060/red-uptober-why-bitcoin-worst-october-years",
-      "summary": "Analysts spoke to Decrypt about why October—dubbed \"Uptober\" for its historically strong returns—ended up being a downer for Bitcoin.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-01T14:49:35.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
     }
   ]
 }

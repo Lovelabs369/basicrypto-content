@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-03T20:52:02.564Z",
+  "updatedAt": "2025-11-03T21:15:56.785Z",
   "count": 50,
   "items": [
+    {
+      "title": "Cipher Mining Seals 15-Year Deal With Amazon for 300MW Data Center",
+      "link": "https://news.bitcoin.com/cipher-mining-seals-15-year-deal-with-amazon-for-300mw-data-center/",
+      "summary": "Cipher Mining Inc. has signed a 15-year data center campus lease with Amazon Web Services (AWS) to supply 300 megawatts of capacity for artificial intelligence (AI) workloads, marking one of its largest high-performance computing (HPC) initiatives to date. Cipher Mining’s $5.5B AWS Lease Anchors AI Hosting Expansion Bitcoin miner and HPC provider, Cipher Mining Inc. […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-03T21:05:05.000Z",
+      "image": null
+    },
+    {
+      "title": "Ripple Acquires Crypto Wallet Firm Palisade to Expand Institutional Payments Business",
+      "link": "https://www.coindesk.com/business/2025/11/03/ripple-acquires-crypto-wallet-firm-palisade-to-expand-institutional-payments-business",
+      "summary": "With the acquisition, Ripple aims to provide quickly-deployable wallets to boost fintech and corporate crypto payments, president Monica Long said in an interview.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T21:02:29.000Z",
+      "image": null
+    },
+    {
+      "title": "AI Browsers Are Headed to Crypto—Donut Labs Just Raised $22 Million to Build It First",
+      "link": "https://decrypt.co/347204/ai-browsers-headed-crypto-donut-labs-22-million-build-first",
+      "summary": "Donut Labs says its AI-powered browser can analyze markets and execute trades on its own.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-03T21:00:40.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png"
+    },
     {
       "title": "Bitcoin Dips as Polymarket Predicts a Decisive Zohran Mamdani Victory",
       "link": "https://news.bitcoin.com/bitcoin-dips-as-polymarket-predicts-a-decisive-zohran-mamdani-victory/",
@@ -323,22 +347,6 @@
       "image": null
     },
     {
-      "title": "Ripple Expands U.S. Institutional Offering With Introduction of Digital Asset Spot Prime Brokerage",
-      "link": "https://www.coindesk.com/business/2025/11/03/ripple-expands-u-s-institutional-offering-with-launch-of-digital-asset-spot-prime-brokerage",
-      "summary": "Ripple Prime offers OTC spot trading for major cryptocurrencies including XRP and RLUSD.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T13:57:28.000Z",
-      "image": null
-    },
-    {
-      "title": "Bitcoin Price Watch: Slipping South With No Safety Net in Sight",
-      "link": "https://news.bitcoin.com/bitcoin-price-watch-slipping-south-with-no-safety-net-in-sight/",
-      "summary": "Bitcoin is straddling the fine line between “just a correction” and “full-blown mood swing,” with a market price of $107,659. The total market capitalization sits at $2.15 trillion, accompanied by a robust 24-hour trading volume of $48.3 billion and an intraday range stretching from $107,047 to $110,946. Bitcoin Chart Outlook The daily chart paints a […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-03T13:45:27.000Z",
-      "image": null
-    },
-    {
       "title": "Trump Downplays Knowledge of Binance Chief After Pardon Linked to Family's Crypto Dealings",
       "link": "https://decrypt.co/347140/trump-downplays-knowledge-binance-chief-pardon-familys-crypto",
       "summary": "In a rare interview, Trump said he was told Changpeng Zhao was the victim of the Biden administration's “witch hunt” against crypto.",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-02T16:01:43.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-B2-decrypt-style-gID_7.png@png"
-    },
-    {
-      "title": "Criminal Crypto Use Is Becoming 'Increasingly Sophisticated', Says Europol",
-      "link": "https://decrypt.co/347078/criminal-crypto-use-becoming-increasingly-sophisticated-says-europol",
-      "summary": "EU law enforcement has pledged deeper cooperation and investment as criminals refine blockchain abuse tactics.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-01T21:01:03.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png@png"
     }
   ]
 }

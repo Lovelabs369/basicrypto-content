@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-03T14:54:33.618Z",
+  "updatedAt": "2025-11-03T15:18:35.682Z",
   "count": 50,
   "items": [
+    {
+      "title": "Donut Labs Raises $15M Seed Funding to Build AI-Powered Crypto Trading Browser",
+      "link": "https://www.coindesk.com/business/2025/11/03/donut-labs-raises-usd15m-seed-fnding-to-build-ai-powered-crypto-trading-browser",
+      "summary": "Donut Labs has now raised $22 million across a pre-seed and seed funding round in the last six months.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T15:12:44.000Z",
+      "image": null
+    },
+    {
+      "title": "Strategy’s Bitcoin Engine Hits New Phase With S&P Nod, Canaccord Says",
+      "link": "https://www.coindesk.com/markets/2025/11/03/strategy-s-bitcoin-engine-hits-new-phase-with-s-and-p-nod-canaccord-says",
+      "summary": "The broker said the company's full-cap bitcoin strategy is maturing, as preferred equity drives accretion and a new S&P credit rating expands its investor base.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T15:09:43.000Z",
+      "image": null
+    },
+    {
+      "title": "Tharimmune Stock Gains 30%, on $540M Capital Raise to Build Canton Coin Treasury Strategy",
+      "link": "https://www.coindesk.com/business/2025/11/03/tharimmune-stock-g-raises-usd540m-to-build-canton-coin-treasury-strategy",
+      "summary": "The nanocap biotech firm is pivoting into digital assets with a $540 million raise to build a canton coin–based treasury, backed by DRW and Liberty City Ventures.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T14:54:02.000Z",
+      "image": null
+    },
     {
       "title": "XSwap, Chainlink, and Base Unveil Token Creation Platform at Smartcon 2025",
       "link": "https://news.bitcoin.com/xswap-chainlink-and-base-unveil-token-creation-platform-at-smartcon-2025/",
@@ -192,30 +216,6 @@
       "summary": "The deal aims to expand Animoca's investor base and enhance access to its digital assets and growth companies.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-03T11:06:54.000Z",
-      "image": null
-    },
-    {
-      "title": "Berachain Halts Network to Contain Balancer-Linked Exploit, Conduct ‘Emergency Hard Fork’",
-      "link": "https://www.coindesk.com/markets/2025/11/03/berachain-halts-network-to-contain-balancer-linked-exploit-to-conduct-emergency-hard-fork",
-      "summary": "The pause allows developers to roll out an emergency hard fork aimed at isolating compromised contracts and recovering affected assets before resuming operations.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T10:46:24.000Z",
-      "image": null
-    },
-    {
-      "title": "Standard Chartered CEO Sees Hong Kong Stablecoin as Pivotal for International Trade Settlement",
-      "link": "https://www.coindesk.com/markets/2025/11/03/standard-chartered-ceo-sees-hong-kong-stablecoin-as-pivotal-for-international-trading-settlement",
-      "summary": "At FinTech Week, the Standard Chartered CEO said Hong Kong’s digital asset pilots, including HKD-backed stablecoins and tokenized deposits, could transform cross-border trade, as regulators unveiled new rules allowing shared order books for crypto exchanges.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T10:46:10.000Z",
-      "image": null
-    },
-    {
-      "title": "HIVE Digital's Mining Capacity Hits 23 EH/s as Bitcoin Output Funds AI Shift",
-      "link": "https://www.coindesk.com/business/2025/11/03/hive-digital-s-mining-capacity-hits-23-eh-s-as-bitcoin-output-funds-ai-shift",
-      "summary": "The company is converting parts of its mining footprint into AI-ready data centers, including a site in Grand Falls, New Brunswick, that could support 25,000 GPUs.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T10:45:00.000Z",
       "image": null
     },
     {

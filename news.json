@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-03T05:18:20.954Z",
+  "updatedAt": "2025-11-03T05:41:48.682Z",
   "count": 50,
   "items": [
+    {
+      "title": "Trump Downplays Knowledge of Binance Chief After Pardon Linked to Family's Crypto Dealings",
+      "link": "https://decrypt.co/347140/trump-downplays-knowledge-binance-chief-pardon-familys-crypto",
+      "summary": "In a rare interview, Trump said he was told Changpeng Zhao was the victim of the Biden administration's “witch hunt” against crypto.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-03T05:35:38.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-09-gID_7.png@png"
+    },
+    {
+      "title": "Ride the Bitcoin Bull Without Leverage or Derivatives, Just Miners",
+      "link": "https://news.bitcoin.com/ride-the-bitcoin-bull-without-leverage-or-derivatives-just-miners/",
+      "summary": "Want to amplify Bitcoin’s upside without touching leverage or derivatives? ETFs like $WGMI, $MNRS, and $NODE offer a compelling way to ride the cycle, with built-in diversification and exposure to Bitcoin mining. The following guest post comes from BitcoinMiningStock.io, a public markets intelligence platform delivering data on companies exposed to Bitcoin mining and crypto treasury […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-03T05:30:03.000Z",
+      "image": null
+    },
+    {
+      "title": "Why Did Fed Inject $29.4B in Liquidity And What Does it Mean For Bitcoin?",
+      "link": "https://www.coindesk.com/markets/2025/11/03/why-did-the-fed-inject-usd29-4b-in-liquidity-and-what-does-it-mean-for-bitcoin",
+      "summary": "While the move helps avoid potential liquidity crises that could damage financial markets, it falls short of being as stimulative to risk assets as the Fed's other moves, such as QE.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T05:26:21.000Z",
+      "image": null
+    },
     {
       "title": "Latam Insights: Venezuelan Banking System to Harness Stablecoins, Milei Scores Landslide Victory",
       "link": "https://news.bitcoin.com/latam-insights-venezuelan-banking-system-to-harness-stablecoins-milei-scores-landslide-victory/",
@@ -128,14 +152,6 @@
       "summary": "XRP is accelerating into global finance’s spotlight as institutional adoption surges, fueled by XRPL innovation, RLUSD expansion, and growing regulatory clarity, with analysts projecting imminent ETF approval and sustained dominance across compliant, high-speed blockchain infrastructure worldwide. Research Shows XRP Gaining Institutional Traction Backed by XRPL and RLUSD Expansion XRP has emerged as the strongest performer […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-02T19:45:07.000Z",
-      "image": null
-    },
-    {
-      "title": "Report: Coinbase Eyes $2 Billion BVNK Buyout to Turbocharge Its Stablecoin Empire",
-      "link": "https://news.bitcoin.com/report-coinbase-eyes-2-billion-bvnk-buyout-to-turbocharge-its-stablecoin-empire/",
-      "summary": "Coinbase Global Inc. is reportedly eyeing a $2 billion takeover of BVNK, a stablecoin infrastructure startup, in a move that could supercharge its bid to dominate crypto payments, “people familiar with the matter,” told Bloomberg. According to Bloomberg reporters Olga Kharif and Matthew Monks, Coinbase (Nasdaq: COIN) is in “late-stage” talks to acquire BVNK, pending […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-02T19:06:26.000Z",
       "image": null
     },
     {
@@ -363,14 +379,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ECB-gID_7.jpg@png"
     },
     {
-      "title": "Analyst Says Ethereum Is the Best Ecosystem and Ether Is Poised to Top $5,000",
-      "link": "https://www.coindesk.com/markets/2025/10/31/analyst-says-ethereum-is-the-best-ecosystem-and-ether-is-poised-to-top-usd5-000",
-      "summary": "Ether rose on heavier trading, then slipped after an upper-band rejection, leaving a tighter range and a clear set of checkpoints above and below.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-10-31T19:00:04.000Z",
-      "image": null
-    },
-    {
       "title": "California Regulator Fines Bitcoin ATM Operator Coinhub $675K for Violating Law",
       "link": "https://decrypt.co/347010/california-regulator-fines-bitcoin-atm-operator-coinhub-765k",
       "summary": "California's Department of Financial Protection and Innovation fined Bitcoin ATM operator Coinhub $675,000 for violating digital assets law.",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-10-31T18:15:07.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-burger-decrypt-style-gID_7.jpg@png"
-    },
-    {
-      "title": "Brazilian Bitcoin Treasury OranjeBTC Buys Back Stock Instead of BTC",
-      "link": "https://decrypt.co/347005/brazilian-bitcoin-treasury-oranjebtc-buys-stock-btc",
-      "summary": "The publicly traded company started trading on Brazil's stock market B3 earlier this month.",
-      "source": "Decrypt",
-      "publishedAt": "2025-10-31T17:54:43.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png"
     }
   ]
 }

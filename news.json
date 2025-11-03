@@ -1,9 +1,17 @@
 {
-  "updatedAt": "2025-11-03T07:50:09.300Z",
+  "updatedAt": "2025-11-03T08:25:04.109Z",
   "count": 50,
   "items": [
     {
-      "title": "BTC’s Indecision Problem: Here's What the Market is Trying to Tell Us",
+      "title": "Balancer Hit by Apparent Exploit as $70M in Crypto Moves to New Wallets",
+      "link": "https://www.coindesk.com/markets/2025/11/03/balancer-hit-by-apparent-exploit-as-usd70m-in-crypto-moves-to-new-wallets",
+      "summary": "The affected funds include 6,850 osETH, 6,590 WETH, and 4,260 wstETH, blockchain data analyzed by CoinDesk showed.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T08:17:36.000Z",
+      "image": null
+    },
+    {
+      "title": "BTC’s 'Indecision' Problem: Here's What the Market Is Trying to Tell Us",
       "link": "https://www.coindesk.com/markets/2025/11/03/btc-s-indecision-problem-here-s-what-the-market-is-trying-to-tell-us",
       "summary": "BTC's monthly chart shows indecision at record highs.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -59,7 +67,7 @@
       "image": null
     },
     {
-      "title": "Why Did Fed Inject $29.4B in Liquidity And What Does it Mean For Bitcoin?",
+      "title": "Why Did Fed Inject $29.4B in Liquidity And What Does It Mean for Bitcoin?",
       "link": "https://www.coindesk.com/markets/2025/11/03/why-did-the-fed-inject-usd29-4b-in-liquidity-and-what-does-it-mean-for-bitcoin",
       "summary": "While the move helps avoid potential liquidity crises that could damage financial markets, it falls short of being as stimulative to risk assets as the Fed's other moves, such as QE.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -320,14 +328,6 @@
       "summary": "The ongoing U.S. government shutdown may become the longest in history, with reverberating effects on crypto legislation.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-01T16:00:00.000Z",
-      "image": null
-    },
-    {
-      "title": "ARK Invest’s Crypto Exposure Tops $2.15B as Bullish Holdings Rise Across 3 Funds",
-      "link": "https://www.coindesk.com/business/2025/11/01/ark-invest-s-crypto-exposure-tops-usd2-15b-as-bullish-holdings-rise-across-3-funds",
-      "summary": "ARK Invest increased its stake in Bullish by 105,000 shares, worth $5.3 million, to 2.27 million shares valued at $114 million. Its crypto exposure now tops $2.15 billion.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-01T14:58:40.000Z",
       "image": null
     },
     {

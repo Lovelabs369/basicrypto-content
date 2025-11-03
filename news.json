@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-11-03T15:42:20.746Z",
-  "count": 60,
+  "updatedAt": "2025-11-03T15:52:43.520Z",
+  "count": 50,
   "items": [
+    {
+      "title": "Binance Founder CZ Admits to Buying ASTER, Says He ‘Buys and Holds’",
+      "link": "https://news.bitcoin.com/binance-founder-cz-admits-to-buying-aster-says-he-buys-and-holds/",
+      "summary": "This week, Changpeng Zhao — better known as CZ — casually dropped that he grabbed some aster (ASTER) on Sunday, reminding everyone he’s not in it for the quick flips. He’s the “buy and hold” type. CZ Revisits His BNB Roots, Adds ASTER to His Personal Holdings When CZ talks, crypto listens. The former Binance […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-03T15:45:12.000Z",
+      "image": null
+    },
+    {
+      "title": "Strive Proposes High-Yield Preferred Stock to Expand Bitcoin Holdings",
+      "link": "https://www.coindesk.com/business/2025/11/03/strive-proposes-high-yield-preferred-stock-to-expand-bitcoin-holdings",
+      "summary": "The preferred shares, dubbed SATA, are set to carry an initial 12% annual dividend, payable monthly in cash.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T15:43:31.000Z",
+      "image": null
+    },
     {
       "title": "Toncoin Falls as Nasdaq Flags Rule Violation in $273M Purchase by Major Holder",
       "link": "https://www.coindesk.com/markets/2025/11/03/toncoin-falls-as-nasdaq-flags-rule-violation-in-usd273m-purchase-by-major-holder",
@@ -9,14 +25,6 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-03T15:34:14.000Z",
       "image": null
-    },
-    {
-      "title": "Tokenized Treasuries cross $8.6B as banks and exchanges push collateral use",
-      "link": "https://cointelegraph.com/news/tokenized-treasuries-cross-8-6b-as-banks-and-exchanges-push-collateral-use?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Tokenized Treasuries have climbed to a capitalization of $8.63 billion as traders and banks begin using them for repo market financing.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T15:30:20.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWJiN2MtZGFjNS03YTMwLWI0ZmUtMzg3ZjQyY2I1MjE4.jpg"
     },
     {
       "title": "AI Payments Startup Kite Debuts Token With $263M Trading Volume in First Two Hours",
@@ -67,36 +75,12 @@
       "image": null
     },
     {
-      "title": "How the Trump family turned crypto into an $800M gold rush",
-      "link": "https://cointelegraph.com/news/how-the-trump-family-turned-crypto-into-an-800m-gold-rush?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "A clear guide to WLFI, the TRUMP memecoin and USD1, explaining how token sales, trading fees and treasury deals produced $802 million for Trump-linked ventures.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T14:30:00.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzE3NDEtMzIyYS03MWVhLWFjNDgtOGUzMDI0NGYyOWI5.jpg"
-    },
-    {
       "title": "CoinDesk 20 Performance Update: Internet Computer (ICP) Surges 35% as Index Declines",
       "link": "https://www.coindesk.com/coindesk-indices/2025/11/03/coindesk-20-performance-update-internet-computer-icp-surges-35-as-index-declines",
       "summary": "Sui (SUI) fell 8.6% and Cronos (CRO) dropped 7.9% over the weekend.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-03T14:25:57.000Z",
       "image": null
-    },
-    {
-      "title": "Nasdaq issues warning to TON Strategy over $272M Toncoin purchase",
-      "link": "https://cointelegraph.com/news/nasdaq-ton-strategy-letter-reprimand-pipe-deal-rule-violations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Nasdaq has reprimanded TON Strategy for its $272.7 million Toncoin purchase and PIPE deal, citing missed shareholder approval rules.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T14:18:23.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGY2YWUtYzRmYy03NmQzLWI2NWItMmIzZThhNDM4ZmEw.jpg"
-    },
-    {
-      "title": "Crypto lobbying surges as industry gains political footing in Washington",
-      "link": "https://cointelegraph.com/news/crypto-lobbying-surges-as-industry-gains-political-footing-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Following a presidential pardon that sparked debate over influence and access, crypto companies and PACs are ramping up political spending as the sector matures into a Washington power player.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T14:15:00.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmZkNDgtMDVjNS03NzUzLTkzZjgtMDVjMjcwZDQwMjkw.jpg"
     },
     {
       "title": "Michael Saylor's Strategy Added $45M in Bitcoin to Holdings Last Week",
@@ -163,14 +147,6 @@
       "image": null
     },
     {
-      "title": "Michael Saylor’s Strategy kickstarts November with $45M Bitcoin buy",
-      "link": "https://cointelegraph.com/news/michael-saylor-strategy-november-45m-bitcoin-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Strategy’s Bitcoin acquisition rate has been significantly down since September, threatening to limit Bitcoin’s price recovery.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T13:38:18.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODJjYzYtNjM3ZS03NTBlLTgyZWUtYTRiNTc2MDg4Njc4.jpg"
-    },
-    {
       "title": "Shiba Inu Slides 5% Despite Token Burn as BTC Drops Below 200-day Average",
       "link": "https://www.coindesk.com/markets/2025/11/03/shib-slides-5-despite-token-burn-as-btc-slides-below-200-day-average",
       "summary": "Shiba Inu shows relative weakness versus broader crypto markets despite late-session bounce, with token burns failing to offset selling pressure during volatile trading.",
@@ -185,30 +161,6 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-03T13:30:00.000Z",
       "image": null
-    },
-    {
-      "title": "DeFi needs higher certainty, not higher yield",
-      "link": "https://cointelegraph.com/news/defi-certainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "High yields mean nothing without execution certainty. Institutional DeFi adoption demands predictable transactions over speculative returns at scale.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T13:30:00.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTZjMDMtMWJmMS03ODVkLWJkMmMtNmM4Yzk2Y2M0YmE3.jpg"
-    },
-    {
-      "title": "Not all RWA growth is real, and the industry knows it",
-      "link": "https://cointelegraph.com/news/not-all-rwa-growth-is-real-and-the-industry-knows-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Inflated dashboards don’t build institutional trust. Only verifiable assets, regulatory clarity and real usage can power the RWA revolution.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T13:30:00.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2FhNjQtNzhkYi03YzhmLTgzYTctYTc3MWQ5MzZjNTA5.jpg"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T13:29:26.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg"
     },
     {
       "title": "The Buying Spree Never Ends: Strategy Scoops up 397 Bitcoin",
@@ -227,28 +179,12 @@
       "image": null
     },
     {
-      "title": "Crypto investors flee visibility for anonymity as privacy coins surge 80%",
-      "link": "https://cointelegraph.com/news/privacy-coins-surge-80-percent-investors-financial-privacy-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Crypto investors are rediscovering the importance of financial privacy, as privacy-preserving cryptocurrencies outperform a broader crypto market slump.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T13:03:40.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWNiYTEtN2I0Mi03MmJkLTk1ZjMtOTk2MDhkY2JlMWEw.jpg"
-    },
-    {
       "title": "Crypto Markets Today: BTC Wilts After First Red October Since 2018",
       "link": "https://www.coindesk.com/markets/2025/11/03/crypto-markets-today-btc-wilts-after-first-red-october-since-2018",
       "summary": "Charts indicate growing risk of a deeper decline to $100,000 or below, with consistent bias for put options in the options market.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-03T13:00:00.000Z",
       "image": null
-    },
-    {
-      "title": "Is XRP the new Bitcoin? Why Wall Street can’t stop talking about its ETF",
-      "link": "https://cointelegraph.com/news/is-xrp-the-new-bitcoin-why-wall-street-can-t-stop-talking-about-its-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Analysts see billion-dollar potential as SEC reforms shorten paths for crypto ETFs and XRP moves closer to mainstream trading.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T13:00:00.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWRkNjMtODZjOS03NDhlLThjNTgtNDY4NGZjZTUxNzdk.jpg"
     },
     {
       "title": "Zcash Overtaking Monero Market Cap Points to Privacy-Coin Power Shift",
@@ -267,14 +203,6 @@
       "image": null
     },
     {
-      "title": "Standard Chartered CEO predicts end of cash: ‘All money will be digital’",
-      "link": "https://cointelegraph.com/news/standard-chartered-ceo-all-money-will-be-digital-hong-kong-fintech-week-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Standard Chartered’s Bill Winters predicted a blockchain-driven future where every transaction settles digitally, calling it a total rewiring of finance.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T12:20:53.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTQ5NTEtNGEzNC03ZGM2LTljMTUtOTYzYjBmOWMxMDEy.jpg"
-    },
-    {
       "title": "Bitcoin Drop May Be Warning for Stocks: Crypto Daybook Americas",
       "link": "https://www.coindesk.com/daybook-us/2025/11/03/bitcoin-drop-may-be-warning-for-stocks-crypto-daybook-americas",
       "summary": "Your day-ahead look for Nov. 3, 2025",
@@ -283,35 +211,11 @@
       "image": null
     },
     {
-      "title": "Crypto powerhouse Animoca Brands sets sights on Nasdaq via reverse merger",
-      "link": "https://cointelegraph.com/news/animoca-brands-nasdaq-listing-reverse-merger-currenc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "The crypto VC giant plans a reverse merger with Nasdaq-listed fintech Currenc, giving Animoca shareholders majority control of the new entity.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T12:11:15.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzI0YzQtNTVmMi03OGM2LTg1MjUtMTAxN2VjNTYzNWUy.jpg"
-    },
-    {
       "title": "Own Your Name. Use It Everywhere: Freename Domains Come to Bitcoin.com Wallet",
       "link": "https://news.bitcoin.com/own-your-name-use-it-everywhere-freename-domains-come-to-bitcoin-com-wallet/",
       "summary": "This content is provided by a sponsor. PRESS RELEASE. Sending crypto just got as easy as sending an email. Bitcoin.com has partnered with Freename, the world’s leading Web3 domain platform, to let Bitcoin.com Wallet app users send and receive crypto using human-readable domain names — like yourname.sat or even yourname.com — instead of long, confusing […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-03T12:00:20.000Z",
-      "image": null
-    },
-    {
-      "title": "‘Not good’ for price: Bitcoin ETF demand starts to lag newly mined BTC",
-      "link": "https://cointelegraph.com/news/not-good-for-price-bitcoin-etf-demand-lag-newly-mined-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "The slowdown in institutional demand may be a factor in the cooling of Bitcoin's bull run, adding further downward pressure on the BTC price.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T11:40:11.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmQzZmItM2E3My03MzU3LWE2NWUtNWI3NmMyOTQwYzA3.jpg"
-    },
-    {
-      "title": "IREN Soars 30% After Inking $9.7B AI Cloud Deal With Tech Giant Microsoft",
-      "link": "https://www.coindesk.com/markets/2025/11/03/microsoft-signs-usd9-7b-ai-cloud-deal-with-bitcoin-mining-stalwart-iren-zooms",
-      "summary": "The deal is indicative of how miners’ once-volatile hardware fleets are increasingly viewed as strategic compute assets, bridging the gap between blockchain and AI.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T11:31:32.000Z",
       "image": null
     },
     {
@@ -331,76 +235,12 @@
       "image": null
     },
     {
-      "title": "Retail investors &#039;retreat’ to $98.5K: 5 things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/news/retail-investor-retreat-to-98-5k-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin dropped another 2% to start November as network data warned of a potential BTC price dip below the $100,000 support level.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T10:25:15.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzQ2OWEtNDhiNi03ZDQ5LWFlMjktM2JlM2M2ZTU2N2Nl.jpg"
-    },
-    {
-      "title": "What happens if you don’t pay taxes on your crypto holdings?",
-      "link": "https://cointelegraph.com/news/what-happens-if-you-don-t-pay-taxes-on-your-crypto-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Skipping cryp to taxes can trigger hefty fines and legal issues. Find out what really happens if you fail to report or pay taxes on your holdings.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T10:04:29.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTI0NWEtMGRiNS03MTAwLWEwM2UtNjIyZDk0NWIyYjc2.jpg"
-    },
-    {
       "title": "AMINA Bank Achieves First MiCA Crypto‑Asset Service Provider License Via Austrian Subsidiary",
       "link": "https://news.bitcoin.com/amina-bank-achieves-first-mica-crypto%e2%80%91asset-service-provider-license-via-austrian-subsidiary/",
       "summary": "Swiss crypto-banking group AMINA’s Austrian unit secured a MiCAR crypto-asset service provider license from the Austrian regulator. AMINA Bank AG announces in Zug, Switzerland on 3 November 2025 that its subsidiary AMINA (Austria) AG (AMINA EU) has received a Crypto‑Asset Service Provider (CASP) license from Austria’s Financial Market Authority (FMA) under the Markets in Crypto‑Assets […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-03T09:30:57.000Z",
       "image": null
-    },
-    {
-      "title": "Zerohash lands MiCA license amid $2B Mastercard acquisition rumors",
-      "link": "https://cointelegraph.com/news/zerohash-eu-mica-license-mastercard-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "The license positions Zerohash as one of the first MiCA-approved stablecoin infrastructure companies, strengthening its appeal to institutions.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T09:25:35.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2QwMTEtMGJmYy03ZjJhLWE5ODktOWVjNDVhYWE1NTky.jpg"
-    },
-    {
-      "title": "Trump defends CZ pardon, says he ‘doesn’t know’ Binance co-founder",
-      "link": "https://cointelegraph.com/news/trump-tells-why-he-pardoned-cz-despite-not-knowing-him?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Trump again denied ties to Binance co-founder CZ amid reports that the exchange helped facilitate a $2 billion stablecoin deal linked to his World Liberty Financial platform.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T09:03:43.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTJlYjgtM2FlZC03Zjg0LThlMmItNGU5MmNlMzViZWUx.jpg"
-    },
-    {
-      "title": "Balancer exploit swells to $116M in outflows as team offers 20% bounty",
-      "link": "https://cointelegraph.com/news/balancer-suspected-70m-exploit-staked-ether-new-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "DeFi protocol Balancer is the target of an ongoing exploit, with more than $116 million in staked Ether tokens transferred to a new wallet.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T08:54:38.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTQ4ZTMtNGI1MC03N2I2LWJiM2UtZGRjNjUyMjRmNzJl.jpg"
-    },
-    {
-      "title": "Euroclear Sidesteps OFAC as New Procedure Unfreezes Over $200 Billion in Russian Assets",
-      "link": "https://news.bitcoin.com/euroclear-sidesteps-ofac-as-new-procedure-unfreezes-over-200-billion-in-russian-assets/",
-      "summary": "Euroclear, one of Europe’s leading clearinghouses, has implemented a procedure allowing Russian investors to unfreeze their assets without an OFAC license. The move opens a path to potentially unblocking more than $200 billion in Russian assets frozen by the institution. Euroclear Opens a Path for Unfreezing Russian Assets Without US Approval The Facts Euroclear has […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-03T08:30:28.000Z",
-      "image": null
-    },
-    {
-      "title": "Without Bitcoin, what happens to Ether and XRP?",
-      "link": "https://cointelegraph.com/news/without-bitcoin-what-happens-to-ether-and-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "What if Bitcoin crashes? Will Ether and XRP fall with it or hold their ground? Discover how a BTC slump could rattle the entire crypto market.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T08:10:42.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTM1MmYtODFjNy03YjBjLTg3OTYtYmQ5MmU3ODZiMzRk.jpg"
-    },
-    {
-      "title": "CZ denies he’s behind a proposal for a crypto private bank in Kyrgyzstan",
-      "link": "https://cointelegraph.com/news/cz-denies-kyrgyzstan-crypto-bank-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Kyrgyzstan President Sadyr Japarov claims that Changpeng “CZ” Zhao proposed establishing a private bank that also deals in cryptocurrency.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-03T06:07:25.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmEwMjctNTRkNC03MmRlLTk5YjctYjIwOGQ3ZmExOWE2.jpg"
     },
     {
       "title": "Trump Downplays Knowledge of Binance Chief After Pardon Linked to Family's Crypto Dealings",
@@ -481,6 +321,86 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-01T18:23:38.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg@png"
+    },
+    {
+      "title": "Crypto Leverage Trading a 'Major Problem', Says Former FTX US President",
+      "link": "https://decrypt.co/347047/crypto-leverage-trading-major-problem-former-ftx-us-president",
+      "summary": "The former FTX US exec is launching a perpetual futures exchange for traditional assets, and wants to avoid the risks present in crypto.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-01T17:01:03.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_green-gID_7.png@png"
+    },
+    {
+      "title": "Red Uptober: Why Bitcoin Just Had Its Worst October in Years",
+      "link": "https://decrypt.co/347060/red-uptober-why-bitcoin-worst-october-years",
+      "summary": "Analysts spoke to Decrypt about why October—dubbed \"Uptober\" for its historically strong returns—ended up being a downer for Bitcoin.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-01T14:49:35.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
+    },
+    {
+      "title": "Elon Musk Tells Joe Rogan the Next Tesla Roadster Will Fly—And AI Is Coming for Everyone",
+      "link": "https://decrypt.co/347050/elon-musk-joe-rogan-next-tesla-roadster-fly-ai-coming-everyone",
+      "summary": "Elon Musk covered AI bias, superintelligence, government waste, social media, and flying cars in marathon Joe Rogan interview.",
+      "source": "Decrypt",
+      "publishedAt": "2025-10-31T21:54:12.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg@png"
+    },
+    {
+      "title": "'We Fucked Up': MEXC Exec Promises Changes After Blowup Over Frozen Crypto Millions",
+      "link": "https://decrypt.co/347043/mexc-exec-promises-changes-after-blowup-frozen-crypto-millions",
+      "summary": "Crypto exchange MEXC says it's changing processes after an influencer's crusade to unlock his $3 million account.",
+      "source": "Decrypt",
+      "publishedAt": "2025-10-31T21:34:50.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-whale-decrypt-style-03-gID_7.png@png"
+    },
+    {
+      "title": "Coinbase CEO Garners Praise, Pushback for Prediction Market Shoutouts in Earnings Call",
+      "link": "https://decrypt.co/347026/coinbase-ceo-garners-praise-pushback-prediction-market-shoutouts",
+      "summary": "Brian Armstrong used Coinbase's Q3 earnings call to drop a few terms that prediction market users had bet on. The remarks got mixed reviews.",
+      "source": "Decrypt",
+      "publishedAt": "2025-10-31T20:50:19.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/brian-armstrong-coinbase-decrypt-style-2-gID_7.png@png"
+    },
+    {
+      "title": "Court Denies Crypto Bank Custodia's Bid to Pry Master Account From Unwilling Fed",
+      "link": "https://decrypt.co/347022/court-denies-crypto-bank-custodia-bid-pry-master-account-fed",
+      "summary": "Custodia said it may request a rehearing on the matter, after a panel of judges ruled 2-1 to affirm a district court’s prior ruling denying the crypto bank Fed access.",
+      "source": "Decrypt",
+      "publishedAt": "2025-10-31T19:36:41.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png"
+    },
+    {
+      "title": "European Central Bank to 'Accelerate' CBDC Plans, Eyeing 2029 Digital Euro Rollout",
+      "link": "https://decrypt.co/347019/european-central-bank-accelerate-cbdc-plans-eyeing-2029-digital-euro-rollout",
+      "summary": "Europe could see the digital euro issued continent-wide as early as 2029, after a potential CBDC pilot in mid-2027.",
+      "source": "Decrypt",
+      "publishedAt": "2025-10-31T19:21:18.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ECB-gID_7.jpg@png"
+    },
+    {
+      "title": "California Regulator Fines Bitcoin ATM Operator Coinhub $675K for Violating Law",
+      "link": "https://decrypt.co/347010/california-regulator-fines-bitcoin-atm-operator-coinhub-765k",
+      "summary": "California's Department of Financial Protection and Innovation fined Bitcoin ATM operator Coinhub $675,000 for violating digital assets law.",
+      "source": "Decrypt",
+      "publishedAt": "2025-10-31T18:43:30.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/shutterstock_1261474762-gID_7.jpg@png"
+    },
+    {
+      "title": "Tether Reports $10 Billion Profit in 2025 So Far—Here's How That Compares to the Big Banks",
+      "link": "https://decrypt.co/347009/tether-reports-10-billion-profit-2025-so-far-compares-big-banks",
+      "summary": "Stablecoin giant Tether is making billions on its US Treasury reserves, putting it in league with some of Wall Street’s top earners.",
+      "source": "Decrypt",
+      "publishedAt": "2025-10-31T18:26:46.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/hs-paolo-ardonio-tether-decrypt-style-01-gID_7.png@png"
+    },
+    {
+      "title": "Steak 'n Shake Bitcoin Burger Comes With Actual BTC as Firm Creates 'Strategic Reserve'",
+      "link": "https://decrypt.co/346987/steak-shake-bitcoin-burger-comes-actual-btc-thanks-fold",
+      "summary": "Buy a Bitcoin burger, get BTC: Fold is offering Stake 'n Shake customers $5 in BTC if they nab the restaurant chain's crypto-burger.",
+      "source": "Decrypt",
+      "publishedAt": "2025-10-31T18:15:07.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-burger-decrypt-style-gID_7.jpg@png"
     }
   ]
 }

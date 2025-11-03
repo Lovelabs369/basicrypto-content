@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-03T07:39:09.104Z",
+  "updatedAt": "2025-11-03T07:50:09.300Z",
   "count": 50,
   "items": [
+    {
+      "title": "BTC’s Indecision Problem: Here's What the Market is Trying to Tell Us",
+      "link": "https://www.coindesk.com/markets/2025/11/03/btc-s-indecision-problem-here-s-what-the-market-is-trying-to-tell-us",
+      "summary": "BTC's monthly chart shows indecision at record highs.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T07:44:13.000Z",
+      "image": null
+    },
     {
       "title": "Swiss Crypto Bank AMINA Secures MiCA License in Austria",
       "link": "https://www.coindesk.com/policy/2025/11/03/swiss-crypto-bank-amina-secures-mica-license-in-austria",
@@ -329,14 +337,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-01T14:49:35.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
-    },
-    {
-      "title": "Satoshi's Bitcoin Whitepaper Turns 17: From Cypherpunk Rebellion to Wall Street Staple",
-      "link": "https://www.coindesk.com/markets/2025/11/01/satoshi-s-bitcoin-whitepaper-turns-17-from-cypherpunk-rebellion-to-wall-street-staple",
-      "summary": "Once envisioned as peer-to-peer cash, Bitcoin’s journey reflects both mainstream triumph and existential tension.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-01T14:00:00.000Z",
-      "image": null
     },
     {
       "title": "Elon Musk Tells Joe Rogan the Next Tesla Roadster Will Fly—And AI Is Coming for Everyone",

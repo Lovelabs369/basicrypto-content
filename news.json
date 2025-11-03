@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-03T04:30:10.006Z",
+  "updatedAt": "2025-11-03T04:50:31.107Z",
   "count": 50,
   "items": [
+    {
+      "title": "Latam Insights: Venezuelan Banking System to Harness Stablecoins, Milei Scores Landslide Victory",
+      "link": "https://news.bitcoin.com/latam-insights-venezuelan-banking-system-to-harness-stablecoins-milei-scores-landslide-victory/",
+      "summary": "Welcome to Latam Insights, a compilation of the most relevant crypto news from Latin America over the past week. In this week’s edition, Venezuela prepares to implement a blockchain-based settlement system, Milei’s party wins big in Argentina’s midterm elections, and tokenization booms in Brazil. Historic: Bitcoin and Stablecoins to Be Integrated Into Venezuelan Banking Network […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-03T04:30:51.000Z",
+      "image": null
+    },
     {
       "title": "DOGE Falls to $0.18 as Long-Term Holders Exit, 'Death Cross' Price Action Appears",
       "link": "https://www.coindesk.com/markets/2025/11/03/doge-falls-to-usd0-18-as-long-term-holders-exit-death-cross-price-action-appears",
@@ -137,14 +145,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-02T19:01:39.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/BLOCKCHAIN-gID_7-pID_3.png@png"
-    },
-    {
-      "title": "XRP Clocks $2.50 on Nov. 2 as 2025 Gains Cool: Global Traders Eye Year-End Price Path",
-      "link": "https://news.bitcoin.com/xrp-clocks-2-50-on-nov-2-as-2025-gains-cool-global-traders-eye-year-end-price-path/",
-      "summary": "XRP is changing hands at $2.50 on Sunday, Nov. 2, with a year defined by big percentage wins, brisk debate over December targets, and a market now testing tidy weekend ranges. From YTD Heat to Holiday Hopes: XRP at $2.50 and the $3.50–$6.00 Debate XRP, the native token of the Ripple network, is marking the […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-02T17:48:38.000Z",
-      "image": null
     },
     {
       "title": "Quantum Threat to Bitcoin: How Panic Could Break Crypto Before Physics Does",

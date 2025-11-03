@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-11-03T14:17:59.030Z",
+  "updatedAt": "2025-11-03T14:44:04.406Z",
   "count": 50,
   "items": [
+    {
+      "title": "Tom Lee's BitMine Immersion Acquires Additional $300M in Ether, Bringing Holdings to $13.7B",
+      "link": "https://www.coindesk.com/business/2025/11/03/tom-lee-s-bitmine-immersion-acquires-additional-usd300m-in-ether-bringing-holdings-to-usd13-7b",
+      "summary": "The company's 3.4 million of ETH tokens represents just shy of 3% of the total supply.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T14:38:08.000Z",
+      "image": null
+    },
+    {
+      "title": "CoinDesk 20 Performance Update: Internet Computer (ICP) Surges 35% as Index Declines",
+      "link": "https://www.coindesk.com/coindesk-indices/2025/11/03/coindesk-20-performance-update-internet-computer-icp-surges-35-as-index-declines",
+      "summary": "Sui (SUI) fell 8.6% and Cronos (CRO) dropped 7.9% over the weekend.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T14:25:57.000Z",
+      "image": null
+    },
     {
       "title": "Michael Saylor's Strategy Added $45M in Bitcoin to Holdings Last Week",
       "link": "https://www.coindesk.com/business/2025/11/03/michael-saylor-s-strategy-added-usd45m-in-bitcoin-to-holdings-last-week",
@@ -211,27 +227,11 @@
       "image": null
     },
     {
-      "title": "Miners, Robinhood Earnings and Interest-Rate Decisions: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2025/11/03/miners-robinhood-earnings-and-interest-rate-decisions-crypto-week-ahead",
-      "summary": "Your look at what's coming in the week starting Nov. 3.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T09:00:00.000Z",
-      "image": null
-    },
-    {
       "title": "Euroclear Sidesteps OFAC as New Procedure Unfreezes Over $200 Billion in Russian Assets",
       "link": "https://news.bitcoin.com/euroclear-sidesteps-ofac-as-new-procedure-unfreezes-over-200-billion-in-russian-assets/",
       "summary": "Euroclear, one of Europe’s leading clearinghouses, has implemented a procedure allowing Russian investors to unfreeze their assets without an OFAC license. The move opens a path to potentially unblocking more than $200 billion in Russian assets frozen by the institution. Euroclear Opens a Path for Unfreezing Russian Assets Without US Approval The Facts Euroclear has […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-03T08:30:28.000Z",
-      "image": null
-    },
-    {
-      "title": "Balancer Hit by Apparent Exploit as $110M in Crypto Moves to New Wallets",
-      "link": "https://www.coindesk.com/markets/2025/11/03/balancer-hit-by-apparent-exploit-as-usd70m-in-crypto-moves-to-new-wallets",
-      "summary": "The affected funds include 6,850 osETH, 6,590 WETH, and 4,260 wstETH, blockchain data analyzed by CoinDesk showed.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T08:17:36.000Z",
       "image": null
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-03T06:53:31.031Z",
+  "updatedAt": "2025-11-03T07:17:34.939Z",
   "count": 50,
   "items": [
     {
@@ -8,6 +8,14 @@
       "summary": "The digital asset space faces a crisis of confidence, driven by extreme volatility and systemic failures like the Oct. 10 flash crash. To rebuild trust, Byrrgis CTO Robert Freeman has proposed a strategy centered on radical transparency, real-time threat detection, and zero-trust security architecture. Crypto’s Confidence Crisis Profound disillusionment now defines the digital asset landscape. […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-03T06:30:13.000Z",
+      "image": null
+    },
+    {
+      "title": "Trump Tells CBS News He 'Doesn't Know' Who Binance's CZ Is, Claims He Was a Victim",
+      "link": "https://www.coindesk.com/policy/2025/11/03/trump-tells-cbs-news-he-doesn-t-know-who-binance-s-changpeng-zhao-is",
+      "summary": "The founder of Binance was \"treated really badly\" by the Biden administration, President Trump said during an interview.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T06:25:03.000Z",
       "image": null
     },
     {
@@ -328,14 +336,6 @@
       "summary": "MiCA deserves credit for imposing order on chaos, but its structure rests on a dangerous assumption: that proof-of-reserves equals proof-of-stability, argues Dr. Daniel D’Alvia. It does not.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-01T13:00:00.000Z",
-      "image": null
-    },
-    {
-      "title": "Tesla CEO Elon Musk Says X Chat's New P2P Encryption System Is Similar to Bitcoin's",
-      "link": "https://www.coindesk.com/tech/2025/11/01/tesla-ceo-elon-musk-says-x-chat-s-new-p2p-encryption-system-is-similar-to-bitcoin-s",
-      "summary": "The in-app Chat is in beta for Premium users with file sharing and media support, while a standalone X Chat app is slated to follow in the coming months.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-01T12:01:41.000Z",
       "image": null
     },
     {

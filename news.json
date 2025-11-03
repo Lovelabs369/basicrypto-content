@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-11-03T07:17:34.939Z",
+  "updatedAt": "2025-11-03T07:39:09.104Z",
   "count": 50,
   "items": [
+    {
+      "title": "Swiss Crypto Bank AMINA Secures MiCA License in Austria",
+      "link": "https://www.coindesk.com/policy/2025/11/03/swiss-crypto-bank-amina-secures-mica-license-in-austria",
+      "summary": "The Swiss banking group’s Austrian subsidiary, AMINA EU, will spearhead a European market launch and accelerated expansion into the trading block.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-03T07:30:25.000Z",
+      "image": null
+    },
+    {
+      "title": "Digital Ruble Push: Bank of Russia Reinforces That Crypto Can’t Be Used for Domestic Payments",
+      "link": "https://news.bitcoin.com/digital-ruble-push-bank-of-russia-reinforces-that-crypto-cant-be-used-for-domestic-payments/",
+      "summary": "While Russia prepares for a nationwide launch of the digital ruble, the Russian CBDC, it has also rejected crypto for domestic payments. Elvira Nabiullina, governor of the Bank of Russia, stated that cryptocurrencies cannot be used for settlements within the country. Bank of Russia Rejects Crypto Usage for Internal Payments The Facts The Bank of […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-03T07:30:19.000Z",
+      "image": null
+    },
     {
       "title": "Crypto’s Trust Deficit: CTO Details Plan to Restore Confidence Trust After ‘Scared Capital’ Retreat",
       "link": "https://news.bitcoin.com/cryptos-trust-deficit-cto-details-plan-to-restore-confidence-trust-after-scared-capital-retreat/",
@@ -144,14 +160,6 @@
       "summary": "In Polymarket’s bustling prediction markets, traders are putting serious money behind JD Vance as the frontrunner for the 2028 U.S. presidential race. The Ohio senator commands a 29% chance of victory, supported by $2.15 million in trading volume — comfortably outpacing every other contender on the board. Exactly three years from this week, the 2028 […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-02T22:19:59.000Z",
-      "image": null
-    },
-    {
-      "title": "Cryptoquant Report Shows US Bitcoin and Ethereum Appetite Taking a Breather",
-      "link": "https://news.bitcoin.com/cryptoquant-report-shows-us-bitcoin-and-ethereum-appetite-taking-a-breather/",
-      "summary": "According to researchers at Cryptoquant, demand for bitcoin and ethereum in the U.S. has cooled significantly across spot and derivatives markets after the September rally. Cryptoquant: Coinbase Premium Drop Signals Fading U.S. Buying Pressure A new Cryptoquant report shows that U.S. investors are easing off bitcoin and ethereum exposure, signaling a cooling phase rather than […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-02T21:05:19.000Z",
       "image": null
     },
     {
@@ -328,14 +336,6 @@
       "summary": "Once envisioned as peer-to-peer cash, Bitcoin’s journey reflects both mainstream triumph and existential tension.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-01T14:00:00.000Z",
-      "image": null
-    },
-    {
-      "title": "MiCA Won’t Save Us from a Stablecoin Crisis. It Might be Building One",
-      "link": "https://www.coindesk.com/opinion/2025/10/31/mica-won-t-save-us-from-a-stablecoin-crisis-it-might-be-building-one",
-      "summary": "MiCA deserves credit for imposing order on chaos, but its structure rests on a dangerous assumption: that proof-of-reserves equals proof-of-stability, argues Dr. Daniel D’Alvia. It does not.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-01T13:00:00.000Z",
       "image": null
     },
     {

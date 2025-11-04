@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2025-11-04T18:49:18.598Z",
+  "updatedAt": "2025-11-04T19:14:00.649Z",
   "count": 50,
   "items": [
+    {
+      "title": "Bitcoin Plunges Below $100K for First Time Since June as Crypto Correction Worsens",
+      "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-plunges-below-usd100k-for-first-time-since-june-as-crypto-correction-worsens",
+      "summary": "The largest crypto has now tumbled more than 20% since hitting a record high above $126,000 only one month ago.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T19:07:33.000Z",
+      "image": null
+    },
+    {
+      "title": "Appeals Court Seems Unmoved by Sam Bankman-Fried’s Claims of an Unfair Trial",
+      "link": "https://www.coindesk.com/policy/2025/11/04/appeals-court-seems-unmoved-by-sam-bankman-fried-s-claims-of-an-unfair-trial",
+      "summary": "The former FTX CEO, who is currently serving a 25-year sentence for fraud, has repeatedly claimed that the crypto exchange was solvent at the time of its bankruptcy.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T19:06:28.000Z",
+      "image": null
+    },
+    {
+      "title": "Coinbase Faces Flak from Traditional Bankers on Its Push for Trust Bank Charter",
+      "link": "https://www.coindesk.com/policy/2025/11/04/coinbase-faces-flak-from-traditional-bankers-on-its-push-for-trust-bank-charter",
+      "summary": "One of the biggest advocacy groups for banking in the U.S. has asked the Office of the Comptroller of the Currency to dismiss Coinbase's licensing effort.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T19:02:59.000Z",
+      "image": null
+    },
+    {
+      "title": "Bitcoin Crashes Under $100K for First Time Since May, Liquidations Hit $1.3 Billion",
+      "link": "https://decrypt.co/347305/bitcoin-crashes-under-100k-first-time-since-may-liquidations-hit-1-3-billion",
+      "summary": "Bitcoin just dropped below the $100,000 mark for the first time since May, with Ethereum, XRP, and other hit harder. Is the bull run over?",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T18:57:33.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
+    },
     {
       "title": "ZKsync Proposal Aims to Tie $ZK Token to Network Revenue",
       "link": "https://www.coindesk.com/business/2025/11/04/zksync-proposal-aims-to-tie-usdzk-token-to-network-revenue",
@@ -227,30 +259,6 @@
       "image": null
     },
     {
-      "title": "Bitnomial Adds RLUSD and XRP as Margin Collateral, Expanding Crypto Derivatives Offerings",
-      "link": "https://www.coindesk.com/business/2025/11/04/bitnomial-adds-rlusd-and-xrp-as-margin-collateral-expanding-crypto-derivatives-offerings",
-      "summary": "The company will become the first U.S.-regulated clearinghouse to accept stablecoins as margin collateral.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-04T14:30:00.000Z",
-      "image": null
-    },
-    {
-      "title": "CoinDesk 20 Performance Update: Internet Computer (ICP) Leaps 38.9% as Index Declines",
-      "link": "https://www.coindesk.com/coindesk-indices/2025/11/04/coindesk-20-performance-update-internet-computer-icp-leaps-38-9-as-index-declines",
-      "summary": "Cronos (CRO) fell 3.6% and Aptos (APT) dropped 3.4%.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-04T14:14:39.000Z",
-      "image": null
-    },
-    {
-      "title": "Wall Street's Biggest IREN Bull Hiked Price Target to $142 After $9.7B Microsoft AI Deal",
-      "link": "https://www.coindesk.com/markets/2025/11/04/wall-street-s-biggest-iren-bull-hiked-price-target-to-usd142-after-usd9-7b-microsoft-ai-deal",
-      "summary": "The bitcoin miner turned AI infrastructure play received three price target raises following yesterday's news, including from Bernstein, which lifted to $125.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-04T14:12:32.000Z",
-      "image": null
-    },
-    {
       "title": "Privacy Coins Surge 5.5%; ZEC Tops $470 Amid Exit Liquidity Warnings",
       "link": "https://news.bitcoin.com/privacy-coins-surge-5-5-zec-tops-470-amid-exit-liquidity-warnings/",
       "summary": "On Nov. 4, the privacy coin sector experienced a notable rally, with total market capitalization increasing by 5.5%, contrasting sharply with the broader crypto market’s downturn. DASH Leads the Charge With Triple-Digit Gains The privacy coin sector continued its market-defying rally on Nov. 4, with total market capitalization jumping 5.5%, sharply contrasting the broader crypto […]",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-03T19:28:23.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png@png"
-    },
-    {
-      "title": "US Bitcoin ETFs Lost $946 Million After Hawkish Tone From Fed",
-      "link": "https://decrypt.co/347176/us-bitcoin-etfs-lost-946-million-hawkish-tone-fed",
-      "summary": "Solana funds surged with $421 million in fresh capital. Overall, crypto ETFs shed $360 million in assets.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-03T19:02:54.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png@png"
     }
   ]
 }

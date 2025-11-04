@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-04T19:39:06.626Z",
+  "updatedAt": "2025-11-04T19:50:20.911Z",
   "count": 50,
   "items": [
+    {
+      "title": "Esports Giant Ninjas in Pyjamas Expands Bitcoin Operation, Aims to Mine $16M in BTC Monthly",
+      "link": "https://decrypt.co/347309/esports-giant-ninjas-pyjamas-expands-bitcoin-operation",
+      "summary": "Ninjas in Pyjamas parent company NIP Group hopes to produce $16 million worth of Bitcoin each month by expanding its mining operation.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T19:45:49.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png@png"
+    },
     {
       "title": "Bitcoin Plunges Below $100K for First Time Since June as Crypto Correction Worsens",
       "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-plunges-below-usd100k-for-first-time-since-june-as-crypto-correction-worsens",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-03T20:14:52.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-07-gID_7.png@png"
-    },
-    {
-      "title": "Bitcoin Miners IREN, Cipher Rise After Multi-Billion-Dollar Microsoft, Amazon Deals",
-      "link": "https://decrypt.co/347193/bitcoin-miners-iren-cipher-rise-billion-dollar-microsoft-amazon",
-      "summary": "The transactions are the latest between Magnificent Seven companies and Bitcoin miner and data center firms.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-03T19:28:23.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png@png"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-04T18:25:14.878Z",
+  "updatedAt": "2025-11-04T18:49:18.598Z",
   "count": 50,
   "items": [
+    {
+      "title": "ZKsync Proposal Aims to Tie $ZK Token to Network Revenue",
+      "link": "https://www.coindesk.com/business/2025/11/04/zksync-proposal-aims-to-tie-usdzk-token-to-network-revenue",
+      "summary": "The creator behind the layer-2 has unveiled a proposal to transform its $ZK token from a governance instrument into a token with real economic utility.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T18:43:36.000Z",
+      "image": null
+    },
+    {
+      "title": "Chainlink's LINK Tumbles 6% as Technical Breakdown Trumps UBS, FTSE Partnership",
+      "link": "https://www.coindesk.com/markets/2025/11/04/chainlink-s-link-tumbles-6-as-technical-breakdown-trumps-ubs-ftse-partnership",
+      "summary": "LINK risks falling to $14 as breakdown amid heavy volume confirmed the broader bearish structure.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T18:38:28.000Z",
+      "image": null
+    },
+    {
+      "title": "How Bitcoin Liquidity Has Been Affected by the Government Shutdown",
+      "link": "https://decrypt.co/347308/bitcoin-liquidity-government-shutdown",
+      "summary": "Bitcoin has dropped about 19% from its record high as the government shutdown saps $700 billion from markets, but analysts see a major rally ahead when liquidity returns.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T18:28:13.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg@png"
+    },
     {
       "title": "Meme Coin Meltdown: Billions Go Poof as the Joke Tokens Stop Being Funny",
       "link": "https://news.bitcoin.com/meme-coin-meltdown-billions-go-poof-as-the-joke-tokens-stop-being-funny/",
@@ -9,6 +33,14 @@
       "source": "Bitcoin News",
       "publishedAt": "2025-11-04T18:22:23.000Z",
       "image": null
+    },
+    {
+      "title": "Where is Crypto going! Crypto enters Extreme Fear! ZEC keeps going UP!",
+      "link": "https://decrypt.co/videos/interviews/0kRfhCSl/where-is-crypto-going-crypto-enters-extreme-fear-zec-keeps-going-up",
+      "summary": "Crypto majors continued their decline, dropping another 3–8% as the selloff persisted. Bitcoin (BTC) fell 3% to $104,500, Ethereum (ETH) dropped 5% to $3,520, Binance Coin (BNB) slid 6% to $955, and Solana (SOL) plunged 8% to $162. Meanwhile, Decred (DCR) surged 111%, Dash (DASH) climbed 50%, and Internet Computer (ICP) gained 30%, leading the day’s top movers. Liquidations totaled over $1.2 billion on Monday, with long positions accounting for 90% of the losses, and the Crypto Fear & Greed Inde",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T18:16:51.000Z",
+      "image": "https://cdn.jwplayer.com/v2/media/0kRfhCSl/poster.jpg"
     },
     {
       "title": "Why Bernstein Just Boosted Its Price Target for Bitcoin Miner IREN",
@@ -235,14 +267,6 @@
       "image": null
     },
     {
-      "title": "Bitcoin Mining Profitability Slumps as Hashprice Falls to Multi-Month Low",
-      "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-mining-profitability-slumps-as-hashprice-falls-to-multi-month-low",
-      "summary": "Hashprice drops to $43.1 PH/s as bitcoin’s price correction, low fees and record hash rate squeeze miners’ margins.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-04T13:27:29.000Z",
-      "image": null
-    },
-    {
       "title": "Morning Minute: Crypto Slides into “Extreme Fear” as Bitcoin Tumbles",
       "link": "https://decrypt.co/347272/morning-minute-crypto-slides-into-extreme-fear-as-bitcoin-tumbles",
       "summary": "OG Bitcoin holders selling $40B in the past month certainly isn't helping sentiment, as most are wondering: where is the bottom?",
@@ -256,14 +280,6 @@
       "summary": "Bitcoin danced on the edge of a cliff Tuesday, teetering just above critical support at $103,500, and investors felt the tension. With heavy sell-side volume and technical signals flashing red across the board, the market waits to see if gravity—or resilience—wins this round. Bitcoin Chart Outlook Across the daily chart, the landscape remains distinctly bearish. […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-04T13:05:16.000Z",
-      "image": null
-    },
-    {
-      "title": "Crypto Markets Today: Bitcoin Nears June Low as $1.4B in Liquidations Rock Altcoins",
-      "link": "https://www.coindesk.com/markets/2025/11/04/crypto-markets-today-bitcoin-nears-june-low-as-usd1-4b-in-liquidations-rock-altcoins",
-      "summary": "A surging U.S. dollar and expectations of slower Fed rate cuts fueled a broad crypto sell-off, sending bitcoin and ether to multi-month lows.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-04T13:00:00.000Z",
       "image": null
     },
     {
@@ -385,22 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-03T19:02:54.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png@png"
-    },
-    {
-      "title": "Balancer Exploited for $128 Million Across Ethereum Chains as Berachain Halts Network",
-      "link": "https://decrypt.co/347173/balancer-exploited-128-million-across-ethereum-chains-berachain-halts",
-      "summary": "Some $128 million in crypto was stolen from Balancer liquidity pools on Ethereum and beyond, with Berachain halting its chain as a result.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-03T18:47:12.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png"
-    },
-    {
-      "title": "Nasdaq Reprimands TON Treasury for $558 Million Stock Sale, Crypto Buy",
-      "link": "https://decrypt.co/347165/nasdaq-reprimands-ton-treasury-558-million-stock-sale-crypto-buy",
-      "summary": "Nasdaq said TON Strategy failed to get shareholder approval for a massive crypto-fueled fundraise—but stopped short of delisting the company’s stock.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-03T18:02:49.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/nasdaq-decrypt-style-02-scaled-gID_7.jpg@png"
     }
   ]
 }

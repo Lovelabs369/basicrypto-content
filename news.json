@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-04T04:45:43.580Z",
+  "updatedAt": "2025-11-04T05:17:50.757Z",
   "count": 50,
   "items": [
+    {
+      "title": "US Prosecutors Seek Maximum Sentence for Samourai Wallet Developers",
+      "link": "https://decrypt.co/347236/us-prosecutors-seek-maximum-sentence-for-samourai-wallet-developers",
+      "summary": "Prosecutors allege the developers weren't “mere bystanders,” but were instead actively soliciting criminals, while earning millions.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T04:56:36.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-gID_7.png@png"
+    },
     {
       "title": "FTSE Russell Takes First Step Toward On-Chain Benchmark Data With Chainlink",
       "link": "https://decrypt.co/347233/ftse-russell-first-step-on-chain-benchmark-data-chainlink",
@@ -393,14 +401,6 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-03T14:54:02.000Z",
       "image": null
-    },
-    {
-      "title": "Trump Downplays Knowledge of Binance Chief After Pardon Linked to Family's Crypto Dealings",
-      "link": "https://decrypt.co/347140/trump-downplays-knowledge-binance-chief-pardon-familys-crypto",
-      "summary": "In a rare interview, Trump said he was told Changpeng Zhao was the victim of the Biden administration's “witch hunt” against crypto.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-03T05:35:38.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-09-gID_7.png@png"
     }
   ]
 }

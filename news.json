@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-04T10:47:16.284Z",
+  "updatedAt": "2025-11-04T11:15:49.414Z",
   "count": 50,
   "items": [
+    {
+      "title": "UBS, Chainlink Execute First Onchain Tokenized Fund Redemption in $100T Market",
+      "link": "https://www.coindesk.com/business/2025/11/04/ubs-chainlink-execute-first-onchain-tokenized-fund-redemption-in-usd100t-market",
+      "summary": "The transaction involved the tokenized UBS USD Money Market Investment Fund Token (uMINT) on Ethereum, with DigiFT as the onchain distributor.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T11:00:00.000Z",
+      "image": null
+    },
     {
       "title": "Coinbase’s Brian Armstrong Throws a Wrench Into Polymarket Odds",
       "link": "https://news.bitcoin.com/coinbases-brian-armstrong-throws-a-wrench-into-polymarket-odds/",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-03T16:13:15.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-down-decrypt-style-gID_7.png@png"
-    },
-    {
-      "title": "Polkadot Slumps as Bears Break Key Support at $2.87",
-      "link": "https://www.coindesk.com/markets/2025/11/03/polkadot-slumps-as-bears-break-key-support-at-usd2-87",
-      "summary": "Heavy institutional selling pressure triggered a technical breakdown in DOT.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T15:57:37.000Z",
-      "image": null
     }
   ]
 }

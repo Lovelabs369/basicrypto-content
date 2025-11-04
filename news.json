@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2025-11-04T12:38:31.566Z",
+  "updatedAt": "2025-11-04T13:22:52.070Z",
   "count": 50,
   "items": [
+    {
+      "title": "Morning Minute: Crypto Slides into “Extreme Fear” as Bitcoin Tumbles",
+      "link": "https://decrypt.co/347272/morning-minute-crypto-slides-into-extreme-fear-as-bitcoin-tumbles",
+      "summary": "OG Bitcoin holders selling $40B in the past month certainly isn't helping sentiment, as most are wondering: where is the bottom?",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T13:16:03.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png"
+    },
+    {
+      "title": "Bitcoin Price Watch: Holding the Line at $103K or Facing the Abyss?",
+      "link": "https://news.bitcoin.com/bitcoin-price-watch-holding-the-line-at-103k-or-facing-the-abyss/",
+      "summary": "Bitcoin danced on the edge of a cliff Tuesday, teetering just above critical support at $103,500, and investors felt the tension. With heavy sell-side volume and technical signals flashing red across the board, the market waits to see if gravity—or resilience—wins this round. Bitcoin Chart Outlook Across the daily chart, the landscape remains distinctly bearish. […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-04T13:05:16.000Z",
+      "image": null
+    },
+    {
+      "title": "Crypto Markets Today: Bitcoin Nears June Low as $1.4B in Liquidations Rock Altcoins",
+      "link": "https://www.coindesk.com/markets/2025/11/04/crypto-markets-today-bitcoin-nears-june-low-as-usd1-4b-in-liquidations-rock-altcoins",
+      "summary": "A surging U.S. dollar and expectations of slower Fed rate cuts fueled a broad crypto sell-off, sending bitcoin and ether to multi-month lows.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T13:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Ethereum Traders Buy the Dip Despite Third-Largest Spot Outflow Since October",
+      "link": "https://decrypt.co/347254/ethereum-traders-buy-the-dip-despite-third-largest-spot-outflow-since-october",
+      "summary": "Ethereum's large spot outflow signals dip buying, with a potential bounce contingent on improving macro conditions, Decrypt was told.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T12:43:46.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png@png"
+    },
     {
       "title": "Privacy Coins Post Double-Digit Gains, Defying Market Slump",
       "link": "https://decrypt.co/347253/privacy-coins-post-double-digit-gains-defying-market-slump",
@@ -187,14 +219,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png"
     },
     {
-      "title": "Strategy Pushes Bitcoin Holdings to 641,205 BTC, Achieves 26.1% BTC Yield",
-      "link": "https://news.bitcoin.com/strategy-pushes-bitcoin-holdings-to-641205-btc-achieves-26-1-btc-yield/",
-      "summary": "Strategy Inc. is ramping up bitcoin accumulation with fresh purchases that extend its record-breaking holdings, signal unshakable conviction in digital assets, and strengthen its position as the definitive institutional leader in bitcoin’s accelerating global ascent. Strategy Expands Bitcoin Treasury With Unstoppable Momentum and Institutional Scale Strategy Inc. is intensifying its bitcoin accumulation strategy, underscoring its […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-04T03:30:38.000Z",
-      "image": null
-    },
-    {
       "title": "Bitcoin, Ether, Solana Traders Liquidated for Over $1B as Prices Dump 5-10%",
       "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-ether-solana-traders-liquidated-for-over-usd1b-as-prices-dump-5-10",
       "summary": "Long traders accounted for nearly 90% of the liquidations, with $1.14 billion in bullish bets erased.",
@@ -377,30 +401,6 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-03T16:47:09.000Z",
       "image": null
-    },
-    {
-      "title": "Strategy Snaps Up More Bitcoin Amid BTC Price Drop",
-      "link": "https://decrypt.co/347150/strategy-snaps-more-bitcoin-holdings-btc-drop",
-      "summary": "Strategy's buy was among its smallest. Bitcoin's price has fallen more than 7% over the past week.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-03T16:46:57.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-microstrategy-mstr-gID_7.jpg@png"
-    },
-    {
-      "title": "Hedera’s HBAR Slides 5% as $0.19 Support Crumbles, Traders Eye Technical Reversal",
-      "link": "https://www.coindesk.com/markets/2025/11/03/hedera-s-hbar-slides-5-as-usd0-19-support-crumbles-traders-eye-technical-reversal",
-      "summary": "Hedera token breaks key technical level amid volume surge, though late-session reversal signals emerge.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T16:40:11.000Z",
-      "image": null
-    },
-    {
-      "title": "CZ Pumps Aster 25% with Tweet! Crypto Majors Selloff! Trump distances from CZ!",
-      "link": "https://decrypt.co/videos/interviews/a89XRwtQ/cz-pumps-aster-25-with-tweet-crypto-majors-selloff-trump-distances-from-cz",
-      "summary": "Crypto majors fell between 2–5% following a Sunday night selloff, with Bitcoin down 2% at $108,100, Ethereum off 4% at $3,720, BNB down 6% at $1,020, and Solana dropping 5% to $176. Among top movers, ASTER (+8%) and TRUMP (+3%) led the gains. ASTER initially surged 25% after CZ announced he had bought the token and planned to hold it long-term, though it has since retraced most of that move. In corporate news, Microsoft signed a $9.7 billion deal to purchase AI cloud services from Bitcoin miner ",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-03T16:38:04.000Z",
-      "image": "https://cdn.jwplayer.com/v2/media/a89XRwtQ/poster.jpg"
     }
   ]
 }

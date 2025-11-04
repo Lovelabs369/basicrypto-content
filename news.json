@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-04T08:24:15.809Z",
+  "updatedAt": "2025-11-04T08:49:32.244Z",
   "count": 50,
   "items": [
+    {
+      "title": "Coinbase’s Donations to White House Ballroom Prompt ‘Corruption Factory’ Allegations",
+      "link": "https://news.bitcoin.com/coinbases-donations-to-white-house-ballroom-prompt-corruption-factory-allegations/",
+      "summary": "The recent donation from Coinbase, the largest U.S. crypto exchange, to the construction of the White House ballroom pushed by President Trump, has awakened concerns from Senator Chris Murphy, who alleges the involvement of the company is part of a “corruption factory.” Senator States Coinbase’s Donation to White House Ballroom Are Part of Trump’s ‘Corruption […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-04T08:30:24.000Z",
+      "image": null
+    },
     {
       "title": "NIP Group to Generate 160 BTC Monthly After Major Infrastructure Deal",
       "link": "https://news.bitcoin.com/nip-group-to-generate-160-btc-monthly-after-major-infrastructure-deal/",
@@ -193,14 +201,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-03T22:44:51.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_green-gID_7.png@png"
-    },
-    {
-      "title": "Web3 Conglomerate Animoca Brands Set to Go Public in Reverse Merger With Currenc Group",
-      "link": "https://news.bitcoin.com/web3-conglomerate-animoca-brands-set-to-go-public-in-reverse-merger-with-currenc-group/",
-      "summary": "Currenc Group Inc. and Animoca Brands Corporation Limited have inked a non-binding term sheet for a reverse merger that could create the world’s first publicly listed digital asset conglomerate. Currenc Group, Animoca Brands Eye First Publicly Listed Digital Asset Conglomerate On Nov. 3, Currenc Group (Nasdaq: CURR) revealed plans to acquire all issued shares of […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-03T22:35:30.000Z",
-      "image": null
     },
     {
       "title": "A Smarter Way to Talk to AI: Here's How to ‘Context Engineer’ Your Prompts",

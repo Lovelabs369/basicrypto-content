@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-04T20:42:23.302Z",
+  "updatedAt": "2025-11-04T20:53:00.568Z",
   "count": 50,
   "items": [
     {
@@ -25,6 +25,14 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T20:29:14.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg@png"
+    },
+    {
+      "title": "Ripple's Stablecoin Hits $1B Milestone; Company President Discusses M&A Strategy to Fuel Growth",
+      "link": "https://www.coindesk.com/markets/2025/11/04/ripple-s-stablecoin-hits-usd1b-milestone-as-president-discusses-m-and-a-strategy-to-fuel-growth",
+      "summary": "The XRP creator’s stablecoin climbs the ranks faster than most, tapping into its global payments network to accelerate adoption.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T20:23:10.000Z",
+      "image": null
     },
     {
       "title": "Bitcoin Miner MARA Revenue Hit Record High in Q3",
@@ -288,14 +296,6 @@
       "summary": "The layer-1 token broke key support levels and saw 68% above-average volume as traders dumped risk.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-04T15:18:36.000Z",
-      "image": null
-    },
-    {
-      "title": "Cleaning Up Crypto ATMs Isn’t Anti-Crypto",
-      "link": "https://www.coindesk.com/opinion/2025/11/04/cleaning-up-crypto-atms-isn-t-anti-crypto",
-      "summary": "The louder these companies protest regulation, the clearer it becomes that something’s off, argue Paradigm’s Katie Biber and Dominique Little.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-04T15:00:00.000Z",
       "image": null
     },
     {

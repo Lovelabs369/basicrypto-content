@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-04T19:50:20.911Z",
+  "updatedAt": "2025-11-04T20:20:04.394Z",
   "count": 50,
   "items": [
+    {
+      "title": "Bitcoin Miner MARA Revenue Hit Record High in Q3",
+      "link": "https://decrypt.co/347314/bitcoin-miner-mara-revenue-record-high-q3",
+      "summary": "The company’s CEO Fred Thiel said on an earnings call that it would be looking to expand its services in AI computing.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T20:13:43.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png@png"
+    },
+    {
+      "title": "XRP Ledger’s Dual Utility Could Make It a Breakout ETF Play, Experts Argue",
+      "link": "https://www.coindesk.com/markets/2025/11/04/xrp-ledger-s-dual-utility-could-make-it-a-breakout-etf-play-experts-discuss",
+      "summary": "Ripple’s unified system for payments and wealth storage may give XRP an edge with institutions eyeing real-world utility beyond speculation, said Bitnomial CEO Luke Hoersten.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T20:11:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Bitmine Nears 3% of ETH Supply as Holdings Reach 3.4 Million Tokens",
+      "link": "https://news.bitcoin.com/bitmine-nears-3-of-eth-supply-as-holdings-reach-3-4-million-tokens/",
+      "summary": "Bitmine has expanded its ethereum position to 3.4 million ETH, bringing its total crypto and cash holdings to $13.7 billion. The company now owns 2.8% of the total ETH supply, marking a key milestone in its long-term goal to reach 5%. $13.7 Billion in Crypto and Cash for Bitmine Bitmine Immersion Technologies (NYSE: BMNR) has […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-04T19:55:40.000Z",
+      "image": null
+    },
     {
       "title": "Esports Giant Ninjas in Pyjamas Expands Bitcoin Operation, Aims to Mine $16M in BTC Monthly",
       "link": "https://decrypt.co/347309/esports-giant-ninjas-pyjamas-expands-bitcoin-operation",
@@ -88,7 +112,7 @@
       "summary": "IREN this week signed a $9.7 billion cloud services agreement with Microsoft.",
       "source": "Decrypt",
       "publishedAt": "2025-11-04T18:08:51.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/03/bitcoin-mining-rigs-gID_7.jpg@png"
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-miners-decrypt-style-01-gID_7.jpg@png"
     },
     {
       "title": "LayerEdge Brings Zero-Knowledge Verification to TRON Network With Bitcoin-Anchored Security",
@@ -251,14 +275,6 @@
       "image": null
     },
     {
-      "title": "MARA Holdings Outlines AI and Energy Shift with MPLX LOI; Q3 Results Impress",
-      "link": "https://www.coindesk.com/markets/2025/11/04/mara-outlines-ai-and-energy-shift-with-mplx-loi-q3-results-impress",
-      "summary": "MPLX will supply natural gas from its Delaware Basin processing plants to MARA’s planned gas-fired power facilities.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-04T14:49:06.000Z",
-      "image": null
-    },
-    {
       "title": "Crypto’s Biggest Liquidation Day Ever May Have Left Time Bombs in Its Wake",
       "link": "https://news.bitcoin.com/cryptos-biggest-liquidation-day-ever-may-have-left-time-bombs-in-its-wake/",
       "summary": "The Oct. 10, 2025, crypto liquidation cascade set an all-time single-day record and, according to market observers, the real damage may surface in the coming weeks if distressed firms reveal losses. Oct. 10’s Liquidation Shockwave Still Rattles the Crypto World Analysts say the event’s combination of a macro shock and extreme leverage created conditions that […]",
@@ -313,14 +329,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T12:23:17.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/dash-decrypt-style-01-gID_7.jpg@png"
-    },
-    {
-      "title": "Apex Fusion Integrates Stargate to Bring USDC Liquidity to Cardano",
-      "link": "https://news.bitcoin.com/apex-fusion-integrates-stargate-to-bring-usdc-liquidity-to-cardano/",
-      "summary": "Apex Fusion, the multi-layer Web3 ecosystem connecting UTxO and EVM networks, has announced an integration with Stargate, the omnichain liquidity transport protocol powered by Layerzero. Cardano Gains Native USDC Access via Apex Fusion and Stargate Partnership According to the announcement shared with Bitcoin.com News, the collaboration enables native USDC transfers across blockchains without relying on […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-04T12:05:56.000Z",
-      "image": null
     },
     {
       "title": "Bitcoin Slips Below $104K as Crypto Market Extends Losses",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-03T21:00:40.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png"
-    },
-    {
-      "title": "ArXiv Blocks AI-Generated Survey Papers After 'Flood' of Trashy Submissions",
-      "link": "https://decrypt.co/347196/arxiv-blocks-ai-generated-survey-papers-flood-trashy-submissions",
-      "summary": "Preprint repository ArXiv is cracking down on survey papers after AI tools make it easy to mass-produce low-quality submissions that overwhelm volunteer moderators.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-03T20:14:52.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-07-gID_7.png@png"
     }
   ]
 }

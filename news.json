@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-04T15:22:17.820Z",
+  "updatedAt": "2025-11-04T15:42:55.893Z",
   "count": 50,
   "items": [
+    {
+      "title": "BNB Drops Below $950 as Market Sell-Off Deepens, Privacy Coins Surge",
+      "link": "https://www.coindesk.com/markets/2025/11/04/bnb-drops-below-usd950-as-market-sell-off-deepens-privacy-coins-surge",
+      "summary": "BNB faces technical resistance at $1,000 and $980, with analysts watching to see if it can hold above $940, as privacy coins like DASH and Zcash outperform.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T15:37:11.000Z",
+      "image": null
+    },
     {
       "title": "SUI Slides as $116M DeFi Exploit Rattles Crypto Markets",
       "link": "https://www.coindesk.com/markets/2025/11/04/sui-slides-as-usd116m-defi-exploit-rattles-crypto-markets",
@@ -297,14 +305,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T02:17:58.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-01-2-gID_7.jpg@png"
-    },
-    {
-      "title": "XRP Triangle Tightens as Token Falls 6%, Watch This Price Level For Further Breakdown",
-      "link": "https://www.coindesk.com/markets/2025/11/04/xrp-triangle-tightens-as-token-falls-6-watch-this-price-level-for-further-breakdown",
-      "summary": "The move reflected cautious accumulation rather than broad conviction, as trading volumes remained below trend despite multiple volatility spikes during the session.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-04T02:08:57.000Z",
-      "image": null
     },
     {
       "title": "Hollywood.com Reveals Crypto-Powered Prediction Market for Movies, TV and More",

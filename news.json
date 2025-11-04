@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-04T06:27:11.083Z",
+  "updatedAt": "2025-11-04T06:52:05.629Z",
   "count": 50,
   "items": [
+    {
+      "title": "CZ’s ‘Kidnapping’ Claim Sparks Outrage in Nigeria, Web3 Leaders Demand Apology",
+      "link": "https://news.bitcoin.com/czs-kidnapping-claim-sparks-outrage-in-nigeria-web3-leaders-demand-apology/",
+      "summary": "Changpeng Zhao (CZ) sparked outrage among Nigerians and Web3 influencers after commenting that the Nigerian government had “kidnapped” former Binance employee Tigran Gambaryan. U.S. Threats Remarks by Binance co-founder and former CEO Changpeng Zhao (CZ), suggesting that Nigeria “kidnapped” and jailed former employee Tigran Gambaryan for eight months without cause, have sparked outrage among Nigerians. […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-04T06:30:06.000Z",
+      "image": null
+    },
     {
       "title": "Stream Finance Faces $93 Million Loss, Launches Legal Investigation",
       "link": "https://www.coindesk.com/markets/2025/11/04/stream-finance-faces-usd93-million-loss-launches-legal-investigation",
@@ -16,6 +24,14 @@
       "summary": "The bearish momentum is increasing, according to key indicators.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-04T06:25:36.000Z",
+      "image": null
+    },
+    {
+      "title": "Ether, Solana, XRP Drop 8% in Fresh Move Lower, But Bitcoin Could See a Bullish November",
+      "link": "https://www.coindesk.com/markets/2025/11/04/ether-solana-xrp-drop-8-in-fresh-move-lower-but-bitcoin-could-see-a-bullish-november",
+      "summary": "The Federal Reserve’s 25-basis-point cut last week was widely expected, but Chair Jerome Powell’s restrained tone dampened risk appetite after he hinted that December’s cut isn’t guaranteed.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T06:20:27.000Z",
       "image": null
     },
     {
@@ -192,14 +208,6 @@
       "summary": "Lava, a bitcoin-focused financial platform, disclosed it has raised $200 million and launched a global bitcoin-backed line of credit (BLOC) offering borrowing rates starting at 5%, marking an expansion in the crypto-collateralized lending space. Lava Secures $200M to Advance Bitcoin Lending CEO Shehzan Maredia announced the move on X, calling it “the biggest day in […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-03T21:48:16.000Z",
-      "image": null
-    },
-    {
-      "title": "Cipher Mining Seals 15-Year Deal With Amazon for 300MW Data Center",
-      "link": "https://news.bitcoin.com/cipher-mining-seals-15-year-deal-with-amazon-for-300mw-data-center/",
-      "summary": "Cipher Mining Inc. has signed a 15-year data center campus lease with Amazon Web Services (AWS) to supply 300 megawatts of capacity for artificial intelligence (AI) workloads, marking one of its largest high-performance computing (HPC) initiatives to date. Cipher Mining’s $5.5B AWS Lease Anchors AI Hosting Expansion Bitcoin miner and HPC provider, Cipher Mining Inc. […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-03T21:05:05.000Z",
       "image": null
     },
     {
@@ -392,14 +400,6 @@
       "summary": "Nasdaq reprimanded TON Strategy, a major holder of TON, for failing to obtain shareholder approval before issuing stock to finance a $272.7 million purchase.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-03T15:34:14.000Z",
-      "image": null
-    },
-    {
-      "title": "AI Payments Startup Kite Debuts Token With $263M Trading Volume in First Two Hours",
-      "link": "https://www.coindesk.com/business/2025/11/03/ai-payments-startup-kite-debuts-token-with-usd263m-trading-volume-in-first-two-hours",
-      "summary": "The blockchain firm’s native token debuted Monday with strong activity on Binance and Korean exchanges, following a $18 million Series A raise in September.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T15:13:04.000Z",
       "image": null
     }
   ]

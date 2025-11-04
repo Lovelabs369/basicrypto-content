@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-11-04T09:43:12.684Z",
+  "updatedAt": "2025-11-04T09:53:48.972Z",
   "count": 50,
   "items": [
+    {
+      "title": "Bitcoin Slips Below $104K as Crypto Market Extends Losses",
+      "link": "https://decrypt.co/347238/bitcoin-slips-below-104k-as-crypto-market-extends-losses",
+      "summary": "Analysts say a DeFi crisis and macro fears sparked a crypto sell-off, but the leverage flush may pave the way for a sustainable recovery.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T09:47:48.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-28-gID_7.png@png"
+    },
+    {
+      "title": "Strategy Introduces a Euro-Denominated Preferred Stock Stream, Following Q3 Earnings",
+      "link": "https://www.coindesk.com/markets/2025/11/04/strategy-introduces-a-euro-denominated-preferred-stock-stream-following-q3-earnings",
+      "summary": "Less than a week after hinting at an international perpetual preferred listing, Strategy unveils its 10% euro-based Stream issue targeting institutional investors.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T09:37:40.000Z",
+      "image": null
+    },
     {
       "title": "BTC Plummets to $104K: $1.32 Billion Liquidated Amid Market FUD and Collapse Warnings",
       "link": "https://news.bitcoin.com/btc-plummets-to-104k-1-32-billion-liquidated-amid-market-fud-and-collapse-warnings/",
@@ -384,22 +400,6 @@
       "summary": "The downturn in prices rippled across derivatives markets, liquidating over $1 billion in leveraged trading positions across all digital assets Monday, CoinGlass data showed.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-03T15:55:37.000Z",
-      "image": null
-    },
-    {
-      "title": "Crypto Giant Animoca Brands Eyes Nasdaq Debut via Reverse Merger",
-      "link": "https://decrypt.co/347151/crypto-giant-animoca-brands-eyes-nasdaq-debut-reverse-merger",
-      "summary": "Investment firm and crypto game publisher Animoca Brands plans to go public via a reverse merger, the Hong Kong-based firm said Monday.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-03T15:55:37.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/animoca-yat-siu-gID_7.jpeg@png"
-    },
-    {
-      "title": "Strive Proposes High-Yield Preferred Stock to Expand Bitcoin Holdings",
-      "link": "https://www.coindesk.com/business/2025/11/03/strive-proposes-high-yield-preferred-stock-to-expand-bitcoin-holdings",
-      "summary": "The preferred shares, dubbed SATA, are set to carry an initial 12% annual dividend, payable monthly in cash.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T15:43:31.000Z",
       "image": null
     }
   ]

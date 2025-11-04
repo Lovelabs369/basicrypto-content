@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-04T14:18:27.504Z",
+  "updatedAt": "2025-11-04T14:44:59.568Z",
   "count": 50,
   "items": [
+    {
+      "title": "Bitnomial Adds RLUSD and XRP as Margin Collateral, Expanding Crypto Derivatives Offerings",
+      "link": "https://www.coindesk.com/business/2025/11/04/bitnomial-adds-rlusd-and-xrp-as-margin-collateral-expanding-crypto-derivatives-offerings",
+      "summary": "The company will become the first U.S.-regulated clearinghouse to accept stablecoins as margin collateral.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T14:30:00.000Z",
+      "image": null
+    },
     {
       "title": "CoinDesk 20 Performance Update: Internet Computer (ICP) Leaps 38.9% as Index Declines",
       "link": "https://www.coindesk.com/coindesk-indices/2025/11/04/coindesk-20-performance-update-internet-computer-icp-leaps-38-9-as-index-declines",
@@ -345,14 +353,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-03T19:28:23.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png@png"
-    },
-    {
-      "title": "SUI Token Drops 9% as Institutional Selling Hits Harder Than Broader Crypto Market",
-      "link": "https://www.coindesk.com/markets/2025/11/03/sui-token-drops-9-as-institutional-selling-hits-harder-than-broader-crypto-market",
-      "summary": "Volume jumped 628% as SUI sliced through key support, then bounced — without buyer conviction.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T19:08:48.000Z",
-      "image": null
     },
     {
       "title": "US Bitcoin ETFs Lost $946 Million After Hawkish Tone From Fed",

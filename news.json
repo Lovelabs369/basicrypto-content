@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-04T05:51:33.261Z",
+  "updatedAt": "2025-11-04T06:27:11.083Z",
   "count": 50,
   "items": [
+    {
+      "title": "Stream Finance Faces $93 Million Loss, Launches Legal Investigation",
+      "link": "https://www.coindesk.com/markets/2025/11/04/stream-finance-faces-usd93-million-loss-launches-legal-investigation",
+      "summary": "DeFi platform Stream Finance is engaging law firm Perkins Coie LLP to lead investigation after an external fund manager disclosed a huge loss.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T06:25:46.000Z",
+      "image": null
+    },
+    {
+      "title": "Solana's Bull Party Ends: Trendline Smashed, Fib Eyed",
+      "link": "https://www.coindesk.com/markets/2025/11/04/solana-s-bull-party-ends-trendline-smashed-fib-eyed",
+      "summary": "The bearish momentum is increasing, according to key indicators.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T06:25:36.000Z",
+      "image": null
+    },
+    {
+      "title": "Bitcoin’s Last Support Before $100K Breaks as 'Mag 7' Skew Flips, Oracle CDS Surges",
+      "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-s-last-support-before-usd100k-breaks-as-mag-7-skew-flips-oracle-cds-surges",
+      "summary": "The decline comes amid signs of over exuberance in major tech stocks and investor angst about increased AI spending.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T06:04:44.000Z",
+      "image": null
+    },
     {
       "title": "‘Max Pain and Max Fear’: High-Risk Crypto Whale James Wynn Predicts Historic Market Crash",
       "link": "https://news.bitcoin.com/max-pain-and-max-fear-high-risk-crypto-whale-james-wynn-predicts-historic-market-crash/",
@@ -376,30 +400,6 @@
       "summary": "The blockchain firm’s native token debuted Monday with strong activity on Binance and Korean exchanges, following a $18 million Series A raise in September.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-03T15:13:04.000Z",
-      "image": null
-    },
-    {
-      "title": "Donut Labs Raises $15M Seed Funding to Build AI-Powered Crypto Trading Browser",
-      "link": "https://www.coindesk.com/business/2025/11/03/donut-labs-raises-usd15m-seed-fnding-to-build-ai-powered-crypto-trading-browser",
-      "summary": "Donut Labs has now raised $22 million across a pre-seed and seed funding round in the last six months.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T15:12:44.000Z",
-      "image": null
-    },
-    {
-      "title": "Strategy’s Bitcoin Engine Hits New Phase With S&P Ratings Nod, Canaccord Says",
-      "link": "https://www.coindesk.com/markets/2025/11/03/strategy-s-bitcoin-engine-hits-new-phase-with-s-and-p-nod-canaccord-says",
-      "summary": "The broker said the company's full-cap bitcoin strategy is maturing, as preferred equity drives accretion and a new S&P credit rating expands its investor base.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T15:09:43.000Z",
-      "image": null
-    },
-    {
-      "title": "Tharimmune Stock Gains 30%, on $540M Capital Raise to Build Canton Coin Treasury Strategy",
-      "link": "https://www.coindesk.com/business/2025/11/03/tharimmune-stock-g-raises-usd540m-to-build-canton-coin-treasury-strategy",
-      "summary": "The nanocap biotech firm is pivoting into digital assets with a $540 million raise to build a canton coin–based treasury, backed by DRW and Liberty City Ventures.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T14:54:02.000Z",
       "image": null
     }
   ]

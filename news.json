@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-04T13:22:52.070Z",
+  "updatedAt": "2025-11-04T13:50:06.520Z",
   "count": 50,
   "items": [
+    {
+      "title": "Bitcoin Mining Profitability Slumps as Hashprice Falls to Multi-Month Low",
+      "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-mining-profitability-slumps-as-hashprice-falls-to-multi-month-low",
+      "summary": "Hashprice drops to $43.1 PH/s as bitcoin’s price correction, low fees and record hash rate squeeze miners’ margins.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T13:27:29.000Z",
+      "image": null
+    },
     {
       "title": "Morning Minute: Crypto Slides into “Extreme Fear” as Bitcoin Tumbles",
       "link": "https://decrypt.co/347272/morning-minute-crypto-slides-into-extreme-fear-as-bitcoin-tumbles",
@@ -392,14 +400,6 @@
       "summary": "XLM steadies after a sharp 5.5% sell-off, with traders watching the $0.277 level as the critical line between recovery and renewed downside pressure.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-03T16:59:50.000Z",
-      "image": null
-    },
-    {
-      "title": "ICP Slides 5.5% as Bulls Lose Momentum After Volatile Session",
-      "link": "https://www.coindesk.com/markets/2025/11/03/icp-slides-5-5-as-bulls-lose-momentum-after-volatile-session",
-      "summary": "The token climbed to nearly $4.30 late on Sunday, before tracking downward throughout Monday.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T16:47:09.000Z",
       "image": null
     }
   ]

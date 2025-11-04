@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-11-04T04:29:18.055Z",
+  "updatedAt": "2025-11-04T04:45:43.580Z",
   "count": 50,
   "items": [
+    {
+      "title": "FTSE Russell Takes First Step Toward On-Chain Benchmark Data With Chainlink",
+      "link": "https://decrypt.co/347233/ftse-russell-first-step-on-chain-benchmark-data-chainlink",
+      "summary": "The collab brings FTSE Russell’s benchmark indices to blockchain for the first time, linking regulated market data with on-chain finance.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T04:32:37.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/chainlink-decrypt-style-01-gID_7.jpg@png"
+    },
+    {
+      "title": "For the First Time, FTSE Russell Brings Its Benchmark Indices to Blockchain",
+      "link": "https://news.bitcoin.com/for-the-first-time-ftse-russell-brings-its-benchmark-indices-to-blockchain/",
+      "summary": "FTSE Russell’s integration with Chainlink’s Datalink propels traditional finance deeper into the blockchain era, bringing trusted benchmark indices onchain to power next-generation tokenized assets, regulated products, and institutional-grade financial innovation worldwide. FTSE Russell Goes Onchain With Chainlink’s Datalink Blockchain adoption in global finance is accelerating as established institutions integrate decentralized infrastructure into traditional markets. The […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-04T04:30:01.000Z",
+      "image": null
+    },
     {
       "title": "Bitcoin Price Outlook: What's Next After Red October?",
       "link": "https://decrypt.co/347231/bitcoin-price-outlook-whats-next-after-red-october",
@@ -177,14 +193,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-03T20:14:52.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-07-gID_7.png@png"
-    },
-    {
-      "title": "ETF Recap: Bitcoin ETFs Bleed $799 Million as Solana ETFs Soar in Debut Week",
-      "link": "https://news.bitcoin.com/etf-recap-bitcoin-etfs-bleed-799-million-as-solana-etfs-soar-in-debut-week/",
-      "summary": "The final week of October delivered a mixed performance for crypto ETFs. Bitcoin funds bled nearly $800 million, ether products held steady with modest inflows, and solana ETFs stole the spotlight with a $199 million debut, signaling a shifting behavior in investor sentiment. Solana ETFs Shine Amid Heavy Bitcoin Outflows and Ether Stability October’s final […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-03T19:33:15.000Z",
-      "image": null
     },
     {
       "title": "Bitcoin Miners IREN, Cipher Rise After Multi-Billion-Dollar Microsoft, Amazon Deals",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-03T05:35:38.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-09-gID_7.png@png"
-    },
-    {
-      "title": "Crypto Prices Slip Ahead of US Jobs Data as Bessent Flags Rate Risks",
-      "link": "https://decrypt.co/347138/crypto-prices-slip-us-jobs-data-bessent-flags-rate-risks",
-      "summary": "Crypto slipped in thin weekend trade as investors prepared for U.S. jobs data and weighed comments from Treasury Secretary Scott Bessent.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-03T03:50:36.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-ethereum-decrypt-style-02-scaled-gID_7.jpg@png"
     }
   ]
 }

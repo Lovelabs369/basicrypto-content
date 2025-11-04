@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-04T20:20:04.394Z",
+  "updatedAt": "2025-11-04T20:42:23.302Z",
   "count": 50,
   "items": [
+    {
+      "title": "Bitcoin Nosedives as a Socialist Prepares to Take Over New York City and Fears of an AI Bubble Spark a Sell-Off in Stocks",
+      "link": "https://news.bitcoin.com/bitcoin-nosedives-as-a-socialist-prepares-to-take-over-new-york-city-and-fears-of-an-ai-bubble-spark-a-sell-off-in-stocks/",
+      "summary": "The cryptocurrency plunged below $100K, triggering $470 million in liquidations, as long investors racked up the lion’s share of losses. Markets in Turmoil: AI Fears and a Socialist NYC Sink Bitcoin and Stocks “A dip below 100k seems inevitable,” said Standard Chartered Bank’s Geoffrey Kendrick just a few days ago. “It may be the last […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-04T20:38:53.000Z",
+      "image": null
+    },
+    {
+      "title": "Sam Bankman-Fried Wants Another Trial, But His Lawyer Faces Skepticism",
+      "link": "https://decrypt.co/347324/sam-bankman-fried-wants-another-trial-lawyer-skepticism",
+      "summary": "An appeals court did not appear to embrace arguments made by Sam Bankman-Fried's lawyer as to why his 25-year sentence should be overturned.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T20:29:29.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/SBF-DecryptStyle2-scaled-gID_7.jpg@png"
+    },
+    {
+      "title": "Zcash Surging on 'Cypherpunk Principles' as Bitcoin Alternative: Galaxy Digital",
+      "link": "https://decrypt.co/347322/zcash-surging-cypherpunk-principles-bitcoin-galaxy-digital",
+      "summary": "Bitcoin’s creator was aware of its privacy limitations.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T20:29:14.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg@png"
+    },
     {
       "title": "Bitcoin Miner MARA Revenue Hit Record High in Q3",
       "link": "https://decrypt.co/347314/bitcoin-miner-mara-revenue-record-high-q3",
@@ -307,14 +331,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png"
     },
     {
-      "title": "Bitcoin Price Watch: Holding the Line at $103K or Facing the Abyss?",
-      "link": "https://news.bitcoin.com/bitcoin-price-watch-holding-the-line-at-103k-or-facing-the-abyss/",
-      "summary": "Bitcoin danced on the edge of a cliff Tuesday, teetering just above critical support at $103,500, and investors felt the tension. With heavy sell-side volume and technical signals flashing red across the board, the market waits to see if gravity—or resilience—wins this round. Bitcoin Chart Outlook Across the daily chart, the landscape remains distinctly bearish. […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-04T13:05:16.000Z",
-      "image": null
-    },
-    {
       "title": "Ethereum Traders Buy the Dip Despite Third-Largest Spot Outflow Since October",
       "link": "https://decrypt.co/347254/ethereum-traders-buy-the-dip-despite-third-largest-spot-outflow-since-october",
       "summary": "Ethereum's large spot outflow signals dip buying, with a potential bounce contingent on improving macro conditions, Decrypt was told.",
@@ -385,22 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-03T22:34:53.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/jaldps_an_extremely_intelligent_robot_thinking_ai_philosophy__933c9ab1-6b77-44aa-b427-a2be6eaf5523_2-gID_7.png@png"
-    },
-    {
-      "title": "Ripple Acquires Crypto Wallet and Custody Firm Palisade",
-      "link": "https://decrypt.co/347216/ripple-acquires-crypto-wallet-custody-palisade",
-      "summary": "Fintech firm Ripple made another acquisition, this time snatching up wallet provider and custody firm Palisade on Monday.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-03T22:16:29.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ripple-logo-decrypt-style-01-gID_7.png@png"
-    },
-    {
-      "title": "AI Browsers Are Headed to Crypto—Donut Labs Just Raised $22 Million to Build It First",
-      "link": "https://decrypt.co/347204/ai-browsers-headed-crypto-donut-labs-22-million-build-first",
-      "summary": "Donut Labs says its AI-powered browser can analyze markets and execute trades on its own.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-03T21:00:40.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png"
     }
   ]
 }

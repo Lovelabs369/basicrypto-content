@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-04T09:53:48.972Z",
+  "updatedAt": "2025-11-04T10:20:29.677Z",
   "count": 50,
   "items": [
+    {
+      "title": "Bitcoin Nears Lowest Since June as U.S. Government Shutdown Hits Joint Longest",
+      "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-nears-lowest-since-june-as-u-s-government-shutdown-hits-joint-longest",
+      "summary": "The bitcoin price is approaching $103,000 as the federal shutdown ties the 2018–2019 record while dollar the strengthens and tech market futures decline.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T10:03:12.000Z",
+      "image": null
+    },
     {
       "title": "Bitcoin Slips Below $104K as Crypto Market Extends Losses",
       "link": "https://decrypt.co/347238/bitcoin-slips-below-104k-as-crypto-market-extends-losses",
@@ -392,14 +400,6 @@
       "summary": "Heavy institutional selling pressure triggered a technical breakdown in DOT.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-03T15:57:37.000Z",
-      "image": null
-    },
-    {
-      "title": "Bitcoin Slides Below $106K as Cryptos Tumble, Nearing October Crash Lows",
-      "link": "https://www.coindesk.com/markets/2025/11/03/bitcoin-slides-below-usd106k-as-cryptos-tumble-nearing-october-crash-lows",
-      "summary": "The downturn in prices rippled across derivatives markets, liquidating over $1 billion in leveraged trading positions across all digital assets Monday, CoinGlass data showed.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T15:55:37.000Z",
       "image": null
     }
   ]

@@ -1,7 +1,55 @@
 {
-  "updatedAt": "2025-11-04T01:18:54.732Z",
+  "updatedAt": "2025-11-04T02:54:00.406Z",
   "count": 50,
   "items": [
+    {
+      "title": "Standard Chartered CEO Predicts Blockchain Will Power All Global Transactions",
+      "link": "https://news.bitcoin.com/standard-chartered-ceo-predicts-blockchain-will-power-all-global-transactions/",
+      "summary": "Blockchain’s rapid rise as the foundation of global finance is gaining unstoppable traction, with leading banks and asset managers embracing tokenization and digital assets—a movement underscored by Standard Chartered CEO Bill Winters’ conviction that nearly all transactions will soon run on blockchains. Standard Chartered CEO Endorses Blockchain as Foundation for Global Market Infrastructure Growing momentum […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-04T02:30:03.000Z",
+      "image": null
+    },
+    {
+      "title": "Dogecoin Plunges 8% as Price Action Points to Brief Technical Bounces",
+      "link": "https://www.coindesk.com/markets/2025/11/04/dogecoin-plunges-8-as-price-action-points-to-brief-technical-bounces",
+      "summary": "Analysts suggest stabilization above $0.165 is crucial for recovery, with a daily close above $0.18 needed to counter bearish momentum.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T02:18:59.000Z",
+      "image": null
+    },
+    {
+      "title": "Physics vs. Code: Why Google’s ‘Quantum Money’ Could Make Blockchain Obsolete",
+      "link": "https://decrypt.co/347228/physics-code-googles-quantum-money-could-make-blockchain-obsolete",
+      "summary": "Google Quantum AI’s new research revisits a 1960s idea for unforgeable “quantum money,” exploring how physics, not code, could secure finance.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T02:17:58.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-01-2-gID_7.jpg@png"
+    },
+    {
+      "title": "XRP Triangle Tightens as Token Falls 6%, Watch This Price Level For Further Breakdown",
+      "link": "https://www.coindesk.com/markets/2025/11/04/xrp-triangle-tightens-as-token-falls-6-watch-this-price-level-for-further-breakdown",
+      "summary": "The move reflected cautious accumulation rather than broad conviction, as trading volumes remained below trend despite multiple volatility spikes during the session.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T02:08:57.000Z",
+      "image": null
+    },
+    {
+      "title": "Asia Morning Briefing: BTC Tests Its Floor as Legacy Sellers Meet Macro Rotation",
+      "link": "https://www.coindesk.com/markets/2025/11/04/asia-morning-briefing-btc-tests-its-floor-as-legacy-sellers-meet-macro-rotation",
+      "summary": "Market makers say liquidity is moving back into equities while crypto digests heavy profit-taking from long-term holders.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T02:02:50.000Z",
+      "image": null
+    },
+    {
+      "title": "RLUSD Rockets Past $1 Billion as Ripple and XRP Transform Institutional Finance",
+      "link": "https://news.bitcoin.com/rlusd-rockets-past-1-billion-as-ripple-and-xrp-transform-institutional-finance/",
+      "summary": "Ripple’s RLUSD stablecoin has surged to a $1 billion market cap in its first year, accelerating institutional blockchain adoption and cementing Ripple’s leadership in compliant, transparent, and high-efficiency global digital settlements. Ripple’s RLUSD Stablecoin Surges to $1 Billion, Fueling Global Institutional Blockchain Growth Institutional adoption of blockchain-based financial solutions continues to accelerate, with Ripple emerging […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-04T01:30:51.000Z",
+      "image": null
+    },
     {
       "title": "XRP and RLUSD Shine as Ripple Prime Debuts US Multi-Asset Brokerage Platform",
       "link": "https://news.bitcoin.com/xrp-and-rlusd-shine-as-ripple-prime-debuts-us-multi-asset-brokerage-platform/",
@@ -171,14 +219,6 @@
       "image": null
     },
     {
-      "title": "IREN Inks $9.7 Billion AI Cloud Deal With Microsoft",
-      "link": "https://news.bitcoin.com/iren-inks-9-7-billion-ai-cloud-deal-with-microsoft/",
-      "summary": "IREN Limited announced it has inked a multi-year GPU cloud services contract with Microsoft, marking a major partnership in the rapidly expanding field of artificial intelligence (AI) infrastructure. Microsoft Taps IREN for Next-Gen GPU Infrastructure As explained in the release, under the five-year agreement, IREN (Nasdaq: IREN) will supply Microsoft with access to Nvidia GB300 […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-03T17:42:35.000Z",
-      "image": null
-    },
-    {
       "title": "Morning Minute: Tether Prints $10 Billion in Profit",
       "link": "https://decrypt.co/347149/morning-minute-tether-prints-10-billion-profit",
       "summary": "Stablecoin giant Tether has tripled its USDT supply since 2023, and generating profits that would make major banks jealous.",
@@ -225,14 +265,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-03T16:46:57.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-microstrategy-mstr-gID_7.jpg@png"
-    },
-    {
-      "title": "Balancer Suffers Major Exploit: Over $116 Million Drained From V2 Pools",
-      "link": "https://news.bitcoin.com/balancer-suffers-major-exploit-over-116-million-drained-from-v2-pools/",
-      "summary": "On Nov. 3, Balancer was exploited for over $116 million after attackers used a smart contract vulnerability to manipulate vault calls during pool initialization. Balancer Confirms Incident The decentralized finance (DeFi) platform Balancer has suffered a major exploit, resulting in the theft of over $116 million in digital assets. Preliminary investigations revealed that attackers exploited […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-03T16:40:23.000Z",
-      "image": null
     },
     {
       "title": "Hedera’s HBAR Slides 5% as $0.19 Support Crumbles, Traders Eye Technical Reversal",
@@ -347,30 +379,6 @@
       "image": null
     },
     {
-      "title": "CoinDesk 20 Performance Update: Internet Computer (ICP) Surges 35% as Index Declines",
-      "link": "https://www.coindesk.com/coindesk-indices/2025/11/03/coindesk-20-performance-update-internet-computer-icp-surges-35-as-index-declines",
-      "summary": "Sui (SUI) fell 8.6% and Cronos (CRO) dropped 7.9% over the weekend.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T14:25:57.000Z",
-      "image": null
-    },
-    {
-      "title": "Michael Saylor's Strategy Added $45M in Bitcoin to Holdings Last Week",
-      "link": "https://www.coindesk.com/business/2025/11/03/michael-saylor-s-strategy-added-usd45m-in-bitcoin-to-holdings-last-week",
-      "summary": "The firm mostly funded the fresh buys with sales of common stock.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T14:12:17.000Z",
-      "image": null
-    },
-    {
-      "title": "BNB Slides 6% as Price Breaks Below Key $1,080 Support Level",
-      "link": "https://www.coindesk.com/markets/2025/11/03/bnb-slides-6-as-price-breaks-below-key-usd1-080-support-level",
-      "summary": "The breakdown occurred during a broader crypto market downturn, with BNB's move possibly reflecting spillover effects from the decline.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T14:03:09.000Z",
-      "image": null
-    },
-    {
       "title": "Trump Downplays Knowledge of Binance Chief After Pardon Linked to Family's Crypto Dealings",
       "link": "https://decrypt.co/347140/trump-downplays-knowledge-binance-chief-pardon-familys-crypto",
       "summary": "In a rare interview, Trump said he was told Changpeng Zhao was the victim of the Biden administration's “witch hunt” against crypto.",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-03T02:07:23.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-gID_7.png@png"
-    },
-    {
-      "title": "The Biggest Games Releasing in November 2025",
-      "link": "https://decrypt.co/347123/biggest-games-releasing-november-2025",
-      "summary": "It's a big month for gaming, thanks to the impending release of Call of Duty: Black Ops 7, Kirby Air Riders, and a new Zelda game on Switch 2.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-02T21:01:03.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/black-ops-7-gID_7.webp@png"
     }
   ]
 }

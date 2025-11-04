@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-04T22:50:08.418Z",
+  "updatedAt": "2025-11-04T23:16:11.418Z",
   "count": 50,
   "items": [
+    {
+      "title": "US Treasury Sanctions Web of North Korean Bankers Tied to Global Crypto Crime Operation",
+      "link": "https://decrypt.co/347321/treasury-sanctions-web-north-korean-bankers-global-crypto-crime-operation",
+      "summary": "The U.S. Treasury sanctioned eight bankers, two companies, and 53 crypto wallets for laundering stolen funds to back North Korea's weapons programs.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T23:01:31.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg@png"
+    },
+    {
+      "title": "Amazon Sends Cease-and-Desist to Perplexity Over AI Agent Purchases",
+      "link": "https://decrypt.co/347325/amazon-sends-cease-desist-perplexity-ai-agent-purchases",
+      "summary": "Amazon’s order to halt Perplexity's AI-powered web browser Comet marks the first major clash over shopping agents.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T22:55:32.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png@png"
+    },
+    {
+      "title": "Ether's 20% Freefall Triggers $1B Liquidation Cascade as Crypto Losses Accelerate",
+      "link": "https://www.coindesk.com/markets/2025/11/04/ether-s-20-freefall-triggers-usd1b-liquidation-cascade-as-crypto-losses-accelerate",
+      "summary": "The correction could have more room to run, with ETH potentially falling to as low as $2,700-$2,800, 10x Research's Markus Thielen warned.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T22:54:33.000Z",
+      "image": null
+    },
     {
       "title": "Crypto Liquidations Top $2 Billion as Bitcoin Continues Slide, Ethereum Hits 4-Month Low",
       "link": "https://decrypt.co/347341/crypto-liquidations-2-billion-bitcoin-slides-ethereum-4-month-low",
@@ -331,14 +355,6 @@
       "image": null
     },
     {
-      "title": "SUI Slides as $116M DeFi Exploit Rattles Crypto Markets",
-      "link": "https://www.coindesk.com/markets/2025/11/04/sui-slides-as-usd116m-defi-exploit-rattles-crypto-markets",
-      "summary": "The layer-1 token broke key support levels and saw 68% above-average volume as traders dumped risk.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-04T15:18:36.000Z",
-      "image": null
-    },
-    {
       "title": "Morning Minute: Crypto Slides into “Extreme Fear” as Bitcoin Tumbles",
       "link": "https://decrypt.co/347272/morning-minute-crypto-slides-into-extreme-fear-as-bitcoin-tumbles",
       "summary": "OG Bitcoin holders selling $40B in the past month certainly isn't helping sentiment, as most are wondering: where is the bottom?",
@@ -385,22 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T04:32:37.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/chainlink-decrypt-style-01-gID_7.jpg@png"
-    },
-    {
-      "title": "Bitcoin Price Outlook: What's Next After Red October?",
-      "link": "https://decrypt.co/347231/bitcoin-price-outlook-whats-next-after-red-october",
-      "summary": "Bitcoin's \"Red October\" is a healthy correction that could fuel a bullish November, targeting up to $150K by year-end, Decrypt was told.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-04T03:38:50.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png"
-    },
-    {
-      "title": "Physics vs. Code: Why Google’s ‘Quantum Money’ Could Make Blockchain Obsolete",
-      "link": "https://decrypt.co/347228/physics-code-googles-quantum-money-could-make-blockchain-obsolete",
-      "summary": "Google Quantum AI’s new research revisits a 1960s idea for unforgeable “quantum money,” exploring how physics, not code, could secure finance.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-04T02:17:58.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-01-2-gID_7.jpg@png"
     }
   ]
 }

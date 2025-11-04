@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-04T02:54:00.406Z",
+  "updatedAt": "2025-11-04T03:40:59.159Z",
   "count": 50,
   "items": [
+    {
+      "title": "Bitcoin Price Outlook: What's Next After Red October?",
+      "link": "https://decrypt.co/347231/bitcoin-price-outlook-whats-next-after-red-october",
+      "summary": "Bitcoin's \"Red October\" is a healthy correction that could fuel a bullish November, targeting up to $150K by year-end, Decrypt was told.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T03:38:50.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png"
+    },
+    {
+      "title": "Strategy Pushes Bitcoin Holdings to 641,205 BTC, Achieves 26.1% BTC Yield",
+      "link": "https://news.bitcoin.com/strategy-pushes-bitcoin-holdings-to-641205-btc-achieves-26-1-btc-yield/",
+      "summary": "Strategy Inc. is ramping up bitcoin accumulation with fresh purchases that extend its record-breaking holdings, signal unshakable conviction in digital assets, and strengthen its position as the definitive institutional leader in bitcoin’s accelerating global ascent. Strategy Expands Bitcoin Treasury With Unstoppable Momentum and Institutional Scale Strategy Inc. is intensifying its bitcoin accumulation strategy, underscoring its […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-04T03:30:38.000Z",
+      "image": null
+    },
+    {
+      "title": "Bitcoin, Ether, Solana Traders Liquidated for Over $1B as Prices Dump 5-10%",
+      "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-ether-solana-traders-liquidated-for-over-usd1b-as-prices-dump-5-10",
+      "summary": "Long traders accounted for nearly 90% of the liquidations, with $1.14 billion in bullish bets erased.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T03:00:15.000Z",
+      "image": null
+    },
     {
       "title": "Standard Chartered CEO Predicts Blockchain Will Power All Global Transactions",
       "link": "https://news.bitcoin.com/standard-chartered-ceo-predicts-blockchain-will-power-all-global-transactions/",
@@ -195,14 +219,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png"
     },
     {
-      "title": "Onchain Analyst: Long-Sleeping Bitcoin Whale Resurfaces, Shifting 2,300 BTC to Paxos Wallet",
-      "link": "https://news.bitcoin.com/onchain-analyst-long-sleeping-bitcoin-whale-resurfaces-shifting-2300-btc-to-paxos-wallet/",
-      "summary": "On Monday, onchain analyst Emmett Gallic spotted a heavyweight bitcoin whale making waves after dropping 2,300 BTC into a Paxos-tagged deposit address. Despite that hefty move, the whale is still swimming in deep crypto waters—holding 32,490.38 BTC worth a cool $3.44 billion. Analyst Emmett Gallic Flags $245M Bitcoin Move From Long-Inactive Whale Bitcoin’s price has […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-03T18:31:50.000Z",
-      "image": null
-    },
-    {
       "title": "Nasdaq Reprimands TON Treasury for $558 Million Stock Sale, Crypto Buy",
       "link": "https://decrypt.co/347165/nasdaq-reprimands-ton-treasury-558-million-stock-sale-crypto-buy",
       "summary": "Nasdaq said TON Strategy failed to get shareholder approval for a massive crypto-fueled fundraise—but stopped short of delisting the company’s stock.",
@@ -371,14 +387,6 @@
       "image": null
     },
     {
-      "title": "Tom Lee's BitMine Immersion Acquires Additional $300M in Ether, Bringing Holdings to $13.7B",
-      "link": "https://www.coindesk.com/business/2025/11/03/tom-lee-s-bitmine-immersion-acquires-additional-usd300m-in-ether-bringing-holdings-to-usd13-7b",
-      "summary": "The company's 3.4 million of ETH tokens represents just shy of 3% of the total supply.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-03T14:38:08.000Z",
-      "image": null
-    },
-    {
       "title": "Trump Downplays Knowledge of Binance Chief After Pardon Linked to Family's Crypto Dealings",
       "link": "https://decrypt.co/347140/trump-downplays-knowledge-binance-chief-pardon-familys-crypto",
       "summary": "In a rare interview, Trump said he was told Changpeng Zhao was the victim of the Biden administration's “witch hunt” against crypto.",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-03T03:50:36.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-ethereum-decrypt-style-02-scaled-gID_7.jpg@png"
-    },
-    {
-      "title": "South Australia Rounds Up Another 55 Suspects After High Court Backs Encrypted-App Sting",
-      "link": "https://decrypt.co/347136/south-australia-55-suspects-high-court-backs-encrypted-app",
-      "summary": "Authorities moved to the third phase of Operation Ironside, using AN0M intelligence to expand drug, weapons and laundering cases.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-03T02:07:23.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-gID_7.png@png"
     }
   ]
 }

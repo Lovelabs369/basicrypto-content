@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-11-04T17:31:49.617Z",
+  "updatedAt": "2025-11-04T17:50:25.802Z",
   "count": 50,
   "items": [
+    {
+      "title": "XRP Slips to $2.25; Death-Cross Risk Builds After Whale Selling",
+      "link": "https://www.coindesk.com/markets/2025/11/05/xrp-slips-to-usd2-25-death-cross-risk-builds-after-whale-selling",
+      "summary": "The move—paired with a 15% open-interest drop—keeps pressure on bulls ahead of a looming death-cross setup and a key $2.20 support retest.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T17:47:21.000Z",
+      "image": null
+    },
+    {
+      "title": "‘Strategic Asset Reallocation’: Sequans’ Bitcoin Sale Gets Roasted Online",
+      "link": "https://news.bitcoin.com/strategic-asset-reallocation-sequans-bitcoin-sale-gets-roasted-online/",
+      "summary": "Sequans Communications S.A., a firm that adopted bitcoin as its primary treasury reserve asset, confirmed the sale of 970 BTC to reduce debt and strengthen its balance sheet. The move follows similar actions from other digital asset treasury (DAT) firms, including ethereum-focused ETHzilla, which recently liquidated a portion of its holdings. Sequans Sells Bitcoin According […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-04T17:45:32.000Z",
+      "image": null
+    },
     {
       "title": "Nasdaq CEO Adena Friedman Outlines 3 Ways Blockchain Can Fix Finance",
       "link": "https://www.coindesk.com/markets/2025/11/04/nasdaq-ceo-outlines-3-ways-blockchain-can-fix-finance",
@@ -259,14 +275,6 @@
       "image": null
     },
     {
-      "title": "UBS, Chainlink Execute First Onchain Tokenized Fund Redemption in $100T Market",
-      "link": "https://www.coindesk.com/business/2025/11/04/ubs-chainlink-execute-first-onchain-tokenized-fund-redemption-in-usd100t-market",
-      "summary": "The transaction involved the tokenized UBS USD Money Market Investment Fund Token (uMINT) on Ethereum, with DigiFT as the onchain distributor.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-04T11:00:00.000Z",
-      "image": null
-    },
-    {
       "title": "Coinbase’s Brian Armstrong Throws a Wrench Into Polymarket Odds",
       "link": "https://news.bitcoin.com/coinbases-brian-armstrong-throws-a-wrench-into-polymarket-odds/",
       "summary": "America’s largest cryptocurrency exchange reported $1.8 billion in net revenue last week, but many people were more interested in the CEO’s impromptu remarks at the end of the earnings call than the company’s financial performance. Why Is Coinbase’s CEO Meddling With Prediction Markets? What started off as lighthearted trolling quickly turned into a full-blown indictment […]",
@@ -281,14 +289,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T09:47:48.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-28-gID_7.png@png"
-    },
-    {
-      "title": "BTC Plummets to $104K: $1.32 Billion Liquidated Amid Market FUD and Collapse Warnings",
-      "link": "https://news.bitcoin.com/btc-plummets-to-104k-1-32-billion-liquidated-amid-market-fud-and-collapse-warnings/",
-      "summary": "The crypto economy kicked off the second day of the week in a downturn, with bearish sentiment resulting in a 3.2% decline in total market capitalization, dropping to $3.55 trillion. Bitcoin Leads the Crash, Triggering Massive Liquidations The crypto economy began the second day of the new week deep in the red, as bearish sentiment […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-04T09:10:11.000Z",
-      "image": null
     },
     {
       "title": "US Prosecutors Seek Maximum Sentence for Samourai Wallet Developers",

@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-04T17:13:56.816Z",
+  "updatedAt": "2025-11-04T17:31:49.617Z",
   "count": 50,
   "items": [
+    {
+      "title": "Nasdaq CEO Adena Friedman Outlines 3 Ways Blockchain Can Fix Finance",
+      "link": "https://www.coindesk.com/markets/2025/11/04/nasdaq-ceo-outlines-3-ways-blockchain-can-fix-finance",
+      "summary": "Friedman sees post-trade streamlining, collateral mobility and better payments as key blockchain breakthroughs.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T17:26:04.000Z",
+      "image": null
+    },
     {
       "title": "Bitcoin Careens Toward $100K as Morning Bounce Fails",
       "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-careens-toward-usd100k-as-morning-bounce-fails",
@@ -16,6 +24,14 @@
       "summary": "CRE enables smart contracts that work across blockchains and tap into legacy financial messaging standards, with access to Chainlink's services.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-04T17:00:56.000Z",
+      "image": null
+    },
+    {
+      "title": "Olas Launches Pearl v1, the First 'AI Agent App Store'",
+      "link": "https://www.coindesk.com/tech/2025/11/04/olas-launches-pearl-v1-the-first-ai-agent-app-store",
+      "summary": "The new platform lets users own and control autonomous artificial intelligence agents, aiming to shift power from centralized AI providers to individuals.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T17:00:00.000Z",
       "image": null
     },
     {
@@ -259,28 +275,12 @@
       "image": null
     },
     {
-      "title": "Bitcoin Nears Lowest Since June as U.S. Government Shutdown Hits Joint Longest",
-      "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-nears-lowest-since-june-as-u-s-government-shutdown-hits-joint-longest",
-      "summary": "The bitcoin price is approaching $103,000 as the federal shutdown ties the 2018–2019 record while dollar the strengthens and tech market futures decline.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-04T10:03:12.000Z",
-      "image": null
-    },
-    {
       "title": "Bitcoin Slips Below $104K as Crypto Market Extends Losses",
       "link": "https://decrypt.co/347238/bitcoin-slips-below-104k-as-crypto-market-extends-losses",
       "summary": "Analysts say a DeFi crisis and macro fears sparked a crypto sell-off, but the leverage flush may pave the way for a sustainable recovery.",
       "source": "Decrypt",
       "publishedAt": "2025-11-04T09:47:48.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-28-gID_7.png@png"
-    },
-    {
-      "title": "Strategy Introduces a Euro-Denominated Preferred Stock Stream, Following Q3 Earnings",
-      "link": "https://www.coindesk.com/markets/2025/11/04/strategy-introduces-a-euro-denominated-preferred-stock-stream-following-q3-earnings",
-      "summary": "Less than a week after hinting at an international perpetual preferred listing, Strategy unveils its 10% euro-based Stream issue targeting institutional investors.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-04T09:37:40.000Z",
-      "image": null
     },
     {
       "title": "BTC Plummets to $104K: $1.32 Billion Liquidated Amid Market FUD and Collapse Warnings",

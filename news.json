@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-05T11:37:51.400Z",
+  "updatedAt": "2025-11-05T11:50:12.644Z",
   "count": 50,
   "items": [
+    {
+      "title": "France's Proposed Crypto Tax is \"Economically Unjust\": Experts",
+      "link": "https://decrypt.co/347371/frances-proposed-crypto-tax-is-economically-unjust-experts",
+      "summary": "The \"unproductive wealth\" measure marks the first time that France has singled out cryptocurrency holdings in a wealth tax.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T11:48:55.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Paris-gID_7.jpg@png"
+    },
     {
       "title": "UBS Completes First Live Tokenized Fund Transaction Using Chainlink",
       "link": "https://news.bitcoin.com/ubs-completes-first-live-tokenized-fund-transaction-using-chainlink/",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T16:16:13.000Z",
       "image": "https://cdn.jwplayer.com/v2/media/6x1AcJH6/poster.jpg"
-    },
-    {
-      "title": "Stream Finance Stablecoin Plunges 77% After Protocol's Fund Manager Loses $93 Million",
-      "link": "https://decrypt.co/347285/stream-finance-stablecoin-plunges-77-protocol-fund-manager-loses-93-million",
-      "summary": "Stream's collapse shows operational risk extends beyond smart contracts to fund managers and custody, an expert told Decrypt.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-04T16:05:15.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png"
     }
   ]
 }

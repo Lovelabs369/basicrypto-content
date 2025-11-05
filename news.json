@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-11-05T21:16:27.009Z",
+  "updatedAt": "2025-11-05T21:36:46.437Z",
   "count": 50,
   "items": [
+    {
+      "title": "Bitcoin Stabilizes, But Galaxy Research Cuts Year-End Forecast to $120K",
+      "link": "https://news.bitcoin.com/bitcoin-stabilizes-but-galaxy-research-cuts-year-end-forecast-to-120k/",
+      "summary": "The digital currency nosedived below $100K on Tuesday before clawing its way back to $104K on Wednesday afternoon. Galaxy Research Revises Bullish Target Down to $120K Tuesday belonged to the bears. Bitcoin ( BTC) plunged below $100K triggering nearly $500 million in BTC liquidations. It was the first time the cryptocurrency had entered sub-$100K territory […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-05T21:26:09.000Z",
+      "image": null
+    },
+    {
+      "title": "Robinhood’s Crypto Trading Revenue Soared 339% in Q3 as Company Tops Street Earnings Estimates",
+      "link": "https://www.coindesk.com/markets/2025/11/05/robinhood-s-crypto-trading-revenue-soars-339-to-usd268m-in-q3",
+      "summary": "The brokerage platform saw a record $80B in crypto trading volume; shares dipped in after hours action despite the earnings beat.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T21:24:09.000Z",
+      "image": null
+    },
     {
       "title": "Gemini Targets Prediction Markets in Bid to Expand Revenue Streams",
       "link": "https://news.bitcoin.com/gemini-targets-prediction-markets-in-bid-to-expand-revenue-streams/",
@@ -355,14 +371,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/iggy-azalea-decrypt-style-gID_7.jpg@png"
     },
     {
-      "title": "Ripple Raises $500M at $40B Valuation in Fortress-Led Round",
-      "link": "https://www.coindesk.com/markets/2025/11/05/ripple-raises-usd500m-at-usd40b-valuation-in-fortress-led-round",
-      "summary": "Pantera, Galaxy Digital and Citadel Securities joined the deal, which expands Ripple’s institutional base as its payments and stablecoin businesses surge.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T14:00:29.000Z",
-      "image": null
-    },
-    {
       "title": "Morning Minute: Bitcoin Breaks Below $100K for First Time Since May",
       "link": "https://decrypt.co/347386/morning-minute-bitcoin-breaks-below-100k-for-first-time-since-may",
       "summary": "Tuesday was a bloody day for crypto markets, but there are signs of recovery and reasons for hope.",
@@ -385,14 +393,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-05T12:57:29.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png"
-    },
-    {
-      "title": "Bitcoin and Ether ETFs Bleed $797 Million as Solana Defies the Downtrend",
-      "link": "https://news.bitcoin.com/bitcoin-and-ether-etfs-bleed-797-million-as-solana-defies-the-downtrend/",
-      "summary": "Bitcoin and ether ETFs extended their losing streaks on Tuesday, shedding a combined $797 million, while solana ETFs once again defied market gravity, drawing in $15 million in new capital. Crypto ETF Flows Turn Red Except for Solana’s $15 Million Surge The red tide in crypto exchange-traded funds (ETFs) showed no signs of easing as […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-05T12:30:47.000Z",
-      "image": null
     },
     {
       "title": "France's Proposed Crypto Tax is 'Economically Unjust': Experts",

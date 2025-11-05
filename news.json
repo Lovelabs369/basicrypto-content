@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2025-11-05T12:36:34.449Z",
+  "updatedAt": "2025-11-05T13:21:00.688Z",
   "count": 50,
   "items": [
+    {
+      "title": "Morning Minute: Bitcoin Breaks Below $100K for First Time Since May",
+      "link": "https://decrypt.co/347386/morning-minute-bitcoin-breaks-below-100k-for-first-time-since-may",
+      "summary": "Tuesday was a bloody day for crypto markets, but there are signs of recovery and reasons for hope.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T13:15:06.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bear-market-decrypt-style-gID_7.jpg@png"
+    },
+    {
+      "title": "Bitcoin Price Watch: A Technical Tug-of-War in the Six-Figure Zone",
+      "link": "https://news.bitcoin.com/bitcoin-price-watch-a-technical-tug-of-war-in-the-six-figure-zone/",
+      "summary": "The king of crypto is pacing nervously just above six figures, licking its wounds after a bruising drop from the $126,000 summit. While the charts show bitcoin trying to steady itself, its indicators are whispering mixed messages — and they aren’t all optimistic. Bitcoin Chart Outlook On the daily chart, bitcoin is dragging a red […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-05T13:15:05.000Z",
+      "image": null
+    },
+    {
+      "title": "Dinari Taps Chainlink to Tokenize S&P DJI's Upcoming Crypto Market Index",
+      "link": "https://www.coindesk.com/business/2025/11/04/dinari-taps-chainlink-to-tokenize-s-and-p-dji-s-upcoming-crypto-market-index",
+      "summary": "The S&P Digital Markets 50 Index tracks a basket of blockchain-focused stocks and digital assets; Chainlink will provide crucial data to support a tokenized version.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T13:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Crypto Markets Today: Altcoins Struggle as Bitcoin Tests Key $100K Support",
+      "link": "https://www.coindesk.com/markets/2025/11/05/crypto-markets-today-altcoins-struggle-as-bitcoin-tests-key-usd100k-support",
+      "summary": "After a sharp sell-off Tuesday, crypto markets are stabilizing, though continued dollar strength could extend downside pressure.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T13:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Canada Moves to Regulate Stablecoins in New Budget",
+      "link": "https://decrypt.co/347379/canada-moves-to-regulate-stablecoins-in-new-budget",
+      "summary": "The government is planning federal oversight for fiat-backed stablecoins, giving the Bank of Canada a new supervisory role.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T12:57:29.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png"
+    },
     {
       "title": "Bitcoin and Ether ETFs Bleed $797 Million as Solana Defies the Downtrend",
       "link": "https://news.bitcoin.com/bitcoin-and-ether-etfs-bleed-797-million-as-solana-defies-the-downtrend/",
@@ -136,14 +176,6 @@
       "summary": "U.S.-China trade tensions are easing, with China suspending additional tariffs on U.S. goods.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-05T05:59:00.000Z",
-      "image": null
-    },
-    {
-      "title": "Microsoft Details AI’s Next Barrier: Data-Center Power Availability",
-      "link": "https://news.bitcoin.com/microsoft-details-ais-next-barrier-data-center-power-availability/",
-      "summary": "Satya Nadella, CEO of Microsoft, said the next barrier to scaling AI compute power will be power availability. Nadella warned this could leave Microsoft with large inventories of chips it can’t power, a problem the company is already facing. Microsoft CEO Talks Power Availability as Key Issue for AI Data Centers The Facts Satya Nadella, […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-05T05:30:37.000Z",
       "image": null
     },
     {
@@ -355,14 +387,6 @@
       "image": null
     },
     {
-      "title": "Chainlink's LINK Tumbles 6% as Technical Breakdown Trumps UBS, FTSE Partnership",
-      "link": "https://www.coindesk.com/markets/2025/11/04/chainlink-s-link-tumbles-6-as-technical-breakdown-trumps-ubs-ftse-partnership",
-      "summary": "LINK risks falling to $14 as breakdown amid heavy volume confirmed the broader bearish structure.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-04T18:38:28.000Z",
-      "image": null
-    },
-    {
       "title": "How Bitcoin Liquidity Has Been Affected by the Government Shutdown",
       "link": "https://decrypt.co/347308/bitcoin-liquidity-government-shutdown",
       "summary": "Bitcoin has dropped about 19% from its record high as the government shutdown saps $700 billion from markets, but analysts see a major rally ahead when liquidity returns.",
@@ -377,30 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T18:16:51.000Z",
       "image": "https://cdn.jwplayer.com/v2/media/0kRfhCSl/poster.jpg"
-    },
-    {
-      "title": "Why Bernstein Just Boosted Its Price Target for Bitcoin Miner IREN",
-      "link": "https://decrypt.co/347288/why-bernstein-boosted-price-target-bitcoin-miner-iren",
-      "summary": "IREN this week signed a $9.7 billion cloud services agreement with Microsoft.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-04T18:08:51.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-miners-decrypt-style-01-gID_7.jpg@png"
-    },
-    {
-      "title": "DOGE Prints Lower-Low Sequence as $0.17 Resistance Locks In",
-      "link": "https://www.coindesk.com/markets/2025/11/05/doge-prints-lower-low-sequence-as-usd0-17-resistance-locks-in",
-      "summary": "Trading volume surged 76% above the weekly average, indicating significant distribution rather than retail activity.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-04T17:53:48.000Z",
-      "image": null
-    },
-    {
-      "title": "Crypto enters “Extreme Fear”! Crypto Falls 3-8%!",
-      "link": "https://decrypt.co/videos/interviews/6x1AcJH6/crypto-enters-extreme-fear-crypto-falls-3-8",
-      "summary": "Crypto majors continued their decline, dropping another 3–8% as the selloff persisted. Bitcoin (BTC) fell 3% to $104,500, Ethereum (ETH) dropped 5% to $3,520, Binance Coin (BNB) slid 6% to $955, and Solana (SOL) plunged 8% to $162. Meanwhile, Decred (DCR) surged 111%, Dash (DASH) climbed 50%, and Internet Computer (ICP) gained 30%, leading the day’s top movers. Liquidations totaled over $1.2 billion on Monday, with long positions accounting for 90% of the losses, and the Crypto Fear & Greed Inde",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-04T16:16:13.000Z",
-      "image": "https://cdn.jwplayer.com/v2/media/6x1AcJH6/poster.jpg"
     }
   ]
 }

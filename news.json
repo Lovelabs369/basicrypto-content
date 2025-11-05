@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-05T15:18:52.838Z",
+  "updatedAt": "2025-11-05T15:41:47.712Z",
   "count": 50,
   "items": [
+    {
+      "title": "Coinbase CLO: Bank Groups Opposing Trust Charter Bid Engaging in 'Protectionism'",
+      "link": "https://decrypt.co/347407/coinbase-clo-bank-groups-opposing-trust-charter-bid-engaging-in-protectionism",
+      "summary": "Coinbase’s Paul Grewal said the ICBA wants crypto to stay unregulated and is trying to keep competitors out with \"regulatory moats.\"",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T15:23:46.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase-phone-decrypt-style-01-gID_7.png@png"
+    },
     {
       "title": "BNB Holds Firm Above $950 as Traders Defend Key Support Level During Market Decline",
       "link": "https://www.coindesk.com/markets/2025/11/05/bnb-holds-firm-above-usd950-as-traders-defend-key-support-level-during-market-decline",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T19:45:49.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png@png"
-    },
-    {
-      "title": "Bitcoin Crashes Under $100K for First Time Since May, Liquidations Hit $1.3 Billion",
-      "link": "https://decrypt.co/347305/bitcoin-crashes-under-100k-first-time-since-may-liquidations-hit-1-3-billion",
-      "summary": "Bitcoin just dropped below the $100,000 mark for the first time since May, with Ethereum, XRP, and other hit harder. Is the bull run over?",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-04T18:57:33.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
     }
   ]
 }

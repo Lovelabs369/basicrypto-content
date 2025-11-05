@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-05T19:14:38.067Z",
+  "updatedAt": "2025-11-05T19:28:40.420Z",
   "count": 50,
   "items": [
+    {
+      "title": "Canada Begins March Toward Stablecoin Regulations",
+      "link": "https://www.coindesk.com/policy/2025/11/05/canada-begins-march-toward-stablecoin-regulations",
+      "summary": "In the wake of the U.S. GENIUS Act, Canadian lawmakers are moving on Canadian-dollar-backed stablecoin legislation, which is being cheered by crypto interests.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T19:21:49.000Z",
+      "image": null
+    },
+    {
+      "title": "Monad Reveals Mainnet and Token Launch Date Following Airdrop Claim",
+      "link": "https://decrypt.co/347450/monad-reveals-mainnet-token-launch-date-airdrop-claim",
+      "summary": "Following its airdrop claim, the Monad Foundation said it launch the mainnet of its layer-1 network later this month alongside the MON token.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T19:18:26.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-08-gID_7.png@png"
+    },
+    {
+      "title": "Mastercard to Leverage Ripple’s RLUSD for Next-Gen Fiat Payment Settlement",
+      "link": "https://news.bitcoin.com/mastercard-to-leverage-ripples-rlusd-for-next-gen-fiat-payment-settlement/",
+      "summary": "Ripple is partnering with Mastercard, Webbank, and Gemini to test stablecoin settlement using its U.S. dollar–backed RLUSD on the XRP Ledger, marking a step toward merging blockchain efficiency with traditional finance (TradFi). Ripple, Mastercard, Gemini, and Webbank Collaborate on RLUSD Blockchain Settlement Initiative Ripple announced the collaboration during Ripple Swell 2025 event in New York, […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-05T19:15:24.000Z",
+      "image": null
+    },
     {
       "title": "Metaplanet Borrows $100 Million Against Its Bitcoin Holdings—To Buy More BTC",
       "link": "https://decrypt.co/347453/metaplanet-borrows-100-million-bitcoin-holdings-buy-btc",
@@ -307,14 +331,6 @@
       "image": null
     },
     {
-      "title": "ICP Falls Nearly 25% Following Surge to Over $6.50",
-      "link": "https://www.coindesk.com/markets/2025/11/05/icp-falls-nearly-25-following-resistance-shattering-surge-to-over-usd6-50",
-      "summary": "Internet Computer slips to $4.99 after a rally above $6.50 fades, as profit-taking caps gains despite elevated trading volume.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T13:35:01.000Z",
-      "image": null
-    },
-    {
       "title": "Morning Minute: Bitcoin Breaks Below $100K for First Time Since May",
       "link": "https://decrypt.co/347386/morning-minute-bitcoin-breaks-below-100k-for-first-time-since-may",
       "summary": "Tuesday was a bloody day for crypto markets, but there are signs of recovery and reasons for hope.",
@@ -363,14 +379,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Paris-gID_7.jpg@png"
     },
     {
-      "title": "UBS Completes First Live Tokenized Fund Transaction Using Chainlink",
-      "link": "https://news.bitcoin.com/ubs-completes-first-live-tokenized-fund-transaction-using-chainlink/",
-      "summary": "UBS executes the first in‑production onchain subscription and redemption for a tokenized money‑market fund. UBS announces in New York and Zurich the first live, end‑to‑end tokenized fund workflow using the Chainlink Digital Transfer Agent (DTA) technical standard, completing on‑chain subscription and redemption requests for the UBS USD Money Market Investment Fund Token (uMINT) built on […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-05T11:30:09.000Z",
-      "image": null
-    },
-    {
       "title": "Monero Bucks Market Downturn as Privacy Narrative Strengthens",
       "link": "https://decrypt.co/347368/monero-bucks-market-downturn-as-privacy-narrative-strengthens",
       "summary": "The privacy coin's rally comes as experts point to tightening 2026 regulations and a flight to privacy assets during the broader market sell-off.",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-05T04:28:44.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-gID_7.png@png"
-    },
-    {
-      "title": "Mamdani Wins NYC Mayor's Race: Here's What the Crypto Prediction Markets Foretold",
-      "link": "https://decrypt.co/347355/mamdani-wins-nyc-mayors-race-crypto-predictions-markets",
-      "summary": "With just over half the votes, Mamdani becomes NYC's next mayor after prediction markets and progressive groups rallied behind his campaign",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T03:57:04.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/zohran-mamdani-decrypt-style-gID_7.jpg@png"
     }
   ]
 }

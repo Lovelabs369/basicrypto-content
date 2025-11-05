@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-05T15:41:47.712Z",
+  "updatedAt": "2025-11-05T15:52:52.441Z",
   "count": 50,
   "items": [
+    {
+      "title": "Trump Says US Stock Market Will Hit ‘Many More Record Highs’",
+      "link": "https://news.bitcoin.com/trump-says-us-stock-market-will-hit-many-more-record-highs/",
+      "summary": "U.S. President Trump told Republican senators that the United States is experiencing “the hottest economy we’ve ever had” and predicted that the stock market will continue breaking records despite a temporary dip tied to the government shutdown. President Trump Cites Construction Surge as Proof of Economic Expansion Speaking during a breakfast meeting with Republican senators, […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-05T15:46:26.000Z",
+      "image": null
+    },
+    {
+      "title": "Bitcoin Bulls' Last Stand? $95K, According to This Well-Followed Analyst",
+      "link": "https://www.coindesk.com/markets/2025/11/05/bitcoin-bulls-last-stand-usd95k-according-to-this-well-followed-analyst",
+      "summary": "Nearly 57% of all money ever invested in bitcoin is in the red at the $100,000 level according to James Check.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T15:44:35.000Z",
+      "image": null
+    },
+    {
+      "title": "Jefferies Sees Solid Quarter but Limited Upside for Bitcoin Miner MARA",
+      "link": "https://www.coindesk.com/markets/2025/11/05/jefferies-sees-solid-quarter-but-limited-upside-for-bitcoin-miner-mara",
+      "summary": "The bank kept its hold rating on the stock and trimmed its price target to $16 from $19.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T15:44:01.000Z",
+      "image": null
+    },
     {
       "title": "Coinbase CLO: Bank Groups Opposing Trust Charter Bid Engaging in 'Protectionism'",
       "link": "https://decrypt.co/347407/coinbase-clo-bank-groups-opposing-trust-charter-bid-engaging-in-protectionism",
@@ -251,14 +275,6 @@
       "image": null
     },
     {
-      "title": "Google Launches Project Suncatcher to Put AI Compute in Space",
-      "link": "https://news.bitcoin.com/google-launches-project-suncatcher-to-put-ai-compute-in-space/",
-      "summary": "Google announces Project Suncatcher to test space‑based TPUs, optical links, and scalable artificial intelligence (AI) infrastructure. Google unveils Project Suncatcher on 4 November 2025, announcing plans to test Trillium‑generation tensor processing units (TPUs) in space and to launch two prototype satellites with Planet by early 2027 to validate optical inter‑satellite links, radiation tolerance, and clustered […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-05T08:30:45.000Z",
-      "image": null
-    },
-    {
       "title": "Bitcoin at Make or Break Level as China Suspends 24% Tariff on U.S. Goods",
       "link": "https://www.coindesk.com/markets/2025/11/05/bitcoin-at-make-or-break-level-as-china-suspends-24-tariff-on-u-s-goods",
       "summary": "U.S.-China trade tensions are easing, with China suspending additional tariffs on U.S. goods.",
@@ -313,22 +329,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-05T03:33:20.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/gemini-decrypt-style-02-gID_7.jpg@png"
-    },
-    {
-      "title": "Dogecoin Falls 5% as Lower-Lows Pattern Aids Bearish Outlook",
-      "link": "https://www.coindesk.com/markets/2025/11/05/dogecoin-falls-5-as-lower-lows-pattern-aids-bearish-outlook",
-      "summary": "",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T03:29:09.000Z",
-      "image": null
-    },
-    {
-      "title": "XRP Slides 6% as Bearish Bitcoin Sentiment Weighs Down Ripple-Linked Token",
-      "link": "https://www.coindesk.com/markets/2025/11/05/xrp-slides-6-as-bearish-bitcoin-sentiment-weighs-down-ripple-linked-token",
-      "summary": "Traders are monitoring the $2.08 support level to prevent further declines toward $2.00.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T03:17:16.000Z",
-      "image": null
     },
     {
       "title": "Inside the Deposition That Showed How OpenAI Nearly Destroyed Itself",

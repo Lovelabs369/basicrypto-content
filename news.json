@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-11-05T20:20:11.254Z",
+  "updatedAt": "2025-11-05T20:42:48.855Z",
   "count": 50,
   "items": [
+    {
+      "title": "Gemini Targets Prediction Markets in Bid to Expand Revenue Streams",
+      "link": "https://news.bitcoin.com/gemini-targets-prediction-markets-in-bid-to-expand-revenue-streams/",
+      "summary": "Crypto exchange Gemini is set to enter the growing prediction markets sector, positioning itself against various financial and crypto firms, including a new venture backed by the Trump family. Regulatory Application and Strategic Ambitions The cryptocurrency exchange, Gemini Space Station Inc., is preparing to enter the booming prediction markets sector, according to a report citing […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-05T20:32:30.000Z",
+      "image": null
+    },
+    {
+      "title": "Google Maps Becomes Gemini’s Proving Ground for Real-World AI",
+      "link": "https://decrypt.co/347518/google-maps-becomes-geminis-proving-ground-real-world-ai",
+      "summary": "Gemini turns Google Maps into a conversational copilot with smarter navigation and real-world awareness, thanks to generative AI.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T20:29:42.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png"
+    },
     {
       "title": "Labubus and Unicorns: Florida Crypto Confab Unshaken by Bitcoin Volatility",
       "link": "https://decrypt.co/347467/labubus-unicorns-crypto-confab-unshaken-bitcoin-volatility",
@@ -379,28 +395,12 @@
       "image": null
     },
     {
-      "title": "Bitget Becomes First UEX to Integrate Morph Chain, Advancing Its Onchain Ecosystem",
-      "link": "https://news.bitcoin.com/bitget-becomes-first-uex-to-integrate-morph-chain-advancing-its-onchain-ecosystem/",
-      "summary": "This content is provided by a sponsor. Bitget, the world’s largest Universal Exchange (UEX), has officially become the first exchange to integrate with Morph Chain. That marked a major milestone in the expansion of its Onchain ecosystem. The integration enables users to trade all assets within the Morph ecosystem directly with USDT from their Bitget […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-05T12:00:47.000Z",
-      "image": null
-    },
-    {
       "title": "France's Proposed Crypto Tax is 'Economically Unjust': Experts",
       "link": "https://decrypt.co/347371/frances-proposed-crypto-tax-is-economically-unjust-experts",
       "summary": "The \"unproductive wealth\" measure marks the first time that France has singled out cryptocurrency holdings in a wealth tax.",
       "source": "Decrypt",
       "publishedAt": "2025-11-05T11:48:55.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Paris-gID_7.jpg@png"
-    },
-    {
-      "title": "Monero Bucks Market Downturn as Privacy Narrative Strengthens",
-      "link": "https://decrypt.co/347368/monero-bucks-market-downturn-as-privacy-narrative-strengthens",
-      "summary": "The privacy coin's rally comes as experts point to tightening 2026 regulations and a flight to privacy assets during the broader market sell-off.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T11:05:17.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/monero-decrypt-style-scaled-gID_7.jpg@png"
     }
   ]
 }

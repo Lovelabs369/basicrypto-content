@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-05T21:36:46.437Z",
+  "updatedAt": "2025-11-05T21:50:12.661Z",
   "count": 50,
   "items": [
+    {
+      "title": "Robinhood Q3 Earnings Top Analysts' Expectations as Crypto Revenue Surges Over 300%",
+      "link": "https://decrypt.co/347352/robinhood-q3-earnings-top-analysts-expectations-crypto-revenue-surges",
+      "summary": "Despite dipping the past five days, the company's share price has risen roughly 260% year-to-date.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T21:46:32.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png"
+    },
     {
       "title": "Bitcoin Stabilizes, But Galaxy Research Cuts Year-End Forecast to $120K",
       "link": "https://news.bitcoin.com/bitcoin-stabilizes-but-galaxy-research-cuts-year-end-forecast-to-120k/",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-05T12:57:29.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png"
-    },
-    {
-      "title": "France's Proposed Crypto Tax is 'Economically Unjust': Experts",
-      "link": "https://decrypt.co/347371/frances-proposed-crypto-tax-is-economically-unjust-experts",
-      "summary": "The \"unproductive wealth\" measure marks the first time that France has singled out cryptocurrency holdings in a wealth tax.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T11:48:55.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Paris-gID_7.jpg@png"
     }
   ]
 }

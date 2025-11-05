@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-05T18:50:05.217Z",
+  "updatedAt": "2025-11-05T19:14:38.067Z",
   "count": 50,
   "items": [
+    {
+      "title": "Metaplanet Borrows $100 Million Against Its Bitcoin Holdings—To Buy More BTC",
+      "link": "https://decrypt.co/347453/metaplanet-borrows-100-million-bitcoin-holdings-buy-btc",
+      "summary": "The Japanese Bitcoin treasury said its strategy going forward would account for Bitcoin's price volatility.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T18:59:47.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-1-gID_7.png@png"
+    },
     {
       "title": "The Protocol: ZKSync Aims to Revamp Its Tokenomics Model",
       "link": "https://www.coindesk.com/tech/2025/11/05/the-protocol-zksync-aims-to-revamp-its-tokenomics-model",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-05T03:57:04.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/zohran-mamdani-decrypt-style-gID_7.jpg@png"
-    },
-    {
-      "title": "Gemini Moves Toward Prediction Markets in Bid to Broaden Its Business: Report",
-      "link": "https://decrypt.co/347353/gemini-prediction-markets-broaden-business",
-      "summary": "The firm’s filing seeks approval to operate “Gemini Titan,” a designated contract market offering federally regulated event contracts.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T03:33:20.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/gemini-decrypt-style-02-gID_7.jpg@png"
     }
   ]
 }

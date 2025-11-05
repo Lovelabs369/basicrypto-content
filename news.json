@@ -1,7 +1,55 @@
 {
-  "updatedAt": "2025-11-05T16:50:13.429Z",
+  "updatedAt": "2025-11-05T17:17:31.556Z",
   "count": 50,
   "items": [
+    {
+      "title": "HBAR Eyes $0.18 as Volume Surge Signals Possible Breakout",
+      "link": "https://www.coindesk.com/markets/2025/11/05/hbar-eyes-usd0-18-as-volume-surge-signals-possible-breakout",
+      "summary": "Hedera’s HBAR token climbed 1.31% to $0.1725 on Tuesday, with trading volume soaring as technical indicators point to a potential move above key resistance levels.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T17:08:49.000Z",
+      "image": null
+    },
+    {
+      "title": "Ripple Teams With Mastercard, Gemini to Use RLUSD to Settle Credit Card Transactions",
+      "link": "https://decrypt.co/347393/ripple-mastercard-gemini-use-rlusd-settle-credit-card-transactions",
+      "summary": "Ripple and partners aim to kickstart RLUSD onboarding and integration planning in the coming months pending regulatory approval.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T17:04:04.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ripple-logo-decrypt-style-01-gID_7.png@png"
+    },
+    {
+      "title": "EU Arrests Nine in Connection with $689M Crypto Scam Network",
+      "link": "https://decrypt.co/347434/eu-arrests-nine-in-connection-with-689m-crypto-scam-network",
+      "summary": "Authorities have so far seized only a small fraction of the funds lost to the scam network, which spanned multiple EU states.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T17:01:05.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Handcuffs-gID_7.png@png"
+    },
+    {
+      "title": "Ripple’s RLUSD to Power Mastercard Credit Card Settlements on XRP Ledger",
+      "link": "https://www.coindesk.com/markets/2025/11/05/embargoed-till-12pm-et-ripple-s-rlusd-to-power-mastercard-credit-card-settlements-on-xrp-ledger",
+      "summary": "The pilot, unveiled at Swell 2025, positions regulated stablecoins like RLUSD as fast, compliant rails for fiat card payments.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T17:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Chainlink, Apex Group Test Onchain Stablecoin Compliance With Bermuda Regulator",
+      "link": "https://www.coindesk.com/policy/2025/11/05/chainlink-apex-group-test-onchain-stablecoin-compliance-with-bermuda-regulator",
+      "summary": "The system provides regulators with real-time visibility into a stablecoin's backing and circulation, automating compliance checks onchain.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T17:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "TON Drops to $1.93 as Altcoins Lag Behind Bitcoin in Risk-Off Crypto Market",
+      "link": "https://www.coindesk.com/markets/2025/11/05/ton-drops-to-usd1-93-as-altcoins-lag-behind-bitcoin-in-risk-off-crypto-market",
+      "summary": "Despite signs of stabilization, with TON consolidating in a narrow range, momentum remains fragile, and a break below $1.87 could lead to further losses.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T16:57:19.000Z",
+      "image": null
+    },
     {
       "title": "Why Bitcoin Traders Should 'Buy the Dip, in Stages'",
       "link": "https://decrypt.co/347432/bitcoin-traders-buy-dip-in-stages",
@@ -283,43 +331,11 @@
       "image": null
     },
     {
-      "title": "Hong Kong Charges 16 in Alleged $205M JPEX Crypto Fraud as Interpol Hunts 3 More Suspects",
-      "link": "https://www.coindesk.com/policy/2025/11/05/hong-kong-charges-16-in-alleged-usd205m-jpex-crypto-fraud-as-interpol-hunts-3-more-suspects",
-      "summary": "The case is the largest financial fraud in Hong Kong's history, with Interpol issuing red notices for three fugitives.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T11:01:39.000Z",
-      "image": null
-    },
-    {
-      "title": "This Bitcoin Price Pattern Has Emerged 3 Times Since Late 2023, Triggering Corrections",
-      "link": "https://www.coindesk.com/markets/2025/11/05/this-bitcoin-price-pattern-has-emerged-3-times-since-late-2023-triggering-corrections",
-      "summary": "Key moving averages remain crucial support levels as long-term investors trim holdings, adding pressure to the ongoing bull market.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T10:33:50.000Z",
-      "image": null
-    },
-    {
       "title": "Pig‑Butchering Crime Syndicate Sentenced to Death in China",
       "link": "https://news.bitcoin.com/pig%e2%80%91butchering-crime-syndicate-sentenced-to-death-in-china/",
       "summary": "Shenzhen court sentences leaders of a “pig‑butchering” fraud syndicate to death amid large‑scale criminal findings. The Shenzhen Intermediate People’s Court in Guangdong convicts leaders of the Bai family criminal syndicate—linked to “pig‑butchering” romance scams—and sentences Bai Suocheng, Bai Yingcang, Yang Liqiang, Hu Xiaojiang and Chen Guangyi to death, with additional defendants receiving death with two‑year […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-05T10:30:46.000Z",
-      "image": null
-    },
-    {
-      "title": "Adam Back and Switzerland’s FUTURE Secure 28M Swiss Francs to Build Bitcoin Treasury",
-      "link": "https://www.coindesk.com/markets/2025/11/05/adam-back-and-switzerland-s-future-secure-28-million-swiss-francs-to-build-bitcoin-treasury",
-      "summary": "Funding round backed by Fulgur Ventures, Nakamoto, and TOBAM positions FUTURE as an institutional bridge between Bitcoin and global capital.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T09:20:26.000Z",
-      "image": null
-    },
-    {
-      "title": "Bitcoin at Make or Break Level as China Suspends 24% Tariff on U.S. Goods",
-      "link": "https://www.coindesk.com/markets/2025/11/05/bitcoin-at-make-or-break-level-as-china-suspends-24-tariff-on-u-s-goods",
-      "summary": "U.S.-China trade tensions are easing, with China suspending additional tariffs on U.S. goods.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T05:59:00.000Z",
       "image": null
     },
     {
@@ -385,22 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T22:38:40.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png"
-    },
-    {
-      "title": "Bitcoin Treasury Sequans Sells $100 Million in BTC to Pay Down Debt",
-      "link": "https://decrypt.co/347337/bitcoin-treasury-sequans-sells-100m-btc-pay-debt",
-      "summary": "The French NYSE-listed firm started buying the largest cryptocurrency by market cap in July.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-04T22:33:21.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-25-gID_7.png@png"
-    },
-    {
-      "title": "Sam Bankman-Fried Wants Another Trial, But His Lawyer Faces Skepticism",
-      "link": "https://decrypt.co/347324/sam-bankman-fried-wants-another-trial-lawyer-skepticism",
-      "summary": "An appeals court did not appear to embrace arguments made by Sam Bankman-Fried's lawyer as to why his 25-year sentence should be overturned.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-04T20:29:29.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/SBF-DecryptStyle2-scaled-gID_7.jpg@png"
     }
   ]
 }

@@ -1,15 +1,7 @@
 {
-  "updatedAt": "2025-11-05T07:50:19.618Z",
-  "count": 60,
+  "updatedAt": "2025-11-05T08:24:13.429Z",
+  "count": 50,
   "items": [
-    {
-      "title": "Why Mastercard’s $2B move into crypto could end banking hours as we know them",
-      "link": "https://cointelegraph.com/news/mastercard-s-2b-move-into-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Mastercard’s rumored $2-billion crypto deals could bring 24/7 settlement to traditional finance, but liquidity, risk and compliance may slow it down.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T07:45:20.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTRmYWMtZDg4MC03MWE4LWE0OGUtNmE5YzNkZDY2ZTdm.jpg"
-    },
     {
       "title": "Why Is Zcash up 40% While Other Cryptocurrencies Are Tanking?",
       "link": "https://news.bitcoin.com/why-is-zcash-up-40-while-other-cryptocurrencies-are-tanking/",
@@ -25,14 +17,6 @@
       "source": "Bitcoin News",
       "publishedAt": "2025-11-05T06:30:26.000Z",
       "image": null
-    },
-    {
-      "title": "Crypto treasury companies accelerating market drop, professor argues",
-      "link": "https://cointelegraph.com/news/bitcoin-price-drop-digital-asset-treasuries-impact-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Columbia Business School adjunct professor Omid Malekan claimed there are a few crypto buying companies that tried to “create sustainable value. But I can count them on one hand.”",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T06:10:56.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NGUyZDQtNGM3Ni03NzgzLTljZTAtOWFmNTYxOGJkZGFi.jpg"
     },
     {
       "title": "Bitcoin at Make or Break Level as China Suspends 24% Tariff on U.S. Goods",
@@ -51,7 +35,7 @@
       "image": null
     },
     {
-      "title": "Biggest Loser of NYC Election Polymarket Contract is Down Almost $1M Betting Against Mamdani",
+      "title": "Biggest Loser of NYC Election Polymarket Contract Is Down Almost $1M Betting Against Mamdani",
       "link": "https://www.coindesk.com/markets/2025/11/05/biggest-loser-of-nyc-election-polymarket-contract-is-down-almost-usd1m-betting-against-mamdani",
       "summary": "‘fuxfux007’ lost nearly $969,169 making a bold bet against New York City mayoral candidate Zohran Mandami.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -83,36 +67,12 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-gID_7.png@png"
     },
     {
-      "title": "Crypto exchange Gemini eyes integrating prediction markets: Report",
-      "link": "https://cointelegraph.com/news/gemini-plans-prediction-markets-offering-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bloomberg reports that Gemini is looking to expand into prediction markets, which would mark one of the company’s biggest moves since going public in September.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T04:21:50.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTk5YTUtN2UzYy03MTQ5LWFmZTMtN2VkYTk4MWQzNTc1.jpg"
-    },
-    {
-      "title": "Strategy won’t face Bitcoin liquidation in the next bear market: Willy Woo",
-      "link": "https://cointelegraph.com/news/microstrategy-michael-saylor-mstr-stock-bitcoin-price-liquidation-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Crypto analyst Willy Woo says it would need to be “one hell of a sustained bear market” to force Strategy to liquidate any of its Bitcoin.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T04:15:35.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTJmMmQtMTEyZS03MDY4LWFmYTEtOGVhZjY3MzdlYjdj.jpg"
-    },
-    {
       "title": "Mamdani Wins NYC Mayor's Race: Here's What the Crypto Predictions Markets Foretold",
       "link": "https://decrypt.co/347355/mamdani-wins-nyc-mayors-race-crypto-predictions-markets",
       "summary": "With just over half the votes, Mamdani becomes NYC's next mayor after prediction markets and progressive groups rallied behind his campaign",
       "source": "Decrypt",
       "publishedAt": "2025-11-05T03:57:04.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/zohran-mamdani-decrypt-style-gID_7.jpg@png"
-    },
-    {
-      "title": "ZKsync creator floats governance token revamp to add ‘economic utility’",
-      "link": "https://cointelegraph.com/news/zksync-creator-proposes-zk-governance-token-revamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "ZKsync co-creator Alex Gluchowski has proposed to shift the project’s governance token to one with “economic utility” and value capture.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T03:53:01.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTUxM2YtNzg1ZC03OTBhLTg0YWItNzRjM2EzNGY0YWRi.jpg"
     },
     {
       "title": "Animoca Brands' Public Market Ambition Aims at Providing Crypto Access to 'Billions'",
@@ -147,28 +107,12 @@
       "image": null
     },
     {
-      "title": "CZ pardon was considered with ‘utmost seriousness,’ White House says",
-      "link": "https://cointelegraph.com/news/white-house-defends-binance-founder-cz-pardon-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "White House press secretary Karoline Leavitt says Donald Trump’s pardon of Binance founder went through a “thorough review process” before the president signed it off.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T03:27:25.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTYxZWYtMDc4NS03NjY0LThmNDQtMWUyMjU0YmUxNGRi.jpg"
-    },
-    {
       "title": "XRP Slides 6% as Bearish Bitcoin Sentiment Weighs Down Ripple-Linked Token",
       "link": "https://www.coindesk.com/markets/2025/11/05/xrp-slides-6-as-bearish-bitcoin-sentiment-weighs-down-ripple-linked-token",
       "summary": "Traders are monitoring the $2.08 support level to prevent further declines toward $2.00.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-05T03:17:16.000Z",
       "image": null
-    },
-    {
-      "title": "What Mamdani’s mayoral win means for crypto in New York",
-      "link": "https://cointelegraph.com/news/what-mamdani-s-mayoral-win-means-for-crypto-in-new-york?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Zohran Mamdani has won the New York City mayor’s race, and the city’s crypto industry is waiting to see how his administration will affect business.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T02:56:12.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTRlYmMtOWE0ZC03MmVkLThjNTEtNDU3OWJhNTgzZDc0.jpg"
     },
     {
       "title": "Bitcoin Bounces Near $100K, ETH, SOL, XRP Drop 6-10% as Bulls See $1.6B Liquidations",
@@ -185,14 +129,6 @@
       "source": "Bitcoin News",
       "publishedAt": "2025-11-05T02:30:30.000Z",
       "image": null
-    },
-    {
-      "title": "Canada’s budget promises laws to regulate stablecoins, following US lead",
-      "link": "https://cointelegraph.com/news/canada-budget-2025-promises-regulate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Canada’s government unveiled a plan to regulate stablecoins, requiring fiat-backed issuers to maintain sufficient reserves and adopt robust risk management measures.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T02:11:10.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5Mzk5MWEtY2YwNC03MGI3LWFhMjktZGM1MDA1NGQ4Mzhm.jpg"
     },
     {
       "title": "Zcash’s 700% Rally Signals Cultural Shift in Crypto, Says Galaxy Research",
@@ -219,28 +155,12 @@
       "image": null
     },
     {
-      "title": "Bitcoin shows exhaustion as analysts say $125K target unlikely in 2025",
-      "link": "https://cointelegraph.com/news/bitcoin-price-downtrend-analysts-tip-btc-2025-forecast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "In early October, Tom Lee and Arthur Hayes were confident that Bitcoin could still reach $250,000 by year-end, but analysts say half that figure is now unlikely.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-04T23:59:43.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTUxMTEtOGQ3Yy03NzRlLWJlODItNWFkYzQ3MWRmMWFl.jpg"
-    },
-    {
       "title": "Inside the Deposition That Showed How OpenAI Nearly Destroyed Itself",
       "link": "https://decrypt.co/347349/inside-deposition-showed-openai-nearly-destroyed-itself",
       "summary": "A 10-hour sworn testimony from OpenAI co-founder Ilya Sutskever paints a picture of panic, unverified allegations, and governance failures.",
       "source": "Decrypt",
       "publishedAt": "2025-11-04T23:55:47.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png"
-    },
-    {
-      "title": "Sequans shares drop 16% after selling 970 Bitcoin to cut debt",
-      "link": "https://cointelegraph.com/news/sequans-falls-16-percent-after-bitcoin-sale-for-debt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Sequans shares fell 16% on Tuesday after the chip maker said it sold 970 Bitcoin to redeem half of its $189 million outstanding convertible debt.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-04T23:35:03.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTUwY2QtY2E4Yi03MTYwLTg0YjMtN2Y2YmJlN2YyNTQ0.jpg"
     },
     {
       "title": "Solana ETFs Shine as Bitcoin, Ether Funds Bleed Over $300 Million",
@@ -289,38 +209,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T22:33:21.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-25-gID_7.png@png"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-04T21:56:59.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg"
-    },
-    {
-      "title": "Coinbase exec criticizes banks’ pushback against crypto charter application",
-      "link": "https://cointelegraph.com/news/banking-group-coinbase-national-trust-charter-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "The US-based cryptocurrency exchange applied for a national trust charter in October as part of its plans to “bridge the gap“ with traditional finance.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-04T21:40:02.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTUwNmUtZGE5Ni03NWUyLTg4MjUtYTEyOGM2NzVlYWJk.jpg"
-    },
-    {
-      "title": "Solana ETFs show strength, but SOL price lost its yearly uptrend: Is $120 next?",
-      "link": "https://cointelegraph.com/news/solana-etfs-show-strength-but-sol-price-lost-its-yearly-uptrend-is-dollar120-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Solana ETFs recorded over $400 million in inflows, but SOL’s price lost a key technical support, sparking fears of a drop toward $120.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-04T21:34:36.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzMwZWYtYTE1Yy03MzA5LWJkZDYtOWRlZWEwOWIwYTVk.jpg"
-    },
-    {
-      "title": "MARA and Hut 8 profits surge in Q3 as Bitcoin reserves grow",
-      "link": "https://cointelegraph.com/news/mara-hut-8-profits-q3-bitcoin-reserves-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "The companies saw profits and Bitcoin reserves increase in the third quarter of 2025 as they moved further into high-performance computing and energy development.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-04T21:08:22.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTUwNGEtMzZlNS03MDM4LWIxODYtM2EwMGI1YWRjN2Q0.jpg"
     },
     {
       "title": "Sam Bankman-Fried Wants Another Trial, But His Lawyer Faces Skepticism",
@@ -387,14 +275,6 @@
       "image": null
     },
     {
-      "title": "Washington fueled the Bitcoin bubble, Peter Schiff says",
-      "link": "https://cointelegraph.com/news/washington-bitcoin-bubble-peter-schiff-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "In an interview with Cointelegraph, economist Peter Schiff warned that Bitcoin gains are built on political and Wall Street support that may not last.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-04T19:05:00.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTRmN2ItNzhhZS03Njc1LWJjMDUtNzdjN2Q0ZThjYzg2.jpg"
-    },
-    {
       "title": "Coinbase Faces Flak from Traditional Bankers on Its Push for Trust Bank Charter",
       "link": "https://www.coindesk.com/policy/2025/11/04/coinbase-faces-flak-from-traditional-bankers-on-its-push-for-trust-bank-charter",
       "summary": "One of the biggest advocacy groups for banking in the U.S. has asked the Office of the Comptroller of the Currency to dismiss Coinbase's licensing effort.",
@@ -409,22 +289,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T18:57:33.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
-    },
-    {
-      "title": "CleanSpark expands power capacity, secures Texas site for AI push",
-      "link": "https://cointelegraph.com/news/cleanspark-power-capacity-texas-site-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "CleanSpark expanded its power capacity and secured a Texas site for a new AI campus, reflecting a broader shift among Bitcoin miners toward high-performance computing.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-04T18:50:50.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWFiM2QtOGYwNy03ZTk0LWJkODEtYmZjYjNmYzgyZjEy.jpg"
-    },
-    {
-      "title": "Bitcoin slips below $100K as analysts say BTC is set to drop lower: Here’s why",
-      "link": "https://cointelegraph.com/news/bitcoin-slips-below-dollar100k-as-analysts-say-btc-is-set-to-drop-lower-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin price fell to four-month lows below $100,000 as sellers overwhelmed buyers, and analysts speculated that “dead bodies” from the Oct. 10 sell-off are beginning to surface.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-04T18:49:58.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzQ0NDYtYmZhZS03OTZiLWExNjAtOTdhNjljNmY5MjM4.jpg"
     },
     {
       "title": "ZKsync Proposal Aims to Tie $ZK Token to Network Revenue",
@@ -451,14 +315,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg@png"
     },
     {
-      "title": "Binance CEO denies allegations company pushed Trumps’ stablecoin: Report",
-      "link": "https://cointelegraph.com/news/binance-richard-teng-denies-donald-trump-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Richard Teng said Binance \"didn’t partake\" in the decision for an Abu Dhabi-based company to use World Liberty Financial's USD1 for a $2 billion investment into the exchange.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-04T18:18:47.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2ZlZGUtZWFlMS03MTdiLTk0M2QtODU2ODY2Y2JiZTFj.jpg"
-    },
-    {
       "title": "Where is Crypto going! Crypto enters Extreme Fear! ZEC keeps going UP!",
       "link": "https://decrypt.co/videos/interviews/0kRfhCSl/where-is-crypto-going-crypto-enters-extreme-fear-zec-keeps-going-up",
       "summary": "Crypto majors continued their decline, dropping another 3–8% as the selloff persisted. Bitcoin (BTC) fell 3% to $104,500, Ethereum (ETH) dropped 5% to $3,520, Binance Coin (BNB) slid 6% to $955, and Solana (SOL) plunged 8% to $162. Meanwhile, Decred (DCR) surged 111%, Dash (DASH) climbed 50%, and Internet Computer (ICP) gained 30%, leading the day’s top movers. Liquidations totaled over $1.2 billion on Monday, with long positions accounting for 90% of the losses, and the Crypto Fear & Greed Inde",
@@ -481,6 +337,70 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-04T17:53:48.000Z",
       "image": null
+    },
+    {
+      "title": "XRP Slips to $2.25; Death-Cross Risk Builds After Whale Selling",
+      "link": "https://www.coindesk.com/markets/2025/11/05/xrp-slips-to-usd2-25-death-cross-risk-builds-after-whale-selling",
+      "summary": "The move—paired with a 15% open-interest drop—keeps pressure on bulls ahead of a looming death-cross setup and a key $2.20 support retest.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T17:47:21.000Z",
+      "image": null
+    },
+    {
+      "title": "Nasdaq CEO Adena Friedman Outlines 3 Ways Blockchain Can Fix Finance",
+      "link": "https://www.coindesk.com/markets/2025/11/04/nasdaq-ceo-outlines-3-ways-blockchain-can-fix-finance",
+      "summary": "Friedman sees post-trade streamlining, collateral mobility and better payments as key blockchain breakthroughs.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T17:26:04.000Z",
+      "image": null
+    },
+    {
+      "title": "Bitcoin Careens Toward $100K as Morning Bounce Fails",
+      "link": "https://www.coindesk.com/markets/2025/11/04/bitcoin-careens-toward-usd100k-as-morning-bounce-fails",
+      "summary": "Ether, XRP, dogecoin and solana are all lower by 15%-20% over the past week.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T17:10:11.000Z",
+      "image": null
+    },
+    {
+      "title": "Chainlink Introduces CRE to Fast-Track Institutional Tokenization",
+      "link": "https://www.coindesk.com/web3/2025/11/04/chainlink-introduces-cre-to-fast-track-institutional-tokenization",
+      "summary": "CRE enables smart contracts that work across blockchains and tap into legacy financial messaging standards, with access to Chainlink's services.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T17:00:56.000Z",
+      "image": null
+    },
+    {
+      "title": "Olas Launches Pearl v1, the First 'AI Agent App Store'",
+      "link": "https://www.coindesk.com/tech/2025/11/04/olas-launches-pearl-v1-the-first-ai-agent-app-store",
+      "summary": "The new platform lets users own and control autonomous artificial intelligence agents, aiming to shift power from centralized AI providers to individuals.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-04T17:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Crypto enters “Extreme Fear”! Crypto Falls 3-8%!",
+      "link": "https://decrypt.co/videos/interviews/6x1AcJH6/crypto-enters-extreme-fear-crypto-falls-3-8",
+      "summary": "Crypto majors continued their decline, dropping another 3–8% as the selloff persisted. Bitcoin (BTC) fell 3% to $104,500, Ethereum (ETH) dropped 5% to $3,520, Binance Coin (BNB) slid 6% to $955, and Solana (SOL) plunged 8% to $162. Meanwhile, Decred (DCR) surged 111%, Dash (DASH) climbed 50%, and Internet Computer (ICP) gained 30%, leading the day’s top movers. Liquidations totaled over $1.2 billion on Monday, with long positions accounting for 90% of the losses, and the Crypto Fear & Greed Inde",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T16:16:13.000Z",
+      "image": "https://cdn.jwplayer.com/v2/media/6x1AcJH6/poster.jpg"
+    },
+    {
+      "title": "Stream Finance Stablecoin Plunges 77% After Protocol's Fund Manager Loses $93 Million",
+      "link": "https://decrypt.co/347285/stream-finance-stablecoin-plunges-77-protocol-fund-manager-loses-93-million",
+      "summary": "Stream's collapse shows operational risk extends beyond smart contracts to fund managers and custody, an expert told Decrypt.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T16:05:15.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png"
+    },
+    {
+      "title": "Morning Minute: Crypto Slides into “Extreme Fear” as Bitcoin Tumbles",
+      "link": "https://decrypt.co/347272/morning-minute-crypto-slides-into-extreme-fear-as-bitcoin-tumbles",
+      "summary": "OG Bitcoin holders selling $40B in the past month certainly isn't helping sentiment, as most are wondering: where is the bottom?",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-04T13:16:03.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png"
     }
   ]
 }

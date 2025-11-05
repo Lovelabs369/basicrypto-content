@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-05T13:21:00.688Z",
+  "updatedAt": "2025-11-05T13:49:01.015Z",
   "count": 50,
   "items": [
+    {
+      "title": "ICP Falls Nearly 25% Following Surge to Over $6.50",
+      "link": "https://www.coindesk.com/markets/2025/11/05/icp-falls-nearly-25-following-resistance-shattering-surge-to-over-usd6-50",
+      "summary": "Internet Computer slips to $4.99 after a rally above $6.50 fades, as profit-taking caps gains despite elevated trading volume.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T13:35:01.000Z",
+      "image": null
+    },
     {
       "title": "Morning Minute: Bitcoin Breaks Below $100K for First Time Since May",
       "link": "https://decrypt.co/347386/morning-minute-bitcoin-breaks-below-100k-for-first-time-since-may",
@@ -377,14 +385,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T18:57:33.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
-    },
-    {
-      "title": "ZKsync Proposal Aims to Tie $ZK Token to Network Revenue",
-      "link": "https://www.coindesk.com/business/2025/11/04/zksync-proposal-aims-to-tie-usdzk-token-to-network-revenue",
-      "summary": "The creator behind the layer-2 has unveiled a proposal to transform its $ZK token from a governance instrument into a token with real economic utility.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-04T18:43:36.000Z",
-      "image": null
     },
     {
       "title": "How Bitcoin Liquidity Has Been Affected by the Government Shutdown",

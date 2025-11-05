@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-05T17:17:31.556Z",
+  "updatedAt": "2025-11-05T17:40:49.150Z",
   "count": 50,
   "items": [
+    {
+      "title": "S&#038;P Digital Markets 50 Index Will Gain Blockchain Verifiability Via Chainlink",
+      "link": "https://decrypt.co/347442/sp-digital-markets-50-index-gain-blockchain-verifiability-chainlink",
+      "summary": "A new blockchain based equities index will have an on-chain counterpart thanks to Chainlink.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T17:31:36.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/chainlink-decrypt-style-01-gID_7.jpg@png"
+    },
+    {
+      "title": "Stellar (XLM) Breaks Key Resistance Amid Heavy Volume Surge",
+      "link": "https://www.coindesk.com/markets/2025/11/05/stellar-xlm-breaks-key-resistance-as-volume-surge-signals-institutional-buying",
+      "summary": "XLM outperformed the broader crypto market with a 0.97% gain, supported by a sharp rise in trading activity and an ascending technical pattern suggesting continued upside potential.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T17:29:28.000Z",
+      "image": null
+    },
+    {
+      "title": "ZCash Chat with: 0xMert_ ! Crypto Recovering? BTC back above $102K!",
+      "link": "https://decrypt.co/videos/interviews/nmhS36Py/zcash-chat-with-0xmert-crypto-recovering-btc-back-above-102k",
+      "summary": "Crypto majors slipped another 2–5% before showing signs of recovery after Bitcoin briefly dipped below $100,000. At the time of writing, BTC is down 2% at $102,100, ETH has fallen 5% to $3,320, BNB is down 1% at $945, and SOL is off 2% at $157. Among top movers, ZK (+24%), DASH (+12%), ASTER (+12%), and HYPE (+9%) led the gains. Liquidations totaled over $1.7 billion on Tuesday as Bitcoin slid below $100,000 and Ethereum neared $3,000. The Fear and Greed Index edged up two points to 23 but remai",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T17:17:41.000Z",
+      "image": "https://cdn.jwplayer.com/v2/media/nmhS36Py/poster.jpg"
+    },
     {
       "title": "HBAR Eyes $0.18 as Volume Surge Signals Possible Breakout",
       "link": "https://www.coindesk.com/markets/2025/11/05/hbar-eyes-usd0-18-as-volume-surge-signals-possible-breakout",
@@ -315,14 +339,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/monero-decrypt-style-scaled-gID_7.jpg@png"
     },
     {
-      "title": "Gemini Prepares to Offer Prediction Market Contracts: Bloomberg",
-      "link": "https://www.coindesk.com/business/2025/11/05/gemini-prepares-to-offer-prediction-market-contracts-bloomberg",
-      "summary": "The exchange founded by Cameron and Tyler Winklevoss has discussed unveiling products in this area as soon as possible, according to a report on Tuesday.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T11:04:27.000Z",
-      "image": null
-    },
-    {
       "title": "Best Bitcoin & Crypto Wallets [November 2025]: Self-Custody Just Got Smarter",
       "link": "https://news.bitcoin.com/best-bitcoin-crypto-wallets-november-2025/",
       "summary": "Disclosure: This article contains affiliate links. If you click a link and make a purchase or sign up for a service, Bitcoin.com may receive a commission. Our editorial content is independent and based on objective analysis. Looking for the best Bitcoin and crypto wallets in November 2025? We compare the top Bitcoin and crypto wallets […]",
@@ -385,22 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T23:01:31.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/north-korea-missiles-dprk-decrypt-style-gID_7.jpg@png"
-    },
-    {
-      "title": "Amazon Sends Cease-and-Desist to Perplexity Over AI Agent Purchases",
-      "link": "https://decrypt.co/347325/amazon-sends-cease-desist-perplexity-ai-agent-purchases",
-      "summary": "Amazon’s order to halt Perplexity's AI-powered web browser Comet marks the first major clash over shopping agents.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-04T22:55:32.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/amazon-logo-1-gID_7.png@png"
-    },
-    {
-      "title": "Crypto Liquidations Top $2 Billion as Bitcoin Continues Slide, Ethereum Hits 4-Month Low",
-      "link": "https://decrypt.co/347341/crypto-liquidations-2-billion-bitcoin-slides-ethereum-4-month-low",
-      "summary": "Bitcoin fell even further below $100,000 and Ethereum plunged to its worst price in months, driving over $2 billion in rekt crypto bets.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-04T22:38:40.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png"
     }
   ]
 }

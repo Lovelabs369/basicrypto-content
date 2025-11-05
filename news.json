@@ -1,14 +1,22 @@
 {
-  "updatedAt": "2025-11-05T18:25:12.109Z",
-  "count": 60,
+  "updatedAt": "2025-11-05T18:50:05.217Z",
+  "count": 50,
   "items": [
     {
-      "title": "Bitcoin supply held at loss rises to 2024 level: Can BTC recover before 2025 ends?",
-      "link": "https://cointelegraph.com/news/bitcoin-supply-held-at-loss-rises-to-2024-level-can-btc-recover-before-2025-ends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "With a third of Bitcoin held at a loss, onchain data suggested that the market may be nearing a critical reset phase. Will BTC end the year above its range highs?",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T18:20:00.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDRlNDUtZTY1Yi03ZTU1LWEzN2MtM2UzNjlhNWYzNjky.jpg"
+      "title": "The Protocol: ZKSync Aims to Revamp Its Tokenomics Model",
+      "link": "https://www.coindesk.com/tech/2025/11/05/the-protocol-zksync-aims-to-revamp-its-tokenomics-model",
+      "summary": "Also: The First AI Agent App Store, ETH Devs Lock In Fusaka Mainnet Date and Edge & Node’s Ampersand.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T18:29:56.000Z",
+      "image": null
+    },
+    {
+      "title": "Monad Foundation Sets Nov. 24 Airdrop Date for Users",
+      "link": "https://www.coindesk.com/tech/2025/11/05/monad-foundation-sets-nov-24-airdrop-date-for-users",
+      "summary": "This comes after the Foundation opened its airdrop claim portal on October 14, inviting users to verify their eligibility.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T18:27:18.000Z",
+      "image": null
     },
     {
       "title": "Singapore Financial Regulator Warns AI Companies Are Overvalued",
@@ -67,28 +75,12 @@
       "image": null
     },
     {
-      "title": "How to turn ChatGPT into your personal crypto trading assistant",
-      "link": "https://cointelegraph.com/news/how-to-turn-chatgpt-into-your-personal-crypto-trading-assistant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "With the right workflow, data feeds and prompts, ChatGPT can generate structured market summaries, flag risk clusters and support smarter decision-making.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T17:26:45.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTJhZjEtOTMwNS03NzMzLThhYjAtZTcwMGM5ZDA4YTYz.jpg"
-    },
-    {
       "title": "ZCash Chat with: 0xMert_ ! Crypto Recovering? BTC back above $102K!",
       "link": "https://decrypt.co/videos/interviews/nmhS36Py/zcash-chat-with-0xmert-crypto-recovering-btc-back-above-102k",
       "summary": "Crypto majors slipped another 2–5% before showing signs of recovery after Bitcoin briefly dipped below $100,000. At the time of writing, BTC is down 2% at $102,100, ETH has fallen 5% to $3,320, BNB is down 1% at $945, and SOL is off 2% at $157. Among top movers, ZK (+24%), DASH (+12%), ASTER (+12%), and HYPE (+9%) led the gains. Liquidations totaled over $1.7 billion on Tuesday as Bitcoin slid below $100,000 and Ethereum neared $3,000. The Fear and Greed Index edged up two points to 23 but remai",
       "source": "Decrypt",
       "publishedAt": "2025-11-05T17:17:41.000Z",
       "image": "https://cdn.jwplayer.com/v2/media/nmhS36Py/poster.jpg"
-    },
-    {
-      "title": "Price predictions 11/5: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK, BCH",
-      "link": "https://cointelegraph.com/news/price-predictions-11-5-btc-eth-bnb-xrp-sol-doge-ada-hype-link-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin bulls are aggressively defending the critical $100,000 support level, as a break below it may accelerate selling, potentially pulling BTC price below $87,800.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T17:16:18.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTU0ZjQtNGY3Ny03ZWQxLWFjMmItZjg0NDQxOTA4NmQ5.jpg"
     },
     {
       "title": "HBAR Eyes $0.18 as Volume Surge Signals Possible Breakout",
@@ -113,14 +105,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-05T17:01:05.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Handcuffs-gID_7.png@png"
-    },
-    {
-      "title": "Galaxy trims 2025 Bitcoin target to $120K amid shifting market dynamics",
-      "link": "https://cointelegraph.com/news/galaxy-2025-bitcoin-target-120k-shifting-market-dynamics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Galaxy pointed to changing liquidity patterns and leveraged liquidations as key reasons for cutting its Bitcoin price outlook.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T17:00:24.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2IwNWMtZjhmMy03ZTk5LTg4NmItMjU3YTg2MmU2Yzcx.jpg"
     },
     {
       "title": "Ripple’s RLUSD to Power Mastercard Credit Card Settlements on XRP Ledger",
@@ -203,14 +187,6 @@
       "image": null
     },
     {
-      "title": "Citadel, Fortress back Ripple’s $500M raise at $40B valuation",
-      "link": "https://cointelegraph.com/news/ripple-40b-valuation-citadel-fortress-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Ripple’s massive valuation backed by Citadel and Fortress highlights rising Wall Street confidence in blockchain and stablecoin innovation.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T15:44:51.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTNlMmMtNTNiMS03MmQ4LThjNGMtZjYzNDI2YjVjYmU0.jpg"
-    },
-    {
       "title": "Bitcoin Bulls' Last Stand? $95K, According to This Well-Followed Analyst",
       "link": "https://www.coindesk.com/markets/2025/11/05/bitcoin-bulls-last-stand-usd95k-according-to-this-well-followed-analyst",
       "summary": "Nearly 57% of all money ever invested in bitcoin is in the red at the $100,000 level according to James Check.",
@@ -225,14 +201,6 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-05T15:44:01.000Z",
       "image": null
-    },
-    {
-      "title": "Ethereum erases its 2025 gains: Is ETH price headed to $2.2K next?",
-      "link": "https://cointelegraph.com/news/ethereum-erases-2025-gains-is-eth-price-headed-to-2-2k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Ether could drop as low as $2,200 in the coming days, fuelled by risk-off mode among derivatives traders and a weakening technical structure.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T15:30:00.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWM3ZTItMmYyOS03ODcxLWFiNzItZmQ5Zjk3NjZjZGIx.jpg"
     },
     {
       "title": "Coinbase CLO: Bank Groups Opposing Trust Charter Bid Engaging in 'Protectionism'",
@@ -275,14 +243,6 @@
       "image": null
     },
     {
-      "title": "Bitcoin price rebound stops at $103K with 30% of BTC supply &#039;underwater&#039;",
-      "link": "https://cointelegraph.com/news/bitcoin-price-rebound-stops-103k-30-percent-btc-supply-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin unrealized losses reached nearly one-third of the supply, even before BTC price fell to multimonth lows below $100,000.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T14:38:38.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTEwNmUtMmNiNy03NDcxLWE5YjctZjJjNTA2MDQzZjI4.jpg"
-    },
-    {
       "title": "CoinDesk 20 Performance Update: SUI Gains 9.6%, Leading Index Higher",
       "link": "https://www.coindesk.com/coindesk-indices/2025/11/05/coindesk-20-performance-update-sui-gains-9-6-leading-index-higher",
       "summary": "Avalanche (AVAX) joined Sui (SUI) as a top performer, rising 9% from Tuesday.",
@@ -297,14 +257,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-05T14:16:41.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ripple-logo-2-gID_7.png@png"
-    },
-    {
-      "title": "Three things that must happen for Bitcoin to avoid the bear market",
-      "link": "https://cointelegraph.com/news/three-things-that-must-happen-bitcoin-avoid-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin must hold above its 200-week EMA, await Fed’s stealth QE, and see US liquidity return post-shutdown to avoid a deeper bear market.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T14:12:52.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTUzYWMtZDU2Ny03OTQyLTg1ZGItZTZlY2ZiZDhlODkz.jpg"
     },
     {
       "title": "Fortress, Citadel, and Galaxy Join $500 Million Ripple Funding Round",
@@ -347,28 +299,12 @@
       "image": null
     },
     {
-      "title": "Adam Back co-founded Switzerland Bitcoin treasury startup, Future, raises $34.5M",
-      "link": "https://cointelegraph.com/news/future-bitcoin-treasury-raises-34m-fulgur-tobam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Future’s $34.5 million round, backed by Fulgur Ventures, Tobam and others, highlights Switzerland’s growing role in institutional Bitcoin adoption.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T13:51:24.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTU0MWUtYTg4ZC03OGMzLWIzNDAtNTRiYWEwY2E2Mjdh.jpg"
-    },
-    {
       "title": "ICP Falls Nearly 25% Following Surge to Over $6.50",
       "link": "https://www.coindesk.com/markets/2025/11/05/icp-falls-nearly-25-following-resistance-shattering-surge-to-over-usd6-50",
       "summary": "Internet Computer slips to $4.99 after a rally above $6.50 fades, as profit-taking caps gains despite elevated trading volume.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-05T13:35:01.000Z",
       "image": null
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T13:21:08.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg"
     },
     {
       "title": "Morning Minute: Bitcoin Breaks Below $100K for First Time Since May",
@@ -387,30 +323,6 @@
       "image": null
     },
     {
-      "title": "Dinari Taps Chainlink to Tokenize S&P DJI's Upcoming Crypto Market Index",
-      "link": "https://www.coindesk.com/business/2025/11/04/dinari-taps-chainlink-to-tokenize-s-and-p-dji-s-upcoming-crypto-market-index",
-      "summary": "The S&P Digital Markets 50 Index tracks a basket of blockchain-focused stocks and digital assets; Chainlink will provide crucial data to support a tokenized version.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T13:00:00.000Z",
-      "image": null
-    },
-    {
-      "title": "Crypto Markets Today: Altcoins Struggle as Bitcoin Tests Key $100K Support",
-      "link": "https://www.coindesk.com/markets/2025/11/05/crypto-markets-today-altcoins-struggle-as-bitcoin-tests-key-usd100k-support",
-      "summary": "After a sharp sell-off Tuesday, crypto markets are stabilizing, though continued dollar strength could extend downside pressure.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T13:00:00.000Z",
-      "image": null
-    },
-    {
-      "title": "How token burns affect price, and when they don’t",
-      "link": "https://cointelegraph.com/news/how-token-burns-affect-price-and-when-they-don-t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Token burning only raises prices when demand, utility and transparency align. Here’s when supply cuts work, and why SHIB and BNB tell different stories.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T13:00:00.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTUyZmItZjdjZi03ODJkLThjM2QtNDVkNTg3ZTYyOWVh.jpg"
-    },
-    {
       "title": "Canada Moves to Regulate Stablecoins in New Budget",
       "link": "https://decrypt.co/347379/canada-moves-to-regulate-stablecoins-in-new-budget",
       "summary": "The government is planning federal oversight for fiat-backed stablecoins, giving the Bank of Canada a new supervisory role.",
@@ -425,14 +337,6 @@
       "source": "Bitcoin News",
       "publishedAt": "2025-11-05T12:30:47.000Z",
       "image": null
-    },
-    {
-      "title": "MEV is a choice blockchains must confront",
-      "link": "https://cointelegraph.com/news/mev-is-a-choice-blockchains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "MEV isn’t inevitable. It’s engineered exploitation masquerading as necessity. Blockchain’s future depends on eliminating this hidden tax on users.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T12:30:00.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTlhMDgtYTEyNy03N2M4LWFhYjUtZmNmMDlkZjZkNGI1.jpg"
     },
     {
       "title": "Bitget Becomes First UEX to Integrate Morph Chain, Advancing Its Onchain Ecosystem",
@@ -451,14 +355,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Paris-gID_7.jpg@png"
     },
     {
-      "title": "Metaplanet taps $100M Bitcoin-backed loan for BTC purchases, share buyback",
-      "link": "https://cointelegraph.com/news/metaplanet-taps-100m-bitcoin-backed-loan-btc-purchases-share-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "The loan came shortly after Metaplanet launched a $500 million Bitcoin-backed share buyback program, after its market-based net asset value fell below 1.0.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T11:45:29.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NzE1OTctNjc5NC03MWE0LTk2N2YtZjQ5MDFiMTUxODM0.jpg"
-    },
-    {
       "title": "UBS Completes First Live Tokenized Fund Transaction Using Chainlink",
       "link": "https://news.bitcoin.com/ubs-completes-first-live-tokenized-fund-transaction-using-chainlink/",
       "summary": "UBS executes the first in‑production onchain subscription and redemption for a tokenized money‑market fund. UBS announces in New York and Zurich the first live, end‑to‑end tokenized fund workflow using the Chainlink Digital Transfer Agent (DTA) technical standard, completing on‑chain subscription and redemption requests for the UBS USD Money Market Investment Fund Token (uMINT) built on […]",
@@ -475,12 +371,36 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/monero-decrypt-style-scaled-gID_7.jpg@png"
     },
     {
-      "title": "Bull or bear market? Traders panic as Bitcoin dips below 365-day average",
-      "link": "https://cointelegraph.com/news/bitcoin-price-dip-365-moving-average-bull-bear-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "After dropping under its 365-day moving average price, Bitcoin faces uncertainty as analysts weigh whether it signals a looming bear market or a brief pullback.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-05T11:01:47.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTQwN2ItMjJlZi03NDhhLThmODYtMTk4MTYzMWQyZTc5.jpg"
+      "title": "Former Australian Rugby Star Arrested Over Alleged Crypto Theft",
+      "link": "https://decrypt.co/347357/former-australian-rugby-star-arrested-alleged-crypto-theft",
+      "summary": "Police have raided the former NRL star’s home, seizing devices for forensic examination in connection to an alleged $91,000 crypto theft.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T05:26:37.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Sydney-gID_7.jpg@png"
+    },
+    {
+      "title": "Crypto, Stocks Fall as Traders Pivot: How Low Can Bitcoin Go?",
+      "link": "https://decrypt.co/347358/crypto-stocks-fall-traders-pivot-how-low-can-bitcoin-go",
+      "summary": "Analysts identify key Bitcoin support levels from $98,000 to $85,000 after a 21% market drop driven by dollar strength and tight liquidity.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T04:28:44.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-gID_7.png@png"
+    },
+    {
+      "title": "Mamdani Wins NYC Mayor's Race: Here's What the Crypto Prediction Markets Foretold",
+      "link": "https://decrypt.co/347355/mamdani-wins-nyc-mayors-race-crypto-predictions-markets",
+      "summary": "With just over half the votes, Mamdani becomes NYC's next mayor after prediction markets and progressive groups rallied behind his campaign",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T03:57:04.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/zohran-mamdani-decrypt-style-gID_7.jpg@png"
+    },
+    {
+      "title": "Gemini Moves Toward Prediction Markets in Bid to Broaden Its Business: Report",
+      "link": "https://decrypt.co/347353/gemini-prediction-markets-broaden-business",
+      "summary": "The firm’s filing seeks approval to operate “Gemini Titan,” a designated contract market offering federally regulated event contracts.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T03:33:20.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/gemini-decrypt-style-02-gID_7.jpg@png"
     }
   ]
 }

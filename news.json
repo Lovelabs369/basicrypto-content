@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-05T03:43:00.530Z",
+  "updatedAt": "2025-11-05T04:00:27.206Z",
   "count": 50,
   "items": [
+    {
+      "title": "Mamdani Wins NYC Mayor's Race: Here's What the Crypto Predictions Markets Foretold",
+      "link": "https://decrypt.co/347355/mamdani-wins-nyc-mayors-race-crypto-predictions-markets",
+      "summary": "With just over half the votes, Mamdani becomes NYC's next mayor after prediction markets and progressive groups rallied behind his campaign",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T03:57:04.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/zohran-mamdani-decrypt-style-gID_7.jpg@png"
+    },
     {
       "title": "Animoca Brands' Public Market Ambition Aims at Providing Crypto Access to 'Billions'",
       "link": "https://www.coindesk.com/business/2025/11/05/animoca-s-public-market-ambition-aims-at-providing-crypto-access-to-billions",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T12:23:17.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/dash-decrypt-style-01-gID_7.jpg@png"
-    },
-    {
-      "title": "Bitcoin Slips Below $104K as Crypto Market Extends Losses",
-      "link": "https://decrypt.co/347238/bitcoin-slips-below-104k-as-crypto-market-extends-losses",
-      "summary": "Analysts say a DeFi crisis and macro fears sparked a crypto sell-off, but the leverage flush may pave the way for a sustainable recovery.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-04T09:47:48.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-28-gID_7.png@png"
     }
   ]
 }

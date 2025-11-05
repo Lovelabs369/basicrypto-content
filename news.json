@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-05T14:17:52.247Z",
+  "updatedAt": "2025-11-05T14:44:31.848Z",
   "count": 50,
   "items": [
+    {
+      "title": "CoinDesk 20 Performance Update: SUI Gains 9.6%, Leading Index Higher",
+      "link": "https://www.coindesk.com/coindesk-indices/2025/11/05/coindesk-20-performance-update-sui-gains-9-6-leading-index-higher",
+      "summary": "Avalanche (AVAX) joined Sui (SUI) as a top performer, rising 9% from Tuesday.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T14:22:45.000Z",
+      "image": null
+    },
     {
       "title": "Ripple Raises $500 Million at $40 Billion Valuation Following XRP's Historic Surge",
       "link": "https://decrypt.co/347391/ripple-raises-500m-40-billion-valuation-following-xrp-historic-surge",
@@ -123,7 +131,7 @@
       "image": null
     },
     {
-      "title": "France's Proposed Crypto Tax is \"Economically Unjust\": Experts",
+      "title": "France's Proposed Crypto Tax is 'Economically Unjust': Experts",
       "link": "https://decrypt.co/347371/frances-proposed-crypto-tax-is-economically-unjust-experts",
       "summary": "The \"unproductive wealth\" measure marks the first time that France has singled out cryptocurrency holdings in a wealth tax.",
       "source": "Decrypt",
@@ -377,14 +385,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T20:13:43.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png@png"
-    },
-    {
-      "title": "XRP Ledger’s Dual Utility Could Make It a Breakout ETF Play, Experts Argue",
-      "link": "https://www.coindesk.com/markets/2025/11/04/xrp-ledger-s-dual-utility-could-make-it-a-breakout-etf-play-experts-discuss",
-      "summary": "Ripple’s unified system for payments and wealth storage may give XRP an edge with institutions eyeing real-world utility beyond speculation, said Bitnomial CEO Luke Hoersten.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-04T20:11:00.000Z",
-      "image": null
     },
     {
       "title": "Esports Giant Ninjas in Pyjamas Expands Bitcoin Operation, Aims to Mine $16M in BTC Monthly",

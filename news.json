@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-05T11:15:58.082Z",
+  "updatedAt": "2025-11-05T11:37:51.400Z",
   "count": 50,
   "items": [
+    {
+      "title": "UBS Completes First Live Tokenized Fund Transaction Using Chainlink",
+      "link": "https://news.bitcoin.com/ubs-completes-first-live-tokenized-fund-transaction-using-chainlink/",
+      "summary": "UBS executes the first in‑production onchain subscription and redemption for a tokenized money‑market fund. UBS announces in New York and Zurich the first live, end‑to‑end tokenized fund workflow using the Chainlink Digital Transfer Agent (DTA) technical standard, completing on‑chain subscription and redemption requests for the UBS USD Money Market Investment Fund Token (uMINT) built on […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-05T11:30:09.000Z",
+      "image": null
+    },
     {
       "title": "Monero Bucks Market Downturn as Privacy Narrative Strengthens",
       "link": "https://decrypt.co/347368/monero-bucks-market-downturn-as-privacy-narrative-strengthens",
@@ -192,14 +200,6 @@
       "summary": "Traders can also keep track of where liquidation levels are concentrated, helping identify zones of forced activity that can act as near-term support or resistance.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-05T02:42:27.000Z",
-      "image": null
-    },
-    {
-      "title": "Ripple Expands Institutional Crypto Power With Strategic Palisade Acquisition",
-      "link": "https://news.bitcoin.com/ripple-expands-institutional-crypto-power-with-strategic-palisade-acquisition/",
-      "summary": "Ripple is unleashing a new wave of institutional crypto dominance with its acquisition of Palisade, turbocharging its custody, payment, and liquidity infrastructure to redefine how global enterprises manage digital assets, stablecoins, and real-world tokens. Ripple Expands Institutional Crypto Reach With Palisade Acquisition Ripple’s latest move underscores a bullish trajectory toward deeper institutional engagement in digital […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-05T02:30:30.000Z",
       "image": null
     },
     {

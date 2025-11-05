@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-11-05T21:50:12.661Z",
+  "updatedAt": "2025-11-05T22:17:09.654Z",
   "count": 50,
   "items": [
+    {
+      "title": "Bitcoin, Ethereum ETFs Shed $2.6 Billion in Assets Over the Past Week",
+      "link": "https://decrypt.co/347479/bitcoin-ethereum-etfs-shed-2-6-billion-assets-past-week",
+      "summary": "Bearish investors cashing out of Bitcoin and Ethereum ETFs has helped depress crypto market prices. One analyst told Decrypt it was nothing to worry about.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T22:12:00.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png"
+    },
+    {
+      "title": "U.S. Government Shutdown Stretches to Record 36 Days, Continues Risk of Derailing Crypto Bill",
+      "link": "https://www.coindesk.com/policy/2025/11/05/u-s-government-shutdown-stretches-to-record-36-days-continues-risk-of-derailing-crypto-bill",
+      "summary": "Market structure legislation could still see movement this year, but likely won't become law before 2026.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T22:06:19.000Z",
+      "image": null
+    },
     {
       "title": "Robinhood Q3 Earnings Top Analysts' Expectations as Crypto Revenue Surges Over 300%",
       "link": "https://decrypt.co/347352/robinhood-q3-earnings-top-analysts-expectations-crypto-revenue-surges",
@@ -363,14 +379,6 @@
       "image": null
     },
     {
-      "title": "Hut 8’s Tuesday Tumble Misguided and a Buying Opportunity: Benchmark",
-      "link": "https://www.coindesk.com/markets/2025/11/05/hut-8-s-tuesday-tumble-misguided-and-a-buying-opportunity-benchmark",
-      "summary": "Investors overreacted to the absence of a hyperscaler deal announcement, overlooking Hut 8’s long-term potential in AI, energy, and bitcoin infrastructure.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T14:07:05.000Z",
-      "image": null
-    },
-    {
       "title": "Iggy Azalea Joins Token Launchpad for Celebrities on Solana as Creative Director",
       "link": "https://decrypt.co/347340/iggy-azalea-joins-token-celebrities-solana-creative-director",
       "summary": "The platform is co-founded by a former cannabis entrepreneur.",
@@ -393,14 +401,6 @@
       "source": "Bitcoin News",
       "publishedAt": "2025-11-05T13:15:05.000Z",
       "image": null
-    },
-    {
-      "title": "Canada Moves to Regulate Stablecoins in New Budget",
-      "link": "https://decrypt.co/347379/canada-moves-to-regulate-stablecoins-in-new-budget",
-      "summary": "The government is planning federal oversight for fiat-backed stablecoins, giving the Bank of Canada a new supervisory role.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T12:57:29.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png"
     }
   ]
 }

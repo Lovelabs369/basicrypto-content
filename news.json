@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-05T05:18:16.393Z",
+  "updatedAt": "2025-11-05T05:41:40.565Z",
   "count": 50,
   "items": [
+    {
+      "title": "Microsoft Details AI’s Next Barrier: Data-Center Power Availability",
+      "link": "https://news.bitcoin.com/microsoft-details-ais-next-barrier-data-center-power-availability/",
+      "summary": "Satya Nadella, CEO of Microsoft, said the next barrier to scaling AI compute power will be power availability. Nadella warned this could leave Microsoft with large inventories of chips it can’t power, a problem the company is already facing. Microsoft CEO Talks Power Availability as Key Issue for AI Data Centers The Facts Satya Nadella, […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-05T05:30:37.000Z",
+      "image": null
+    },
+    {
+      "title": "Biggest Loser of NYC Election Polymarket Contract is Down Almost $1M Betting Against Mamdani",
+      "link": "https://www.coindesk.com/markets/2025/11/05/biggest-loser-of-nyc-election-polymarket-contract-is-down-almost-usd1m-betting-against-mamdani",
+      "summary": "‘fuxfux007’ lost nearly $969,169 making a bold bet against New York City mayoral candidate Zohran Mandami.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T05:29:28.000Z",
+      "image": null
+    },
+    {
+      "title": "Former Australian Rugby Star Arrested Over Alleged Crypto Theft",
+      "link": "https://decrypt.co/347357/former-australian-rugby-star-arrested-alleged-crypto-theft",
+      "summary": "Police have raided the former NRL star’s home, seizing devices for forensic examination in connection to an alleged $91,000 crypto theft.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T05:26:37.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Sydney-gID_7.jpg@png"
+    },
     {
       "title": "Vivopower Boosts XRP With Climate-Focused Alliance",
       "link": "https://news.bitcoin.com/vivopower-boosts-xrp-with-climate-focused-alliance/",
@@ -176,14 +200,6 @@
       "summary": "On Tuesday, bitcoin’s spot price slipped more than 5% against the U.S. dollar, wiping out more than $7,000 in value since the day’s first trade. The drop hit miners right in the hashpower—revenues tanked to levels they haven’t seen since April 8, 2025, leaving many rigs humming just to stay alive. Bitcoin’s Falling Hashprice Puts […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-04T21:16:37.000Z",
-      "image": null
-    },
-    {
-      "title": "Mevolaxy Launches Mobile App and Announces Record Payouts",
-      "link": "https://news.bitcoin.com/mevolaxy-launches-mobile-app-and-announces-record-payouts/",
-      "summary": "This content is provided by a sponsor. PRESS RELEASE. Los Angeles, USA, November 4th, 2025, Chainwire. Mevolaxy, a US-based mevstake platform, has released an intuitive mobile app to provide an easy solution for users who prefer managing their assets on the go. Additionally, the company announced that the latest investor payouts have set another record […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-04T21:00:39.000Z",
       "image": null
     },
     {
@@ -363,14 +379,6 @@
       "image": null
     },
     {
-      "title": "Toncoin Falls Below $2 as Broader Market Conditions Weigh on Price",
-      "link": "https://www.coindesk.com/markets/2025/11/04/toncoin-falls-below-usd2-as-broader-market-conditions-weigh-on-price",
-      "summary": "The selloff was driven by heavy volume and over $1.4 billion in long position liquidations, pushing TON through several support zones.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-04T16:43:58.000Z",
-      "image": null
-    },
-    {
       "title": "Crypto enters “Extreme Fear”! Crypto Falls 3-8%!",
       "link": "https://decrypt.co/videos/interviews/6x1AcJH6/crypto-enters-extreme-fear-crypto-falls-3-8",
       "summary": "Crypto majors continued their decline, dropping another 3–8% as the selloff persisted. Bitcoin (BTC) fell 3% to $104,500, Ethereum (ETH) dropped 5% to $3,520, Binance Coin (BNB) slid 6% to $955, and Solana (SOL) plunged 8% to $162. Meanwhile, Decred (DCR) surged 111%, Dash (DASH) climbed 50%, and Internet Computer (ICP) gained 30%, leading the day’s top movers. Liquidations totaled over $1.2 billion on Monday, with long positions accounting for 90% of the losses, and the Crypto Fear & Greed Inde",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T13:16:03.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png"
-    },
-    {
-      "title": "Ethereum Traders Buy the Dip Despite Third-Largest Spot Outflow Since October",
-      "link": "https://decrypt.co/347254/ethereum-traders-buy-the-dip-despite-third-largest-spot-outflow-since-october",
-      "summary": "Ethereum's large spot outflow signals dip buying, with a potential bounce contingent on improving macro conditions, Decrypt was told.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-04T12:43:46.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png@png"
     }
   ]
 }

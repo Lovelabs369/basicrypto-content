@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-05T08:24:13.429Z",
+  "updatedAt": "2025-11-05T08:49:33.941Z",
   "count": 50,
   "items": [
+    {
+      "title": "Google Launches Project Suncatcher to Put AI Compute in Space",
+      "link": "https://news.bitcoin.com/google-launches-project-suncatcher-to-put-ai-compute-in-space/",
+      "summary": "Google announces Project Suncatcher to test space‑based TPUs, optical links, and scalable artificial intelligence (AI) infrastructure. Google unveils Project Suncatcher on 4 November 2025, announcing plans to test Trillium‑generation tensor processing units (TPUs) in space and to launch two prototype satellites with Planet by early 2027 to validate optical inter‑satellite links, radiation tolerance, and clustered […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-05T08:30:45.000Z",
+      "image": null
+    },
     {
       "title": "Why Is Zcash up 40% While Other Cryptocurrencies Are Tanking?",
       "link": "https://news.bitcoin.com/why-is-zcash-up-40-while-other-cryptocurrencies-are-tanking/",
@@ -161,14 +169,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T23:55:47.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png"
-    },
-    {
-      "title": "Solana ETFs Shine as Bitcoin, Ether Funds Bleed Over $300 Million",
-      "link": "https://news.bitcoin.com/solana-etfs-shine-as-bitcoin-ether-funds-bleed-over-300-million/",
-      "summary": "Bitcoin and ether exchange-traded funds (ETFs) kicked off November with heavy outflows totaling over $320 million, while solana ETFs stood out once again, attracting $70 million in fresh inflows to extend their early winning streak. Bitcoin and Ether ETFs Extend Red Streak With Solana Defying Outflow Trend The week began with sharp contrasts across the […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-04T23:30:29.000Z",
-      "image": null
     },
     {
       "title": "US Treasury Sanctions Web of North Korean Bankers Tied to Global Crypto Crime Operation",

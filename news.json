@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-11-05T04:00:27.206Z",
+  "updatedAt": "2025-11-05T04:35:50.557Z",
   "count": 50,
   "items": [
+    {
+      "title": "Vivopower Boosts XRP With Climate-Focused Alliance",
+      "link": "https://news.bitcoin.com/vivopower-boosts-xrp-with-climate-focused-alliance/",
+      "summary": "XRP’s surge into mainstream finance is hitting a new high as a groundbreaking alliance merges blockchain power with climate intelligence, setting the stage for the world’s first XRP-backed Weathercoin and reshaping global sustainability investment. XRP Gains Global Traction With Weathercoin and Blockchain Climate Alliance Global interest in XRP-based financial innovation is gaining momentum as companies […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-05T04:30:32.000Z",
+      "image": null
+    },
+    {
+      "title": "Crypto, Stocks Fall as Traders Pivot: How Low Can Bitcoin Go?",
+      "link": "https://decrypt.co/347358/crypto-stocks-fall-traders-pivot-how-low-can-bitcoin-go",
+      "summary": "Analysts identify key Bitcoin support levels from $98,000 to $85,000 after a 21% market drop driven by dollar strength and tight liquidity.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T04:28:44.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-gID_7.png@png"
+    },
     {
       "title": "Mamdani Wins NYC Mayor's Race: Here's What the Crypto Predictions Markets Foretold",
       "link": "https://decrypt.co/347355/mamdani-wins-nyc-mayors-race-crypto-predictions-markets",
@@ -168,14 +184,6 @@
       "summary": "This content is provided by a sponsor. PRESS RELEASE. Los Angeles, USA, November 4th, 2025, Chainwire. Mevolaxy, a US-based mevstake platform, has released an intuitive mobile app to provide an easy solution for users who prefer managing their assets on the go. Additionally, the company announced that the latest investor payouts have set another record […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-04T21:00:39.000Z",
-      "image": null
-    },
-    {
-      "title": "Bitcoin Nosedives as a Socialist Prepares to Take Over New York City and Fears of an AI Bubble Spark a Sell-Off in Stocks",
-      "link": "https://news.bitcoin.com/bitcoin-nosedives-as-a-socialist-prepares-to-take-over-new-york-city-and-fears-of-an-ai-bubble-spark-a-sell-off-in-stocks/",
-      "summary": "The cryptocurrency plunged below $100K, triggering $470 million in liquidations, as long investors racked up the lion’s share of losses. Markets in Turmoil: AI Fears and a Socialist NYC Sink Bitcoin and Stocks “A dip below 100k seems inevitable,” said Standard Chartered Bank’s Geoffrey Kendrick just a few days ago. “It may be the last […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-04T20:38:53.000Z",
       "image": null
     },
     {
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-04T12:43:46.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png@png"
-    },
-    {
-      "title": "Privacy Coins Post Double-Digit Gains, Defying Market Slump",
-      "link": "https://decrypt.co/347253/privacy-coins-post-double-digit-gains-defying-market-slump",
-      "summary": "Analysts say privacy tokens are rallying as investors seek anonymity from increasing Bitcoin scrutiny, with Dash seeing record whale accumulation.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-04T12:23:17.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/dash-decrypt-style-01-gID_7.jpg@png"
     }
   ]
 }

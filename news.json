@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-05T19:50:13.030Z",
+  "updatedAt": "2025-11-05T20:20:11.254Z",
   "count": 50,
   "items": [
+    {
+      "title": "Labubus and Unicorns: Florida Crypto Confab Unshaken by Bitcoin Volatility",
+      "link": "https://decrypt.co/347467/labubus-unicorns-crypto-confab-unshaken-bitcoin-volatility",
+      "summary": "Some were there to party. Others were focused on business.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T20:18:04.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/some-guy-decrypt-style-gID_7.jpg@png"
+    },
+    {
+      "title": "Bitcoin Bounces Back: Can Bullish Momentum Hold or Has the Market Topped?",
+      "link": "https://decrypt.co/347468/bitcoin-bounces-bullish-momentum-hold-or-market-top",
+      "summary": "Bitcoin is bouncing, but only slightly, after falling to its lowest price in months. Is the bull run over or will traders defy historical trends?",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-05T19:54:21.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png@png"
+    },
+    {
+      "title": "Citi and DTCC Say Tokenized Collateral Works and Now Regulators Must Keep Pace",
+      "link": "https://www.coindesk.com/markets/2025/11/05/citi-and-dtcc-say-tokenized-collateral-works-now-regulators-must-keep-pace",
+      "summary": "As financial giants test cross-asset collateral, they say legal gaps — not tech — are the biggest threat to scale.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-05T19:54:17.000Z",
+      "image": null
+    },
     {
       "title": "Canada Begins March Toward Stablecoin Regulations",
       "link": "https://www.coindesk.com/policy/2025/11/05/canada-begins-march-toward-stablecoin-regulations",
@@ -323,14 +347,6 @@
       "image": null
     },
     {
-      "title": "Britain’s Digital ID Push Is Premature and Dangerous",
-      "link": "https://www.coindesk.com/opinion/2025/11/04/britain-s-digital-id-push-is-premature-and-dangerous",
-      "summary": "The UK government is moving quickly toward a centralized digital ID system without the technological or legal safeguards to protect against authoritarianism or cybercrime.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T14:00:00.000Z",
-      "image": null
-    },
-    {
       "title": "Morning Minute: Bitcoin Breaks Below $100K for First Time Since May",
       "link": "https://decrypt.co/347386/morning-minute-bitcoin-breaks-below-100k-for-first-time-since-may",
       "summary": "Tuesday was a bloody day for crypto markets, but there are signs of recovery and reasons for hope.",
@@ -385,22 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-05T11:05:17.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/monero-decrypt-style-scaled-gID_7.jpg@png"
-    },
-    {
-      "title": "Former Australian Rugby Star Arrested Over Alleged Crypto Theft",
-      "link": "https://decrypt.co/347357/former-australian-rugby-star-arrested-alleged-crypto-theft",
-      "summary": "Police have raided the former NRL star’s home, seizing devices for forensic examination in connection to an alleged $91,000 crypto theft.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T05:26:37.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Sydney-gID_7.jpg@png"
-    },
-    {
-      "title": "Crypto, Stocks Fall as Traders Pivot: How Low Can Bitcoin Go?",
-      "link": "https://decrypt.co/347358/crypto-stocks-fall-traders-pivot-how-low-can-bitcoin-go",
-      "summary": "Analysts identify key Bitcoin support levels from $98,000 to $85,000 after a 21% market drop driven by dollar strength and tight liquidity.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T04:28:44.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-gID_7.png@png"
     }
   ]
 }

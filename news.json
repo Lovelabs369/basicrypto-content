@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-11-06T13:48:31.589Z",
+  "updatedAt": "2025-11-06T14:18:15.061Z",
   "count": 50,
   "items": [
+    {
+      "title": "CoinDesk 20 Performance Update: Internet Computer (ICP) Leaps 27.5% as Index Falls",
+      "link": "https://www.coindesk.com/coindesk-indices/2025/11/06/coindesk-20-performance-update-internet-computer-icp-leaps-27-5-as-index-falls",
+      "summary": "NEAR Protocol (NEAR) joined Internet Computer (ICP) as a top performer, rising 3.3%.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-06T14:11:27.000Z",
+      "image": null
+    },
+    {
+      "title": "Ethereum Is Like a Shark. If It Stops Moving, It Will Die",
+      "link": "https://www.coindesk.com/opinion/2025/11/04/ethereum-is-like-a-shark-if-it-stops-moving-it-will-die",
+      "summary": "Though Ethereum is still the preferred platform among institutions for asset tokenization, DeFi apps and stablecoin creation, it faces threats that will erode its edge if it doesn't move to meet the market, argues Axelar co-founder and CEO Sergey Gorbunov.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-06T14:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Securitize, VanEck Bring VBILL Tokenized Treasury Fund To Aave",
+      "link": "https://www.coindesk.com/business/2025/11/06/securitize-vaneck-bring-vbill-tokenized-treasury-fund-to-aave",
+      "summary": "The integration, powered by Chainlink’s NAVLink oracle technology, represents another leap in bridging traditional finance and decentralized finance together.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-06T14:00:00.000Z",
+      "image": null
+    },
     {
       "title": "Tenerife Council to Sell Bitcoin Bought in 2012 After Near 10,000% Price Rise",
       "link": "https://www.coindesk.com/markets/2025/11/06/tenerife-council-to-sell-bitcoin-bought-in-2012-after-near-10-000-price-rise",
@@ -59,7 +83,7 @@
       "image": null
     },
     {
-      "title": "Strive to Raise Roughly $160 Million After Upsizing Preferred Stock Offering",
+      "title": "Strive Raises $160 Million in Bitcoin Buying Power After Upsized Preferred Stock Offering",
       "link": "https://www.coindesk.com/markets/2025/11/06/strive-to-raise-roughly-usd160-million-after-upsizing-preferred-stock-offering",
       "summary": "Upsized 2 million-share SATA issuance priced at $80 includes a 12% dividend and potential bitcoin allocation.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -315,14 +339,6 @@
       "image": null
     },
     {
-      "title": "Canada Begins March Toward Stablecoin Regulations",
-      "link": "https://www.coindesk.com/policy/2025/11/05/canada-begins-march-toward-stablecoin-regulations",
-      "summary": "In the wake of the U.S. GENIUS Act, Canadian lawmakers are moving on Canadian-dollar-backed stablecoin legislation, which is being cheered by crypto interests.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T19:21:49.000Z",
-      "image": null
-    },
-    {
       "title": "Monad Reveals Mainnet and Token Launch Date Following Airdrop Claim",
       "link": "https://decrypt.co/347450/monad-reveals-mainnet-token-launch-date-airdrop-claim",
       "summary": "Following its airdrop claim, the Monad Foundation said it launch the mainnet of its layer-1 network later this month alongside the MON token.",
@@ -337,22 +353,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-05T18:59:47.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-1-gID_7.png@png"
-    },
-    {
-      "title": "The Protocol: ZKSync Aims to Revamp Its Tokenomics Model",
-      "link": "https://www.coindesk.com/tech/2025/11/05/the-protocol-zksync-aims-to-revamp-its-tokenomics-model",
-      "summary": "Also: The First AI Agent App Store, ETH Devs Lock In Fusaka Mainnet Date and Edge & Node’s Ampersand.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T18:29:56.000Z",
-      "image": null
-    },
-    {
-      "title": "Monad Foundation Sets Nov. 24 Airdrop Date for Users",
-      "link": "https://www.coindesk.com/tech/2025/11/05/monad-foundation-sets-nov-24-airdrop-date-for-users",
-      "summary": "This comes after the Foundation opened its airdrop claim portal on October 14, inviting users to verify their eligibility.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T18:27:18.000Z",
-      "image": null
     },
     {
       "title": "Singapore Financial Regulator Warns AI Companies Are Overvalued",

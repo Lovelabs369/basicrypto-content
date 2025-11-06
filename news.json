@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-06T07:17:13.490Z",
+  "updatedAt": "2025-11-06T07:38:33.535Z",
   "count": 50,
   "items": [
+    {
+      "title": "Balancer Breach Tied to Batch Swap Rounding Bug; Investigation Ongoing",
+      "link": "https://news.bitcoin.com/balancer-breach-tied-to-batch-swap-rounding-bug-investigation-ongoing/",
+      "summary": "The decentralized finance platform Balancer has acknowledged a significant security breach affecting its V2 protocol and its forks on other chains. Balancer Confirms ‘Significant’ V2 Exploit The decentralized finance (DeFi) platform Balancer has acknowledged that a recent security breach targeting its V2 protocol and forks on other chains “was significant.” In its latest update, Balancer […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-06T07:30:41.000Z",
+      "image": null
+    },
     {
       "title": "Crypto Lags Despite Liquidity Surge and Market Tailwinds",
       "link": "https://news.bitcoin.com/crypto-lags-despite-liquidity-surge-and-market-tailwinds/",
@@ -45,7 +53,7 @@
     {
       "title": "Trump Says He Wants U.S. To Be ‘The Bitcoin Superpower,’ Cites Competition From China",
       "link": "https://www.coindesk.com/policy/2025/11/06/trump-says-he-wants-u-s-to-be-the-bitcoin-superpower-cites-competition-from-china",
-      "summary": "At Miami’s America Business Forum, he said his orders ended a “war on crypto,” mentioned that crypto helps the dollar and warned China could gain if Washington stumbles.",
+      "summary": "At the America Business Forum, Trump said his orders ended a “war on crypto,” mentioned that crypto helps the dollar and warned China could gain if Washington stumbles.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-06T05:19:49.000Z",
       "image": null
@@ -169,14 +177,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-05T21:46:32.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png"
-    },
-    {
-      "title": "Bitcoin Stabilizes, But Galaxy Research Cuts Year-End Forecast to $120K",
-      "link": "https://news.bitcoin.com/bitcoin-stabilizes-but-galaxy-research-cuts-year-end-forecast-to-120k/",
-      "summary": "The digital currency nosedived below $100K on Tuesday before clawing its way back to $104K on Wednesday afternoon. Galaxy Research Revises Bullish Target Down to $120K Tuesday belonged to the bears. Bitcoin ( BTC) plunged below $100K triggering nearly $500 million in BTC liquidations. It was the first time the cryptocurrency had entered sub-$100K territory […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-05T21:26:09.000Z",
-      "image": null
     },
     {
       "title": "Robinhood’s Crypto Trading Revenue Soared 339% in Q3 as Company Tops Street Earnings Estimates",

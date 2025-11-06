@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-11-06T02:57:01.000Z",
+  "updatedAt": "2025-11-06T03:48:17.700Z",
   "count": 50,
   "items": [
+    {
+      "title": "Ripple Doubles Down on XRP as It Bets Big on Crypto’s Future",
+      "link": "https://news.bitcoin.com/ripple-doubles-down-on-xrp-as-it-bets-big-on-cryptos-future/",
+      "summary": "Ripple CEO Brad Garlinghouse is championing a breakthrough year marked by record growth, a $500 million strategic investment, and surging XRP momentum, underscoring crypto’s rapid ascent as a driving force in global finance. Ripple Builds Its Future on XRP as the Next Crypto Epoch Takes Form Ripple CEO Brad Garlinghouse has voiced a strongly bullish […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-06T03:30:45.000Z",
+      "image": null
+    },
+    {
+      "title": "Appeals Court Rejects Prisoner's Lawsuit Over Alleged $354M Bitcoin Loss",
+      "link": "https://decrypt.co/347537/appeals-court-rejects-lawsuit-alleged-354m-bitcoin-loss",
+      "summary": "The court said the man had waited too long to reclaim his Bitcoin fortune, which he says was on a now-destroyed hard drive.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-06T02:57:11.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-28-gID_7.png@png"
+    },
     {
       "title": "Countdown Begins: XRP ETF May Hit US Markets Next Week",
       "link": "https://news.bitcoin.com/countdown-begins-xrp-etf-may-hit-us-markets-next-week/",
@@ -219,14 +235,6 @@
       "image": null
     },
     {
-      "title": "TRON Integrated by Dynamic, Streamlining Wallet Connectivity for Developers Worldwide",
-      "link": "https://news.bitcoin.com/tron-integrated-by-dynamic-streamlining-wallet-connectivity-for-developers-worldwide/",
-      "summary": "This content is provided by a sponsor. PRESS RELEASE. Geneva, Switzerland, November 5, 2025 – TRON DAO, the community-governed DAO dedicated to accelerating the decentralization of the internet through blockchain technology and decentralized applications (dApps), today announced that Dynamic, a leading wallet infrastructure provider, has integrated the TRON network into its platform, streamlining wallet connections […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-05T18:00:22.000Z",
-      "image": null
-    },
-    {
       "title": "Crypto Long & Short: Redefining the Custody Standard for Banking",
       "link": "https://www.coindesk.com/coindesk-indices/2025/11/05/crypto-long-and-short-redefining-the-custody-standard-for-banking",
       "summary": "In this week’s Crypto Long & Short Newsletter, Pascal Eberle writes about redefining the custody standards for banking and Andy Baehr explains how the crypto market is awaiting a new leader to spark its next rally.",
@@ -393,14 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-05T14:16:41.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ripple-logo-2-gID_7.png@png"
-    },
-    {
-      "title": "Iggy Azalea Joins Token Launchpad for Celebrities on Solana as Creative Director",
-      "link": "https://decrypt.co/347340/iggy-azalea-joins-token-celebrities-solana-creative-director",
-      "summary": "The platform is co-founded by a former cannabis entrepreneur.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T14:01:03.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/iggy-azalea-decrypt-style-gID_7.jpg@png"
     }
   ]
 }

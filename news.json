@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2025-11-06T14:18:15.061Z",
+  "updatedAt": "2025-11-06T14:44:16.025Z",
   "count": 50,
   "items": [
+    {
+      "title": "Hamilton Lane, Securitize, Vaneck, Ripple Tie up RLUSD Liquidity for HLSCOPE",
+      "link": "https://news.bitcoin.com/hamilton-lane-securitize-vaneck-ripple-tie-up-rlusd-liquidity-for-hlscope/",
+      "summary": "On Wednesday, Securitize said Hamilton Lane’s tokenized feeder fund (HLSCOPE) now offers instant RLUSD liquidity by integrating with Vaneck’s VBILL onchain facility. Hamilton Lane Feeder Fund Gains 24/7 RLUSD Access via VBILL Integration In a recent X thread and blog post, Securitize explained that the new integration lets HLSCOPE instantly convert VBILL holdings into Ripple’s […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-06T14:30:40.000Z",
+      "image": null
+    },
+    {
+      "title": "UK Stablecoin Regs Coming 'Just as Quickly' as US: Bank of England",
+      "link": "https://decrypt.co/347578/uk-stablecoin-regs-coming-just-as-quickly-as-us-bank-of-england",
+      "summary": "BoE deputy governor Sarah Breeden rebuffed crypto industry concerns that the UK is falling behind in the global race to regulate stablecoins.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-06T14:28:22.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bank-of-england-decrypt-style-02-gID_7.jpg@png"
+    },
+    {
+      "title": "The Fed's Turning Hawkish as This U.S. Employment Indicator Flashes Red",
+      "link": "https://www.coindesk.com/markets/2025/11/06/the-fed-s-turning-hawkish-as-this-u-s-employment-indicator-flashes-red",
+      "summary": "Challenger job cuts for October rose to their highest in more than 20 years.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-06T14:28:08.000Z",
+      "image": null
+    },
+    {
+      "title": "Dormant Bitcoin Comes Back to Life as 4.65M BTC Reenters Circulation in 2025",
+      "link": "https://www.coindesk.com/markets/2025/11/06/dormant-bitcoin-comes-back-to-life-as-4-65-million-btc-reenters-circulation-in-2025",
+      "summary": "Data shows long-term holders have driven an unprecedented wave of distribution across 2024 and 2025.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-06T14:20:52.000Z",
+      "image": null
+    },
+    {
+      "title": "Central Bank of Ireland Fines Coinbase Europe $24.8M for AML Failures",
+      "link": "https://decrypt.co/347575/central-bank-of-ireland-fines-coinbase-europe-24-8m-for-aml-failures",
+      "summary": "Ireland has issued its first crypto enforcement action as Coinbase Europe admits flaws in monitoring 30 million transactions.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-06T14:18:38.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png"
+    },
     {
       "title": "CoinDesk 20 Performance Update: Internet Computer (ICP) Leaps 27.5% as Index Falls",
       "link": "https://www.coindesk.com/coindesk-indices/2025/11/06/coindesk-20-performance-update-internet-computer-icp-leaps-27-5-as-index-falls",
@@ -235,14 +275,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-07-gID_7.png@png"
     },
     {
-      "title": "Peter Schiff Rejects ‘Correction’ Talk, Declares Bitcoin and Ether Deep in Bear Territory",
-      "link": "https://news.bitcoin.com/peter-schiff-rejects-correction-talk-declares-bitcoin-and-ether-deep-in-bear-territory/",
-      "summary": "Bitcoin’s sharp retreat has intensified debate over whether the drop marks a true bear market or just a correction, as supporters highlight lasting fundamentals and growth potential despite Peter Schiff’s renewed warnings of deeper losses ahead. Bitcoin Plunge Sparks Fresh Crypto Bear Market Debate Economist and gold advocate Peter Schiff renewed his long-running criticism of […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-06T04:30:51.000Z",
-      "image": null
-    },
-    {
       "title": "Appeals Court Rejects Prisoner's Lawsuit Over Alleged $354M Bitcoin Loss",
       "link": "https://decrypt.co/347537/appeals-court-rejects-lawsuit-alleged-354m-bitcoin-loss",
       "summary": "The court said the man had waited too long to reclaim his Bitcoin fortune, which he says was on a now-destroyed hard drive.",
@@ -299,14 +331,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png"
     },
     {
-      "title": "Robinhood’s Crypto Trading Revenue Soared 339% in Q3 as Company Tops Street Earnings Estimates",
-      "link": "https://www.coindesk.com/markets/2025/11/05/robinhood-s-crypto-trading-revenue-soars-339-to-usd268m-in-q3",
-      "summary": "The brokerage platform saw a record $80B in crypto trading volume; shares dipped in after hours action despite the earnings beat.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T21:24:09.000Z",
-      "image": null
-    },
-    {
       "title": "Google Maps Becomes Gemini’s Proving Ground for Real-World AI",
       "link": "https://decrypt.co/347518/google-maps-becomes-geminis-proving-ground-real-world-ai",
       "summary": "Gemini turns Google Maps into a conversational copilot with smarter navigation and real-world awareness, thanks to generative AI.",
@@ -329,14 +353,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-05T19:54:21.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png@png"
-    },
-    {
-      "title": "Citi and DTCC Say Tokenized Collateral Works and Now Regulators Must Keep Pace",
-      "link": "https://www.coindesk.com/markets/2025/11/05/citi-and-dtcc-say-tokenized-collateral-works-now-regulators-must-keep-pace",
-      "summary": "As financial giants test cross-asset collateral, they say legal gaps — not tech — are the biggest threat to scale.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T19:54:17.000Z",
-      "image": null
     },
     {
       "title": "Monad Reveals Mainnet and Token Launch Date Following Airdrop Claim",
@@ -385,22 +401,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-05T17:17:41.000Z",
       "image": "https://cdn.jwplayer.com/v2/media/nmhS36Py/poster.jpg"
-    },
-    {
-      "title": "Ripple Teams With Mastercard, Gemini to Use RLUSD to Settle Credit Card Transactions",
-      "link": "https://decrypt.co/347393/ripple-mastercard-gemini-use-rlusd-settle-credit-card-transactions",
-      "summary": "Ripple and partners aim to kickstart RLUSD onboarding and integration planning in the coming months pending regulatory approval.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T17:04:04.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ripple-logo-decrypt-style-01-gID_7.png@png"
-    },
-    {
-      "title": "EU Arrests Nine in Connection with $689M Crypto Scam Network",
-      "link": "https://decrypt.co/347434/eu-arrests-nine-in-connection-with-689m-crypto-scam-network",
-      "summary": "Authorities have so far seized only a small fraction of the funds lost to the scam network, which spanned multiple EU states.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T17:01:05.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Handcuffs-gID_7.png@png"
     }
   ]
 }

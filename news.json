@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-06T04:46:43.280Z",
+  "updatedAt": "2025-11-06T05:18:04.394Z",
   "count": 50,
   "items": [
+    {
+      "title": "Bitcoin’s Relief Rally Lifts Spirits: Is it Time to Buy the Dip?",
+      "link": "https://decrypt.co/347539/bitcoins-relief-rally-lifts-spirits-time-buy-dip",
+      "summary": "Bitcoin’s rebound above $100,000 has revived hopes of a recovery, but analysts warn the bounce may be more technical than fundamental.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-06T04:55:02.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-07-gID_7.png@png"
+    },
     {
       "title": "Peter Schiff Rejects ‘Correction’ Talk, Declares Bitcoin and Ether Deep in Bear Territory",
       "link": "https://news.bitcoin.com/peter-schiff-rejects-correction-talk-declares-bitcoin-and-ether-deep-in-bear-territory/",
@@ -393,14 +401,6 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-05T15:13:33.000Z",
       "image": null
-    },
-    {
-      "title": "Ripple Raises $500 Million at $40 Billion Valuation Following XRP's Historic Surge",
-      "link": "https://decrypt.co/347391/ripple-raises-500m-40-billion-valuation-following-xrp-historic-surge",
-      "summary": "Ripple announced that it has raised $500 million from affiliates of Wall Street giants like Citadel Securities and Fortress Investment Group.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T14:16:41.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ripple-logo-2-gID_7.png@png"
     }
   ]
 }

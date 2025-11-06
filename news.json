@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-11-06T07:49:44.055Z",
-  "count": 50,
+  "updatedAt": "2025-11-06T08:23:48.562Z",
+  "count": 60,
   "items": [
+    {
+      "title": "Bitcoin faces &#039;insane&#039; sell wall above $105K as stocks eye tariff ruling",
+      "link": "https://cointelegraph.com/news/bitcoin-faces-insane-sell-wall-above-105k-stocks-eye-tariff-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Bitcoin price upside stayed limited as suspicions rose over the owner of a large wall of sell orders stretching to the $112,000 mark.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-06T08:10:04.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDRlZmUtOGRlNi03Nzk4LWFkZjItYzQzMDI1ZTI2NTA4.jpg"
+    },
+    {
+      "title": "Can the biggest Bitcoin whales really decide when the market turns green or red?",
+      "link": "https://cointelegraph.com/news/can-the-biggest-bitcoin-whales-really-decide-when-the-market-turns-green-or-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Whales still move prices, but ETF flows, exchange liquidity, and macro shifts now decide Bitcoin’s daily color.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-06T07:49:35.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5YTE1YzYtMjZkMi03MzM5LWI4ZDYtODc1MGMyZjQwYjc1.jpg"
+    },
     {
       "title": "Balancer Breach Tied to Batch Swap Rounding Bug; Investigation Ongoing",
       "link": "https://news.bitcoin.com/balancer-breach-tied-to-batch-swap-rounding-bug-investigation-ongoing/",
@@ -17,6 +33,30 @@
       "source": "Bitcoin News",
       "publishedAt": "2025-11-06T06:30:37.000Z",
       "image": null
+    },
+    {
+      "title": "Bitcoin bull run hasn’t started yet: Jan3’s Samson Mow",
+      "link": "https://cointelegraph.com/news/bitcoin-bull-run-hasnt-started-yet-samson-mow-2026-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Jan3 founder Samson Mow also argued that fears of Bitcoin OGs selling are overblown and traders should focus on the next bull run, rather than “self-owning themselves.”",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-06T06:02:35.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTkwNGItMjBkYy03NzZkLWEyMzQtMzY1MGI5ZmZkOTAx.jpg"
+    },
+    {
+      "title": "FBI can’t be blamed for wiping hard drive with $345M BTC, say judges",
+      "link": "https://cointelegraph.com/news/fbi-cant-be-blamed-for-wiping-hard-drive-with-345m-bitcoin-say-judges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "A US appeals court says the FBI isn’t at fault for wiping a drive containing over 3,400 Bitcoin, as its convicted owner never informed the government that he owned the tokens.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-06T06:00:48.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTU3YTYtZTJjNS03NjAwLWIwNGUtZDg2ZjQzZGFiMzhj.jpg"
+    },
+    {
+      "title": "DeFi players launch alliance to champion Ethereum to policymakers",
+      "link": "https://cointelegraph.com/news/ethereum-stakeholders-launch-coordinated-lobbying-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Major DeFi protocols on Ethereum have banded together to counter the so-called “outsized influence” of centralized crypto firms on US policymaking.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-06T05:50:39.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5N2U1OGQtMmM3Yy03MmQwLThjZTEtMzAyMDhjZmIxZDNj.jpg"
     },
     {
       "title": "$72M Equity Investment From Top Firms Bolsters Canaan’s Bitcoin Mining Infrastructure Push",
@@ -67,12 +107,28 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-07-gID_7.png@png"
     },
     {
+      "title": "‘Ethereum is scaling’ — ETH maxis cheer as TPS hits record 24K with Lighter",
+      "link": "https://cointelegraph.com/news/ethereum-ecosystem-sees-record-24k-tps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "An explosion in transaction activity on Ethereum layer 2 Lighter since launching last month has pushed Ethereum’s transaction per second count to a record of 24,192.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-06T04:52:37.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5Mzc5M2QtNTg3NC03MjFiLTk1OGItMWY5MjY0MzJkNWU5.jpg"
+    },
+    {
       "title": "Peter Schiff Rejects ‘Correction’ Talk, Declares Bitcoin and Ether Deep in Bear Territory",
       "link": "https://news.bitcoin.com/peter-schiff-rejects-correction-talk-declares-bitcoin-and-ether-deep-in-bear-territory/",
       "summary": "Bitcoin’s sharp retreat has intensified debate over whether the drop marks a true bear market or just a correction, as supporters highlight lasting fundamentals and growth potential despite Peter Schiff’s renewed warnings of deeper losses ahead. Bitcoin Plunge Sparks Fresh Crypto Bear Market Debate Economist and gold advocate Peter Schiff renewed his long-running criticism of […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-06T04:30:51.000Z",
       "image": null
+    },
+    {
+      "title": "Robinhood isn’t rushing into crypto treasuries, exec says",
+      "link": "https://cointelegraph.com/news/robinhood-isn-t-rushing-into-crypto-treasuries-exec-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Robinhood executive Shiv Verma says buying crypto could align it with the community more, but questions if it's “the right thing for shareholders.”",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-06T03:43:53.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDUvMDE5NmM5OTUtMjJiOS03OGFiLTg4MWYtNTZjYTVhMDJjNGQ0.jpg"
     },
     {
       "title": "Ripple Doubles Down on XRP as It Bets Big on Crypto’s Future",
@@ -83,12 +139,28 @@
       "image": null
     },
     {
+      "title": "Robinhood’s Q3 crypto revenue surges 300% as earnings beat forecasts",
+      "link": "https://cointelegraph.com/news/robinhood-q3-crypto-revenue-300-percent-earnings-surpass-expectations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Robinhood Markets’ crypto revenue jumped over 300% in Q3, helping to double its revenue from last year to surpass analyst expectations.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-06T03:16:25.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWE0ZGEtMmE5ZC03MGNiLTgzYjUtYzVkMGFiZTJiMzRm.jpg"
+    },
+    {
       "title": "Appeals Court Rejects Prisoner's Lawsuit Over Alleged $354M Bitcoin Loss",
       "link": "https://decrypt.co/347537/appeals-court-rejects-lawsuit-alleged-354m-bitcoin-loss",
       "summary": "The court said the man had waited too long to reclaim his Bitcoin fortune, which he says was on a now-destroyed hard drive.",
       "source": "Decrypt",
       "publishedAt": "2025-11-06T02:57:11.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-28-gID_7.png@png"
+    },
+    {
+      "title": "Rural Texas community fails plan to become a city to curb BTC miner noise",
+      "link": "https://cointelegraph.com/news/texans-failed-create-city-amid-noise-complaints-bitcoin-miners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Residents of a small area in Hood County have attempted to form a municipality to exercise authority over a Bitcoin mining site they claim is generating excessive noise.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-06T02:31:29.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTU2NWYtYzliYi03ZjE1LTliMjgtMmU4ZDU3OTBjMjFh.jpg"
     },
     {
       "title": "Countdown Begins: XRP ETF May Hit US Markets Next Week",
@@ -115,12 +187,36 @@
       "image": null
     },
     {
+      "title": "The best crypto treasuries are ‘doing something hard:’ Bitwise",
+      "link": "https://cointelegraph.com/news/bitwise-cio-active-dats-outperform-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Investors are better off buying ETFs than buying shares in a firm that’s simply putting a crypto asset on its balance sheet, argues Bitwise’s Matt Hougan.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-06T01:20:27.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDQ3MjgtN2Y4MS03ZTBlLTg2ZjItYzhlYmIxZmVjYzQ3.jpg"
+    },
+    {
+      "title": "Miami mayor Francis Suarez claims he’s up 300% on his Bitcoin salary",
+      "link": "https://cointelegraph.com/news/miami-mayor-francis-suarez-up-300-percent-bitcoin-salary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Miami Mayor Francis Suarez started receiving his salary in Bitcoin four years ago, when Bitcoin was valued at around $64,000.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-06T01:12:16.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTU2NTktM2VkNS03ZWM2LWI0ZGQtMzc4ODA4ZWE0NWUz.jpg"
+    },
+    {
       "title": "Ripple-Backed Evernorth Tops 473M XRP, Redefining Institutional Crypto Power",
       "link": "https://news.bitcoin.com/ripple-backed-evernorth-tops-473m-xrp-redefining-institutional-crypto-power/",
       "summary": "Evernorth Holdings’ aggressive expansion to more than 473 million XRP cements a powerful wave of institutional conviction, signaling accelerating adoption, strategic accumulation, and a bold move to redefine regulated digital asset exposure through a publicly traded XRP treasury. Evernorth Expands XRP Holdings to Over 473 Million Amid Soaring Institutional Confidence Growing confidence in XRP’s long-term […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-06T00:30:56.000Z",
       "image": null
+    },
+    {
+      "title": "Bank of England pledges to keep pace with US on stablecoin regulations",
+      "link": "https://cointelegraph.com/news/england-vows-keep-pace-us-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The UK’s top bank says it will roll out stablecoin rules “just as quickly as the US” amid concerns that it's lagging behind global allies.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-05T23:34:28.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWMwNTYtNmE3OC03Y2M1LWE4MmUtYmE2NTFjZmNlYjA0.jpg"
     },
     {
       "title": "Bitwise CIO: Bitcoin’s Sideways Phase Signals the End of 1% Allocations",
@@ -171,6 +267,30 @@
       "image": null
     },
     {
+      "title": "Franklin Templeton brings tokenized USD money market fund to Hong Kong",
+      "link": "https://cointelegraph.com/news/franklin-templeton-tokenized-usd-money-market-fund-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The launch marks Franklin Templeton’s latest step into digital assets, introducing a blockchain-based UCITS fund as Hong Kong accelerates its push toward real-world asset tokenization.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-05T21:59:56.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzg1MzgtYWQ2Yi03NzljLTg2NGMtNGFhMzkwY2E0ZjYz.jpg"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-05T21:56:14.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg"
+    },
+    {
+      "title": "UK ruling in Getty Images’ AI lawsuit leaves key IP questions unanswered",
+      "link": "https://cointelegraph.com/news/uk-ruling-getty-images-ai-lawsuit-ip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The mixed ruling was claimed as a victory by both Stability AI and Getty Images, muddying the legal waters around AI and intellectual property.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-05T21:53:55.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTU5MmUtZjI5ZC03YmUwLWJjOWEtYTdiY2NkZmI5MWEx.jpg"
+    },
+    {
       "title": "Robinhood Q3 Earnings Top Analysts' Expectations as Crypto Revenue Surges Over 300%",
       "link": "https://decrypt.co/347352/robinhood-q3-earnings-top-analysts-expectations-crypto-revenue-surges",
       "summary": "Despite dipping the past five days, the company's share price has risen roughly 260% year-to-date.",
@@ -179,12 +299,28 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png"
     },
     {
+      "title": "US lawmakers to meet with Trump’s crypto czar, discuss bill: Report",
+      "link": "https://cointelegraph.com/news/white-house-david-sacks-market-structure-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Some experts suggest that the US Senate is more likely to pass a funding bill to reopen the government before any crypto legislation.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-05T21:38:56.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTU1OTUtM2E4MS03NGZmLTkyNGUtZGZiNGVhNDc1MzRk.jpg"
+    },
+    {
       "title": "Robinhood’s Crypto Trading Revenue Soared 339% in Q3 as Company Tops Street Earnings Estimates",
       "link": "https://www.coindesk.com/markets/2025/11/05/robinhood-s-crypto-trading-revenue-soars-339-to-usd268m-in-q3",
       "summary": "The brokerage platform saw a record $80B in crypto trading volume; shares dipped in after hours action despite the earnings beat.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-05T21:24:09.000Z",
       "image": null
+    },
+    {
+      "title": "CMT Digital secures $136M to back next wave of blockchain startups",
+      "link": "https://cointelegraph.com/news/cmt-digital-136m-fund-blockchain-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The Chicago-based crypto venture company has already invested part of its new $136 million fund in stablecoin startups, as blockchain VC activity slows in 2025.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-05T20:54:44.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGJiMTgtZTRkOS03ODljLTlmZmItMmU1NTU0ZjhiM2Fm.jpg"
     },
     {
       "title": "Google Maps Becomes Gemini’s Proving Ground for Real-World AI",
@@ -203,6 +339,22 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/some-guy-decrypt-style-gID_7.jpg@png"
     },
     {
+      "title": "Circle changes policy, allows users to buy certain weapons with USDC",
+      "link": "https://cointelegraph.com/news/circle-usdc-terms-purchase-weapons-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The company updated its terms to prohibit the purchase or sale of weapons “in contravention of applicable laws,” suggesting that legally permissible transactions were possible.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-05T20:14:38.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YTU0YTYtNzgxNy03OWUxLWI4M2ItMjRhYWRiMWU0NjJl.jpg"
+    },
+    {
+      "title": "Balancer releases preliminary post-mortem report after $116M hack",
+      "link": "https://cointelegraph.com/news/balancer-post-mortem-report-116m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The hack was one of the “most sophisticated” attacks so far in 2025, according to Deddy Lavid, CEO of blockchain security company Cyvers.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-05T19:54:33.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDIvMDE5NTE5NDEtMDFlOC03OWQ2LTk4NzktOTk2ZGQzYzg0NmYy.jpg"
+    },
+    {
       "title": "Bitcoin Bounces Back: Can Bullish Momentum Hold or Has the Market Topped?",
       "link": "https://decrypt.co/347468/bitcoin-bounces-bullish-momentum-hold-or-market-top",
       "summary": "Bitcoin is bouncing, but only slightly, after falling to its lowest price in months. Is the bull run over or will traders defy historical trends?",
@@ -217,6 +369,14 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-05T19:54:17.000Z",
       "image": null
+    },
+    {
+      "title": "ETH price drop to $3K sets stage for $7B short squeeze if crypto market recovery holds",
+      "link": "https://cointelegraph.com/news/eth-price-drop-to-dollar3k-sets-stage-for-dollar7b-short-squeeze-if-crypto-market-recovery-holds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "ETH’s flash crash to $3,050 cleared out $1.3 billion in leveraged long positions, creating a market imbalance with $7 billion in short liquidity. Will a short squeeze send ETH above $4,000?",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-11-05T19:30:00.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2U3YTAtYzgzMS03NDM0LTk1NTQtYmY3MzFmMDVmOGE0.jpg"
     },
     {
       "title": "Canada Begins March Toward Stablecoin Regulations",
@@ -321,86 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-05T17:04:04.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ripple-logo-decrypt-style-01-gID_7.png@png"
-    },
-    {
-      "title": "EU Arrests Nine in Connection with $689M Crypto Scam Network",
-      "link": "https://decrypt.co/347434/eu-arrests-nine-in-connection-with-689m-crypto-scam-network",
-      "summary": "Authorities have so far seized only a small fraction of the funds lost to the scam network, which spanned multiple EU states.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T17:01:05.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Handcuffs-gID_7.png@png"
-    },
-    {
-      "title": "Ripple’s RLUSD to Power Mastercard Credit Card Settlements on XRP Ledger",
-      "link": "https://www.coindesk.com/markets/2025/11/05/embargoed-till-12pm-et-ripple-s-rlusd-to-power-mastercard-credit-card-settlements-on-xrp-ledger",
-      "summary": "The pilot, unveiled at Swell 2025, positions regulated stablecoins like RLUSD as fast, compliant rails for fiat card payments.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T17:00:00.000Z",
-      "image": null
-    },
-    {
-      "title": "Chainlink, Apex Group Test Onchain Stablecoin Compliance With Bermuda Regulator",
-      "link": "https://www.coindesk.com/policy/2025/11/05/chainlink-apex-group-test-onchain-stablecoin-compliance-with-bermuda-regulator",
-      "summary": "The system provides regulators with real-time visibility into a stablecoin's backing and circulation, automating compliance checks onchain.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T17:00:00.000Z",
-      "image": null
-    },
-    {
-      "title": "TON Drops to $1.93 as Altcoins Lag Behind Bitcoin in Risk-Off Crypto Market",
-      "link": "https://www.coindesk.com/markets/2025/11/05/ton-drops-to-usd1-93-as-altcoins-lag-behind-bitcoin-in-risk-off-crypto-market",
-      "summary": "Despite signs of stabilization, with TON consolidating in a narrow range, momentum remains fragile, and a break below $1.87 could lead to further losses.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T16:57:19.000Z",
-      "image": null
-    },
-    {
-      "title": "Why Bitcoin Traders Should 'Buy the Dip, in Stages'",
-      "link": "https://decrypt.co/347432/bitcoin-traders-buy-dip-in-stages",
-      "summary": "A Standard Chartered analyst has outlined a three-stage strategy to buy the Bitcoin dip as the U.S. shutdown weighs on crypto markets.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T16:42:13.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png@png"
-    },
-    {
-      "title": "YouTube Says New Policy Doesn't Ban All Crypto Content, Despite Uproar From Creators",
-      "link": "https://decrypt.co/347411/youtube-new-policy-doesnt-ban-all-crypto-content-despite-uproar",
-      "summary": "Crypto gamers feared that YouTube’s new gambling policy would ban their favorite content creators, but the platform said that won't be the case.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T16:18:14.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/YouTube-DecryptStyle-1-gID_7.jpg@png"
-    },
-    {
-      "title": "BONK Climbs 2.8% as Price Consolidates Above $0.000012 Support",
-      "link": "https://www.coindesk.com/markets/2025/11/05/bonk-climbs-2-8-as-price-consolidates-above-usd0-000012-support",
-      "summary": "BONK gains 2.84% to $0.00001215 as volume surges 134% above average, maintaining upward momentum within defined technical boundaries.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T15:59:58.000Z",
-      "image": null
-    },
-    {
-      "title": "Crypto’s Anti-Surveillance Boom: Zcash, Monero and the Return of Anonymity",
-      "link": "https://www.coindesk.com/business/2025/11/05/crypto-s-anti-surveillance-boom-zcash-monero-and-the-return-of-anonymity",
-      "summary": "Privacy coins are outperforming as traders turn away from ETFs and transparent ledgers, reviving crypto’s oldest idea: digital cash that can move freely, without surveillance.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T15:57:08.000Z",
-      "image": null
-    },
-    {
-      "title": "Hong Kong Charges 16 in $205 Million JPEX Crypto Fraud Probe",
-      "link": "https://decrypt.co/347410/hong-kong-charges-16-in-205-million-jpex-crypto-fraud-probe",
-      "summary": "Influencer and ex-lawyer Joseph Lam was among those charged as Hong Kong expands its probe into its largest-ever crypto fraud case.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T15:55:54.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png"
-    },
-    {
-      "title": "Bitcoin Bulls' Last Stand? $95K, According to This Well-Followed Analyst",
-      "link": "https://www.coindesk.com/markets/2025/11/05/bitcoin-bulls-last-stand-usd95k-according-to-this-well-followed-analyst",
-      "summary": "Nearly 57% of all money ever invested in bitcoin is in the red at the $100,000 level according to James Check.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T15:44:35.000Z",
-      "image": null
     }
   ]
 }

@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-06T10:55:22.653Z",
+  "updatedAt": "2025-11-06T11:15:50.000Z",
   "count": 50,
   "items": [
+    {
+      "title": "Three Big Crypto Takeaways From Robinhood’s Quarterly Announcement",
+      "link": "https://decrypt.co/347550/three-big-crypto-takeaways-from-robinhoods-quarterly-announcement",
+      "summary": "Robinhood executives said prediction markets are gaining traction and crypto trading remains strong, as the company looks to expand overseas.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-06T11:07:02.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/robinhood-decrypt-style-02-gID_7.jpg@png"
+    },
     {
       "title": "CMT Digital Closes $136M Fund IV to Back Next Phase of Crypto Adoption",
       "link": "https://news.bitcoin.com/cmt-digital-closes-136m-fund-iv-to-back-next-phase-of-crypto-adoption/",
@@ -393,14 +401,6 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-05T15:59:58.000Z",
       "image": null
-    },
-    {
-      "title": "Hong Kong Charges 16 in $205 Million JPEX Crypto Fraud Probe",
-      "link": "https://decrypt.co/347410/hong-kong-charges-16-in-205-million-jpex-crypto-fraud-probe",
-      "summary": "Influencer and ex-lawyer Joseph Lam was among those charged as Hong Kong expands its probe into its largest-ever crypto fraud case.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T15:55:54.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png"
     }
   ]
 }

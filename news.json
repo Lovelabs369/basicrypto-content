@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-11-06T15:19:29.576Z",
+  "updatedAt": "2025-11-06T15:44:11.255Z",
   "count": 50,
   "items": [
+    {
+      "title": "Google Rolls out Ironwood TPU With 9,216-Chip Pods and Liquid Cooling",
+      "link": "https://news.bitcoin.com/google-rolls-out-ironwood-tpu-with-9216-chip-pods-and-liquid-cooling/",
+      "summary": "Google is rolling out Ironwood, its seventh-generation Tensor Processing Unit, a purpose-built artificial intelligence (AI) accelerator the company bills as its most advanced yet—built for efficient, at-scale inference and ready to push on Nvidia’s lead as availability expands in the coming weeks. Google’s Ironwood TPU Targets Nvidia’s Turf With Pod-Scale FP8 Power Google previewed Ironwood […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-11-06T15:30:49.000Z",
+      "image": null
+    },
     {
       "title": "Concordium to Bring Age-Verified Stablecoin Payments to Over 75M Bitcoin.com Wallets Globally",
       "link": "https://news.bitcoin.com/concordiums-age-verification-payment-technology-to-be-integrated-by-bitcoin-com/",
@@ -224,14 +232,6 @@
       "summary": "The decentralized finance platform Balancer has acknowledged a significant security breach affecting its V2 protocol and its forks on other chains. Balancer Confirms ‘Significant’ V2 Exploit The decentralized finance (DeFi) platform Balancer has acknowledged that a recent security breach targeting its V2 protocol and forks on other chains “was significant.” In its latest update, Balancer […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-11-06T07:30:41.000Z",
-      "image": null
-    },
-    {
-      "title": "Crypto Lags Despite Liquidity Surge and Market Tailwinds",
-      "link": "https://news.bitcoin.com/crypto-lags-despite-liquidity-surge-and-market-tailwinds/",
-      "summary": "Despite rate cuts, the end of quantitative tightening, and record-high equities, crypto continues to underperform. Liquidity is expanding globally, but it’s not flowing into digital assets, with exchange-traded fund (ETF) inflows stalled and digital asset treasury (DAT) activity fading. Strong Macro, Weak Flows: Why Crypto’s Still Stuck Global markets remain buoyant, yet crypto can’t seem […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-11-06T06:30:37.000Z",
       "image": null
     },
     {

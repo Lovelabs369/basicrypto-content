@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2025-11-06T11:50:21.889Z",
+  "updatedAt": "2025-11-06T12:36:16.017Z",
   "count": 50,
   "items": [
+    {
+      "title": "Strive to Raise Roughly $160 Million After Upsizing Preferred Stock Offering",
+      "link": "https://www.coindesk.com/markets/2025/11/06/strive-to-raise-roughly-usd160-million-after-upsizing-preferred-stock-offering",
+      "summary": "Upsized 2 million-share SATA issuance priced at $80 includes a 12% dividend and potential bitcoin allocation.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-06T12:23:34.000Z",
+      "image": null
+    },
+    {
+      "title": "Where's the Liquidity Gone?: Crypto Daybook Americas",
+      "link": "https://www.coindesk.com/daybook-us/2025/11/06/where-s-the-liquidity-gone-crypto-daybook-americas",
+      "summary": "Your day-ahead look for Nov. 6, 2025",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-06T12:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Bitcoin Could Bounce, Headwinds Can Turn into Tailwinds: Tom Lee",
+      "link": "https://decrypt.co/347558/bitcoin-could-bounce-headwinds-can-turn-into-tailwinds-tom-lee",
+      "summary": "Fundstrat's Tom Lee says Bitcoin's slump was due to macro headwinds, but sees a potential reversal as pressures ease.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-06T11:50:26.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/tom-lee-decrypt-style-gID_7.jpg@png"
+    },
+    {
+      "title": "Crypto Markets Today: Bitcoin Holds $103K as Altcoins Lag and Traders Hedge Downside",
+      "link": "https://www.coindesk.com/markets/2025/11/06/crypto-markets-today-bitcoin-holds-usd103k-as-altcoins-lag-and-traders-hedge-downside",
+      "summary": "Bitcoin steadies above $100,000 after a dip, while altcoins struggle and derivatives data show rising caution across the market.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-06T11:45:00.000Z",
+      "image": null
+    },
     {
       "title": "Future Raises Strategic Funding to Build Swiss Bitcoin Treasury Platform",
       "link": "https://news.bitcoin.com/future-raises-strategic-funding-to-build-swiss-bitcoin-treasury-platform/",
@@ -363,44 +395,12 @@
       "image": null
     },
     {
-      "title": "Chainlink, Apex Group Test Onchain Stablecoin Compliance With Bermuda Regulator",
-      "link": "https://www.coindesk.com/policy/2025/11/05/chainlink-apex-group-test-onchain-stablecoin-compliance-with-bermuda-regulator",
-      "summary": "The system provides regulators with real-time visibility into a stablecoin's backing and circulation, automating compliance checks onchain.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T17:00:00.000Z",
-      "image": null
-    },
-    {
-      "title": "TON Drops to $1.93 as Altcoins Lag Behind Bitcoin in Risk-Off Crypto Market",
-      "link": "https://www.coindesk.com/markets/2025/11/05/ton-drops-to-usd1-93-as-altcoins-lag-behind-bitcoin-in-risk-off-crypto-market",
-      "summary": "Despite signs of stabilization, with TON consolidating in a narrow range, momentum remains fragile, and a break below $1.87 could lead to further losses.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T16:57:19.000Z",
-      "image": null
-    },
-    {
       "title": "Why Bitcoin Traders Should 'Buy the Dip, in Stages'",
       "link": "https://decrypt.co/347432/bitcoin-traders-buy-dip-in-stages",
       "summary": "A Standard Chartered analyst has outlined a three-stage strategy to buy the Bitcoin dip as the U.S. shutdown weighs on crypto markets.",
       "source": "Decrypt",
       "publishedAt": "2025-11-05T16:42:13.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png@png"
-    },
-    {
-      "title": "YouTube Says New Policy Doesn't Ban All Crypto Content, Despite Uproar From Creators",
-      "link": "https://decrypt.co/347411/youtube-new-policy-doesnt-ban-all-crypto-content-despite-uproar",
-      "summary": "Crypto gamers feared that YouTube’s new gambling policy would ban their favorite content creators, but the platform said that won't be the case.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T16:18:14.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/YouTube-DecryptStyle-1-gID_7.jpg@png"
-    },
-    {
-      "title": "BONK Climbs 2.8% as Price Consolidates Above $0.000012 Support",
-      "link": "https://www.coindesk.com/markets/2025/11/05/bonk-climbs-2-8-as-price-consolidates-above-usd0-000012-support",
-      "summary": "BONK gains 2.84% to $0.00001215 as volume surges 134% above average, maintaining upward momentum within defined technical boundaries.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T15:59:58.000Z",
-      "image": null
     }
   ]
 }

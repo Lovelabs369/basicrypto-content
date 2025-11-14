@@ -1,406 +1,406 @@
 {
-  "updatedAt": "2025-11-06T15:44:11.255Z",
+  "updatedAt": "2025-11-14T06:04:11.385Z",
   "count": 50,
   "items": [
     {
-      "title": "Google Rolls out Ironwood TPU With 9,216-Chip Pods and Liquid Cooling",
-      "link": "https://news.bitcoin.com/google-rolls-out-ironwood-tpu-with-9216-chip-pods-and-liquid-cooling/",
-      "summary": "Google is rolling out Ironwood, its seventh-generation Tensor Processing Unit, a purpose-built artificial intelligence (AI) accelerator the company bills as its most advanced yet—built for efficient, at-scale inference and ready to push on Nvidia’s lead as availability expands in the coming weeks. Google’s Ironwood TPU Targets Nvidia’s Turf With Pod-Scale FP8 Power Google previewed Ironwood […]",
+      "title": "ATM Operator Bitcoin Depot Enters Hong Kong, First Expansion Into Asia",
+      "link": "https://news.bitcoin.com/atm-operator-bitcoin-depot-enters-hong-kong-first-expansion-into-asia/",
+      "summary": "Bitcoin Depot launches crypto ATM operations in Hong Kong, marking its first Asia market entry. Bitcoin Depot (NASDAQ: BTM) announces expansion into Hong Kong on Nov. 12, 2025, opening its first Asian footprint to provide cash‑to‑crypto access via Bitcoin ATMs and aiming to become a top‑five operator in the region; the move follows 2025 growth […]",
       "source": "Bitcoin News",
-      "publishedAt": "2025-11-06T15:30:49.000Z",
+      "publishedAt": "2025-11-14T05:30:48.000Z",
       "image": null
     },
     {
-      "title": "Concordium to Bring Age-Verified Stablecoin Payments to Over 75M Bitcoin.com Wallets Globally",
-      "link": "https://news.bitcoin.com/concordiums-age-verification-payment-technology-to-be-integrated-by-bitcoin-com/",
-      "summary": "This content is provided by a sponsor. PRESS RELEASE. Concordium and Bitcoin.com have joined forces to bring age-verified, identity-anchored payments to millions of users globally. Concordium’s identity-first blockchain and native stablecoins will become accessible to Bitcoin.com’s multichain ecosystem, which includes top networks like Ethereum, Polygon, and BNB Smart Chain. The integration, which is currently in […]",
+      "title": "Tether Dominance Surges to Highest Since April. What Does it Mean?",
+      "link": "https://www.coindesk.com/markets/2025/11/14/tether-dominance-surges-to-highest-since-april",
+      "summary": "Tether becomes more dominance as BTC loses ground.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-14T05:21:33.000Z",
+      "image": null
+    },
+    {
+      "title": "XRP ETF Fails to Bump Bulls as Ripple-Linked Token Plunges 7.3% Amid BTC Selloff",
+      "link": "https://www.coindesk.com/markets/2025/11/14/xrp-etf-fails-to-bump-bulls-as-ripple-linked-token-plunges-7-3-amid-btc-selloff",
+      "summary": "Brutal selloff breaks psychological $2.30 floor, erasing recent gains as distribution overwhelms historic XRPC debut.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-14T05:06:01.000Z",
+      "image": null
+    },
+    {
+      "title": "Bitcoin Plunges Under $98,000, ETH, SOL, ADA Down 8% as $880M in Bullish Bets Liquidated",
+      "link": "https://www.coindesk.com/markets/2025/11/14/bitcoin-plunges-under-usd98-000-eth-sol-ada-down-8-as-usd880m-in-bullish-bets-liquidated",
+      "summary": "China’s latest dataset showed economic activity cooling far more than expected, creating selling in Asian stocks in Friday trading hours.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-14T05:00:02.000Z",
+      "image": null
+    },
+    {
+      "title": "Judge Denies Apple, OpenAI Bid to Dismiss Elon Musk’s Antitrust Lawsuit",
+      "link": "https://decrypt.co/348648/judge-denies-apple-openai-dismiss-elon-musks-antitrust-lawsuit",
+      "summary": "The case will hinge on evidence of whether competitors are truly blocked from Apple's iOS ecosystem, a legal expert told Decrypt.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-14T04:44:44.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg@png"
+    },
+    {
+      "title": "Canary's XRP ETF Tops 2025 Debuts with $58M Day-One Volume",
+      "link": "https://www.coindesk.com/markets/2025/11/14/canary-s-xrp-etf-tops-2025-debuts-with-usd58m-day-one-volume",
+      "summary": "The XRPC ETF narrowly surpassed Bitwise’s Solana ETF in first-day trading volume.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-14T04:38:22.000Z",
+      "image": null
+    },
+    {
+      "title": "New Mastercard–Thunes Link Expands Global Stablecoin Transfers",
+      "link": "https://news.bitcoin.com/new-mastercard-thunes-link-expands-global-stablecoin-transfers/",
+      "summary": "Mastercard’s move to add stablecoin wallet payouts through its global platform signals accelerating digital settlement, expanding rapid cross-border options and enhancing liquidity for institutions seeking seamless connectivity between traditional systems and emerging currency infrastructure worldwide. Mastercard Advances Digital Settlement With Stablecoin Wallet Support A rapid shift toward mainstream digital settlement is gathering pace as financial […]",
       "source": "Bitcoin News",
-      "publishedAt": "2025-11-06T15:00:47.000Z",
+      "publishedAt": "2025-11-14T04:30:20.000Z",
       "image": null
     },
     {
-      "title": "Hamilton Lane, Securitize, Vaneck, Ripple Tie up RLUSD Liquidity for HLSCOPE",
-      "link": "https://news.bitcoin.com/hamilton-lane-securitize-vaneck-ripple-tie-up-rlusd-liquidity-for-hlscope/",
-      "summary": "On Wednesday, Securitize said Hamilton Lane’s tokenized feeder fund (HLSCOPE) now offers instant RLUSD liquidity by integrating with Vaneck’s VBILL onchain facility. Hamilton Lane Feeder Fund Gains 24/7 RLUSD Access via VBILL Integration In a recent X thread and blog post, Securitize explained that the new integration lets HLSCOPE instantly convert VBILL holdings into Ripple’s […]",
+      "title": "What’s Driving Bitcoin’s Dip Below $100,000?",
+      "link": "https://decrypt.co/348645/whats-driving-bitcoins-dip-below-100000",
+      "summary": "Investors retreated across risk assets on Thursday as Bitcoin’s slide hints at fading demand and heavier long-term holder selling.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-14T04:11:07.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-gID_7.png@png"
+    },
+    {
+      "title": "Cash App Debuts Major Release With Broad Banking Innovations and Bitcoin Features",
+      "link": "https://news.bitcoin.com/cash-app-debuts-major-release-with-broad-banking-innovations-and-bitcoin-features/",
+      "summary": "Cash App is propelling unified digital finance forward through upgrades that combine banking, payments, crypto activity and automation into a cohesive ecosystem built to boost speed, expand access and strengthen momentum across on-chain money operations. Cash App Expands Digital Finance Capabilities Surging interest in integrated digital finance is pushing platforms to merge banking, payments, and […]",
       "source": "Bitcoin News",
-      "publishedAt": "2025-11-06T14:30:40.000Z",
+      "publishedAt": "2025-11-14T03:30:10.000Z",
       "image": null
     },
     {
-      "title": "UK Stablecoin Regs Coming 'Just as Quickly' as US: Bank of England",
-      "link": "https://decrypt.co/347578/uk-stablecoin-regs-coming-just-as-quickly-as-us-bank-of-england",
-      "summary": "BoE deputy governor Sarah Breeden rebuffed crypto industry concerns that the UK is falling behind in the global race to regulate stablecoins.",
+      "title": "Why Bitcoin, XRP, Solana, and Ether Slide as Gold and Silver Soar?",
+      "link": "https://www.coindesk.com/markets/2025/11/14/why-bitcoin-xrp-sol-and-eth-slide-as-gold-and-silver-soar",
+      "summary": "Major cryptocurrencies and gold and silver have been on diverging trends despite the pause in the dollar rally.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-14T02:56:52.000Z",
+      "image": null
+    },
+    {
+      "title": "XRP ETF Posts Year’s Strongest Debut With $58 Million in First-Day Trading",
+      "link": "https://decrypt.co/348641/xrp-etf-years-strongest-debut-58-million-first-day-trading",
+      "summary": "Canary's XRP fund opened with record activity for the year despite a broader market pullback that has weighed on crypto prices.",
       "source": "Decrypt",
-      "publishedAt": "2025-11-06T14:28:22.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bank-of-england-decrypt-style-02-gID_7.jpg@png"
+      "publishedAt": "2025-11-14T02:40:01.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-04-gID_7.jpg@png"
     },
     {
-      "title": "The Fed's Turning Hawkish as This U.S. Employment Indicator Flashes Red",
-      "link": "https://www.coindesk.com/markets/2025/11/06/the-fed-s-turning-hawkish-as-this-u-s-employment-indicator-flashes-red",
-      "summary": "Challenger job cuts for October rose to their highest in more than 20 years.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T14:28:08.000Z",
-      "image": null
-    },
-    {
-      "title": "Dormant Bitcoin Comes Back to Life as 4.65M BTC Reenters Circulation in 2025",
-      "link": "https://www.coindesk.com/markets/2025/11/06/dormant-bitcoin-comes-back-to-life-as-4-65-million-btc-reenters-circulation-in-2025",
-      "summary": "Data shows long-term holders have driven an unprecedented wave of distribution across 2024 and 2025.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T14:20:52.000Z",
-      "image": null
-    },
-    {
-      "title": "Central Bank of Ireland Fines Coinbase Europe $24.8M for AML Failures",
-      "link": "https://decrypt.co/347575/central-bank-of-ireland-fines-coinbase-europe-24-8m-for-aml-failures",
-      "summary": "Ireland has issued its first crypto enforcement action as Coinbase Europe admits flaws in monitoring 30 million transactions.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-06T14:18:38.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png"
-    },
-    {
-      "title": "CoinDesk 20 Performance Update: Internet Computer (ICP) Leaps 27.5% as Index Falls",
-      "link": "https://www.coindesk.com/coindesk-indices/2025/11/06/coindesk-20-performance-update-internet-computer-icp-leaps-27-5-as-index-falls",
-      "summary": "NEAR Protocol (NEAR) joined Internet Computer (ICP) as a top performer, rising 3.3%.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T14:11:27.000Z",
-      "image": null
-    },
-    {
-      "title": "Ethereum Is Like a Shark. If It Stops Moving, It Will Die",
-      "link": "https://www.coindesk.com/opinion/2025/11/04/ethereum-is-like-a-shark-if-it-stops-moving-it-will-die",
-      "summary": "Though Ethereum is still the preferred platform among institutions for asset tokenization, DeFi apps and stablecoin creation, it faces threats that will erode its edge if it doesn't move to meet the market, argues Axelar co-founder and CEO Sergey Gorbunov.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T14:00:00.000Z",
-      "image": null
-    },
-    {
-      "title": "Securitize, VanEck Bring VBILL Tokenized Treasury Fund To Aave",
-      "link": "https://www.coindesk.com/business/2025/11/06/securitize-vaneck-bring-vbill-tokenized-treasury-fund-to-aave",
-      "summary": "The integration, powered by Chainlink’s NAVLink oracle technology, represents another leap in bridging traditional finance and decentralized finance together.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T14:00:00.000Z",
-      "image": null
-    },
-    {
-      "title": "Tenerife Council to Sell Bitcoin Bought in 2012 After Near 10,000% Price Rise",
-      "link": "https://www.coindesk.com/markets/2025/11/06/tenerife-council-to-sell-bitcoin-bought-in-2012-after-near-10-000-price-rise",
-      "summary": "The proceeds from the sale will fund new research projects at ITER, including exploring fields like quantum technology.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T13:31:31.000Z",
-      "image": null
-    },
-    {
-      "title": "Cango Eyes Strengthening of Bitcoin Mining Operations, Entry Into AI HPC Market",
-      "link": "https://www.coindesk.com/business/2025/11/06/cango-eyes-strengthening-of-bitcoin-mining-operations-entry-into-ai-hpc-market",
-      "summary": "The Chinese automotive transaction firm turned bitcoin miner Cango issued an update to its shareholders.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T13:22:07.000Z",
-      "image": null
-    },
-    {
-      "title": "Bitcoin Price Watch: Range Trading Persists as Bulls and Bears Face Off",
-      "link": "https://news.bitcoin.com/bitcoin-price-watch-range-trading-persists-as-bulls-and-bears-face-off/",
-      "summary": "Bitcoin is trading at $102,848, with a market capitalization of $2.05 trillion and a 24-hour trading volume of $59.85 billion. The intraday price range spans from $102,349 to $104,412, reflecting a relatively narrow band of volatility amid consolidative market behavior. Bitcoin Chart Outlook The 1-hour chart illustrates a microstructure dominated by a V-shaped recovery that […]",
+      "title": "Nebraska Moves First With Regulated Stablecoin Bank Charter",
+      "link": "https://news.bitcoin.com/nebraska-moves-first-with-regulated-stablecoin-bank-charter/",
+      "summary": "Nebraska’s pioneering digital-asset charter propels regulated stablecoin banking into mainstream finance, showcasing rising institutional confidence, strengthened oversight, and expanding tokenized payment options that position the state at the forefront of monetary infrastructure and fintech evolution. Nebraska Advances Regulated Stablecoin Banking Surging interest in regulated digital-asset infrastructure is accelerating as U.S. states explore frameworks that could […]",
       "source": "Bitcoin News",
-      "publishedAt": "2025-11-06T13:15:54.000Z",
+      "publishedAt": "2025-11-14T02:30:37.000Z",
       "image": null
     },
     {
-      "title": "Tether's Hadron, Bitfinex Securities to Tokenize Assets With ETF Issuer KraneShares",
-      "link": "https://www.coindesk.com/business/2025/11/06/tether-s-hadron-bitfinex-securities-to-tokenize-assets-with-etf-issuer-kraneshares",
-      "summary": "KraneShares, best-known for its China-focused ETF, plans to shift fully to tokenized offerings in the coming years, CEO said.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T13:12:22.000Z",
-      "image": null
-    },
-    {
-      "title": "Central Bank of Ireland Fines Coinbase $24.6M for Anti-Money Laundering Failures",
-      "link": "https://www.coindesk.com/policy/2025/11/06/central-bank-of-ireland-fines-coinbase-usd24-6m-for-anti-money-laundering-failures",
-      "summary": "The penalty relates to Coinbase Europe breaching its anti-money laundering and counter terrorist financing transaction monitoring obligations between 2021 and 2025.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T13:10:26.000Z",
-      "image": null
-    },
-    {
-      "title": "ASIC Chief Warns Australia Risks Losing Edge as Global Markets Embrace Tokenization",
-      "link": "https://decrypt.co/347561/asic-chief-warns-australia-risks-losing-edge-as-global-markets-embrace-tokenization",
-      "summary": "The Australian regulator warned the country could become a \"land of missed opportunity\" as other markets race ahead on tokenization.",
+      "title": "Bitfarms Will 'Wind Down' Bitcoin Mining and Pivot to AI After $46 Million Loss",
+      "link": "https://decrypt.co/348573/bitfarms-wind-down-bitcoin-mining-pivot-ai-after-46-million-loss",
+      "summary": "Bitcoin miner Bitfarms will end its Bitcoin operations in the coming years, shifting focus to providing infrastructure for growing AI demand.",
       "source": "Decrypt",
-      "publishedAt": "2025-11-06T12:39:51.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/asic-australian-securities-investment-commission-australia-decrypt-style-gID_7.jpg@png"
+      "publishedAt": "2025-11-14T02:13:55.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-03-gID_7.png@png"
     },
     {
-      "title": "Bitcoin Holds Key Support Amid ETF Outflows and Policy Uncertainty",
-      "link": "https://news.bitcoin.com/bitcoin-holds-key-support-amid-etf-outflows-and-policy-uncertainty/",
-      "summary": "Bitcoin briefly tested the $100,000 level before rebounding, as ETF outflows and macro uncertainty pressured risk assets. Despite short-term turbulence, macro conditions remain broadly supportive if policy clarity returns and ETF flows stabilize. Macro Clouds Persist as Bitcoin Bounces Off $100K Bitcoin’s sharp retreat this week underscored a shift in risk sentiment as the world’s […]",
+      "title": "Canary XRP ETF Rockets to Top Spot With First-Day Activity Beating Solana ETF Debut",
+      "link": "https://news.bitcoin.com/canary-xrp-etf-rockets-to-top-spot-with-first-day-activity-beating-solana-etf-debut/",
+      "summary": "The XRP ETF’s record first-day volume, the strongest of any launch this year, signaled accelerating demand for real-world settlement assets as expanding institutional interest and surging adoption trends positioned cross-border payment technologies for market momentum. Canary XRP ETF Spurs Momentum With Strong Inflows Tracking Real-World Adoption Canary Capital’s XRP ETF has finally launched, drawing immediate […]",
       "source": "Bitcoin News",
-      "publishedAt": "2025-11-06T12:30:36.000Z",
+      "publishedAt": "2025-11-14T01:20:30.000Z",
       "image": null
     },
     {
-      "title": "Strive Raises $160 Million in Bitcoin Buying Power After Upsized Preferred Stock Offering",
-      "link": "https://www.coindesk.com/markets/2025/11/06/strive-to-raise-roughly-usd160-million-after-upsizing-preferred-stock-offering",
-      "summary": "Upsized 2 million-share SATA issuance priced at $80 includes a 12% dividend and potential bitcoin allocation.",
+      "title": "Nearly 25% of Adults With Internet Access in Asia Might Own Crypto, Report Says",
+      "link": "https://www.coindesk.com/markets/2025/11/13/nearly-25-of-adults-with-internet-access-in-asia-might-own-crypto-report-says",
+      "summary": "Nearly a quarter of adults might own crypto, but ease of use and access remain limiting factors, the report, produced by CoinDesk and Protocol Theory said.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T12:23:34.000Z",
+      "publishedAt": "2025-11-14T01:00:48.000Z",
       "image": null
     },
     {
-      "title": "Where's the Liquidity Gone?: Crypto Daybook Americas",
-      "link": "https://www.coindesk.com/daybook-us/2025/11/06/where-s-the-liquidity-gone-crypto-daybook-americas",
-      "summary": "Your day-ahead look for Nov. 6, 2025",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T12:00:00.000Z",
-      "image": null
-    },
-    {
-      "title": "Bitcoin Could Bounce, Headwinds Can Turn into Tailwinds: Tom Lee",
-      "link": "https://decrypt.co/347558/bitcoin-could-bounce-headwinds-can-turn-into-tailwinds-tom-lee",
-      "summary": "Fundstrat's Tom Lee says Bitcoin's slump was due to macro headwinds, but sees a potential reversal as pressures ease.",
+      "title": "Blue Origin Marks First Ocean Landing of New Glenn Booster After Second Attempt",
+      "link": "https://decrypt.co/348630/blue-origin-marks-first-ocean-landing-of-new-glenn-booster-after-second-attempt",
+      "summary": "Blue Origin has landed its New Glenn booster at sea after launching NASA’s ESCAPADE Mars mission.",
       "source": "Decrypt",
-      "publishedAt": "2025-11-06T11:50:26.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/tom-lee-decrypt-style-gID_7.jpg@png"
+      "publishedAt": "2025-11-14T00:48:40.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/blue-origin-decrypt-style-02-gID_7.jpg@png"
     },
     {
-      "title": "Crypto Markets Today: Bitcoin Holds $103K as Altcoins Lag and Traders Hedge Downside",
-      "link": "https://www.coindesk.com/markets/2025/11/06/crypto-markets-today-bitcoin-holds-usd103k-as-altcoins-lag-and-traders-hedge-downside",
-      "summary": "Bitcoin steadies above $100,000 after a dip, while altcoins struggle and derivatives data show rising caution across the market.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T11:45:00.000Z",
-      "image": null
-    },
-    {
-      "title": "Future Raises Strategic Funding to Build Swiss Bitcoin Treasury Platform",
-      "link": "https://news.bitcoin.com/future-raises-strategic-funding-to-build-swiss-bitcoin-treasury-platform/",
-      "summary": "Swiss Bitcoin Treasury Company Future raises $34.6 million to scale institutional bitcoin services from Zurich. Future Holdings AG announces in Zurich on 5 November 2025 the successful close of a $34.6 million (CHF 28 million) strategic funding round anchored by Fulgur Ventures, Nakamoto and TOBAM to build Europe’s premier Bitcoin Treasury Company. The round backs […]",
+      "title": "SEC Chair Outlines Project Crypto Priorities on Token Rules and Governance",
+      "link": "https://news.bitcoin.com/sec-chair-outlines-project-crypto-priorities-on-token-rules-and-governance/",
+      "summary": "Relentless momentum in digital-asset policy is reaching a pivotal moment, with U.S. regulators moving toward decisive structural rules that could redefine how crypto markets operate and unlock significant clarity for investors seeking long-term stability. SEC’s Evolving Crypto Framework Gains Steam Rising pressure for coherent crypto governance is accelerating the push for regulatory clarity, and markets […]",
       "source": "Bitcoin News",
-      "publishedAt": "2025-11-06T11:30:56.000Z",
+      "publishedAt": "2025-11-14T00:20:50.000Z",
       "image": null
     },
     {
-      "title": "Three Big Crypto Takeaways From Robinhood’s Quarterly Announcement",
-      "link": "https://decrypt.co/347550/three-big-crypto-takeaways-from-robinhoods-quarterly-announcement",
-      "summary": "Robinhood executives said prediction markets are gaining traction and crypto trading remains strong, as the company looks to expand overseas.",
+      "title": "Google DeepMind’s New AI Agent Learns, Adapts and Plays Games Like a Human",
+      "link": "https://decrypt.co/348569/google-deepmind-ai-agent-learns-adapts-plays-games-like-human",
+      "summary": "Google DeepMind introduced SIMA 2—a reasoning AI agent built for 3D worlds that the company says is a step closer to AGI.",
       "source": "Decrypt",
-      "publishedAt": "2025-11-06T11:07:02.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/robinhood-decrypt-style-02-gID_7.jpg@png"
+      "publishedAt": "2025-11-13T23:24:01.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png"
     },
     {
-      "title": "CMT Digital Closes $136M Fund IV to Back Next Phase of Crypto Adoption",
-      "link": "https://news.bitcoin.com/cmt-digital-closes-136m-fund-iv-to-back-next-phase-of-crypto-adoption/",
-      "summary": "CMT Digital raises $136 million for Fund IV to invest in blockchain infrastructure and re‑architecting global finance. CMT Digital announces the close of its fourth venture fund at $136 million, bringing the firm’s assets under management to over $600 million and targeting early‑stage founders building infrastructure and applications for the next phase of crypto adoption. […]",
+      "title": "Dromos Labs Reveals Aero After Merging 2 Major L2 DEXs",
+      "link": "https://news.bitcoin.com/dromos-labs-reveals-aero-after-merging-2-major-l2-dexs/",
+      "summary": "Dromos Labs disclosed on Nov. 12, 2025, that Aerodrome and Velodrome will fold into a new unified decentralized exchange (DEX) called Aero, pulling Base, Optimism, Ethereum mainnet, and Circle’s Arc chain into one liquidity hub. New Aero DEX Aims to Streamline Trading on Base, Optimism, Ethereum The layer two (L2) heavyweights Aerodrome and Velodrome are […]",
       "source": "Bitcoin News",
-      "publishedAt": "2025-11-06T10:30:06.000Z",
+      "publishedAt": "2025-11-13T23:12:52.000Z",
       "image": null
     },
     {
-      "title": "Another Piece of Michael Saylor’s Bitcoin Strategy May Be Falling Into Place",
-      "link": "https://www.coindesk.com/markets/2025/11/06/another-piece-of-michael-saylor-s-bitcoin-strategy-may-be-falling-into-place",
-      "summary": "With the perpetual preferred share STRC now trading at par, Strategy may unlock a new path to acquire bitcoin through its at-the-market program.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T09:59:58.000Z",
-      "image": null
+      "title": "China State-Backed Hackers Used AI To Launch First Massive Cyberattack: Anthropic",
+      "link": "https://decrypt.co/348607/china-state-backed-hackers-ai-massive-cyberattack-anthropic",
+      "summary": "The company said Chinese hackers used its Claude Code system to run agentic cyber intrusions in 30 companies.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-13T23:10:54.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png"
     },
     {
-      "title": "BoE Says UK Stablecoin Rules Will Roll out ‘Just as Quickly as the US’",
-      "link": "https://news.bitcoin.com/boe-says-uk-stablecoin-rules-will-roll-out-just-as-quickly-as-the-us/",
-      "summary": "Bank of England deputy governor vows UK stablecoin regime will be implemented promptly, with temporary holding limits. Bank of England Deputy Governor Sarah Breeden tells a London conference on 5 November 2025 that the UK will unveil a proposed stablecoin regime on Monday and aims for it to be “up and running, just as quickly […]",
+      "title": "Epstein Emails Reference Bitcoin Meeting With Brock Pierce at Manhattan Mansion",
+      "link": "https://decrypt.co/348586/epstein-emails-reference-bitcoin-meeting-brock-pierce-manhattan-mansion",
+      "summary": "Brock Pierce spoke about Bitcoin with Larry Summers at Jeffrey Epstein’s Manhattan townhouse, emails from the financier’s estate indicate.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-13T23:07:01.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/IMG_3402-gID_7.jpg@png"
+    },
+    {
+      "title": "Myriad Moves: Traders Flip on Gold vs Ethereum, Solana Sentiment Sinks",
+      "link": "https://decrypt.co/348583/myriad-moves-traders-flip-gold-ethereum-solana-sentiment-sinks",
+      "summary": "Top markets on Myriad this week include predictions on gold and ETH racing to $5,000, a new Solana all-time high, and whether the Fed will cut rates again this year.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-13T22:18:51.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-05-gID_7.jpg@png"
+    },
+    {
+      "title": "Why Satoshi Nakamoto’s Bitcoin Wallets Can’t Be Unlocked With 24 Words",
+      "link": "https://news.bitcoin.com/why-satoshi-nakamotos-bitcoin-wallets-cant-be-unlocked-with-24-words/",
+      "summary": "Despite widespread social media claims in 2025, Satoshi Nakamoto’s estimated 1.1 million bitcoin holdings cannot be unlocked using a 24-word seed phrase because the BIP39 standard was introduced years after the pseudonymous creator’s activity ended. BIP39 and Satoshi Nakamoto: Why Modern Seed Phrases Don’t Apply Viral posts on X, formerly Twitter, have fueled speculation throughout […]",
       "source": "Bitcoin News",
-      "publishedAt": "2025-11-06T09:30:04.000Z",
+      "publishedAt": "2025-11-13T22:10:44.000Z",
       "image": null
     },
     {
-      "title": "Franklin Templeton Debuts Tokenized Money Market Fund in Hong Kong",
-      "link": "https://www.coindesk.com/business/2025/11/06/franklin-templeton-debuts-tokenized-money-market-fund-in-hong-kong",
-      "summary": "Accredited investors in Hong Kong have access to the U.S. dollar, Luxembourg-registered, tokenized UCITS money-market product.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T09:10:21.000Z",
-      "image": null
+      "title": "Dogecoin Treasury Firm CleanCore's Stock Hits New Low as DOGE Dives",
+      "link": "https://decrypt.co/348589/dogecoin-treasury-firm-cleancore-stock-new-low-doge-dives",
+      "summary": "CleanCore Solutions has amassed 733 Million Dogecoin, but the firm’s stock is plunging, hitting a new bottom on Thursday.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-13T21:55:28.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Doge4-gID_7.png@png"
     },
     {
-      "title": "Fed Governor Lisa Cook Takes a Break From Her Battle With Trump, Delivers Speech on Monetary Policy",
-      "link": "https://news.bitcoin.com/fed-governor-lisa-cook-takes-a-break-from-her-battle-with-trump-delivers-speech-on-monetary-policy/",
-      "summary": "The governor spoke about the complexities of U.S. monetary policy at the Brookings Institute this past Monday in Washington, DC. Fed’s Lisa Cook Highlights Delicate Balance of Inflation and Employment Federal Reserve Governor Lisa Cook seems to have pushed the pause button on her high-profile feud with U.S. President Donald Trump. The governor recently made […]",
+      "title": "Bitcoin Maxi Jack Dorsey Embraces Stablecoin Payments in Cash App—On Solana",
+      "link": "https://decrypt.co/348580/bitcoin-maxi-jack-dorsey-stablecoin-payments-cash-app-solana",
+      "summary": "The payments entrepreneur's app will allow customers to send digital dollars by using \"multiple stablecoins and networks.\"",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-13T21:06:59.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/jack-dorsey-decrypt-style-02-gID_7.jpg@png"
+    },
+    {
+      "title": "Did a New Ban on Weed Cause Bitcoin to Fall Below $100K?",
+      "link": "https://news.bitcoin.com/did-a-new-ban-on-weed-cause-bitcoin-to-fall-below-100k/",
+      "summary": "The cryptocurrency saw a precipitous drop in its price on Thursday afternoon, retreating well below the $100K threshold into $98K territory. Bitcoin Falls to $98K: A Surprising Link to a New Hemp Ban It sounds too salacious to be true, but a weed ban may have caused bitcoin to drop below $100K. The new restriction […]",
       "source": "Bitcoin News",
-      "publishedAt": "2025-11-06T08:30:47.000Z",
+      "publishedAt": "2025-11-13T21:06:22.000Z",
       "image": null
     },
     {
-      "title": "Balancer Breach Tied to Batch Swap Rounding Bug; Investigation Ongoing",
-      "link": "https://news.bitcoin.com/balancer-breach-tied-to-batch-swap-rounding-bug-investigation-ongoing/",
-      "summary": "The decentralized finance platform Balancer has acknowledged a significant security breach affecting its V2 protocol and its forks on other chains. Balancer Confirms ‘Significant’ V2 Exploit The decentralized finance (DeFi) platform Balancer has acknowledged that a recent security breach targeting its V2 protocol and forks on other chains “was significant.” In its latest update, Balancer […]",
+      "title": "Solana Delivers Again as Bitcoin and Ether ETFs See Heavy Outflows",
+      "link": "https://news.bitcoin.com/solana-delivers-again-as-bitcoin-and-ether-etfs-see-heavy-outflows/",
+      "summary": "Bitcoin and ether ETFs returned to red territory with combined outflows of nearly half a billion dollars. Solana, meanwhile, stood tall once again, extending its streak of steady inflows amid the broader market cooldown. Crypto ETFs Split Again: Bitcoin, Ether Bleed as Solana Surges The midweek trading session brought another twist to the crypto exchange-traded […]",
       "source": "Bitcoin News",
-      "publishedAt": "2025-11-06T07:30:41.000Z",
+      "publishedAt": "2025-11-13T20:32:08.000Z",
       "image": null
     },
     {
-      "title": "DOGE Holds $0.16 Support as Profit-Taking Caps Breakout Attempt",
-      "link": "https://www.coindesk.com/markets/2025/11/06/doge-holds-usd0-16-support-as-profit-taking-caps-breakout-attempt",
-      "summary": "The token defended its ascending channel structure despite distribution pressure at the upper boundary, keeping short-term bias neutral-to-bullish above $0.16.",
+      "title": "Solana Slides 5% to $145 as Technical Breakdown Overshadows ETF Momentum",
+      "link": "https://www.coindesk.com/markets/2025/11/13/solana-slides-5-to-usd145-as-technical-breakdown-overshadows-etf-momentum",
+      "summary": "The token fell through key support despite elevated trading volume and continued institutional inflows into spot ETFs.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T05:25:30.000Z",
+      "publishedAt": "2025-11-13T20:27:31.000Z",
       "image": null
     },
     {
-      "title": "XRP Gains 5% After RLUSD Mastercard Pilot, Technical Breakout Targets $2.50",
-      "link": "https://www.coindesk.com/markets/2025/11/06/xrp-gains-5-after-rlusd-pilot-technical-breakout-targets-usd2-50",
-      "summary": "The move marked the token’s strongest daily gain in a week and outperformance against a declining broader market, with traders now eyeing a clean push toward $2.50.",
+      "title": "Bitcoin Miners Lead Crypto Stock Losses Amid Wider Market Dip—With BTC Falling",
+      "link": "https://decrypt.co/348543/bitcoin-miners-lead-crypto-stock-losses-market-dip-btc-falling",
+      "summary": "Bitcoin miners and other crypto-focused stocks plummeted on Thursday amid a wider downturn in crypto markets and other risk-on assets.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-13T20:15:03.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-miners-decrypt-style-01-gID_7.jpg@png"
+    },
+    {
+      "title": "Czech Republic Invests in Crypto, With Eye on Eventual Bitcoin Reserve",
+      "link": "https://decrypt.co/348571/czech-republic-invests-crypto-eye-bitcoin-reserve",
+      "summary": "The nation’s central bank has unveiled a pilot investment in Bitcoin, stablecoins, and tokenized deposits to better understand how to adopt digital assets.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-13T19:36:39.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/czech-central-bank-ceska-narodni-banka-bitcoin-gID_7.jpg@png"
+    },
+    {
+      "title": "This One Weird Trick Defeats AI Safety Features in 99% of Cases",
+      "link": "https://decrypt.co/348552/one-weird-trick-defeats-ai-safety-features-99-percent",
+      "summary": "New research shows that AI's extended reasoning creates a security vulnerability, with extremely high attack success rates across major models including GPT, Claude, and Gemini.",
+      "source": "Decrypt",
+      "publishedAt": "2025-11-13T19:35:18.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png"
+    },
+    {
+      "title": "Strategy Plunges to Weakest in 13 Months, but Still Trades at Premium to Bitcoin Holdings",
+      "link": "https://www.coindesk.com/markets/2025/11/13/strategy-plunges-to-weakest-in-13-months-but-still-trades-at-premium-to-bitcoin-holdings",
+      "summary": "Alongside bitcoin's tumble back to $98,000, MSTR is lower by another 6.6% on Thursday, bringing its year-to-date decline to 30%.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T05:20:51.000Z",
+      "publishedAt": "2025-11-13T19:34:10.000Z",
       "image": null
     },
     {
-      "title": "Circle Updates Terms of Service to Allow ‘Legal’ Firearm Purchases With USDC",
-      "link": "https://decrypt.co/347542/circle-updates-terms-of-service-allow-legal-firearm-purchases-usdc",
-      "summary": "The USDC policy reversal on firearm purchases suggests that “stablecoins are at the whims of politicians,” an industry expert told Decrypt.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-06T05:20:41.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/usdc-circle-decrypt-gID_7.png@png"
-    },
-    {
-      "title": "Trump Says He Wants U.S. to Be ‘The Bitcoin Superpower,’ Cites Competition From China",
-      "link": "https://www.coindesk.com/policy/2025/11/06/trump-says-he-wants-u-s-to-be-the-bitcoin-superpower-cites-competition-from-china",
-      "summary": "In a Miami speech, the U.S. president said his orders ended a “war on crypto,” mentioned that crypto helps the dollar and warned China could gain if Washington stumbles.",
+      "title": "Retail Mood Sours Amid Crypto Selloff, Flashing Short-Term Bottom Signals for BTC, ETH, XRP",
+      "link": "https://www.coindesk.com/markets/2025/11/13/retail-mood-sours-amid-crypto-selloff-flashing-short-term-bottom-signals-for-btc-eth-xrp",
+      "summary": "A fresh wave of pessimism is sweeping across crypto markets, but the mood shift may be doing more good than harm.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T05:19:49.000Z",
+      "publishedAt": "2025-11-13T19:06:18.000Z",
       "image": null
     },
     {
-      "title": "Bitcoin’s Relief Rally Lifts Spirits: Is it Time to Buy the Dip?",
-      "link": "https://decrypt.co/347539/bitcoins-relief-rally-lifts-spirits-time-buy-dip",
-      "summary": "Bitcoin’s rebound above $100,000 has revived hopes of a recovery, but analysts warn the bounce may be more technical than fundamental.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-06T04:55:02.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-07-gID_7.png@png"
-    },
-    {
-      "title": "Appeals Court Rejects Prisoner's Lawsuit Over Alleged $354M Bitcoin Loss",
-      "link": "https://decrypt.co/347537/appeals-court-rejects-lawsuit-alleged-354m-bitcoin-loss",
-      "summary": "The court said the man had waited too long to reclaim his Bitcoin fortune, which he says was on a now-destroyed hard drive.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-06T02:57:11.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-28-gID_7.png@png"
-    },
-    {
-      "title": "How Deep Are Bitcoin Traders Hedging After Recent Price Dip Below $100K?",
-      "link": "https://www.coindesk.com/markets/2025/11/06/how-deep-are-bitcoin-traders-hedging-after-recent-price-dip-below-usd100k",
-      "summary": "BTC recently fell below $100,000 as macro uncertainties weighed over spot ETF inflows.",
+      "title": "Chainlink Breaks Below $14.50 Amid Broader Selloff; Reserve Adds 74K LINK Despite Losses",
+      "link": "https://www.coindesk.com/markets/2025/11/13/chainlink-breaks-below-usd14-50-amid-broader-selloff-reserve-adds-74k-link-despite-losses",
+      "summary": "Technical breakdown occurred despite positive institutional developments as volume surged during selloff",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-06T02:20:01.000Z",
+      "publishedAt": "2025-11-13T18:55:03.000Z",
       "image": null
     },
     {
-      "title": "You Could’ve Made a 100x Prediction Market Bet on Last Night’s Elections",
-      "link": "https://decrypt.co/347528/you-made-100x-prediction-market-same-day-bet-elections",
-      "summary": "A Polymarket wager on the margin of Mikie Sherrill’s victory in the New Jersey governor’s race severely undervalued the correct outcome.",
+      "title": "Bitcoin Dives Below $100K for Third Time This Month as Crypto Liquidations Top $500 Million",
+      "link": "https://decrypt.co/348545/bitcoin-dives-below-100k-third-time-november-liquidations-500-million",
+      "summary": "Bitcoin dropped below $100,000 per coin for the third time this month as broader concerns over the U.S. economy weighed on investors.",
       "source": "Decrypt",
-      "publishedAt": "2025-11-05T22:21:42.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/prediction-market-decrypt-style-gID_7.jpg@png"
+      "publishedAt": "2025-11-13T18:04:08.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png@png"
     },
     {
-      "title": "European Session Buying Lifts Bitcoin Cash to $491.80 After Breaking $487 Resistance",
-      "link": "https://www.coindesk.com/markets/2025/11/05/european-session-buying-lifts-bitcoin-cash-to-usd491-80-after-breaking-usd487-resistance",
-      "summary": "European session buying lifted volume 78% above the 24-hour average as bitcoin cash set higher lows at $462.67, $474.27 and $479.03.",
+      "title": "Stellar Tumbles Below Key $0.285 Support as Bears Take Over",
+      "link": "https://www.coindesk.com/markets/2025/11/13/stellar-tumbles-below-key-usd0-285-support-as-bears-take-over",
+      "summary": "XLM retreated to $0.281 as selling pressure intensified during afternoon trading, with volume surging amid failed resistance test.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T22:20:16.000Z",
+      "publishedAt": "2025-11-13T17:21:25.000Z",
       "image": null
     },
     {
-      "title": "Bitcoin, Ethereum ETFs Shed $2.6 Billion in Assets Over the Past Week",
-      "link": "https://decrypt.co/347479/bitcoin-ethereum-etfs-shed-2-6-billion-assets-past-week",
-      "summary": "Bearish investors cashing out of Bitcoin and Ethereum ETFs has helped depress crypto market prices. One analyst told Decrypt it was nothing to worry about.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T22:12:00.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png"
-    },
-    {
-      "title": "U.S. Government Shutdown Stretches to Record 36 Days, Continues Risk of Derailing Crypto Bill",
-      "link": "https://www.coindesk.com/policy/2025/11/05/u-s-government-shutdown-stretches-to-record-36-days-continues-risk-of-derailing-crypto-bill",
-      "summary": "Market structure legislation could still see movement this year, but likely won't become law before 2026.",
+      "title": "Bitcoin Crumbles Below $100K, Crypto Stocks Eviscerated as Liquidity Crunch Hammers Risk Markets",
+      "link": "https://www.coindesk.com/markets/2025/11/13/bitcoin-slides-to-usd100k-crypto-stocks-eviscerated-as-liquidity-crunch-hammers-risk-markets",
+      "summary": "Crypto’s U.S. trading-hour weakness continues as hopes for a new 2025 BTC high fade, a market strategist said.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-05T22:06:19.000Z",
+      "publishedAt": "2025-11-13T17:15:02.000Z",
       "image": null
     },
     {
-      "title": "Robinhood Q3 Earnings Top Analysts' Expectations as Crypto Revenue Surges Over 300%",
-      "link": "https://decrypt.co/347352/robinhood-q3-earnings-top-analysts-expectations-crypto-revenue-surges",
-      "summary": "Despite dipping the past five days, the company's share price has risen roughly 260% year-to-date.",
+      "title": "Canary's XRP ETF Off to Hot Start, Has 'Good Shot' of Breaking Record: Analyst",
+      "link": "https://decrypt.co/348536/canary-xrp-etf-hot-start-good-shot-breaking-record-analyst",
+      "summary": "The Canary XRP fund appears on track to notch the year's hottest start for any ETF, already beating estimates in just 30 minutes of trading.",
       "source": "Decrypt",
-      "publishedAt": "2025-11-05T21:46:32.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png"
+      "publishedAt": "2025-11-13T17:04:33.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-01-gID_7.png@png"
     },
     {
-      "title": "Google Maps Becomes Gemini’s Proving Ground for Real-World AI",
-      "link": "https://decrypt.co/347518/google-maps-becomes-geminis-proving-ground-real-world-ai",
-      "summary": "Gemini turns Google Maps into a conversational copilot with smarter navigation and real-world awareness, thanks to generative AI.",
+      "title": "JPMorgan Analysts Flip Bullish on Circle, Citing Faster Stablecoin Growth",
+      "link": "https://decrypt.co/348542/jpmorgan-analysts-bullish-circle-faster-stablecoin-growth",
+      "summary": "The analysts said Circle’s third-quarter results were solid.",
       "source": "Decrypt",
-      "publishedAt": "2025-11-05T20:29:42.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png"
+      "publishedAt": "2025-11-13T17:04:13.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/JPMorgan-Chase-Co-building-in-New-York4-gID_7.jpg@png"
     },
     {
-      "title": "Labubus and Unicorns: Florida Crypto Confab Unshaken by Bitcoin Volatility",
-      "link": "https://decrypt.co/347467/labubus-unicorns-crypto-confab-unshaken-bitcoin-volatility",
-      "summary": "Some were there to party. Others were focused on business.",
+      "title": "Bitcoin Derivatives Might Not Fully Recover From October Crash Until Q2",
+      "link": "https://decrypt.co/348521/bitcoin-derivatives-recover-october-crash-until-q2",
+      "summary": "If macro conditions turn up, open interest could return to pre-shock levels even earlier.",
       "source": "Decrypt",
-      "publishedAt": "2025-11-05T20:18:04.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/some-guy-decrypt-style-gID_7.jpg@png"
+      "publishedAt": "2025-11-13T16:50:52.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png"
     },
     {
-      "title": "Bitcoin Bounces Back: Can Bullish Momentum Hold or Has the Market Topped?",
-      "link": "https://decrypt.co/347468/bitcoin-bounces-bullish-momentum-hold-or-market-top",
-      "summary": "Bitcoin is bouncing, but only slightly, after falling to its lowest price in months. Is the bull run over or will traders defy historical trends?",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T19:54:21.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-10-gID_7.png@png"
+      "title": "HBAR Drops 3.5% Breaking Support as ETF Inflows Hit $68 Million",
+      "link": "https://www.coindesk.com/markets/2025/11/13/hbar-drops-3-5-breaking-support-as-etf-inflows-hit-usd68-million",
+      "summary": "Hedera's native token retreats from $0.1817 to $0.1754 despite institutional accumulation.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-13T16:49:40.000Z",
+      "image": null
     },
     {
-      "title": "Monad Reveals Mainnet and Token Launch Date Following Airdrop Claim",
-      "link": "https://decrypt.co/347450/monad-reveals-mainnet-token-launch-date-airdrop-claim",
-      "summary": "Following its airdrop claim, the Monad Foundation said it launch the mainnet of its layer-1 network later this month alongside the MON token.",
+      "title": "Are Digital Asset Treasury Stocks Oversold Amid Bitcoin's Slump?",
+      "link": "https://decrypt.co/348535/are-digital-asset-treasury-stocks-oversold-amid-bitcoins-slump",
+      "summary": "Experts debate if the DAT stock crash is overdone, with recovery hinging on Bitcoin's rebound and key macro data.",
       "source": "Decrypt",
-      "publishedAt": "2025-11-05T19:18:26.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-08-gID_7.png@png"
+      "publishedAt": "2025-11-13T16:47:16.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-town-gID_7.png@png"
     },
     {
-      "title": "Metaplanet Borrows $100 Million Against Its Bitcoin Holdings—To Buy More BTC",
-      "link": "https://decrypt.co/347453/metaplanet-borrows-100-million-bitcoin-holdings-buy-btc",
-      "summary": "The Japanese Bitcoin treasury said its strategy going forward would account for Bitcoin's price volatility.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T18:59:47.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-1-gID_7.png@png"
+      "title": "ICP Advances as Consolidation Holds Below $6.66 Resistance Price",
+      "link": "https://www.coindesk.com/markets/2025/11/13/icp-advances-as-consolidation-holds-below-usd6-66-resistance-price",
+      "summary": "Internet Computer trades within a narrow range after an early-volume breakout attempt stalled, keeping the token pinned between key support at $6.05 and $6.66.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-13T16:40:06.000Z",
+      "image": null
     },
     {
-      "title": "Singapore Financial Regulator Warns AI Companies Are Overvalued",
-      "link": "https://decrypt.co/347455/singapore-financial-regulator-warns-ai-companies-are-overvalued",
-      "summary": "The Monetary Authority of Singapore has cautioned that soaring valuations and opaque financing could expose AI investors to steep corrections.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T18:19:31.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-decrypt-style-03-gID_7.png@png"
+      "title": "Solana-Focused Upexi Approves $50M Share Buyback as Digital Asset Treasuries Turn to Repurchases",
+      "link": "https://www.coindesk.com/business/2025/11/13/solana-focused-upexi-approves-usd50m-share-buyback-as-digital-asset-treasuries-turn-to-repurchases",
+      "summary": "The Solana-centric company is joining a growing list of crypto treasury companies opting to buy back shares as investor appetite for DATs vane.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-13T16:31:22.000Z",
+      "image": null
     },
     {
-      "title": "Galaxy Slashes Bitcoin Price Target for 2025 as BTC Enters 'Maturity Era'",
-      "link": "https://decrypt.co/347449/galaxy-slashes-bitcoin-price-target-2025-btc-enters-maturity-era",
-      "summary": "Bitcoin is entering its “maturity era” after dipping below $100,000 this week, prompting Galaxy to cut its end-of-year price target for BTC.",
+      "title": "US GOV Re-Opens! XRP Up as ETF Launches! VISA Launch USDC Pilot!",
+      "link": "https://decrypt.co/videos/interviews/LQ8N2ci6/us-gov-re-opens-xrp-up-as-etf-launches-visa-launch-usdc-pilot",
+      "summary": "Crypto majors traded lower, with most down 1–2% before rebounding on news of the US government reopening. Bitcoin (BTC) fell 2% to $103,200, Ethereum (ETH) slipped 1% to $3,500, Binance Coin (BNB) lost 1% to $966, and Solana (SOL) declined 2% to $157. XRP stood out, gaining 2% on the day and 9% over the week ahead of its ETF launch. Among top movers, AB surged 30%, while ZEC and QNT rose 8% and 7%, respectively. In macro and policy news, the White House Press Secretary remarked that October CPI ",
       "source": "Decrypt",
-      "publishedAt": "2025-11-05T18:14:57.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png@png"
+      "publishedAt": "2025-11-13T16:26:36.000Z",
+      "image": "https://cdn.jwplayer.com/v2/media/LQ8N2ci6/poster.jpg"
     },
     {
-      "title": "S&#038;P Digital Markets 50 Index Will Gain Blockchain Verifiability Via Chainlink",
-      "link": "https://decrypt.co/347442/sp-digital-markets-50-index-gain-blockchain-verifiability-chainlink",
-      "summary": "A new blockchain based equities index will have an on-chain counterpart thanks to Chainlink.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T17:31:36.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/chainlink-decrypt-style-01-gID_7.jpg@png"
+      "title": "dYdX Governance Approves Buyback Increase to 75% of Protocol Revenue",
+      "link": "https://www.coindesk.com/tech/2025/11/13/dydx-governance-approves-buyback-increase-to-75-of-protocol-revenue",
+      "summary": "The new proposal, which 59.38% of the community approved, charts a course to raise the buy-back allocation up from 25% of net protocol fees.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-13T16:22:47.000Z",
+      "image": null
     },
     {
-      "title": "ZCash Chat with: 0xMert_ ! Crypto Recovering? BTC back above $102K!",
-      "link": "https://decrypt.co/videos/interviews/nmhS36Py/zcash-chat-with-0xmert-crypto-recovering-btc-back-above-102k",
-      "summary": "Crypto majors slipped another 2–5% before showing signs of recovery after Bitcoin briefly dipped below $100,000. At the time of writing, BTC is down 2% at $102,100, ETH has fallen 5% to $3,320, BNB is down 1% at $945, and SOL is off 2% at $157. Among top movers, ZK (+24%), DASH (+12%), ASTER (+12%), and HYPE (+9%) led the gains. Liquidations totaled over $1.7 billion on Tuesday as Bitcoin slid below $100,000 and Ethereum neared $3,000. The Fear and Greed Index edged up two points to 23 but remai",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-05T17:17:41.000Z",
-      "image": "https://cdn.jwplayer.com/v2/media/nmhS36Py/poster.jpg"
+      "title": "Emory University Doubles Down on Bitcoin With $52M Grayscale BTC ETF Stake",
+      "link": "https://www.coindesk.com/markets/2025/11/13/emory-doubles-down-on-bitcoin-with-usd52m-grayscale-bet",
+      "summary": "The managers of the Georgia university's endowment are showing an inclination towards hard assets, opening a sizable position in a gold ETF as well.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-13T16:21:41.000Z",
+      "image": null
+    },
+    {
+      "title": "BONK Falls 3.9%, Sliding Below Support",
+      "link": "https://www.coindesk.com/markets/2025/11/13/bonk-falls-3-9-to-usd0-00001223-as-memecoin-slips-below-support",
+      "summary": "BONK dropped 3.9% to $0.00001223 as volume nearly doubled amid a breakdown through key support levels.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-13T16:07:20.000Z",
+      "image": null
+    },
+    {
+      "title": "Crypto for Advisors: Digital Asset Treasuries",
+      "link": "https://www.coindesk.com/coindesk-indices/2025/11/12/crypto-for-advisors-digital-asset-treasuries",
+      "summary": "Evaluating crypto treasury companies: Are they hype or real value? Learn the key risks—premium, leverage, and regulation—advisors must consider for clients.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-13T16:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Leading Base DEX Aerodrome Merges Into Aero in Major Overhaul",
+      "link": "https://www.coindesk.com/tech/2025/11/13/leading-base-dex-aerodrome-merges-into-aero-in-major-overhaul",
+      "summary": "Dromos Labs announced a major overhaul of its decentralized exchange infrastructure with the launch of Aero, a unified trading system that will merge its existing platforms across its networks.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-11-13T15:25:56.000Z",
+      "image": null
     }
   ]
 }

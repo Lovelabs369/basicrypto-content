@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-12-01T08:28:35.811Z",
+  "updatedAt": "2025-12-01T08:54:52.124Z",
   "count": 60,
   "items": [
+    {
+      "title": "Crypto payments coming to PlayStation as Sony plans stablecoin launch in 2026",
+      "link": "https://cointelegraph.com/news/sony-playstation-stablecoin-payments-2026-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Sony Bank is reportedly pursuing a US license and partnering with Bastion as it develops a 2026 dollar stablecoin connected to its growing Web3 unit, BlockBloom.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T08:25:23.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWQ4YmMtNjlhZC03YTQ3LWI1NGUtYjc4YjRmNmIyMmMy.jpg"
+    },
     {
       "title": "Bitcoin price slides to $85K: How low can BTC go in December?",
       "link": "https://cointelegraph.com/news/bitcoin-price-slides-85k-how-low-can-btc-go-in-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -361,14 +369,6 @@
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-11-30T07:13:25.000Z",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDkvMDE5OTFlZGMtYjI0Ny03MTM5LWIxZTEtZjBhYWNhMGMwZDQ4.jpg"
-    },
-    {
-      "title": "ETH may reclaim $3.2K soon, based on low stablecoin yields: Santiment",
-      "link": "https://cointelegraph.com/news/ether-price-recovery-signs-stablecoin-yields-low-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Stablecoin yields not being overly high suggests the market hasn’t reached a “major top” and Ether may reach $3,200 in the near term, according to Santiment.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-30T05:29:01.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5MzE1ODctYTQzMi03YzFmLTgwMjEtOGQ0NjcyZjEwZDE1.jpg"
     },
     {
       "title": "Bitcoin ETFs Are Now BlackRock’s Top Revenue Source, Exec Says",

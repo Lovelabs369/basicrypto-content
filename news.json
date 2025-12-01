@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-12-01T11:16:41.168Z",
+  "updatedAt": "2025-12-01T11:39:19.694Z",
   "count": 60,
   "items": [
+    {
+      "title": "Israel’s Central Bank Signals Improved Stablecoin Oversight as Digital Shekel Plans Advance",
+      "link": "https://www.coindesk.com/business/2025/12/01/israel-s-central-bank-signals-improved-stablecoin-oversight-as-digital-shekel-plans-advance",
+      "summary": "Bank of Israel Governor Amir Yaron said stablecoins can no longer be viewed as marginal, citing their trillion-dollar trading volumes and growing systemic risks.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T11:30:28.000Z",
+      "image": null
+    },
+    {
+      "title": "Bitcoin Drops to $86K as Asian Markets Trigger Selloff",
+      "link": "https://news.bitcoin.com/bitcoin-drops-to-86k-as-asian-markets-trigger-selloff/",
+      "summary": "Bitcoin fell sharply on the first day of December, dropping from $91K to $86K as Asian markets delivered a wave of bearish catalysts. Despite improving U.S. liquidity conditions and rising rate-cut expectations, sentiment remains fragile heading into a pivotal month. BTC Retreats as Liquidity Jitters Hit Global Markets Bitcoin slipped to $86,000 in early Asian […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-01T11:30:03.000Z",
+      "image": null
+    },
     {
       "title": "Prediction markets bet on Coinbase-linked Hassett as top Fed pick",
       "link": "https://cointelegraph.com/news/prediction-markets-bet-on-hassett-fed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -283,14 +299,6 @@
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2RmMzUtOTlkYi03ZTk5LWIzZWQtNDM0ZTFhYzQyZjM0.jpg"
     },
     {
-      "title": "Bitcoin Falls off a Cliff as $91K Support Vaporizes",
-      "link": "https://news.bitcoin.com/bitcoin-falls-off-a-cliff-as-91k-support-vaporizes/",
-      "summary": "Bitcoin’s price on Sunday just before 8 p.m. Eastern time flashed a dramatic breakdown as a wave of heavy selling torched support and dragged the price from the mid-$91,000 region into the high-$86,000s in a matter of minutes. After a decent stretch of quiet, orderly trading, everything snapped at once. After hovering around the $91,000 […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T01:27:02.000Z",
-      "image": null
-    },
-    {
       "title": "Bitcoin, Ether, XRP Slide as December Begins With 'Yearn Incident'",
       "link": "https://www.coindesk.com/markets/2025/12/01/bitcoin-ether-xrp-slide-as-december-begins-with-yearn-attack",
       "summary": "Major cryptocurrencies traded lower in early Asia as DeFi platform Yearn noted at \"incident\" in its yETH pool.",
@@ -416,14 +424,6 @@
       "summary": "Phong Le says Strategy has no near-term debt maturity risk and plans to continue using convertibles and equity to grow its bitcoin position over time.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-29T18:12:51.000Z",
-      "image": null
-    },
-    {
-      "title": "Stablecoins Drive 90% of Brazil’s Crypto Volume, Tax Authority Data Shows",
-      "link": "https://www.coindesk.com/policy/2025/11/30/stablecoins-drive-90-of-brazil-s-crypto-volume-tax-authority-data-shows",
-      "summary": "A new reporting system, DeCripto, will be introduced in July 2025 to track crypto transactions.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-29T17:00:33.000Z",
       "image": null
     },
     {

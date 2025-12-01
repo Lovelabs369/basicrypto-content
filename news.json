@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2025-12-01T16:52:27.767Z",
+  "updatedAt": "2025-12-01T17:19:49.250Z",
   "count": 60,
   "items": [
+    {
+      "title": "U.S. House Lawmakers Detail Grievances Over Government's 'Choke Point 2.0'",
+      "link": "https://www.coindesk.com/policy/2025/12/01/u-s-house-lawmakers-detail-grievances-over-government-s-choke-point-2-0",
+      "summary": "French Hill, the chairman of the House Financial Services Committee, issued a report outlining what went on at several U.S. crypto regulators in past years.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T17:14:21.000Z",
+      "image": null
+    },
+    {
+      "title": "Hedera Tumbles 10% to Crucial Support on Heavy Volume",
+      "link": "https://www.coindesk.com/markets/2025/12/01/hedera-tumbles-10-to-crucial-support-on-heavy-volume",
+      "summary": "Hedera’s 10% drop on Dec. 1 has pushed HBAR back to a key support zone, where consolidation, fading volume, and institutional selling pressure are shaping the next move.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T17:11:04.000Z",
+      "image": null
+    },
+    {
+      "title": "Chainlink's LINK Slides 11% as Technical Breakdown Overshadows ETF Launch News",
+      "link": "https://www.coindesk.com/markets/2025/12/01/chainlink-s-link-slides-11-as-technical-breakdown-overshadows-etf-launch-news",
+      "summary": "The token broke below $12, breaching key support levels with heavy trading volume, confirming the downtrend.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T16:59:39.000Z",
+      "image": null
+    },
+    {
+      "title": "Trump Media and Crypto.com's $6 Billion Cronos Treasury Inches Closer to Public Debut",
+      "link": "https://decrypt.co/350472/trump-media-crypto-com-6-billion-cronos-treasury-closer-public-debut",
+      "summary": "Trump Media and Crypto.com have teamed up to launch a publicly traded Cronos (CRO) treasury—and they're gearing up for the potential debut.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T16:53:47.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cronos-decrypt-style-01-gID_7.png@png"
+    },
     {
       "title": "Bitcoin Mining Profitability Fell for Fourth Consecutive Month in November: JPMorgan",
       "link": "https://www.coindesk.com/markets/2025/12/01/bitcoin-mining-profitability-fell-for-fourth-consecutive-month-in-november-jpmorgan",
@@ -9,6 +41,14 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-12-01T16:45:17.000Z",
       "image": null
+    },
+    {
+      "title": "Over $650M Liquidated! China confirms Crypto Illegal! Infinex Interview!",
+      "link": "https://decrypt.co/videos/interviews/BcHTc0O2/over-650m-liquidated-china-confirms-crypto-illegal-infinex-interview",
+      "summary": "Crypto majors slid sharply, reversing all of last week’s gains, with BTC down 6% to $85,800, ETH down 6% to $2,820, BNB falling 7% to $822, and SOL dropping 7% to $127. Among top movers, MYX (+15%) and JST (+4%) led the market. More than $650 million in positions were liquidated over the past day, including $580 million in longs after BTC dipped below $86,000. ZEC suffered the steepest decline among major tokens, falling 20% to $355 and 35% on the week. Meanwhile, Tether founder Paolo Ardoino ag",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T16:31:57.000Z",
+      "image": "https://cdn.jwplayer.com/v2/media/BcHTc0O2/poster.jpg"
     },
     {
       "title": "Bitcoin Miners Dealt With a Brutal November as Monthly Revenue Taps Fourth-Lowest of 2025",
@@ -227,7 +267,7 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Gold1-gID_7.png@png"
     },
     {
-      "title": "Gleec Buys Komodo’s Cross-Chain DeFi Stack in $23.5M Deal",
+      "title": "Gleec Buys Komodo’s Cross-Chain DeFi Stack Valued at $23.5M for Undisclosed Amount",
       "link": "https://www.coindesk.com/business/2025/12/01/gleec-buys-komodo-s-cross-chain-defi-stack-in-usd23-5m-deal",
       "summary": "The acquisition brings Komodo’s atomic-swap technology, token ecosystem and core developers under the Gleec umbrella.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -307,14 +347,6 @@
       "image": null
     },
     {
-      "title": "Israel’s Central Bank Signals Improved Stablecoin Oversight as Digital Shekel Plans Advance",
-      "link": "https://www.coindesk.com/business/2025/12/01/israel-s-central-bank-signals-improved-stablecoin-oversight-as-digital-shekel-plans-advance",
-      "summary": "Bank of Israel Governor Amir Yaron said stablecoins can no longer be viewed as marginal, citing their trillion-dollar trading volumes and growing systemic risks.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T11:30:28.000Z",
-      "image": null
-    },
-    {
       "title": "Bitcoin Drops to $86K as Asian Markets Trigger Selloff",
       "link": "https://news.bitcoin.com/bitcoin-drops-to-86k-as-asian-markets-trigger-selloff/",
       "summary": "Bitcoin fell sharply on the first day of December, dropping from $91K to $86K as Asian markets delivered a wave of bearish catalysts. Despite improving U.S. liquidity conditions and rising rate-cut expectations, sentiment remains fragile heading into a pivotal month. BTC Retreats as Liquidity Jitters Hit Global Markets Bitcoin slipped to $86,000 in early Asian […]",
@@ -355,14 +387,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
     },
     {
-      "title": "Ripple Can Now Offer Wider XRP, RLUSD Services After Singapore Regulator Approval",
-      "link": "https://www.coindesk.com/policy/2025/12/01/ripple-can-now-offer-wider-xrp-rlusd-services-after-singapore-regulator-approval",
-      "summary": "The permissions give Ripple more bandwidth to offer token-based settlement and related payment services to banks, fintechs and crypto firms operating in the city-state.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T09:40:38.000Z",
-      "image": null
-    },
-    {
       "title": "Safello Expands Cryptocurrency Offering With XRP, BNB, MANA, and Five More Digital Assets",
       "link": "https://news.bitcoin.com/safello-expands-cryptocurrency-offering-with-xrp-bnb-mana-and-five-more-digital-assets/",
       "summary": "Nordic cryptocurrency exchange adds eight cryptocurrencies to the platform, including XRP, ETC (Ethereum Classic), BNB, TRX (Tron), XLM (Stellar), POL (Polygon), GALA, and MANA (Decentraland). Stockholm-based Safello has expanded its cryptocurrency trading platform by introducing eight new digital assets: XRP, Ethereum Classic, BNB, Tron, Stellar, Polygon, Gala, and Decentraland. The addition brings Safello’s total cryptocurrency […]",
@@ -376,14 +400,6 @@
       "summary": "HKEX published a post-hearing information pack for HashKey Holdings, pushing Hong Kong’s top crypto exchange closer to a high-profile IPO.",
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-01T09:27:47.000Z",
-      "image": null
-    },
-    {
-      "title": "Japan to Cut Crypto Tax Burden to 20% Uniform Rate in Boost for Local Bitcoin Traders",
-      "link": "https://www.coindesk.com/markets/2025/12/01/japan-to-cut-crypto-tax-burden-to-20-uniform-rate-in-boost-for-local-bitcoin-traders",
-      "summary": "The proposed tax change, supported by the government, will categorize crypto profits under a separate-taxation framework.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T09:21:09.000Z",
       "image": null
     },
     {
@@ -465,22 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-30T15:01:02.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/robot-typing-gID_7.jpg@png"
-    },
-    {
-      "title": "UK Budget Confirms New Crypto Reporting Rules from January 1",
-      "link": "https://decrypt.co/350341/uk-budget-confirms-new-crypto-reporting-rules-from-january-1",
-      "summary": "The UK government expects to raise $417 million in extra tax as UK-registered crypto exchanges are required to record customer details.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-29T15:01:13.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/uk-houses-of-parliament-gID_7.jpg@png"
-    },
-    {
-      "title": "OpenAI Confirms Data Breach—Here's Who Is Impacted",
-      "link": "https://decrypt.co/350376/openai-confirms-data-breach-heres-whos-impacted",
-      "summary": "OpenAI said a Mixpanel breach exposed API user metadata—and urged customers to watch for phishing attacks.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-28T21:04:34.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png"
     }
   ]
 }

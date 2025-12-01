@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2025-12-01T17:47:53.440Z",
+  "updatedAt": "2025-12-01T18:30:03.989Z",
   "count": 60,
   "items": [
+    {
+      "title": "Bitnomial Prepares to Debut First CFTC-Regulated Spot Crypto Market",
+      "link": "https://www.coindesk.com/business/2025/12/01/bitnomial-to-debut-first-cftc-regulated-spot-crypto-market",
+      "summary": "The move marks the first time spot crypto assets can trade on a federally regulated commodities venue, signaling the CFTC’s accelerating push to oversee retail digital-asset markets.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T18:17:46.000Z",
+      "image": null
+    },
+    {
+      "title": "Vitalik Buterin: 'Dark Hand' of Token Voting Could Erode Zcash Privacy",
+      "link": "https://decrypt.co/350481/vitalik-buterin-dark-hand-of-token-voting-could-erode-zcash-privacy",
+      "summary": "A committee endorsement has reignited long-running questions about whether Zcash should preserve its off-chain governance structure.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T18:13:58.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-shutterstock-gID_7.png@png"
+    },
+    {
+      "title": "Bitmine’s Ethereum Stash Hits 3.73M Tokens Amid Fresh Accumulation Push",
+      "link": "https://news.bitcoin.com/bitmines-ethereum-stash-hits-3-73m-tokens-amid-fresh-accumulation-push/",
+      "summary": "Bitmine has pushed its ether haul even higher, amassing one of the largest ETH treasuries on the planet as it edges closer to its long-stated 5% supply ambition. Bitmine Now Controls Over 3% of All Ether Bitmine’s latest update shows the company continues to bulk up its ether position, now holding 3.73 million ETH alongside […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-01T18:10:38.000Z",
+      "image": null
+    },
+    {
+      "title": "Republicans urge action on market structure bill over debanking claims",
+      "link": "https://cointelegraph.com/news/republicans-debanking-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Republican leaders released a final staff report going over claims of debanking by federal regulators in what some have called \"Operation Choke Point 2.0.\"",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T18:08:10.000Z",
+      "image": null
+    },
+    {
+      "title": "Tom Lee's BitMine Buys More Ethereum—But Both ETH and BMNR Are Diving",
+      "link": "https://decrypt.co/350476/tom-lees-bitmine-buys-ethereum-both-eth-bmnr-diving",
+      "summary": "The firm's stock dropped Monday as crypto prices plummeted, but it remains up 301% year-to-date.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T17:56:16.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg@png"
+    },
     {
       "title": "Bitcoin, Ethereum and XRP ETFs Bounce Back After Brutal Month for Crypto Funds",
       "link": "https://decrypt.co/350478/bitcoin-ethereum-xrp-etfs-bounce-back-brutal-month-crypto-funds",
@@ -11,7 +51,7 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ETF2-gID_7.png@png"
     },
     {
-      "title": "JPMorgan and Strike CEO Jack Mallers Go Silent, Leave 'Debanking' Questions Unanswered",
+      "title": "JPMorgan and Strike CEO Jack Mallers Go Silent, Leaving 'Debanking' Questions Unanswered",
       "link": "https://www.coindesk.com/business/2025/12/01/jpmorgan-and-strike-ceo-jack-mallers-go-silent-leave-debanking-questions-unanswered",
       "summary": "For now, Jack Mallers decided to not comment any further and JPMorgan declined to explain why it debanked the CEO of a company very similar to newly launched JPM Coin.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -355,14 +395,6 @@
       "image": null
     },
     {
-      "title": "Sony Bank Could Issue USD Stablecoin in U.S. Next Year: Nikkei",
-      "link": "https://www.coindesk.com/business/2025/12/01/sony-bank-could-issue-usd-stablecoin-in-us-next-year-nikkei",
-      "summary": "The online banking arm of Sony Financial Group envisages the stablecoin being used to pay for games and anime.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T11:58:27.000Z",
-      "image": null
-    },
-    {
       "title": "Bitcoin Drops to $86K as Asian Markets Trigger Selloff",
       "link": "https://news.bitcoin.com/bitcoin-drops-to-86k-as-asian-markets-trigger-selloff/",
       "summary": "Bitcoin fell sharply on the first day of December, dropping from $91K to $86K as Asian markets delivered a wave of bearish catalysts. Despite improving U.S. liquidity conditions and rising rate-cut expectations, sentiment remains fragile heading into a pivotal month. BTC Retreats as Liquidity Jitters Hit Global Markets Bitcoin slipped to $86,000 in early Asian […]",
@@ -401,14 +433,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-01T09:53:31.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
-    },
-    {
-      "title": "Safello Expands Cryptocurrency Offering With XRP, BNB, MANA, and Five More Digital Assets",
-      "link": "https://news.bitcoin.com/safello-expands-cryptocurrency-offering-with-xrp-bnb-mana-and-five-more-digital-assets/",
-      "summary": "Nordic cryptocurrency exchange adds eight cryptocurrencies to the platform, including XRP, ETC (Ethereum Classic), BNB, TRX (Tron), XLM (Stellar), POL (Polygon), GALA, and MANA (Decentraland). Stockholm-based Safello has expanded its cryptocurrency trading platform by introducing eight new digital assets: XRP, Ethereum Classic, BNB, Tron, Stellar, Polygon, Gala, and Decentraland. The addition brings Safello’s total cryptocurrency […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T09:30:46.000Z",
-      "image": null
     },
     {
       "title": "HashKey edges toward Hong Kong listing while China chills stablecoin plans",
@@ -457,30 +481,6 @@
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-01T07:19:23.000Z",
       "image": null
-    },
-    {
-      "title": "Rising Japanese bond yields could shake global carry trade, crypto",
-      "link": "https://cointelegraph.com/news/japan-10-year-government-bond-yield-jumps-highest-level-since-2008?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Japan’s 10-year bond yields surged to 1.86%, the highest since 2008, threatening to unwind the yen carry trade that funneled trillions into risk assets.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T06:06:23.000Z",
-      "image": null
-    },
-    {
-      "title": "Ripple Labs gets nod to expand payment activities in Singapore",
-      "link": "https://cointelegraph.com/news/ripple-mas-approval-expanded-payment-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Ripple has also made several acquisitions this year to expand its business and institutional-focused offerings, with the latest being crypto custody and wallet company Palisade.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T06:03:38.000Z",
-      "image": null
-    },
-    {
-      "title": "The Biggest Games Releasing in December 2025",
-      "link": "https://decrypt.co/350400/biggest-games-releasing-december-2025",
-      "summary": "There are a few more big games releasing before the year's up, including Metroid Prime 4: Beyond and Marvel Cosmic Invasion.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-30T18:01:02.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/metroid-prime-4-gID_7.png@png"
     }
   ]
 }

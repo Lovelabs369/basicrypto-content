@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-12-01T21:15:18.168Z",
+  "updatedAt": "2025-12-01T21:30:05.723Z",
   "count": 60,
   "items": [
+    {
+      "title": "Benchmark Is Bullish on Strategy Even as Stock Plunges Amid Possibility of Selling Bitcoin",
+      "link": "https://decrypt.co/350493/benchmark-bullish-strategy-stock-plunges-possibility-selling-bitcoin",
+      "summary": "The \"loudest\" critics of the company are \"manifestly unfamiliar\" with how Strategy works, the investment bank wrote.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T21:22:14.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png"
+    },
     {
       "title": "Is Bitcoin’s Price Being Manipulated?",
       "link": "https://news.bitcoin.com/is-bitcoins-price-being-manipulated/",
@@ -473,14 +481,6 @@
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-01T10:31:47.000Z",
       "image": null
-    },
-    {
-      "title": "Bitcoin, Ethereum, and XRP Crash Triggering $637M in Liquidations",
-      "link": "https://decrypt.co/350430/bitcoin-ethereum-and-xrp-crash-triggering-637m-in-liquidations",
-      "summary": "A weekend crypto crash triggered $524M in liquidations, with fears over Tether's stability and DAT selling pressure acting as key catalysts.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-01T09:53:31.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
     }
   ]
 }

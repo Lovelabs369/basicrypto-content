@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-12-01T10:48:31.025Z",
+  "updatedAt": "2025-12-01T11:16:41.168Z",
   "count": 60,
   "items": [
+    {
+      "title": "Prediction markets bet on Coinbase-linked Hassett as top Fed pick",
+      "link": "https://cointelegraph.com/news/prediction-markets-bet-on-hassett-fed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Prediction markets Polymarket and Kalshi surge for the pro-crypto candidate as Trump’s likely Fed chair pick, just as internal Fed reforms spark pushback from veterans.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T10:53:35.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTAvMDE5OWVjN2EtNjAyMC03ZWZkLWJiNGQtY2U0OWMyZGFlYjQ2.jpg"
+    },
     {
       "title": "Crypto ETPs snap 4-week slide with $1B inflows as XRP posts its best week",
       "link": "https://cointelegraph.com/news/crypto-etps-inflows-return-xrp-record-bitcoin-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -385,14 +393,6 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-11-30T14:00:00.000Z",
       "image": null
-    },
-    {
-      "title": "Fed rate-cut bets surge: Can Bitcoin finally break $91K to go higher?",
-      "link": "https://cointelegraph.com/news/fed-rate-cut-bets-surge-can-bitcoin-finally-break-91k-dollars?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin price stayed stuck near $91,000 due to weak ETF flows and cautious derivatives as stocks and gold rallied on rising rate-cut bets.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-30T11:57:06.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWQ0NWUtOWQ4Ni03MTVlLWExZDctNzYzNGUwYTM4ODQ3.jpg"
     },
     {
       "title": "Bitcoin ETFs Are Now BlackRock’s Top Revenue Source, Exec Says",

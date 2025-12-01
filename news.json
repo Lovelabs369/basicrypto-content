@@ -1,11 +1,59 @@
 {
-  "updatedAt": "2025-12-01T21:50:07.059Z",
+  "updatedAt": "2025-12-01T22:16:06.631Z",
   "count": 60,
   "items": [
     {
+      "title": "Vanguard Opens Platform to Crypto ETFs in Major Shift: Bloomberg",
+      "link": "https://www.coindesk.com/business/2025/12/01/vanguard-opens-platform-to-crypto-etfs-in-major-shift-bloomberg",
+      "summary": "The move will give access to the firm's 50 million clients to invest in regulated digital asset ETFs, a reversal from Vanguard's long-standing anti-crypto stance.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T22:08:44.000Z",
+      "image": null
+    },
+    {
+      "title": "Kalshi Wants Protection From State Regulators as It Appeals Nevada Loss",
+      "link": "https://decrypt.co/350532/kalshi-protection-state-regulators-appeal-nevada",
+      "summary": "Kalshi lost court protection in Nevada and now faces enforcement while it appeals, even as its business booms and valuation hits $11 billion.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T22:08:09.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/kalshi-prediction-market-nyc-gID_7.png@png"
+    },
+    {
+      "title": "Forward Industries hires former ParaFi executive to lead Solana treasury strategy",
+      "link": "https://cointelegraph.com/news/forward-industries-parafi-chief-investment-officer-solana-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Ryan Navi will guide Forward Industries’ Solana treasury strategy as digital asset companies’ shares face steep market declines.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T22:07:33.000Z",
+      "image": null
+    },
+    {
+      "title": "Arthur Hayes: Tether’s Gold and BTC Hoarding Anticipates Major Interest-Rate Cuts",
+      "link": "https://news.bitcoin.com/arthur-hayes-tethers-gold-and-btc-hoarding-anticipates-major-interest-rate-cuts/",
+      "summary": "Arthur Hayes believes Tether, the largest stablecoin issuer, is positioning for upcoming dovish Federal Reserve moves. Hayes pointed to rising gold and bitcoin as evidence, saying these assets would likely rally in a low‑interest‑rate scenario. Arthur Hayes: Tether Prepares For Low Interest Rate Scenario The Facts Arthur Hayes, former CEO of Bitmex, has addressed the […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-01T22:05:40.000Z",
+      "image": null
+    },
+    {
+      "title": "Bitcoin falls to $84K: Is Japan’s bond market the culprit, or is more at play?",
+      "link": "https://cointelegraph.com/news/bitcoin-drop-to-dollar84k-not-due-to-japan-bond-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Bitcoin’s decline to $84,000 was driven by USD stablecoin concerns, a weakening global macroeconomic outlook and factors beyond Japan’s bond market stress.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T22:01:16.000Z",
+      "image": null
+    },
+    {
+      "title": "Bearish Signals Abound for Bitcoin and Ethereum: Here’s What the Charts Say",
+      "link": "https://decrypt.co/350531/bearish-signals-bitcoin-ethereum-price-charts-prediction",
+      "summary": "Bitcoin fell as low as $85,000 today, with Ethereum likewise down nearly 10%. Prediction markets are beginning to reflect what the charts are suggesting.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T21:58:02.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png"
+    },
+    {
       "title": "Seller Exhaustion or a Bottom? Strategy Gains 11% From Session's Worst Levels",
       "link": "https://www.coindesk.com/markets/2025/12/01/seller-exhaustion-or-a-bottom-strategy-gains-11-from-session-s-worst-levels",
-      "summary": "The company Monday morning announced it had raised $1.44 billion via common stock sales as a reserve to pay preferred dividends for nearly two years.",
+      "summary": "Peter Schiff took a victory lap after the company Monday morning announced it had raised $1.44 billion via common stock sales as a reserve to pay preferred dividends for nearly two years.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-12-01T21:49:32.000Z",
       "image": null
@@ -347,14 +395,6 @@
       "image": null
     },
     {
-      "title": "Strategy Flexes Hard With Fresh 130 BTC Grab and $1.44B War Chest",
-      "link": "https://news.bitcoin.com/strategy-flexes-hard-with-fresh-130-btc-grab-and-1-44b-war-chest/",
-      "summary": "On Monday, Strategy — the largest bitcoin treasury outfit on the planet — revealed it scooped up another 130 BTC, nudging its stash to a hefty 650,000 BTC. At the same time, the firm rolled out a USD Reserve worth $1.44 billion, setting the stage for future dividend payouts with plenty of cushion. Strategy Expands […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T14:30:40.000Z",
-      "image": null
-    },
-    {
       "title": "Tom Lee's BitMine Acquires 97K ETH, Eyeing Fusaka Upgrade, Fed Policy as Positive Catalysts",
       "link": "https://www.coindesk.com/business/2025/12/01/tom-lee-s-bitmine-acquires-97k-eth-eyeing-fusaka-upgrade-fed-policy-as-positive-catalysts",
       "summary": "The firm increased the pace of purchases from the previous week despite sitting on large unrealized losses on its ether bet.",
@@ -441,46 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-01T13:15:38.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Gold1-gID_7.png@png"
-    },
-    {
-      "title": "Gleec Buys Komodo’s Cross-Chain DeFi Stack Valued at $23.5M for Undisclosed Amount",
-      "link": "https://www.coindesk.com/business/2025/12/01/gleec-buys-komodo-s-cross-chain-defi-stack-in-usd23-5m-deal",
-      "summary": "The acquisition brings Komodo’s atomic-swap technology, token ecosystem and core developers under the Gleec umbrella.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T13:00:00.000Z",
-      "image": null
-    },
-    {
-      "title": "Ethereum price loses $3K again as onchain data sends mixed signals",
-      "link": "https://cointelegraph.com/news/ethereum-price-loses-3k-onchain-data-sends-mixed-signals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Ether price held $2,800 support amid ETF inflows and undervalued signals, but $3,000 resistance and Bank of Japan rate hike fears stopped the recovery.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T12:53:19.000Z",
-      "image": null
-    },
-    {
-      "title": "Filecoin Slumps More Than 10%",
-      "link": "https://www.coindesk.com/markets/2025/12/01/filecoin-slumps-more-than-10",
-      "summary": "The drop came as crypto markets fell across the board, with the CoinDesk 20 Index down nearly 7%.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T12:46:13.000Z",
-      "image": null
-    },
-    {
-      "title": "Germany, Switzerland Shut Down $1.4B Crypto Mixer in Cross-Border Operation: Europol",
-      "link": "https://decrypt.co/350433/germany-switzerland-shut-down-1-4b-crypto-mixer-in-cross-border-operation-europol",
-      "summary": "The takedown of Cryptomixer disrupts a nine-year-old laundering hub relied upon by ransomware groups and darknet markets.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-01T12:12:56.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png"
-    },
-    {
-      "title": "South Korea pushes for draft stablecoin bill by Dec. 10 deadline",
-      "link": "https://cointelegraph.com/news/south-korea-stablecoin-bill-deadline-december-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "South Korean lawmakers set a Dec. 10 deadline for a stablecoin regulation draft, warning they’ll legislate independently if regulators miss the deadline.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T12:05:37.000Z",
-      "image": null
     }
   ]
 }

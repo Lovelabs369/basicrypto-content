@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-12-01T17:19:49.250Z",
+  "updatedAt": "2025-12-01T17:47:53.440Z",
   "count": 60,
   "items": [
+    {
+      "title": "Bitcoin, Ethereum and XRP ETFs Bounce Back After Brutal Month for Crypto Funds",
+      "link": "https://decrypt.co/350478/bitcoin-ethereum-xrp-etfs-bounce-back-brutal-month-crypto-funds",
+      "summary": "Crypto prices are falling again Monday, but Bitcoin, XRP, and Ethereum funds are coming off a strong week for flows following recent losses.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T17:31:30.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ETF2-gID_7.png@png"
+    },
+    {
+      "title": "JPMorgan and Strike CEO Jack Mallers Go Silent, Leave 'Debanking' Questions Unanswered",
+      "link": "https://www.coindesk.com/business/2025/12/01/jpmorgan-and-strike-ceo-jack-mallers-go-silent-leave-debanking-questions-unanswered",
+      "summary": "For now, Jack Mallers decided to not comment any further and JPMorgan declined to explain why it debanked the CEO of a company very similar to newly launched JPM Coin.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T17:24:13.000Z",
+      "image": null
+    },
+    {
+      "title": "Crypto Traders Crushed as Long Positions Are Vaporized in Market Freefall",
+      "link": "https://news.bitcoin.com/crypto-traders-crushed-as-long-positions-are-vaporized-in-market-freefall/",
+      "summary": "It’s an unexpectedly bruising day for crypto assets, tumbling right in step with U.S. equities on Monday, Dec. 1, 2025. The world’s largest digital asset by market cap, bitcoin, slid more than 7.5% and tapped a low of $83,814 per coin. That slip yanked the rest of the market downhill, with altcoins clocking hefty double-digit […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-01T17:21:29.000Z",
+      "image": null
+    },
     {
       "title": "U.S. House Lawmakers Detail Grievances Over Government's 'Choke Point 2.0'",
       "link": "https://www.coindesk.com/policy/2025/12/01/u-s-house-lawmakers-detail-grievances-over-government-s-choke-point-2-0",
@@ -339,14 +363,6 @@
       "image": null
     },
     {
-      "title": "CNBC Veteran Jay Yarow Joins CoinDesk to Expand Media and Events",
-      "link": "https://www.coindesk.com/business/2025/12/01/cnbc-veteran-jay-yarow-joins-coindesk-to-expand-media-and-events",
-      "summary": "Yarow will oversee CoinDesk Insights as its parent company looks to expand digital asset coverage across the globe.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T11:45:00.000Z",
-      "image": null
-    },
-    {
       "title": "Bitcoin Drops to $86K as Asian Markets Trigger Selloff",
       "link": "https://news.bitcoin.com/bitcoin-drops-to-86k-as-asian-markets-trigger-selloff/",
       "summary": "Bitcoin fell sharply on the first day of December, dropping from $91K to $86K as Asian markets delivered a wave of bearish catalysts. Despite improving U.S. liquidity conditions and rising rate-cut expectations, sentiment remains fragile heading into a pivotal month. BTC Retreats as Liquidity Jitters Hit Global Markets Bitcoin slipped to $86,000 in early Asian […]",
@@ -411,14 +427,6 @@
       "image": null
     },
     {
-      "title": "Bitget Launches AI Trading Avatars based on Seven Trading Strategies",
-      "link": "https://news.bitcoin.com/bitget-launches-ai-trading-avatars-based-on-seven-trading-strategies/",
-      "summary": "This content is provided by a sponsor. PRESS RELEASE. Victoria, Seychelles, November 30, 2025 — Bitget, the world’s largest Universal Exchange (UEX), has launched six all-new AI trading avatars inside GetAgent, marking a major step toward next-generation smart trading. As traders across the world test how well leading AI models like ChatGPT, Gemini and DeepSeek […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T09:00:23.000Z",
-      "image": null
-    },
-    {
       "title": "Crypto payments coming to PlayStation as Sony plans stablecoin launch in 2026",
       "link": "https://cointelegraph.com/news/sony-playstation-stablecoin-payments-2026-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "Sony Bank is reportedly pursuing a US license and partnering with Bastion as it develops a 2026 dollar stablecoin connected to its growing Web3 unit, BlockBloom.",
@@ -473,14 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-30T18:01:02.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/metroid-prime-4-gID_7.png@png"
-    },
-    {
-      "title": "I Made an AI Speak Every Century of English—It Ended With a Message From the Year 15,000",
-      "link": "https://decrypt.co/350263/ai-speak-every-century-english-ended-message-year-15000",
-      "summary": "I pushed a chatbot through several millennia of linguistic evolution. An AI from the year 5000 lectured me about pronouns.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-30T15:01:02.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/robot-typing-gID_7.jpg@png"
     }
   ]
 }

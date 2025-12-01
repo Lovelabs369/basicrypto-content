@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2025-12-01T13:52:21.045Z",
+  "updatedAt": "2025-12-01T14:19:44.734Z",
   "count": 60,
   "items": [
+    {
+      "title": "Morning Minute: Over $650M Liquidated as BTC Erases Last Week's Gains",
+      "link": "https://decrypt.co/350435/morning-minute-over-650m-liquidated-as-btc-erases-last-weeks-gains",
+      "summary": "It was a Thanksgiving week of crypto price action to be grateful for—until it wasn't.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T14:13:01.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-1-gID_7.png@png"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T14:10:54.000Z",
+      "image": null
+    },
+    {
+      "title": "Strategy Still the Premier Bitcoin Proxy, Benchmark Says, Rejecting ‘Doom’ Narrative",
+      "link": "https://www.coindesk.com/markets/2025/12/01/strategy-still-the-premier-bitcoin-proxy-benchmark-says-rejecting-doom-narrative",
+      "summary": "The broker said fears over Strategy’s solvency are misplaced and the stock remains the strongest asymmetric bet on bitcoin.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T14:02:55.000Z",
+      "image": null
+    },
+    {
+      "title": "Does GENIUS turn stablecoin issuers into stealth buyers of US debt?",
+      "link": "https://cointelegraph.com/news/does-genius-turn-stablecoin-issuers-into-stealth-buyers-of-us-debt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The GENIUS Act promises safer, fully reserved dollar stablecoins and faster payments, but by steering issuers toward T-bills and cash, it may also hardwire a new demand engine for US debt.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T13:54:52.000Z",
+      "image": null
+    },
     {
       "title": "BTC price analysis: Bitcoin could crash another 50%",
       "link": "https://cointelegraph.com/news/btc-price-analysis-bitcoin-could-crash-another-50-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -395,35 +427,11 @@
       "image": null
     },
     {
-      "title": "David Sacks calls NYT report on conflicts of interest a ‘nothing burger’",
-      "link": "https://cointelegraph.com/news/david-sacks-nyt-report-conflicts-interest-nothing-burger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Donald Trump’s top crypto adviser, David Sacks, hit out at a New York Times report speculating how he could gain from his government role.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T03:12:42.000Z",
-      "image": null
-    },
-    {
       "title": "Asia Morning Briefing: Bitcoin Slides on Japan Bond Spike and BOJ Hike Bets",
       "link": "https://www.coindesk.com/markets/2025/12/01/asia-morning-briefing-boj-rate-hike-bets-trigger-asia-selloff-and-bitcoin-slide",
       "summary": "Short-term Japanese yields reached their highest level since 2008, strengthening the yen and pressuring leveraged crypto positions during Hong Kong trading hours.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-12-01T02:26:12.000Z",
-      "image": null
-    },
-    {
-      "title": "Bitcoin crashes 5% in ‘Sunday slam’ as liquidations surge",
-      "link": "https://cointelegraph.com/news/bitcoin-dip-5-percent-sunday-slam-liquidations-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin plunged nearly 5% to $86,950 in Sunday trading, triggering $539 million in liquidations after the asset endured its worst November performance since 2018.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T02:02:52.000Z",
-      "image": null
-    },
-    {
-      "title": "Bitcoin, Ether, XRP Slide as December Begins With 'Yearn Incident'",
-      "link": "https://www.coindesk.com/markets/2025/12/01/bitcoin-ether-xrp-slide-as-december-begins-with-yearn-attack",
-      "summary": "Major cryptocurrencies traded lower in early Asia as DeFi platform Yearn noted at \"incident\" in its yETH pool.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T01:17:30.000Z",
       "image": null
     },
     {
@@ -473,14 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-28T19:07:34.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-conf-paolo-ardonio-tether-decrypt-style-gID_7.png@png"
-    },
-    {
-      "title": "BitMine and Bitcoin Miners' Stocks Surge as BTC, Ethereum Recover",
-      "link": "https://decrypt.co/350363/bitmine-bitcoin-miners-stock-surges-btc-ethereum-recover",
-      "summary": "Crypto-related equities like BitMine and leading Bitcoin mining stocks are jumping as Bitcoin and Ethereum regain key levels.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-28T18:27:58.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-miners-decrypt-style-01-gID_7.jpg@png"
     }
   ]
 }

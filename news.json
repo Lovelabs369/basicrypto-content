@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-12-01T18:58:31.959Z",
+  "updatedAt": "2025-12-01T19:26:10.731Z",
   "count": 60,
   "items": [
+    {
+      "title": "Price predictions 12/1: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH",
+      "link": "https://cointelegraph.com/news/price-predictions-12-1-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Bitcoin’s negative open to December shows bears’ plan to pull BTC to the $80,000 support. Analysts are now calling for a bull market to end with a drop to $70,000 and below.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T19:12:09.000Z",
+      "image": null
+    },
+    {
+      "title": "Yearn Finance Hit by $9M DeFi Exploit, Recovers $2.39M pxETH",
+      "link": "https://news.bitcoin.com/yearn-finance-hit-by-9m-defi-exploit-recovers-2-39m-pxeth/",
+      "summary": "The crypto project Yearn Finance has confirmed a security incident involving a custom yETH stableswap pool that resulted in approximately $9 million in total losses. Impact Assessment and Containment Yearn Finance, the decentralized finance (DeFi) yield aggregator, has confirmed a security incident involving a custom yETH stableswap pool that resulted in approximately $9 million in […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-01T19:05:57.000Z",
+      "image": null
+    },
     {
       "title": "Goldman Sachs buys Innovator for $2B, adding a Bitcoin-linked ETF to lineup",
       "link": "https://cointelegraph.com/news/goldman-sachs-buys-innovator-2b-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -427,14 +443,6 @@
       "image": null
     },
     {
-      "title": "People’s Bank of China Still Combating Virtual Currency, Stablecoin Trading",
-      "link": "https://news.bitcoin.com/peoples-bank-of-china-still-combating-virtual-currency-stablecoin-trading/",
-      "summary": "Chinese financial regulators reaffirm strict stance against cryptocurrency activities, emphasizing their illegal status and potential financial risks. On November 28, 2025, the People’s Bank of China convened a coordination meeting involving multiple government agencies, including the Ministry of Public Security, Cyberspace Administration, and financial regulatory bodies. The meeting addressed the recent resurgence of virtual currency […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T10:30:12.000Z",
-      "image": null
-    },
-    {
       "title": "Bitcoin, Ethereum, and XRP Crash Triggering $637M in Liquidations",
       "link": "https://decrypt.co/350430/bitcoin-ethereum-and-xrp-crash-triggering-637m-in-liquidations",
       "summary": "A weekend crypto crash triggered $524M in liquidations, with fears over Tether's stability and DAT selling pressure acting as key catalysts.",
@@ -472,14 +480,6 @@
       "summary": "Bitcoin opened the week in the red as fears of a Bank of Japan rate hike triggered a yen carry trade unwind, potentially risking a drop in BTC price to $67,000.",
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-01T08:06:08.000Z",
-      "image": null
-    },
-    {
-      "title": "Why China’s Bitcoin mining activity is surging again after a 4-year crackdown",
-      "link": "https://cointelegraph.com/explained/why-china-s-bitcoin-mining-activity-is-surging-again-after-a-4-year-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin mining in China is rising again. From dominance to ban to resurgence, this makes an engaging story.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T07:31:49.000Z",
       "image": null
     }
   ]

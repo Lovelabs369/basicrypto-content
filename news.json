@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2025-12-01T13:24:10.882Z",
+  "updatedAt": "2025-12-01T13:52:21.045Z",
   "count": 60,
   "items": [
+    {
+      "title": "BTC price analysis: Bitcoin could crash another 50%",
+      "link": "https://cointelegraph.com/news/btc-price-analysis-bitcoin-could-crash-another-50-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Bitcoin’s first monthly MACD rollover this cycle, alongside onchain data, raised the odds of a deeper pullback, as BTC price forecasts now include the mid-$60,000s.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T13:45:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Strategy sets up $1.4B cash reserve, lifts Bitcoin stash to 650,000 BTC",
+      "link": "https://cointelegraph.com/news/michael-saylor-strategy-1-44-dividend-reserve-holds-650000-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Strategy funded a new reserve from stock sales to cover at least 12 months of dividends as it boosts its Bitcoin stash to 650,000 coins amid market volatility.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T13:41:16.000Z",
+      "image": null
+    },
+    {
+      "title": "Strategy Establishes $1.44B Cash Reserve, Slashes 2025 Profit, BTC Yield Targets",
+      "link": "https://www.coindesk.com/markets/2025/12/01/strategy-establishes-usd1-44b-cash-reserve-slashes-2025-profit-btc-yield-targets",
+      "summary": "Led by Executive Chairman Michael Saylor, the company also added to its bitcoin holdings last week, bringing its total stack to 650,000 BTC.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T13:37:18.000Z",
+      "image": null
+    },
+    {
+      "title": "Polkadot Plunges 11% Breaking Below $2.05 Support Level Amid Broader Selloff",
+      "link": "https://www.coindesk.com/markets/2025/12/01/polkadot-plunges-11-breaking-below-usd2-05-support-level-amid-broader-selloff",
+      "summary": "DOT collapsed to $2.02 as technical breakdown accelerated on massive volume, exposing the psychological $2.00 level.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T13:37:08.000Z",
+      "image": null
+    },
+    {
+      "title": "Ether ETFs Lead Weekly Gains as Bitcoin and Solana Stay Green",
+      "link": "https://news.bitcoin.com/ether-etfs-lead-weekly-gains-as-bitcoin-and-solana-stay-green/",
+      "summary": "Ether ETFs roared back to life with their strongest week in a month, while bitcoin funds ended a four-week outflow streak and solana funds extended their multi-week surge. Across all three sectors, the tone shifted decisively toward accumulation. ETF Revival Week: Ether Dominates, Bitcoin Edges Up A calmer macro backdrop and renewed appetite across digital […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-01T13:30:33.000Z",
+      "image": null
+    },
     {
       "title": "Gold Closes in On All-Time High as Crypto, Stocks Tumble",
       "link": "https://decrypt.co/350436/gold-closes-in-on-all-time-high-as-crypto-stocks-tumble",
@@ -137,6 +177,14 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-01T09:53:31.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
+    },
+    {
+      "title": "Ripple Can Now Offer Wider XRP, RLUSD Services After Singapore Regulator Approval",
+      "link": "https://www.coindesk.com/policy/2025/12/01/ripple-can-now-offer-wider-xrp-rlusd-services-after-singapore-regulator-approval",
+      "summary": "The permissions give Ripple more bandwidth to offer token-based settlement and related payment services to banks, fintechs and crypto firms operating in the city-state.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T09:40:38.000Z",
+      "image": null
     },
     {
       "title": "Safello Expands Cryptocurrency Offering With XRP, BNB, MANA, and Five More Digital Assets",
@@ -339,14 +387,6 @@
       "image": null
     },
     {
-      "title": "XRP and RLUSD Positioned to Do for Payments What Whatsapp Did to SMS",
-      "link": "https://news.bitcoin.com/xrp-and-rlusd-positioned-to-do-for-payments-what-whatsapp-did-to-sms/",
-      "summary": "Crypto’s drive to cut cross-border payment costs is accelerating as Ripple positions XRP and RLUSD to deliver swift, low-cost transfers that could echo Whatsapp’s rise from pricey SMS replacement to a global standard for frictionless communication. Ripple Signals Crypto Payments Revolution With XRP and RLUSD Ripple Senior Executive Officer and Managing Director for the Middle […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T03:30:46.000Z",
-      "image": null
-    },
-    {
       "title": "Spear phishing is North Korean hackers’ top tactic: How to stay safe",
       "link": "https://cointelegraph.com/news/spear-phishing-north-korean-hackers-top-tactic-how-to-stay-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "New technologies, such as artificial intelligence, will only make bad actors more efficient and their attacks more sophisticated in 2026, cybersecurity company AhnLab predicts.",
@@ -387,52 +427,12 @@
       "image": null
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-30T22:00:27.000Z",
-      "image": null
-    },
-    {
-      "title": "What 'mNAV' Really Means for Bitcoin Treasury Companies — and Where It Falls Short",
-      "link": "https://www.coindesk.com/business/2025/11/30/what-mnav-really-tells-you-about-bitcoin-treasury-companies-and-where-it-falls-short",
-      "summary": "NYDIG’s research head questions how mNAV is used to assess bitcoin treasuries, arguing it masks key risks tied to capital structure and equity dilution.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-30T21:45:45.000Z",
-      "image": null
-    },
-    {
-      "title": "Telegram's Pavel Durov: Cocoon decentralized AI network now live",
-      "link": "https://cointelegraph.com/news/telegram-durov-cocoon-decentralized-ai-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "The privacy-preserving decentralized AI platform is built on top of The Open Network, and users earn TON for renting out computing power.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-30T21:40:53.000Z",
-      "image": null
-    },
-    {
-      "title": "Priced at Zero: How Brazil’s Méliuz Turned to Bitcoin to Escape a Treasury Trap",
-      "link": "https://www.coindesk.com/business/2025/11/30/priced-at-zero-how-brazil-s-meliuz-turned-to-bitcoin-to-escape-a-treasury-trap",
-      "summary": "The company adopted a bitcoin treasury plan by deploying a strategy inspired by Metaplanet, with 66% shareholder approval, to mitigate negative returns from government bonds.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-30T19:00:29.000Z",
-      "image": null
-    },
-    {
       "title": "The Biggest Games Releasing in December 2025",
       "link": "https://decrypt.co/350400/biggest-games-releasing-december-2025",
       "summary": "There are a few more big games releasing before the year's up, including Metroid Prime 4: Beyond and Marvel Cosmic Invasion.",
       "source": "Decrypt",
       "publishedAt": "2025-11-30T18:01:02.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/metroid-prime-4-gID_7.png@png"
-    },
-    {
-      "title": "Michael Saylor Sunday Change-Up Suggests New Announcement Coming Monday",
-      "link": "https://www.coindesk.com/markets/2025/11/30/michael-saylor-sunday-change-up-suggests-new-announcement-coming-monday",
-      "summary": "The executive chairman of bitcoin treasury firm Strategy teased a switch from orange dots to green dots in what's become his routine cheeky Sunday X post.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-30T16:07:06.000Z",
-      "image": null
     },
     {
       "title": "I Made an AI Speak Every Century of English—It Ended With a Message From the Year 15,000",

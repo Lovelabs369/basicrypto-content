@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2025-12-01T15:55:17.991Z",
+  "updatedAt": "2025-12-01T16:25:31.514Z",
   "count": 60,
   "items": [
+    {
+      "title": "Bitcoin miners enter ‘harshest margin environment of all time’",
+      "link": "https://cointelegraph.com/news/bitcoin-miners-enter-harshest-margin-environment-of-all-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Mining revenue hits structural lows as hashprice sinks, costs rise and payback periods stretch past 1,000 days, squeezing even the largest operators.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T16:08:07.000Z",
+      "image": null
+    },
+    {
+      "title": "Why Vitalik believes quantum computing could break Ethereum’s cryptography sooner than expected",
+      "link": "https://cointelegraph.com/news/why-vitalik-believes-quantum-computing-could-break-ethereum-s-cryptography-sooner-than-expected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Buterin warns that quantum computers could threaten Ethereum’s cryptography sooner than expected and outlines how the network can prepare safely.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T16:04:04.000Z",
+      "image": null
+    },
+    {
+      "title": "Digital Asset Treasuries Lead Crypto Stock Sell-Off as Bitcoin Falls to $84K",
+      "link": "https://www.coindesk.com/markets/2025/12/01/digital-asset-treasuries-lead-crypto-stock-sell-off-as-bitcoin-falls-to-usd84k",
+      "summary": "Strategy fell to the lowest since October, 2024, and ether and solana treasury plays including BitMine, Sharplink, Solana Company, Upexi tumbled nearly 10%.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T15:58:42.000Z",
+      "image": null
+    },
+    {
+      "title": "China Eyes Fresh Crackdown on Crypto Amid Resurgence in Speculative Trading",
+      "link": "https://decrypt.co/350464/china-eyes-crackdown-crypto-resurgence-speculative-trading",
+      "summary": "Authorities warn that crypto activity remains illegal and poses renewed risks despite years of enforcement.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T15:56:46.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/china-digital-yuan-stablecoin-decrypt-style-gID_7.jpg@png"
+    },
     {
       "title": "BTC price dips under $84K as Bitcoin faces ‘pivotal’ week for 2025 candle",
       "link": "https://cointelegraph.com/news/btc-price-dips-under-84k-bitcoin-faces-pivotal-week-2025-candle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -411,35 +443,11 @@
       "image": null
     },
     {
-      "title": "China reaffirms crypto ban after noticing ‘speculation has resurfaced’",
-      "link": "https://cointelegraph.com/news/china-crypto-crackdown-stablecoin-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "The People’s Bank of China reasserted the country’s crypto ban, claiming trading had reemerged and vowed to crack down on stablecoins.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T05:56:05.000Z",
-      "image": null
-    },
-    {
-      "title": "Grayscale to launch US’s first spot Chainlink ETF via trust conversion",
-      "link": "https://cointelegraph.com/news/grayscale-set-launch-first-ever-spot-link-etf-via-trust-conversion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Grayscale’s Chainlink ETF is expected to launch on Tuesday this week, marking the first spot LINK ETF to enter the US market.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T05:13:18.000Z",
-      "image": null
-    },
-    {
       "title": "Bitcoin Drop Ends Up Liquidating $500M Bullish Bets in Early Asia Trading",
       "link": "https://www.coindesk.com/markets/2025/12/01/bitcoin-drop-ends-up-liquidating-usd500m-bullish-bets-in-early-asia-trading",
       "summary": "Binance, Hyperliquid, and Bybit saw over $160 million in liquidations each, with longs making up almost 90% of the total.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-12-01T05:05:30.000Z",
-      "image": null
-    },
-    {
-      "title": "Dogecoin Slumps 9% Amid Bitcoin Weakness. Is a Larger Dump Coming?",
-      "link": "https://www.coindesk.com/markets/2025/12/01/dogecoin-slumps-9-amid-bitcoin-weakness-is-a-larger-dump-coming",
-      "summary": "The launch of DOGE ETFs from Grayscale and Bitwise saw only $2.16 million in inflows, failing to attract expected institutional interest.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T04:54:14.000Z",
       "image": null
     },
     {
@@ -473,14 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-28T21:04:34.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png"
-    },
-    {
-      "title": "'Bad Joke': FC Barcelona Criticized for $22 Million Deal with Samoan Crypto Firm ZKP",
-      "link": "https://decrypt.co/350359/bad-joke-fc-barcelona-criticized-22-million-deal-samoan-crypto-firm-zkp",
-      "summary": "A former FC Barcelona board member hit out at the deal with ZKP on social media, highlighting the firm's “unknown” ownership.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-28T20:03:58.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/soccer-football-decrypt-style-01-gID_7.jpg@png"
     }
   ]
 }

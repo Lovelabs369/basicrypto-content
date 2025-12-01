@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-12-01T20:39:31.288Z",
+  "updatedAt": "2025-12-01T20:50:07.724Z",
   "count": 60,
   "items": [
+    {
+      "title": "Most of Coinbase’s 2025 law enforcement requests came from outside the US",
+      "link": "https://cointelegraph.com/news/coinbase-law-enforcement-requests-surged?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Though the US dominated the number of requests from agencies in individual countries, Coinbase reported a modest increase in the overall number outside the country.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T20:44:47.000Z",
+      "image": null
+    },
     {
       "title": "Kalshi Launches Tokenized Event Bets on Solana Blockchain: CNBC",
       "link": "https://www.coindesk.com/business/2025/12/01/kalshi-launches-tokenized-event-bets-on-solana-blockchain-cnbc",
@@ -473,14 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-01T09:53:31.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
-    },
-    {
-      "title": "HashKey edges toward Hong Kong listing while China chills stablecoin plans",
-      "link": "https://cointelegraph.com/news/hashkey-holdings-nears-hkex-ipo-hong-kong-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "HKEX published a post-hearing information pack for HashKey Holdings, pushing Hong Kong’s top crypto exchange closer to a high-profile IPO.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T09:27:47.000Z",
-      "image": null
     }
   ]
 }

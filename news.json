@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-12-01T19:51:38.355Z",
+  "updatedAt": "2025-12-01T20:18:32.134Z",
   "count": 60,
   "items": [
+    {
+      "title": "Why Is Bitcoin Dumping? Arthur Hayes Tracks BOJ Heat Closing in on BTC",
+      "link": "https://news.bitcoin.com/why-is-bitcoin-dumping-arthur-hayes-tracks-boj-heat-closing-in-on-btc/",
+      "summary": "Bitcoin’s slide intensified as a strengthening yen squeezed carry trades and triggered swift deleveraging across crypto, revealing how shifting expectations for Japan’s policy path can jolt digital assets, a pattern emphasized by Arthur Hayes. Bitcoin Slides With Rising Yen Costs as Carry Trade Tension Builds Global crypto markets faced renewed turbulence as Bitmex co-founder and […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-01T20:05:33.000Z",
+      "image": null
+    },
+    {
+      "title": "Coinbase C-Suite, Marc Andreessen Sued for Billions Over Alleged Insider Trading Scheme",
+      "link": "https://decrypt.co/350490/coinbase-c-suite-andreessen-sued-billions-alleged-insider-trading",
+      "summary": "A lawsuit filed by Coinbase shareholders accuses the company’s leadership of withholding key information for years while making billions selling inflated stock.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T20:03:46.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png"
+    },
     {
       "title": "Ripple to Expand XRP, RLUSD Payments in Singapore After Securing License",
       "link": "https://decrypt.co/350487/ripple-expand-xrp-rlusd-payments-singapore-after-securing-license",
@@ -435,14 +451,6 @@
       "image": null
     },
     {
-      "title": "Bitcoin Drops to $86K as Asian Markets Trigger Selloff",
-      "link": "https://news.bitcoin.com/bitcoin-drops-to-86k-as-asian-markets-trigger-selloff/",
-      "summary": "Bitcoin fell sharply on the first day of December, dropping from $91K to $86K as Asian markets delivered a wave of bearish catalysts. Despite improving U.S. liquidity conditions and rising rate-cut expectations, sentiment remains fragile heading into a pivotal month. BTC Retreats as Liquidity Jitters Hit Global Markets Bitcoin slipped to $86,000 in early Asian […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T11:30:03.000Z",
-      "image": null
-    },
-    {
       "title": "Prediction markets bet on Coinbase-linked Hassett as top Fed pick",
       "link": "https://cointelegraph.com/news/prediction-markets-bet-on-hassett-fed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "Prediction markets Polymarket and Kalshi surge for the pro-crypto candidate as Trump’s likely Fed chair pick, just as internal Fed reforms spark pushback from veterans.",
@@ -472,14 +480,6 @@
       "summary": "HKEX published a post-hearing information pack for HashKey Holdings, pushing Hong Kong’s top crypto exchange closer to a high-profile IPO.",
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-01T09:27:47.000Z",
-      "image": null
-    },
-    {
-      "title": "‘Inevitable’ $50K BTC price crash: 5 things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/news/50k-btc-price-inevitable-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin gained fresh BTC price crash predictions as it fell to $85,000 in flash volatility at the monthly close amid a lack of liquidity.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T09:15:51.000Z",
       "image": null
     }
   ]

@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-12-01T22:16:06.631Z",
+  "updatedAt": "2025-12-01T22:41:47.596Z",
   "count": 60,
   "items": [
+    {
+      "title": "Kalshi Pushes Further Into Crypto With On-Chain Prediction Markets on Solana",
+      "link": "https://decrypt.co/350534/kalshi-solana-on-chain-predictions-aims-increase-liquidity-pool",
+      "summary": "Kalshi's prediction market contracts are now tokenized on Solana, unlocking access to the crypto economy, the firm announced on Monday.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T22:27:53.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/prediction-market-decrypt-style-gID_7.jpg@png"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T22:12:56.000Z",
+      "image": null
+    },
     {
       "title": "Vanguard Opens Platform to Crypto ETFs in Major Shift: Bloomberg",
       "link": "https://www.coindesk.com/business/2025/12/01/vanguard-opens-platform-to-crypto-etfs-in-major-shift-bloomberg",
@@ -37,7 +53,7 @@
     {
       "title": "Bitcoin falls to $84K: Is Japan’s bond market the culprit, or is more at play?",
       "link": "https://cointelegraph.com/news/bitcoin-drop-to-dollar84k-not-due-to-japan-bond-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin’s decline to $84,000 was driven by USD stablecoin concerns, a weakening global macroeconomic outlook and factors beyond Japan’s bond market stress.",
+      "summary": "Bitcoin’s decline to $84,000 was driven by US dollar stablecoin concerns, a weakening global macroeconomic outlook and factors beyond Japan’s bond market stress.",
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-01T22:01:16.000Z",
       "image": null
@@ -419,14 +435,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-1-gID_7.png@png"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T14:10:54.000Z",
-      "image": null
-    },
-    {
       "title": "Strategy Still the Premier Bitcoin Proxy, Benchmark Says, Rejecting ‘Doom’ Narrative",
       "link": "https://www.coindesk.com/markets/2025/12/01/strategy-still-the-premier-bitcoin-proxy-benchmark-says-rejecting-doom-narrative",
       "summary": "The broker said fears over Strategy’s solvency are misplaced and the stock remains the strongest asymmetric bet on bitcoin.",
@@ -473,14 +481,6 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-12-01T13:37:08.000Z",
       "image": null
-    },
-    {
-      "title": "Gold Closes in On All-Time High as Crypto, Stocks Tumble",
-      "link": "https://decrypt.co/350436/gold-closes-in-on-all-time-high-as-crypto-stocks-tumble",
-      "summary": "Gold is approaching a record high as Bitcoin and stocks fall, driven by “growing caution among investors” amid dovish Fed expectations.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-01T13:15:38.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Gold1-gID_7.png@png"
     }
   ]
 }

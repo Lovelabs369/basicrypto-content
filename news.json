@@ -1,7 +1,55 @@
 {
-  "updatedAt": "2025-12-01T04:35:33.176Z",
+  "updatedAt": "2025-12-01T05:16:50.098Z",
   "count": 60,
   "items": [
+    {
+      "title": "Grayscale to launch US's first spot Chainlink ETF via trust conversion",
+      "link": "https://cointelegraph.com/news/grayscale-set-launch-first-ever-spot-link-etf-via-trust-conversion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Grayscale’s Chainlink ETF is expected to launch on Tuesday this week, marking the first spot LINK ETF to enter the US market.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T05:13:18.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWQ3ZGItMmM5Ny03OWM5LWJkM2MtZjhhYmIwNTJmMjg0.jpg"
+    },
+    {
+      "title": "$25B crypto lending market now led by ‘transparent’ players: Galaxy",
+      "link": "https://cointelegraph.com/news/crypto-lending-market-transparency-25-billion-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "CeFi lending markets reached $25 billion in Q3, its highest level in over three years, and the market looked very different then, says Galaxy’s Alex Thorn.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T05:07:58.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NWJjMDYtNmJlYi03MjJhLWI0ZTEtZWNlZDRmYzQ0Zjli.jpg"
+    },
+    {
+      "title": "Bitcoin Drop Ends Up Liquidating $500M Bullish Bets in Early Asia Trading",
+      "link": "https://www.coindesk.com/markets/2025/12/01/bitcoin-drop-ends-up-liquidating-usd500m-bullish-bets-in-early-asia-trading",
+      "summary": "Binance, Hyperliquid, and Bybit saw over $160 million in liquidations each, with longs making up almost 90% of the total.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T05:05:30.000Z",
+      "image": null
+    },
+    {
+      "title": "Dogecoin Slumps 9% Amid Bitcoin Weakness. Is a Larger Dump Coming?",
+      "link": "https://www.coindesk.com/markets/2025/12/01/dogecoin-slumps-9-amid-bitcoin-weakness-is-a-larger-dump-coming",
+      "summary": "The launch of DOGE ETFs from Grayscale and Bitwise saw only $2.16 million in inflows, failing to attract expected institutional interest.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T04:54:14.000Z",
+      "image": null
+    },
+    {
+      "title": "Bitcoin's Monthly MACD Flashes Red: Echoes of Past Bear Markets",
+      "link": "https://www.coindesk.com/markets/2025/12/01/bitcoin-s-monthly-macd-flashes-red-echoes-of-past-bear-markets",
+      "summary": "The key indicator's negative flip indicates downside volatility ahead.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T04:50:31.000Z",
+      "image": null
+    },
+    {
+      "title": "XRP Slides 7% as Technical Breakdown Opens Move to $1.80",
+      "link": "https://www.coindesk.com/markets/2025/12/01/xrp-slides-7-as-technical-breakdown-opens-move-to-usd1-80",
+      "summary": "Despite expanding institutional infrastructure around XRP, short-term flows turned sharply bearish.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T04:45:06.000Z",
+      "image": null
+    },
     {
       "title": "Peter Schiff Flags a Bitcoin Drop That May Break Into Steeper Losses",
       "link": "https://news.bitcoin.com/peter-schiff-flags-a-bitcoin-drop-that-may-break-into-steeper-losses/",
@@ -363,14 +411,6 @@
       "image": null
     },
     {
-      "title": "Why Gold Is Winning Over Bitcoin in 2025: Liquidity, Trade, and Trust",
-      "link": "https://www.coindesk.com/markets/2025/11/29/why-gold-is-winning-over-bitcoin-in-2025-liquidity-trade-and-trust",
-      "summary": "Despite ETF hype, central banks and asset allocators continue to choose gold over crypto for reserve and trade purposes.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-29T13:00:00.000Z",
-      "image": null
-    },
-    {
       "title": "DATs bring crypto’s insider trading problem to TradFi: Shane Molidor",
       "link": "https://cointelegraph.com/news/dats-crypto-insider-trading-tradfi-shane-molidor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "Information asymmetry and front-running behaviors are migrating from token markets to institutional products like DATs, warns Shane Molidor of Forgd.",
@@ -385,46 +425,6 @@
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-11-29T12:46:55.000Z",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDA2YTAtM2VmNy03Njg3LWJmOWYtNDY0NjJjYmI3YzVl.jpg"
-    },
-    {
-      "title": "Bitcoin Pricing in 'Most Bearish Global Growth Outlook' Since Covid and FTX Crash: Bitwise Research",
-      "link": "https://www.coindesk.com/markets/2025/11/29/bitcoin-pricing-in-most-bearish-global-growth-outlook-since-covid-and-ftx-crash-bitwise-research",
-      "summary": "Despite low sentiment and falling prices, Bitwise’s André Dragosch says bitcoin is trading as if a recession is imminent, while macro growth expectations are already improving.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-29T12:07:59.000Z",
-      "image": null
-    },
-    {
-      "title": "Bitcoin forms short-term bottom, $100K relief rally in sight: Analyst",
-      "link": "https://cointelegraph.com/news/bitcoin-short-term-bottom-110k-relief-rally-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin may be forming a local bottom as RSI nears oversold and whales open longs, fueling a possible relief rally toward the $100,000–$110,000 zone.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-29T10:28:45.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTEvMDE5Mzc3ZGItMjM5OS03MmEwLWJhZTQtNGRhZjk5OTc3ZDVi.jpg"
-    },
-    {
-      "title": "Why China’s Bitcoin mining activity is surging again after a 4-year crackdown",
-      "link": "https://cointelegraph.com/explained/why-china-s-bitcoin-mining-activity-is-surging-again-after-a-4-year-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin mining in China is rising again. From dominance to ban to resurgence, this makes an engaging story.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-29T07:30:00.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xZTEyMTI0MTQ4MjQyMjMxYWZlODU0YTI4MWY1MjY1Yi5qcGc=.jpg"
-    },
-    {
-      "title": "Has XRP Finally Bottomed? Key Support Holds as Wave-5 Breakout Trigger Nears",
-      "link": "https://www.coindesk.com/markets/2025/11/29/has-xrp-finally-bottomed-key-support-holds-as-wave-5-breakout-trigger-nears",
-      "summary": "A close above $2.22 would confirm a bullish trend, while failure to hold $2.17 could lead to further declines.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-29T06:46:11.000Z",
-      "image": null
-    },
-    {
-      "title": "Bitcoin's 'Coinbase Premium' Flips Positive After Weeks in the Red",
-      "link": "https://www.coindesk.com/markets/2025/11/29/coinbase-premium-flips-positive-in-hope-for-bitcoin-bulls",
-      "summary": "The premium — which tracks the price spread between Coinbase and the global market — acts as a read on U.S. capital flows in previous cycles.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-29T06:15:28.000Z",
-      "image": null
     },
     {
       "title": "OpenAI Confirms Data Breach—Here's Who Is Impacted",

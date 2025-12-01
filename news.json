@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-12-01T09:48:53.552Z",
+  "updatedAt": "2025-12-01T10:21:39.661Z",
   "count": 60,
   "items": [
+    {
+      "title": "Bitcoin, Ethereum, and XRP Crash Triggering $637M in Liquidations",
+      "link": "https://decrypt.co/350430/bitcoin-ethereum-and-xrp-crash-triggering-637m-in-liquidations",
+      "summary": "A weekend crypto crash triggered $524M in liquidations, with fears over Tether's stability and DAT selling pressure acting as key catalysts.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T09:53:31.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
+    },
     {
       "title": "Safello Expands Cryptocurrency Offering With XRP, BNB, MANA, and Five More Digital Assets",
       "link": "https://news.bitcoin.com/safello-expands-cryptocurrency-offering-with-xrp-bnb-mana-and-five-more-digital-assets/",
@@ -473,14 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-28T14:42:22.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/monero-decrypt-style-scaled-gID_7.jpg@png"
-    },
-    {
-      "title": "Trump White House ‘World’s Most Corrupt Crypto Startup Operation’: House Democrats",
-      "link": "https://decrypt.co/350315/trump-white-house-worlds-most-corrupt-crypto-startup-operation-house-democrats",
-      "summary": "President Trump and his family made $800 million from sales of cryptocurrencies in the first half of the year, according to a new report.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-28T10:45:23.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-11-gID_7.png@png"
     }
   ]
 }

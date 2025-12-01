@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-12-01T21:40:28.187Z",
+  "updatedAt": "2025-12-01T21:50:07.059Z",
   "count": 60,
   "items": [
+    {
+      "title": "Seller Exhaustion or a Bottom? Strategy Gains 11% From Session's Worst Levels",
+      "link": "https://www.coindesk.com/markets/2025/12/01/seller-exhaustion-or-a-bottom-strategy-gains-11-from-session-s-worst-levels",
+      "summary": "The company Monday morning announced it had raised $1.44 billion via common stock sales as a reserve to pay preferred dividends for nearly two years.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T21:49:32.000Z",
+      "image": null
+    },
+    {
+      "title": "Kalshi taps Solana to tokenize betting contracts: Report",
+      "link": "https://cointelegraph.com/news/kalshi-contracts-tokenized-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The move could challenge other prediction platforms by providing Kalshi users with greater anonymity through tokenized buys and sales on the Solana blockchain.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T21:39:27.000Z",
+      "image": null
+    },
     {
       "title": "Former Gryphon executives to lead Trump Media, Crypto.com treasury company",
       "link": "https://cointelegraph.com/news/spac-trump-media-crypto-com-new-leadership-gryphon-cro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -451,14 +467,6 @@
       "image": null
     },
     {
-      "title": "Crypto Markets Today: Hawkish BOJ Comments Spur Sharp BTC Downturn",
-      "link": "https://www.coindesk.com/markets/2025/12/01/crypto-markets-today-hawkish-boj-comments-spur-sharp-btc-downturn",
-      "summary": "A sharp sell-off following the CME bitcoin futures open, compounded by hawkish signals from the Bank of Japan, dragged the CoinDesk 20 down nearly 6% on Monday.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T12:32:39.000Z",
-      "image": null
-    },
-    {
       "title": "Germany, Switzerland Shut Down $1.4B Crypto Mixer in Cross-Border Operation: Europol",
       "link": "https://decrypt.co/350433/germany-switzerland-shut-down-1-4b-crypto-mixer-in-cross-border-operation-europol",
       "summary": "The takedown of Cryptomixer disrupts a nine-year-old laundering hub relied upon by ransomware groups and darknet markets.",
@@ -472,14 +480,6 @@
       "summary": "South Korean lawmakers set a Dec. 10 deadline for a stablecoin regulation draft, warning they’ll legislate independently if regulators miss the deadline.",
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-01T12:05:37.000Z",
-      "image": null
-    },
-    {
-      "title": "Prediction markets bet on Coinbase-linked Hassett as top Fed pick",
-      "link": "https://cointelegraph.com/news/prediction-markets-bet-on-hassett-fed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Prediction markets Polymarket and Kalshi surge for the pro-crypto candidate as Trump’s likely Fed chair pick, just as internal Fed reforms spark pushback from veterans.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T10:53:35.000Z",
       "image": null
     }
   ]

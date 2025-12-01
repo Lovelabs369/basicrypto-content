@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-12-01T19:41:10.217Z",
+  "updatedAt": "2025-12-01T19:51:38.355Z",
   "count": 60,
   "items": [
+    {
+      "title": "Ripple to Expand XRP, RLUSD Payments in Singapore After Securing License",
+      "link": "https://decrypt.co/350487/ripple-expand-xrp-rlusd-payments-singapore-after-securing-license",
+      "summary": "XRP is falling hard alongside Bitcoin on Monday, but Ripple just got good news regarding its payments service in Singapore.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T19:41:26.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ripple-logo-2-gID_7.png@png"
+    },
     {
       "title": "CME rekindles ETH ‘super-cycle’ debate as Ether futures volume tops Bitcoin",
       "link": "https://cointelegraph.com/news/cme-eth-supercycle-futures-volume-exceeds-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -472,14 +480,6 @@
       "summary": "Bitcoin gained fresh BTC price crash predictions as it fell to $85,000 in flash volatility at the monthly close amid a lack of liquidity.",
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-01T09:15:51.000Z",
-      "image": null
-    },
-    {
-      "title": "Crypto payments coming to PlayStation as Sony plans stablecoin launch in 2026",
-      "link": "https://cointelegraph.com/news/sony-playstation-stablecoin-payments-2026-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Sony Bank is reportedly pursuing a US license and partnering with Bastion as it develops a 2026 dollar stablecoin connected to its growing Web3 unit, BlockBloom.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T08:25:23.000Z",
       "image": null
     }
   ]

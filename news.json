@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-12-01T21:30:05.723Z",
+  "updatedAt": "2025-12-01T21:40:28.187Z",
   "count": 60,
   "items": [
+    {
+      "title": "Former Gryphon executives to lead Trump Media, Crypto.com treasury company",
+      "link": "https://cointelegraph.com/news/spac-trump-media-crypto-com-new-leadership-gryphon-cro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The appointments come ahead of a planned SPAC merger that will create a publicly traded company dedicated to accumulating and staking Cronos’ native token.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T21:35:05.000Z",
+      "image": null
+    },
+    {
+      "title": "Veteran Analyst Insists Bitcoin’s Historical Cycle Drawdowns Still Call the Shots",
+      "link": "https://news.bitcoin.com/veteran-analyst-insists-bitcoins-historical-cycle-drawdowns-still-call-the-shots/",
+      "summary": "Veteran trader Peter Brandt dropped an image on Monday breaking down bitcoin’s five major bull runs, pointing out that every single one kicked off only after the market absorbed 75%-plus drawdowns. Brandt stressed there are “no exceptions,” and if someone thinks they’ve found one, a trader “better have a great reason to bet against this […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-01T21:30:36.000Z",
+      "image": null
+    },
     {
       "title": "Benchmark Is Bullish on Strategy Even as Stock Plunges Amid Possibility of Selling Bitcoin",
       "link": "https://decrypt.co/350493/benchmark-bullish-strategy-stock-plunges-possibility-selling-bitcoin",
@@ -403,14 +419,6 @@
       "image": null
     },
     {
-      "title": "Ether ETFs Lead Weekly Gains as Bitcoin and Solana Stay Green",
-      "link": "https://news.bitcoin.com/ether-etfs-lead-weekly-gains-as-bitcoin-and-solana-stay-green/",
-      "summary": "Ether ETFs roared back to life with their strongest week in a month, while bitcoin funds ended a four-week outflow streak and solana funds extended their multi-week surge. Across all three sectors, the tone shifted decisively toward accumulation. ETF Revival Week: Ether Dominates, Bitcoin Edges Up A calmer macro backdrop and renewed appetite across digital […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T13:30:33.000Z",
-      "image": null
-    },
-    {
       "title": "Gold Closes in On All-Time High as Crypto, Stocks Tumble",
       "link": "https://decrypt.co/350436/gold-closes-in-on-all-time-high-as-crypto-stocks-tumble",
       "summary": "Gold is approaching a record high as Bitcoin and stocks fall, driven by “growing caution among investors” amid dovish Fed expectations.",
@@ -472,14 +480,6 @@
       "summary": "Prediction markets Polymarket and Kalshi surge for the pro-crypto candidate as Trump’s likely Fed chair pick, just as internal Fed reforms spark pushback from veterans.",
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-01T10:53:35.000Z",
-      "image": null
-    },
-    {
-      "title": "Crypto ETPs snap 4-week slide with $1B inflows as XRP posts its best week",
-      "link": "https://cointelegraph.com/news/crypto-etps-inflows-return-xrp-record-bitcoin-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Crypto ETPs rebound with $1.07 billion inflows after four weeks of losses, while XRP hits record weekly gains amid US ETF launches.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T10:31:47.000Z",
       "image": null
     }
   ]

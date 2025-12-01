@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-12-01T23:17:09.923Z",
+  "updatedAt": "2025-12-01T23:39:03.533Z",
   "count": 60,
   "items": [
+    {
+      "title": "Changpeng Zhao, YZi Labs Seek Shakeup at BNB Treasury Firm After Stock Craters",
+      "link": "https://decrypt.co/350495/changpeng-zhao-yzi-labs-seek-shakeup-bnb-treasury-firm-stock-craters",
+      "summary": "Binance co-founder Changpeng \"CZ\" Zhao and YZi Labs are seeking a management overhaul at publicly traded BNB treasury, CEA Industries.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T23:31:44.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/changpeng-zhao-cz-decrypt-style-02-gID_7.jpg@png"
+    },
+    {
+      "title": "Ripple Wins Expanded MAS License to Broaden Regulated Crypto Services",
+      "link": "https://news.bitcoin.com/ripple-wins-expanded-mas-license-to-broaden-regulated-crypto-services/",
+      "summary": "Ripple’s expanded Singapore license clears the way for broader regulated crypto payment services, sharpening its push to deliver faster, more efficient digital asset infrastructure across a region central to Asia Pacific’s accelerating blockchain adoption. MAS Greenlight Boosts Ripple’s Digital Token Integration With Global Rails Ripple announced on Dec. 1 that the Monetary Authority of Singapore […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-01T23:30:25.000Z",
+      "image": null
+    },
     {
       "title": "'Mad Cow Disease': Grand Theft Auto Dev Warns That Generative AI Could Harm Games",
       "link": "https://decrypt.co/350556/grand-theft-auto-dev-warns-generative-ai-could-harm-games",
@@ -411,14 +427,6 @@
       "image": null
     },
     {
-      "title": "Bybit Announces $100,000 Humanitarian Aid for Sri Lanka After Cyclone Ditwah Floods",
-      "link": "https://news.bitcoin.com/bybit-announces-100000-humanitarian-aid-for-sri-lanka-after-cyclone-ditwah-floods/",
-      "summary": "Cryptocurrency exchange provides emergency relief to support communities devastated by severe flooding across Southeast Asia, with 420 lives lost and tens of thousands displaced. Bybit has committed $100,000 in humanitarian aid to support relief efforts in Sri Lanka following Cyclone Ditwah. The disaster has caused catastrophic flooding across Indonesia, Malaysia, Thailand, and Sri Lanka, resulting […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T15:30:26.000Z",
-      "image": null
-    },
-    {
       "title": "Bitcoin Giant Strategy Establishes $1.44 Billion USD Reserve—But Still Might Sell BTC",
       "link": "https://decrypt.co/350459/bitcoin-giant-strategy-1-44-billion-usd-reserve-still-might-sell-btc",
       "summary": "Michael Saylor changed his tune on selling Bitcoin, stating that Strategy could dump BTC to pay dividends to its stockholders.",
@@ -472,14 +480,6 @@
       "summary": "The broker said fears over Strategy’s solvency are misplaced and the stock remains the strongest asymmetric bet on bitcoin.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-12-01T14:02:55.000Z",
-      "image": null
-    },
-    {
-      "title": "Does GENIUS turn stablecoin issuers into stealth buyers of US debt?",
-      "link": "https://cointelegraph.com/news/does-genius-turn-stablecoin-issuers-into-stealth-buyers-of-us-debt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "The GENIUS Act promises safer, fully reserved dollar stablecoins and faster payments, but by steering issuers toward T-bills and cash, it may also hardwire a new demand engine for US debt.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T13:54:52.000Z",
       "image": null
     }
   ]

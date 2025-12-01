@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-12-01T19:26:10.731Z",
+  "updatedAt": "2025-12-01T19:41:10.217Z",
   "count": 60,
   "items": [
+    {
+      "title": "CME rekindles ETH ‘super-cycle’ debate as Ether futures volume tops Bitcoin",
+      "link": "https://cointelegraph.com/news/cme-eth-supercycle-futures-volume-exceeds-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Ether futures overtake Bitcoin on CME as ETH volatility spikes, fueling debate over a potential Ether super-cycle amid a broader crypto market pullback.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T19:34:00.000Z",
+      "image": null
+    },
     {
       "title": "Price predictions 12/1: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH",
       "link": "https://cointelegraph.com/news/price-predictions-12-1-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -472,14 +480,6 @@
       "summary": "Sony Bank is reportedly pursuing a US license and partnering with Bastion as it develops a 2026 dollar stablecoin connected to its growing Web3 unit, BlockBloom.",
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-01T08:25:23.000Z",
-      "image": null
-    },
-    {
-      "title": "Bitcoin price slides to $85K: How low can BTC go in December?",
-      "link": "https://cointelegraph.com/news/bitcoin-price-slides-85k-how-low-can-btc-go-in-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin opened the week in the red as fears of a Bank of Japan rate hike triggered a yen carry trade unwind, potentially risking a drop in BTC price to $67,000.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T08:06:08.000Z",
       "image": null
     }
   ]

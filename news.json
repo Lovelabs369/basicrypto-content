@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2025-12-01T22:50:43.166Z",
+  "updatedAt": "2025-12-01T23:17:09.923Z",
   "count": 60,
   "items": [
+    {
+      "title": "'Mad Cow Disease': Grand Theft Auto Dev Warns That Generative AI Could Harm Games",
+      "link": "https://decrypt.co/350556/grand-theft-auto-dev-warns-generative-ai-could-harm-games",
+      "summary": "Famed GTA developer Dan Houser said models trained on synthetic data could degrade game quality as creators rapidly adopt AI tools.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T23:15:00.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-gID_7.jpg@png"
+    },
+    {
+      "title": "Bitcoin’s lack of price strength due to sheepish spot buyers: What happens next?",
+      "link": "https://cointelegraph.com/news/bitcoin-s-lack-of-price-strength-due-to-sheepish-spot-buyers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Bitcoin fudged the breakout to $93,000 as global TradFi markets stumbled and BTC spot investors failed to provide the necessary volume.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T23:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "U.S. FDIC Chief Says First GENIUS Act Regulations Heading for Proposal This Month",
+      "link": "https://www.coindesk.com/policy/2025/12/01/u-s-fdic-chief-says-first-genius-act-regulations-heading-for-proposal-this-month",
+      "summary": "FDIC Acting Chairman Travis Hill is set to testify at a House hearing that his agency is ready to propose a stablecoin application rule before the month is out.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T22:51:14.000Z",
+      "image": null
+    },
+    {
+      "title": "Vanguard to Allow Bitcoin, Ethereum and XRP ETF Trading in Major Crypto Pivot",
+      "link": "https://decrypt.co/350558/vanguard-allow-trading-bitcoin-ethereum-xrp-etf",
+      "summary": "Vanguard will allow trading of crypto-focused ETFs and mutual funds on its brokerage platform, ending years of resistance.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T22:50:28.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-ethereum-decrypt-style-02-scaled-gID_7.jpg@png"
+    },
     {
       "title": "Jordan to Lift Crypto Trading Ban, Launch Regulatory Framework by Year-End",
       "link": "https://news.bitcoin.com/jordan-to-lift-crypto-trading-ban-launch-regulatory-framework-by-year-end/",
@@ -448,38 +480,6 @@
       "summary": "The GENIUS Act promises safer, fully reserved dollar stablecoins and faster payments, but by steering issuers toward T-bills and cash, it may also hardwire a new demand engine for US debt.",
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-01T13:54:52.000Z",
-      "image": null
-    },
-    {
-      "title": "BTC price analysis: Bitcoin could crash another 50%",
-      "link": "https://cointelegraph.com/news/btc-price-analysis-bitcoin-could-crash-another-50-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin’s first monthly MACD rollover this cycle, alongside onchain data, raised the odds of a deeper pullback, as BTC price forecasts now include the mid-$60,000s.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T13:45:00.000Z",
-      "image": null
-    },
-    {
-      "title": "Strategy sets up $1.4B cash reserve, lifts Bitcoin stash to 650,000 BTC",
-      "link": "https://cointelegraph.com/news/michael-saylor-strategy-1-44-dividend-reserve-holds-650000-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Strategy funded a new reserve from stock sales to cover at least 12 months of dividends as it boosts its Bitcoin stash to 650,000 coins amid market volatility.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T13:41:16.000Z",
-      "image": null
-    },
-    {
-      "title": "Strategy Establishes $1.44B Cash Reserve, Slashes 2025 Profit, BTC Yield Targets",
-      "link": "https://www.coindesk.com/markets/2025/12/01/strategy-establishes-usd1-44b-cash-reserve-slashes-2025-profit-btc-yield-targets",
-      "summary": "Led by Executive Chairman Michael Saylor, the company also added to its bitcoin holdings last week, bringing its total stack to 650,000 BTC.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T13:37:18.000Z",
-      "image": null
-    },
-    {
-      "title": "Polkadot Plunges 11% Breaking Below $2.05 Support Level Amid Broader Selloff",
-      "link": "https://www.coindesk.com/markets/2025/12/01/polkadot-plunges-11-breaking-below-usd2-05-support-level-amid-broader-selloff",
-      "summary": "DOT collapsed to $2.02 as technical breakdown accelerated on massive volume, exposing the psychological $2.00 level.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T13:37:08.000Z",
       "image": null
     }
   ]

@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2025-12-01T12:38:37.591Z",
+  "updatedAt": "2025-12-01T13:24:10.882Z",
   "count": 60,
   "items": [
+    {
+      "title": "Gold Closes in On All-Time High as Crypto, Stocks Tumble",
+      "link": "https://decrypt.co/350436/gold-closes-in-on-all-time-high-as-crypto-stocks-tumble",
+      "summary": "Gold is approaching a record high as Bitcoin and stocks fall, driven by “growing caution among investors” amid dovish Fed expectations.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-01T13:15:38.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Gold1-gID_7.png@png"
+    },
+    {
+      "title": "Gleec Buys Komodo’s Cross-Chain DeFi Stack in $23.5M Deal",
+      "link": "https://www.coindesk.com/business/2025/12/01/gleec-buys-komodo-s-cross-chain-defi-stack-in-usd23-5m-deal",
+      "summary": "The acquisition brings Komodo’s atomic-swap technology, token ecosystem and core developers under the Gleec umbrella.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T13:00:00.000Z",
+      "image": null
+    },
+    {
+      "title": "Ethereum price loses $3K again as onchain data sends mixed signals",
+      "link": "https://cointelegraph.com/news/ethereum-price-loses-3k-onchain-data-sends-mixed-signals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Ether price held $2,800 support amid ETF inflows and undervalued signals, but $3,000 resistance and Bank of Japan rate hike fears stopped the recovery.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T12:53:19.000Z",
+      "image": null
+    },
+    {
+      "title": "Filecoin Slumps More Than 10%",
+      "link": "https://www.coindesk.com/markets/2025/12/01/filecoin-slumps-more-than-10",
+      "summary": "The drop came as crypto markets fell across the board, with the CoinDesk 20 Index down nearly 7%.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-01T12:46:13.000Z",
+      "image": null
+    },
     {
       "title": "Crypto Markets Today: Hawkish BOJ Comments Spur Sharp BTC Downturn",
       "link": "https://www.coindesk.com/markets/2025/12/01/crypto-markets-today-hawkish-boj-comments-spur-sharp-btc-downturn",
@@ -379,14 +411,6 @@
       "image": null
     },
     {
-      "title": "Tether CEO slams S&P ratings agency and influencers spreading USDt FUD",
-      "link": "https://cointelegraph.com/news/tether-ceo-rails-sp-tether-fud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "The comments followed S&P's downgrade of USDt's ability to maintain its peg, which cited Tether's Bitcoin and gold reserves as a concern.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-30T20:09:51.000Z",
-      "image": null
-    },
-    {
       "title": "Priced at Zero: How Brazil’s Méliuz Turned to Bitcoin to Escape a Treasury Trap",
       "link": "https://www.coindesk.com/business/2025/11/30/priced-at-zero-how-brazil-s-meliuz-turned-to-bitcoin-to-escape-a-treasury-trap",
       "summary": "The company adopted a bitcoin treasury plan by deploying a strategy inspired by Metaplanet, with 66% shareholder approval, to mitigate negative returns from government bonds.",
@@ -417,22 +441,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-30T15:01:02.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/robot-typing-gID_7.jpg@png"
-    },
-    {
-      "title": "'We Wear Your Loathing With Pride': Tether's Downgrade at S&P Sparks Online Battle",
-      "link": "https://www.coindesk.com/markets/2025/11/30/we-wear-your-loathing-with-pride-tether-s-downgrade-at-s-and-p-sparks-online-battle",
-      "summary": "S&P Global last Wednesday slashed its rating on Tether's USDT stablecoin to its weakest score.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-30T14:25:10.000Z",
-      "image": null
-    },
-    {
-      "title": "Ethereum Developers Prep for Fusaka, Second Upgrade of 2025",
-      "link": "https://www.coindesk.com/tech/2025/11/26/ethereum-developers-prep-for-fusaka-second-upgrade-of-2025",
-      "summary": "The goal of the upgrade is to enable Ethereum to handle the large transaction throughput from the layer-2 chains that use the blockchain as their base layer.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-11-30T14:00:00.000Z",
-      "image": null
     },
     {
       "title": "UK Budget Confirms New Crypto Reporting Rules from January 1",
@@ -473,14 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-11-28T18:27:58.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-miners-decrypt-style-01-gID_7.jpg@png"
-    },
-    {
-      "title": "Myriad Moves: Predictors Turn Bullish on Bitcoin Rebounding to $100K",
-      "link": "https://decrypt.co/350357/myriad-moves-predictors-turn-bullish-bitcoin-rebounding-100k",
-      "summary": "Top markets on Myriad this week include predictions on Bitcoin's next price move, whether Brian Armstrong will appear UpOnly, and more.",
-      "source": "Decrypt",
-      "publishedAt": "2025-11-28T17:56:41.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-B2-decrypt-style-gID_7.png@png"
     }
   ]
 }

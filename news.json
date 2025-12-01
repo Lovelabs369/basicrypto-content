@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-12-01T10:21:39.661Z",
+  "updatedAt": "2025-12-01T10:48:31.025Z",
   "count": 60,
   "items": [
+    {
+      "title": "Crypto ETPs snap 4-week slide with $1B inflows as XRP posts its best week",
+      "link": "https://cointelegraph.com/news/crypto-etps-inflows-return-xrp-record-bitcoin-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Crypto ETPs rebound with $1.07 billion inflows after four weeks of losses, while XRP hits record weekly gains amid US ETF launches.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-01T10:31:47.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NGEyYmMtZWE5Yi03MmZjLWExZTQtNTNiN2EwNTZmZDc5.jpg"
+    },
+    {
+      "title": "People’s Bank of China Still Combating Virtual Currency, Stablecoin Trading",
+      "link": "https://news.bitcoin.com/peoples-bank-of-china-still-combating-virtual-currency-stablecoin-trading/",
+      "summary": "Chinese financial regulators reaffirm strict stance against cryptocurrency activities, emphasizing their illegal status and potential financial risks. On November 28, 2025, the People’s Bank of China convened a coordination meeting involving multiple government agencies, including the Ministry of Public Security, Cyberspace Administration, and financial regulatory bodies. The meeting addressed the recent resurgence of virtual currency […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-01T10:30:12.000Z",
+      "image": null
+    },
     {
       "title": "Bitcoin, Ethereum, and XRP Crash Triggering $637M in Liquidations",
       "link": "https://decrypt.co/350430/bitcoin-ethereum-and-xrp-crash-triggering-637m-in-liquidations",
@@ -275,14 +291,6 @@
       "image": null
     },
     {
-      "title": "November Softens but Perp DEX Platforms Flex $1.13 Trillion in Onchain Derivatives Action",
-      "link": "https://news.bitcoin.com/november-softens-but-perp-dex-platforms-flex-1-13-trillion-in-onchain-derivatives-action/",
-      "summary": "While decentralized perpetual exchanges, or perp DEXes, clocked an eye-popping $1.2 trillion in volume in October, the data reveals their November tally eased slightly, trading a bit softer than the prior month’s fireworks. While the dip clocked in at just $70 billion, November’s perp DEX haul still loomed 71.7% above September, making it clear the […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T00:42:50.000Z",
-      "image": null
-    },
-    {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
@@ -385,14 +393,6 @@
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-11-30T11:57:06.000Z",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWQ0NWUtOWQ4Ni03MTVlLWExZDctNzYzNGUwYTM4ODQ3.jpg"
-    },
-    {
-      "title": "Bitcoin 2022 bear market correlation hits 98% as ETFs add $220M",
-      "link": "https://cointelegraph.com/news/bitcoin-2022-bear-market-correlation-98-percent-etfs-add-220m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "New research showed BTC price action on course to copy the 2022 bear market while risk-asset inflows showed signs of a bullish turnaround.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-11-30T10:31:50.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTEvMDE5YWQ0M2QtYzMxNy03Nzk5LWEzZjEtYjk2ZjE1NzYxY2Zk.jpg"
     },
     {
       "title": "Bitcoin ETFs Are Now BlackRock’s Top Revenue Source, Exec Says",

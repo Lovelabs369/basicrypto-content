@@ -1,9 +1,25 @@
 {
-  "updatedAt": "2025-12-02T09:24:03.461Z",
+  "updatedAt": "2025-12-02T09:47:26.898Z",
   "count": 60,
   "items": [
     {
-      "title": "x402 ecosystem expands as Solana becomes number-one network for payments",
+      "title": "Poland’s president vetoes strict crypto bill, clashes with government",
+      "link": "https://cointelegraph.com/news/poland-president-veto-crypto-bill-political-clash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Poland’s president has vetoed a sweeping cryptocurrency bill over concerns that it would drive startups abroad, sparking a fierce political clash.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T09:32:13.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRkZjgtMmEzZi03OGM5LWE1MDgtMGVjOTE2OGMwZjc2.jpg"
+    },
+    {
+      "title": "YPF to Accept Cryptocurrency Payments in Argentina",
+      "link": "https://news.bitcoin.com/ypf-to-accept-cryptocurrency-payments-in-argentina/",
+      "summary": "YPF, the Argentine oil company, has announced that it will implement a system allowing customers to pay for gas with crypto. With this move, YPF becomes one of the few companies adopting this payment strategy in Latam. YPF To Implement System Allowing Customers to Make Cryptocurrency Payments The Facts YPF, an oil and oil derivatives […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-02T09:30:51.000Z",
+      "image": null
+    },
+    {
+      "title": "X402 ecosystem expands as Solana becomes number-one network for payments",
       "link": "https://cointelegraph.com/news/x402-ecosystem-expands-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "Solana has quietly become the busiest chain for x402 payments, clocking an all-time high $380,000 in daily volume and a 750% weekly jump.",
       "source": "Cointelegraph.com News",
@@ -299,14 +315,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/changpeng-zhao-cz-decrypt-style-02-gID_7.jpg@png"
     },
     {
-      "title": "Ripple Wins Expanded MAS License to Broaden Regulated Crypto Services",
-      "link": "https://news.bitcoin.com/ripple-wins-expanded-mas-license-to-broaden-regulated-crypto-services/",
-      "summary": "Ripple’s expanded Singapore license clears the way for broader regulated crypto payment services, sharpening its push to deliver faster, more efficient digital asset infrastructure across a region central to Asia Pacific’s accelerating blockchain adoption. MAS Greenlight Boosts Ripple’s Digital Token Integration With Global Rails Ripple announced on Dec. 1 that the Monetary Authority of Singapore […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T23:30:25.000Z",
-      "image": null
-    },
-    {
       "title": "'Mad Cow Disease': Grand Theft Auto Dev Warns That Generative AI Could Harm Games",
       "link": "https://decrypt.co/350556/grand-theft-auto-dev-warns-generative-ai-could-harm-games",
       "summary": "Famed GTA developer Dan Houser said models trained on synthetic data could degrade game quality as creators rapidly adopt AI tools.",
@@ -465,14 +473,6 @@
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-01T19:34:00.000Z",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRiNDYtN2U2NC03MGVmLTkxMzAtNjk1M2M1Y2FiNDMw.jpg"
-    },
-    {
-      "title": "Price predictions 12/1: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH",
-      "link": "https://cointelegraph.com/news/price-predictions-12-1-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin’s negative open to December shows bears’ plan to pull BTC to the $80,000 support. Analysts are now calling for the bull market to end with a drop to $70,000 and below.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T19:12:09.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRhZjMtMjI4Yy03OTdjLWEwMTQtNTM0MmU5ZjkyMjQ5.jpg"
     },
     {
       "title": "Bitnomial Prepares to Debut First CFTC-Regulated Spot Crypto Market",

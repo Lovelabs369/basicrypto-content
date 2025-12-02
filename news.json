@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-12-02T03:02:16.604Z",
+  "updatedAt": "2025-12-02T03:59:14.296Z",
   "count": 60,
   "items": [
+    {
+      "title": "Attention Bitcoin Bulls: The U.S. 10-Year Yield Isn't Budging Despite Fed Rate Cut Hopes",
+      "link": "https://www.coindesk.com/markets/2025/12/02/attention-bitcoin-bulls-the-u-s-10-year-yield-isn-t-budging-despite-fed-rate-cut-hopes",
+      "summary": "Bitcoin bulls' hopes for rate cuts to lower bond yields and the dollar are challenged by signals from the Treasury and the FX market.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T03:49:16.000Z",
+      "image": null
+    },
+    {
+      "title": "Cantor Fitzgerald Reveals Solana ETF Holdings in Latest Filing to SEC",
+      "link": "https://decrypt.co/350578/cantor-fitzgerald-solana-etf-holdings-latest-filing-sec",
+      "summary": "Cantor disclosed its first position in a newly listed Solana ETF, adding momentum to TradFi's shift toward regulated crypto exposure.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-02T03:36:29.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cantor-fitzgerald-decrypt-style-01-gID_7.png@png"
+    },
+    {
+      "title": "Canary’s XRP Titan Breaks Records as XRP ETF Demand Explodes",
+      "link": "https://news.bitcoin.com/canarys-xrp-titan-breaks-records-as-xrp-etf-demand-explodes/",
+      "summary": "A fast climb to more than $336 million in assets since launch propelled Canary’s XRP fund to the top of the U.S. market, signaling intensifying institutional interest in regulated access to blockchain-based exposure. XRPC Ignites a New Era for XRP Exposure Canary Capital Group LLC announced on Nov. 30 that its Canary XRP ETF (Nasdaq: […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-02T03:30:47.000Z",
+      "image": null
+    },
     {
       "title": "Frontier AI Models Demonstrate Human-Level Capability in Smart Contract Exploits",
       "link": "https://decrypt.co/350575/ai-models-human-level-capability-smart-contract-exploits",
@@ -299,14 +323,6 @@
       "image": null
     },
     {
-      "title": "Yearn Finance Hit by $9M DeFi Exploit, Recovers $2.39M pxETH",
-      "link": "https://news.bitcoin.com/yearn-finance-hit-by-9m-defi-exploit-recovers-2-39m-pxeth/",
-      "summary": "The crypto project Yearn Finance has confirmed a security incident involving a custom yETH stableswap pool that resulted in approximately $9 million in total losses. Impact Assessment and Containment Yearn Finance, the decentralized finance (DeFi) yield aggregator, has confirmed a security incident involving a custom yETH stableswap pool that resulted in approximately $9 million in […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T19:05:57.000Z",
-      "image": null
-    },
-    {
       "title": "Goldman Sachs buys Innovator for $2B, adding a Bitcoin-linked ETF to lineup",
       "link": "https://cointelegraph.com/news/goldman-sachs-buys-innovator-2b-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "The acquisition expands Goldman’s defined-outcome ETF business and brings the bank deeper into crypto-linked investment products.",
@@ -465,22 +481,6 @@
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-01T15:47:31.000Z",
       "image": null
-    },
-    {
-      "title": "European Authorities Seize $1.51B Bitcoin-Mixing Service Cryptomixer",
-      "link": "https://www.coindesk.com/policy/2025/12/01/european-authorities-seize-usd1-51b-bitcoin-laundering-service-cryptomixer",
-      "summary": "Europol dismantled a crypto-mixing platform it said is used by ransomware groups and darknet markets to launder bitcoin, seizing servers, data and $29 million in BTC.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T15:37:29.000Z",
-      "image": null
-    },
-    {
-      "title": "Bitcoin Giant Strategy Establishes $1.44 Billion USD Reserve—But Still Might Sell BTC",
-      "link": "https://decrypt.co/350459/bitcoin-giant-strategy-1-44-billion-usd-reserve-still-might-sell-btc",
-      "summary": "Michael Saylor changed his tune on selling Bitcoin, stating that Strategy could dump BTC to pay dividends to its stockholders.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-01T15:24:39.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png"
     }
   ]
 }

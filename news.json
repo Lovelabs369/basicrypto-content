@@ -1,7 +1,71 @@
 {
-  "updatedAt": "2025-12-02T11:50:18.121Z",
+  "updatedAt": "2025-12-02T12:39:39.265Z",
   "count": 60,
   "items": [
+    {
+      "title": "UK considers ban on crypto donations to political parties: Politico",
+      "link": "https://cointelegraph.com/news/uk-considers-ban-crypto-donations-reform-uk-farage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The UK is reportedly considering a ban on political crypto donations as Reform UK tops the polls, raising questions about funding transparency and potential foreign influence.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T12:37:48.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlZGUtMjMzYy03NTBiLTlmNjctM2ZhN2Q4ZDRhZGYw.jpg"
+    },
+    {
+      "title": "Mauricio Di Bartolomeo on Economic Freedom, Bitcoin-Backed Loans, and Ledn’s Vision",
+      "link": "https://news.bitcoin.com/mauricio-di-bartolomeo-on-economic-freedom-bitcoin-backed-loans-and-ledns-vision/",
+      "summary": "Mauricio Di Bartolomeo is the co-founder and CSO of Ledn, a leading provider of bitcoin-backed loans. He found Bitcoin during hyperinflation in Venezuela and believes in the future of the digital economy. He has an MBA from the Richard Ivey business school at Western University. Mauricio Di Bartolomeo, the co-founder and CSO of Ledn, recently […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-02T12:30:17.000Z",
+      "image": null
+    },
+    {
+      "title": "APT Rises 2.3%, Outperforms Wider Crypto Market",
+      "link": "https://www.coindesk.com/markets/2025/12/02/apt-rises-2-3-outperforms-wider-crypto-market",
+      "summary": "The gains were accompanied by a surge in trading volume signaling potential institutional positioning.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T12:27:36.000Z",
+      "image": null
+    },
+    {
+      "title": "Privacy Coins Lose Steam as ZCash, Monero, and Dash Follow Crypto Market Pullback",
+      "link": "https://decrypt.co/350598/privacy-coins-lose-steam-as-zcash-monero-and-dash-follow-crypto-market-pullback",
+      "summary": "Privacy coins like ZCash and Monero dropped as analysts say the \"safe haven\" narrative has broken, tying their fate to Bitcoin's cycles.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-02T12:25:44.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-gID_7.jpg@png"
+    },
+    {
+      "title": "Anthropic study says AI agents developed $4.6M in smart contract bugs",
+      "link": "https://cointelegraph.com/news/ai-models-autonomously-generate-4-6m-in-real-world-smart-contract-exploits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Commercial AI models were able to autonomously generate real-world smart contract exploits worth millions and found the costs of attack are falling rapidly.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T12:23:17.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlMTItZWUzZC03NmJjLWE4MWEtZWVmOTA1MjE0ZWRj.jpg"
+    },
+    {
+      "title": "On Thin Ice: Crypto Daybook Americas",
+      "link": "https://www.coindesk.com/daybook-us/2025/12/02/on-thin-ice-crypto-daybook-americas",
+      "summary": "Your day-ahead look for Dec. 2, 2025",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T12:15:00.000Z",
+      "image": null
+    },
+    {
+      "title": "TBC: Revolutionizing Bitcoin With UTXO Smart Contracts and Cross-Chain Innovation",
+      "link": "https://news.bitcoin.com/tbc-revolutionizing-bitcoin-with-utxo-smart-contracts-and-cross-chain-innovation/",
+      "summary": "This content is provided by a sponsor. The development of blockchain has reached a new inflection point as the Bitcoin ecosystem advances toward broader utility, higher performance, and improved scalability. In this context, TBC introduces a technological framework designed to extend the capabilities of Bitcoin while maintaining its core principles of decentralization and security. Built […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-02T12:00:27.000Z",
+      "image": null
+    },
+    {
+      "title": "Poland's President Vetoes MiCA Bill, Cites Threats to 'Freedoms of Poles'",
+      "link": "https://www.coindesk.com/policy/2025/12/02/poland-s-president-vetos-crypto-market-bill-cites-threats-to-freedoms-of-poles",
+      "summary": "President Karol Narwocki was concerned that the Cryptoasset Market Act would allow the government to disable crypto companies websites \"with a single click.\"",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T11:53:28.000Z",
+      "image": null
+    },
     {
       "title": "Myriad Partners With Trust Wallet to Launch First In-Wallet Prediction Markets",
       "link": "https://decrypt.co/350590/myriad-partners-with-trust-wallet-to-launch-first-in-wallet-prediction-markets",
@@ -21,7 +85,7 @@
     {
       "title": "RedotPay taps Ripple to roll out Nigerian naira crypto cashouts",
       "link": "https://cointelegraph.com/news/redotpay-ripple-ngn-crypto-cashouts-nigeria?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "RedotPay stated that users can convert cryptocurrency into Nigerian naira and receive funds directly in their local bank accounts within minutes.",
+      "summary": "RedotPay said users can convert cryptocurrency into Nigerian naira and receive funds directly in their local bank accounts within minutes.",
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-02T11:41:48.000Z",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlOGYtNWNiYi03NDhhLWExODEtZjFhOWE1YWQxYjJk.jpg"
@@ -315,14 +379,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cantor-fitzgerald-decrypt-style-01-gID_7.png@png"
     },
     {
-      "title": "Canary’s XRP Titan Breaks Records as XRP ETF Demand Explodes",
-      "link": "https://news.bitcoin.com/canarys-xrp-titan-breaks-records-as-xrp-etf-demand-explodes/",
-      "summary": "A fast climb to more than $336 million in assets since launch propelled Canary’s XRP fund to the top of the U.S. market, signaling intensifying institutional interest in regulated access to blockchain-based exposure. XRPC Ignites a New Era for XRP Exposure Canary Capital Group LLC announced on Nov. 30 that its Canary XRP ETF (Nasdaq: […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-02T03:30:47.000Z",
-      "image": null
-    },
-    {
       "title": "Frontier AI Models Demonstrate Human-Level Capability in Smart Contract Exploits",
       "link": "https://decrypt.co/350575/ai-models-human-level-capability-smart-contract-exploits",
       "summary": "New analysis showed models including Claude Opus and GPT-5 uncovered millions in simulated vulnerabilities across blockchains.",
@@ -344,14 +400,6 @@
       "summary": "The crypto market has spent years arguing about Tether’s reserves – sometimes with more hyperbole than substance – but the latest debate is sharper and more revealing than usual.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-12-02T02:41:24.000Z",
-      "image": null
-    },
-    {
-      "title": "Bitcoin Eyes Explosive Rebound With Nasdaq-Size Moves Poised to Flip",
-      "link": "https://news.bitcoin.com/bitcoin-eyes-explosive-rebound-with-nasdaq-size-moves-poised-to-flip/",
-      "summary": "A sweeping market reset may soon set the stage for a stronger bitcoin rebound, positioning it to potentially outpace the Nasdaq and gold as easing macro strain encourages a shift from fear toward selective risk-taking and renewed momentum. Massive Bitcoin Upside Eyed as Volatility Clears the Path for Rebound Bitcoin’s slide may set up a […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-02T02:30:13.000Z",
       "image": null
     },
     {
@@ -427,60 +475,12 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/prediction-market-decrypt-style-gID_7.jpg@png"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T22:12:56.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg"
-    },
-    {
       "title": "Vanguard Opens Platform to Crypto ETFs in Major Shift: Bloomberg",
       "link": "https://www.coindesk.com/business/2025/12/01/vanguard-opens-platform-to-crypto-etfs-in-major-shift-bloomberg",
       "summary": "The move will give access to the firm's 50 million clients to invest in regulated digital asset ETFs, a reversal from Vanguard's long-standing anti-crypto stance.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-12-01T22:08:44.000Z",
       "image": null
-    },
-    {
-      "title": "Kalshi Wants Protection From State Regulators as It Appeals Nevada Loss",
-      "link": "https://decrypt.co/350532/kalshi-protection-state-regulators-appeal-nevada",
-      "summary": "Kalshi lost court protection in Nevada and now faces enforcement while it appeals, even as its business booms and valuation hits $11 billion.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-01T22:08:09.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/kalshi-prediction-market-nyc-gID_7.png@png"
-    },
-    {
-      "title": "Forward Industries hires former ParaFi executive to lead Solana treasury strategy",
-      "link": "https://cointelegraph.com/news/forward-industries-parafi-chief-investment-officer-solana-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Ryan Navi will guide Forward Industries’ Solana treasury strategy as digital asset companies’ shares face steep market declines.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T22:07:33.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRiYmQtMDc0Yi03NGMyLTlkZjItOWM4NDYxMWI3MjM5.jpg"
-    },
-    {
-      "title": "Bearish Signals Abound for Bitcoin and Ethereum: Here’s What the Charts Say",
-      "link": "https://decrypt.co/350531/bearish-signals-bitcoin-ethereum-price-charts-prediction",
-      "summary": "Bitcoin fell as low as $85,000 today, with Ethereum likewise down nearly 10%. Prediction markets are beginning to reflect what the charts are suggesting.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-01T21:58:02.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png"
-    },
-    {
-      "title": "Seller Exhaustion or a Bottom? Strategy Gains 11% From Session's Worst Levels",
-      "link": "https://www.coindesk.com/markets/2025/12/01/seller-exhaustion-or-a-bottom-strategy-gains-11-from-session-s-worst-levels",
-      "summary": "Peter Schiff took a victory lap after the company Monday morning announced it had raised $1.44 billion via common stock sales as a reserve to pay preferred dividends for nearly two years.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T21:49:32.000Z",
-      "image": null
-    },
-    {
-      "title": "Benchmark Is Bullish on Strategy Even as Stock Plunges Amid Possibility of Selling Bitcoin",
-      "link": "https://decrypt.co/350493/benchmark-bullish-strategy-stock-plunges-possibility-selling-bitcoin",
-      "summary": "The \"loudest\" critics of the company are \"manifestly unfamiliar\" with how Strategy works, the investment bank wrote.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-01T21:22:14.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png"
     }
   ]
 }

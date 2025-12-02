@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-12-02T07:42:17.409Z",
+  "updatedAt": "2025-12-02T07:52:03.365Z",
   "count": 60,
   "items": [
+    {
+      "title": "XRP, Bitcoin On The Edge; Will Santa Abandon Nasdaq?",
+      "link": "https://www.coindesk.com/markets/2025/12/02/xrp-bitcoin-on-the-edge-has-santa-abandoned-nasdaq",
+      "summary": "XRP and BTC trade close to make-or-break levels while Nasdaq's November price action raises pullback risks.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T07:44:08.000Z",
+      "image": null
+    },
     {
       "title": "Kucoin Secures MiCAR License for Europe-Wide Crypto Services",
       "link": "https://news.bitcoin.com/kucoin-secures-micar-license-for-europe-wide-crypto-services/",
@@ -473,14 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-01T17:56:16.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg@png"
-    },
-    {
-      "title": "Bitcoin, Ethereum and XRP ETFs Bounce Back After Brutal Month for Crypto Funds",
-      "link": "https://decrypt.co/350478/bitcoin-ethereum-xrp-etfs-bounce-back-brutal-month-crypto-funds",
-      "summary": "Crypto prices are falling again Monday, but Bitcoin, XRP, and Ethereum funds are coming off a strong week for flows following recent losses.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-01T17:31:30.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ETF2-gID_7.png@png"
     }
   ]
 }

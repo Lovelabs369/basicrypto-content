@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-12-01T23:50:16.125Z",
+  "updatedAt": "2025-12-02T01:21:48.768Z",
   "count": 60,
   "items": [
+    {
+      "title": "Vanguard’s 50M+ clients will soon have access to crypto ETFs",
+      "link": "https://cointelegraph.com/news/vanguard-to-allow-clients-trade-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Vanguard CEO Salim Ramji ruled out crypto ETFs on its platform in August, but consistent demand for crypto has seemingly changed his firm’s tune.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T01:04:17.000Z",
+      "image": null
+    },
+    {
+      "title": "Peter Schiff Says Rising Bond Yields Explain Why Bitcoin and Other Crypto Are Getting Killed",
+      "link": "https://news.bitcoin.com/peter-schiff-says-rising-bond-yields-explain-why-bitcoin-and-other-crypto-are-getting-killed/",
+      "summary": "Soaring Japanese bond yields ignited a rush out of risk assets, hammering bitcoin below key levels as the yen carry trade unwound and volatility ripped through crypto and metals, intensifying fears of deeper rate-driven losses. Peter Schiff Cites 10-Year JGB at 1.84% and Rising as Bitcoin and Other Crypto Get Killed Bitcoin’s latest drop drew […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-02T00:30:47.000Z",
+      "image": null
+    },
     {
       "title": "Changpeng Zhao, YZi Labs Seek Shakeup at BNB Treasury Firm After Stock Craters",
       "link": "https://decrypt.co/350495/changpeng-zhao-yzi-labs-seek-shakeup-bnb-treasury-firm-stock-craters",
@@ -355,14 +371,6 @@
       "image": "https://cdn.jwplayer.com/v2/media/BcHTc0O2/poster.jpg"
     },
     {
-      "title": "Bitcoin Miners Dealt With a Brutal November as Monthly Revenue Taps Fourth-Lowest of 2025",
-      "link": "https://news.bitcoin.com/bitcoin-miners-dealt-with-a-brutal-november-as-monthly-revenue-taps-fourth-lowest-of-2025/",
-      "summary": "Bitcoin miners trudged through November, with data showing it was the fourth least profitable month of 2025. Mining pools processed around 453 blocks from start to finish, collecting a combined $1.262 billion in revenue — a total that folds in both the subsidy and the fees gathered along the way. Miners Grapple With Bitcoin’s Steep […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T16:30:25.000Z",
-      "image": null
-    },
-    {
       "title": "ICP Slides as Breakdown Below $4.00 Triggers Elevated Volatility",
       "link": "https://www.coindesk.com/markets/2025/12/01/icp-slides-as-breakdown-below-usd4-00-triggers-elevated-volatility",
       "summary": "Sharp 24-hour decline sends Internet Computer into fresh multi-day lows, with a high-volume support breach defining the session",
@@ -473,14 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-01T14:13:01.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-1-gID_7.png@png"
-    },
-    {
-      "title": "Strategy Still the Premier Bitcoin Proxy, Benchmark Says, Rejecting ‘Doom’ Narrative",
-      "link": "https://www.coindesk.com/markets/2025/12/01/strategy-still-the-premier-bitcoin-proxy-benchmark-says-rejecting-doom-narrative",
-      "summary": "The broker said fears over Strategy’s solvency are misplaced and the stock remains the strongest asymmetric bet on bitcoin.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T14:02:55.000Z",
-      "image": null
     }
   ]
 }

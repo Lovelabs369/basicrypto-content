@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-12-02T18:56:56.698Z",
+  "updatedAt": "2025-12-02T19:19:51.263Z",
   "count": 60,
   "items": [
+    {
+      "title": "CME launches Bitcoin volatility index as institutional crypto trading matures",
+      "link": "https://cointelegraph.com/news/cme-bitcoin-volatility-index-institutional-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "CME has rolled out new crypto benchmarks, including a Bitcoin volatility index designed to sharpen risk pricing across futures and options markets.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T19:06:54.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUwMWEtYzg4ZS03YzdjLTk5NzItOTI3NjI4ZjgyODYw.jpg"
+    },
+    {
+      "title": "Kraken Moves to Acquire Backed in Bid to Expand Global Tokenized Equities",
+      "link": "https://news.bitcoin.com/kraken-moves-to-acquire-backed-in-bid-to-expand-global-tokenized-equities/",
+      "summary": "Kraken is moving to acquire Backed Finance AG, aiming to pull tokenized equities deeper into the global financial mainstream. Backed to Join Kraken as Tokenized Stock Demand Climbs Worldwide Kraken has agreed to purchase Backed Finance AG, the issuer behind xStocks, in a deal meant to accelerate the expansion of tokenized equities while tightening the […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-02T19:05:17.000Z",
+      "image": null
+    },
     {
       "title": "Amazon Enters AI Arms Race as Crypto and Risk Asset Fears Mount",
       "link": "https://www.coindesk.com/markets/2025/12/02/amazon-enters-ai-arms-race-as-crypto-and-risk-asset-fears-mount",
@@ -465,22 +481,6 @@
       "source": "Bitcoin News",
       "publishedAt": "2025-12-02T11:30:32.000Z",
       "image": null
-    },
-    {
-      "title": "Bitcoin valuation metric projects 96% chance of BTC price recovery in 2026",
-      "link": "https://cointelegraph.com/news/bitcoin-valuation-metric-projects-96-chance-btc-price-recovery-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "A similar setup in 2023 preceded a 340% Bitcoin rally, reinforcing the argument that BTC is undervalued at current prices.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-02T11:30:00.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlOTMtNGFhMC03N2ZiLThlNGItZmViOTUyNmNiMTcw.jpg"
-    },
-    {
-      "title": "Bitcoin to end four-year cycle, break out to new highs in 2026: Grayscale",
-      "link": "https://cointelegraph.com/news/bitcoin-four-year-cycle-break-out-new-highs-2026-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Grayscale said Bitcoin’s 2025 sell-off looks like a local bottom, not a new cycle peak, with Fed policy and US crypto bills key for 2026.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-02T10:32:17.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlNmYtNjg4Ny03MmNiLThjNjctNjRjMTNkMzE5ZmYy.jpg"
     }
   ]
 }

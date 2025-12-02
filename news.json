@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-12-02T06:29:07.327Z",
+  "updatedAt": "2025-12-02T06:56:00.584Z",
   "count": 60,
   "items": [
+    {
+      "title": "Sanctioned Cambodian Lender Huione, Linked to Illicit Crypto, Halts Business After Bank Run: Report",
+      "link": "https://www.coindesk.com/policy/2025/12/02/sanctioned-cambodian-bank-huione-halts-business-after-mass-run-on-accounts-report",
+      "summary": "The scandal-plagued platform blamed a surge in withdrawals for its shutdown, the latest fallout from U.S. sanctions and money-laundering allegations targeting the wider Huione network.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T06:49:12.000Z",
+      "image": null
+    },
+    {
+      "title": "BlackRock's Fink and Goldstein Say Tokenization Could Redraw Market Plumbing",
+      "link": "https://decrypt.co/350582/blackrocks-fink-goldstein-tokenization-market-plumbing",
+      "summary": "BlackRock execs say tokenization, once tangled in the crypto frenzy, is accelerating toward a major rebuild of global market infrastructure.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-02T06:40:51.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-Larry-Fink-decrypt-style-02-gID_7.png@png"
+    },
+    {
+      "title": "High Court Dismisses Former Binance Executive’s Lawsuit Against Nigerian Agencies",
+      "link": "https://news.bitcoin.com/high-court-dismisses-former-binance-executives-lawsuit-against-nigerian-agencies/",
+      "summary": "The Nigerian High Court dismissed the unlawful detention lawsuit filed by former Binance executive Tigran Gambaryan against two government agencies. Judicial Rationale for Dismissal A Nigerian High Court has dismissed the lawsuit filed by former Binance executive Tigran Gambaryan against the Economic and Financial Crimes Commission (EFCC) and the Office of the National Security Adviser […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-02T06:30:27.000Z",
+      "image": null
+    },
     {
       "title": "FDIC acting chair says framework for stablecoin laws coming this month",
       "link": "https://cointelegraph.com/news/fdic-genius-act-framework-coming-this-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -59,7 +83,7 @@
       "image": null
     },
     {
-      "title": "Here's Where Analysts Say Bitcoin Could Be Headed Next for the Rest of 2025",
+      "title": "Here's Where Analysts Say Bitcoin Could Be Headed Next For the Rest of 2025",
       "link": "https://decrypt.co/350580/analysts-bitcoin-could-be-headed-next-rest-of-2025",
       "summary": "Analysts see Bitcoin range-bound near $90K into year-end before a potential 2026 rally to $135K, contingent on Fed policy.",
       "source": "Decrypt",
@@ -347,14 +371,6 @@
       "image": null
     },
     {
-      "title": "Veteran Analyst Insists Bitcoin’s Historical Cycle Drawdowns Still Call the Shots",
-      "link": "https://news.bitcoin.com/veteran-analyst-insists-bitcoins-historical-cycle-drawdowns-still-call-the-shots/",
-      "summary": "Veteran trader Peter Brandt dropped an image on Monday breaking down bitcoin’s five major bull runs, pointing out that every single one kicked off only after the market absorbed 75%-plus drawdowns. Brandt stressed there are “no exceptions,” and if someone thinks they’ve found one, a trader “better have a great reason to bet against this […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T21:30:36.000Z",
-      "image": null
-    },
-    {
       "title": "Benchmark Is Bullish on Strategy Even as Stock Plunges Amid Possibility of Selling Bitcoin",
       "link": "https://decrypt.co/350493/benchmark-bullish-strategy-stock-plunges-possibility-selling-bitcoin",
       "summary": "The \"loudest\" critics of the company are \"manifestly unfamiliar\" with how Strategy works, the investment bank wrote.",
@@ -464,22 +480,6 @@
       "summary": "For now, Jack Mallers decided to not comment any further and JPMorgan declined to explain why it debanked the CEO of a company very similar to newly launched JPM Coin.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-12-01T17:24:13.000Z",
-      "image": null
-    },
-    {
-      "title": "U.S. House Lawmakers Detail Grievances Over Government's 'Choke Point 2.0'",
-      "link": "https://www.coindesk.com/policy/2025/12/01/u-s-house-lawmakers-detail-grievances-over-government-s-choke-point-2-0",
-      "summary": "French Hill, the chairman of the House Financial Services Committee, issued a report outlining what went on at several U.S. crypto regulators in past years.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T17:14:21.000Z",
-      "image": null
-    },
-    {
-      "title": "Hedera Tumbles 10% to Crucial Support on Heavy Volume",
-      "link": "https://www.coindesk.com/markets/2025/12/01/hedera-tumbles-10-to-crucial-support-on-heavy-volume",
-      "summary": "Hedera’s 10% drop on Dec. 1 has pushed HBAR back to a key support zone, where consolidation, fading volume, and institutional selling pressure are shaping the next move.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T17:11:04.000Z",
       "image": null
     }
   ]

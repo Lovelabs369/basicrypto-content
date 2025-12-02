@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-12-02T04:56:07.146Z",
+  "updatedAt": "2025-12-02T05:19:40.344Z",
   "count": 60,
   "items": [
+    {
+      "title": "Bitcoin May Dump to $65K or Below, Spelling Trouble for ETH, XRP, ADA and Other Majors",
+      "link": "https://www.coindesk.com/markets/2025/12/02/bitcoin-may-dump-to-usd65k-or-below-spelling-trouble-for-eth-xrp-ada-and-other-majors",
+      "summary": "MSCI is considering removing Strategy Inc. from its major equity indices due to the company's large bitcoin holdings, which some traders say could scare smaller players.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T05:16:09.000Z",
+      "image": null
+    },
+    {
+      "title": "Breakdown or Bear Trap? XRP Tests $1.99 as Market Signals Mixed Direction Ahead",
+      "link": "https://www.coindesk.com/markets/2025/12/02/breakdown-or-bear-trap-xrp-tests-usd1-99-as-market-signals-mixed-direction-ahead",
+      "summary": "A break above $2.05–$2.07 is needed to shift momentum, while a fall below $2.00 could lead to further declines.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T04:59:10.000Z",
+      "image": null
+    },
+    {
+      "title": "Here's Where Analysts Say Bitcoin Could Be Headed Next for the Rest of 2025",
+      "link": "https://decrypt.co/350580/analysts-bitcoin-could-be-headed-next-rest-of-2025",
+      "summary": "Analysts see Bitcoin range-bound near $90K into year-end before a potential 2026 rally to $135K, contingent on Fed policy.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-02T04:57:49.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png"
+    },
     {
       "title": "Ethereum ICO wallet moves $120M after a decade, throws it into staking",
       "link": "https://cointelegraph.com/news/ethereum-ico-wallet-moves-120m-after-a-decade-throws-it-into-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -457,30 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-01T16:31:57.000Z",
       "image": "https://cdn.jwplayer.com/v2/media/BcHTc0O2/poster.jpg"
-    },
-    {
-      "title": "ICP Slides as Breakdown Below $4.00 Triggers Elevated Volatility",
-      "link": "https://www.coindesk.com/markets/2025/12/01/icp-slides-as-breakdown-below-usd4-00-triggers-elevated-volatility",
-      "summary": "Sharp 24-hour decline sends Internet Computer into fresh multi-day lows, with a high-volume support breach defining the session",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T16:29:04.000Z",
-      "image": null
-    },
-    {
-      "title": "BONK Slides 9% as Technical Breakdown Overshadows Swiss ETP Debut",
-      "link": "https://www.coindesk.com/markets/2025/12/01/bonk-slides-9-as-technical-breakdown-overshadows-swiss-etp-debut",
-      "summary": "A new ETP listing in Switzerland failed to lift BONK as the memecoin fell to fresh cycle lows amid a sharp technical breach of key support.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T16:26:38.000Z",
-      "image": null
-    },
-    {
-      "title": "Bitcoin miners enter ‘harshest margin environment of all time’",
-      "link": "https://cointelegraph.com/news/bitcoin-miners-enter-harshest-margin-environment-of-all-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Mining revenue hits structural lows as hashprice sinks, costs rise and payback periods stretch past 1,000 days, squeezing even the largest operators.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T16:08:07.000Z",
-      "image": null
     }
   ]
 }

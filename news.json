@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-02T20:44:32.971Z",
+  "updatedAt": "2025-12-02T20:55:15.872Z",
   "count": 60,
   "items": [
     {
@@ -33,6 +33,14 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-12-02T19:57:53.000Z",
       "image": null
+    },
+    {
+      "title": "Vanguard Crypto ETFs, Coinbase Lawsuit & Strategy's $1.44B Reserve - Daily Crypto Recap",
+      "link": "https://decrypt.co/videos/interviews/DBFV5WgA/vanguard-crypto-etfs-coinbase-lawsuit-strategys-144b-reserve-daily-crypto-recap",
+      "summary": "Today’s headlines: The latest on Vanguard ETFs, Coinbase lawsuit, Strategy $1.44B reserve, & more. This is Decrypt's Daily Recap with host @Tyler_Did_It. Your crypto round-up for December 2nd 2025",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-02T19:48:34.000Z",
+      "image": "https://cdn.jwplayer.com/v2/media/DBFV5WgA/poster.jpg"
     },
     {
       "title": "What to Expect From Ethereum’s Fusaka Upgrade?",
@@ -473,14 +481,6 @@
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-02T12:23:17.000Z",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlMTItZWUzZC03NmJjLWE4MWEtZWVmOTA1MjE0ZWRj.jpg"
-    },
-    {
-      "title": "TBC: Revolutionizing Bitcoin With UTXO Smart Contracts and Cross-Chain Innovation",
-      "link": "https://news.bitcoin.com/tbc-revolutionizing-bitcoin-with-utxo-smart-contracts-and-cross-chain-innovation/",
-      "summary": "This content is provided by a sponsor. The development of blockchain has reached a new inflection point as the Bitcoin ecosystem advances toward broader utility, higher performance, and improved scalability. In this context, TBC introduces a technological framework designed to extend the capabilities of Bitcoin while maintaining its core principles of decentralization and security. Built […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-02T12:00:27.000Z",
-      "image": null
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-12-02T15:20:36.114Z",
+  "updatedAt": "2025-12-02T15:45:32.483Z",
   "count": 60,
   "items": [
+    {
+      "title": "Kalshi Raises $1B at $11B Valuation as Prediction Market Race Heats Up",
+      "link": "https://www.coindesk.com/business/2025/12/02/kalshi-raises-usd1b-at-usd11b-valuation-as-prediction-market-race-heats-up",
+      "summary": "Kalshi secures a massive funding boost led by Paradigm, widening its lead over Polymarket as trading volumes surge and both platforms pursue fresh capital.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T15:26:07.000Z",
+      "image": null
+    },
+    {
+      "title": "Grayscale’s Chainlink ETF Lists on NYSE Arca, LINK Price Jumps",
+      "link": "https://www.coindesk.com/markets/2025/12/02/grayscale-s-chainlink-etf-lists-on-nyse-arca-link-price-rises",
+      "summary": "The debut marks the first U.S. ETF tied to Chainlink, which secures tens of billions of dollars in onchain value across DeFi and gaming.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T15:23:53.000Z",
+      "image": null
+    },
+    {
+      "title": "Ethereum price analysis: Will ETH continue to decline in December?",
+      "link": "https://cointelegraph.com/news/ehtereum-price-analysis-will-eth-continue-decline-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Ethereum risks a deeper sell-off toward $2,500–$2,200 as MVRV support weakens and a bearish pennant threatens to break lower.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T15:20:00.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlZjUtZDhhYi03NjcyLWIyMzItZmMyYjNjOTI4ZjNh.jpg"
+    },
     {
       "title": "Bitcoin ETFs Begin December With Modest Gains as Ether and Solana Slide",
       "link": "https://news.bitcoin.com/bitcoin-etfs-begin-december-with-modest-gains-as-ether-and-solana-slide/",
@@ -97,6 +121,14 @@
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-02T13:51:54.000Z",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlNWUtZmUwMS03ZmE4LTliYmMtZWY2NjE5NWM3Yzcy.jpg"
+    },
+    {
+      "title": "Strategy Gains Nearly 20% From Monday Low as Bear Gloating Suggests at Least Temporary Bottom",
+      "link": "https://www.coindesk.com/markets/2025/12/02/strategy-s-bitcoin-bet-backfires-on-retail-as-leveraged-etfs-crater-80",
+      "summary": "",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T13:47:06.000Z",
+      "image": null
     },
     {
       "title": "Morning Minute: Vanguard Finally Lets Investors Buy Crypto",
@@ -411,27 +443,11 @@
       "image": null
     },
     {
-      "title": "Bitcoin miner Canaan plans adaptive green-energy mining platform",
-      "link": "https://cointelegraph.com/news/canaan-synvista-ai-renewable-bitcoin-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Canaan has been steadily investing in renewable energy projects, with a gas-to-computing pilot in Canada and a deal to deploy miners at a wind-powered data center in Texas.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-02T06:09:22.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRkNjYtYTc5OS03NDdhLTkyZDAtNTkyMDY4ZTMzMzcy.jpg"
-    },
-    {
       "title": "Bitcoin May Dump to $65K or Below, Spelling Trouble for ETH, XRP, ADA and Other Majors",
       "link": "https://www.coindesk.com/markets/2025/12/02/bitcoin-may-dump-to-usd65k-or-below-spelling-trouble-for-eth-xrp-ada-and-other-majors",
       "summary": "MSCI is considering removing Strategy Inc. from its major equity indices due to the company's large bitcoin holdings, which some traders say could scare smaller players.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-12-02T05:16:09.000Z",
-      "image": null
-    },
-    {
-      "title": "Breakdown or Bear Trap? XRP Tests $1.99 as Market Signals Mixed Direction Ahead",
-      "link": "https://www.coindesk.com/markets/2025/12/02/breakdown-or-bear-trap-xrp-tests-usd1-99-as-market-signals-mixed-direction-ahead",
-      "summary": "A break above $2.05–$2.07 is needed to shift momentum, while a fall below $2.00 could lead to further declines.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-02T04:59:10.000Z",
       "image": null
     },
     {
@@ -441,22 +457,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-02T04:57:49.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png"
-    },
-    {
-      "title": "Bitcoin Traders Bet on Sub-$80K New Year: Derive",
-      "link": "https://www.coindesk.com/markets/2025/12/02/bitcoin-traders-bet-on-sub-usd80k-new-year-derive",
-      "summary": "Market positioning implies a meaningful probability of sub-$80K BTC to start 2026, Derive's Forster said.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-02T04:07:19.000Z",
-      "image": null
-    },
-    {
-      "title": "Attention Bitcoin Bulls: The U.S. 10-Year Yield Isn't Budging Despite Fed Rate Cut Hopes",
-      "link": "https://www.coindesk.com/markets/2025/12/02/attention-bitcoin-bulls-the-u-s-10-year-yield-isn-t-budging-despite-fed-rate-cut-hopes",
-      "summary": "Crypto bulls' hopes for rate cuts to lower bond yields and the dollar are challenged by signals from the Treasury and the FX market.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-02T03:49:16.000Z",
-      "image": null
     },
     {
       "title": "Cantor Fitzgerald Reveals Solana ETF Holdings in Latest Filing to SEC",

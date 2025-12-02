@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2025-12-02T15:45:32.483Z",
+  "updatedAt": "2025-12-02T16:25:21.015Z",
   "count": 60,
   "items": [
+    {
+      "title": "Atkins says SEC has 'enough authority' to drive crypto rules forward in 2026",
+      "link": "https://cointelegraph.com/news/atkins-sec-authority-crypto-innovation-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Paul Atkins spoke from the NYSE on Tuesday, saying that the SEC planned to unveil an innovation exemption for crypto projects ”in a month or so.”",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T16:21:49.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRmNzctOTgzNy03NGFhLTkzMjAtMDhjODRkOGQ1YTcw.jpg"
+    },
+    {
+      "title": "SOL Bulls Take a Breather After Pumping Millions Into ETFs",
+      "link": "https://www.coindesk.com/markets/2025/12/02/sol-bulls-take-a-breather-after-pumping-millions-into-etfs",
+      "summary": "Solana exchange-traded funds debuted on Oct. 28 and performed flawlessly with inflows 21 consecutive days until the day before Thanksgiving.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T16:11:48.000Z",
+      "image": null
+    },
+    {
+      "title": "Why Texas’ Bitcoin reserve move signals a shift in government crypto policy",
+      "link": "https://cointelegraph.com/news/why-texas-bitcoin-reserve-move-signals-a-shift-in-government-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Texas’ Bitcoin reserve initiative under SB 21 signals a shift in how governments may approach digital assets and how it could influence the financial system at a macro level.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T16:08:30.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRmY2MtYTBjNi03OTkxLWE0NmUtYTlkYTBjODI5YmNk.jpg"
+    },
+    {
+      "title": "Kraken Agrees to Buy Tokenization Specialist Backed Finance as RWA Trend Accelerates",
+      "link": "https://www.coindesk.com/business/2025/12/02/kraken-agrees-to-buy-tokenization-specialist-backed-finance-as-rwa-trend-accelerates",
+      "summary": "The exchange has already teamed up with the Switzerland-based firm for its tokenized equity offering, xStocks.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T16:03:46.000Z",
+      "image": null
+    },
+    {
+      "title": "Bitcoin Surges Back Above $91K as Support Builds in $80K-$85K Area",
+      "link": "https://www.coindesk.com/markets/2025/12/02/bitcoin-surges-back-above-usd91k-as-support-builds-in-usd80k-usd85k-area",
+      "summary": "Helping the mood in crypto were moves by institutional giants Vanguard and Bank of America to open up digital assets to their clients.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T16:01:55.000Z",
+      "image": null
+    },
+    {
+      "title": "White-Collar Fraudster Jailed in UK After Converting $650K in Company Funds to Crypto",
+      "link": "https://decrypt.co/350649/white-collar-fraudster-jailed-in-uk-after-converting-650k-in-company-funds-to-crypto",
+      "summary": "Experts suggest that crypto-related white-collar crime could be on the rise, with many firms unprepared for a growth in such crime.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-02T15:49:26.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png"
+    },
+    {
+      "title": "Arca CIO Jeff Dorman Flags ‘Unexplained’ Crypto Selloff Despite Bullish Macro",
+      "link": "https://news.bitcoin.com/arca-cio-jeff-dorman-flags-unexplained-crypto-selloff-despite-bullish-macro/",
+      "summary": "Digital asset markets continued sliding into early December, with Arca CIO Jeff Dorman arguing in a new note that the selloff defies conventional explanations despite supportive macro conditions. Crypto Prices Keep Falling Even as Rate-Cut Odds Rise A renewed downturn in digital assets has left analysts perplexed, with Arca Co-Founder and Chief Investment Officer Jeff […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-02T15:46:00.000Z",
+      "image": null
+    },
     {
       "title": "Kalshi Raises $1B at $11B Valuation as Prediction Market Race Heats Up",
       "link": "https://www.coindesk.com/business/2025/12/02/kalshi-raises-usd1b-at-usd11b-valuation-as-prediction-market-race-heats-up",
@@ -43,9 +99,9 @@
       "image": null
     },
     {
-      "title": "Coinbase’s x402 adds identity checks to power AI stablecoin payments",
+      "title": "Identity checks to power AI stablecoin payments added to Coinbase-incubated x402",
       "link": "https://cointelegraph.com/news/coinbase-x402-ai-stablecoin-payments-id-age-verification?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Coinbase’s x402 added age and ID checks to stablecoin payments, allowing AI systems to pay for restricted goods and services online.",
+      "summary": "Concordium has added ID checks to stablecoin payments, enabling AI systems to purchase restricted goods and services online.",
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-02T15:01:00.000Z",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljMDAtYzE4MS03NjhlLTk4MTUtMDY3NWNiODk5ZjI0.jpg"
@@ -125,7 +181,7 @@
     {
       "title": "Strategy Gains Nearly 20% From Monday Low as Bear Gloating Suggests at Least Temporary Bottom",
       "link": "https://www.coindesk.com/markets/2025/12/02/strategy-s-bitcoin-bet-backfires-on-retail-as-leveraged-etfs-crater-80",
-      "summary": "",
+      "summary": "There comes a point when long-standing detractors become so vocal, their tone shifting from criticism to arrogance, that it often reflects conditions that are consistent with a bottom.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-12-02T13:47:06.000Z",
       "image": null
@@ -355,14 +411,6 @@
       "image": null
     },
     {
-      "title": "Ripple, major VCs back RWA platform OpenEden to scale tokenized Treasurys",
-      "link": "https://cointelegraph.com/news/ripple-vcs-back-openeden-tokenized-us-treasuries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "OpenEden has raised an undisclosed round backed by Ripple and major institutions to expand tokenized US Treasurys.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-02T08:45:47.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlMWMtYjJiOC03MzE5LTlhMTktMGM5NDk1M2RiNWFl.jpg"
-    },
-    {
       "title": "Casa Achieves SOC 2 Type II Attestation for Self‑Custody Platform",
       "link": "https://news.bitcoin.com/casa-achieves-soc-2-type-ii-attestation-for-self%e2%80%91custody-platform/",
       "summary": "Casa completed a SOC 2 Type II audit covering April 1–Nov. 15, 2025, attesting to its controls for security, availability, processing integrity, confidentiality and privacy. Casa co‑founder and CSO Jameson Lopp said that the bitcoin self‑custody firm successfully passed a SOC 2 Type II audit conducted by Prescient Assurance, reporting that controls to prevent unauthorized […]",
@@ -403,52 +451,12 @@
       "image": null
     },
     {
-      "title": "Sanctioned Cambodian Lender Huione, Linked to Illicit Crypto, Halts Business After Bank Run: Report",
-      "link": "https://www.coindesk.com/policy/2025/12/02/sanctioned-cambodian-bank-huione-halts-business-after-mass-run-on-accounts-report",
-      "summary": "The scandal-plagued platform blamed a surge in withdrawals for its shutdown, the latest fallout from U.S. sanctions and money-laundering allegations targeting the wider Huione network.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-02T06:49:12.000Z",
-      "image": null
-    },
-    {
       "title": "BlackRock's Fink and Goldstein Say Tokenization Could Redraw Market Plumbing",
       "link": "https://decrypt.co/350582/blackrocks-fink-goldstein-tokenization-market-plumbing",
       "summary": "BlackRock execs say tokenization, once tangled in the crypto frenzy, is accelerating toward a major rebuild of global market infrastructure.",
       "source": "Decrypt",
       "publishedAt": "2025-12-02T06:40:51.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-Larry-Fink-decrypt-style-02-gID_7.png@png"
-    },
-    {
-      "title": "High Court Dismisses Former Binance Executive’s Lawsuit Against Nigerian Agencies",
-      "link": "https://news.bitcoin.com/high-court-dismisses-former-binance-executives-lawsuit-against-nigerian-agencies/",
-      "summary": "The Nigerian High Court dismissed the unlawful detention lawsuit filed by former Binance executive Tigran Gambaryan against two government agencies. Judicial Rationale for Dismissal A Nigerian High Court has dismissed the lawsuit filed by former Binance executive Tigran Gambaryan against the Economic and Financial Crimes Commission (EFCC) and the Office of the National Security Adviser […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-02T06:30:27.000Z",
-      "image": null
-    },
-    {
-      "title": "FDIC acting chair says framework for stablecoin laws coming this month",
-      "link": "https://cointelegraph.com/news/fdic-genius-act-framework-coming-this-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "FDIC acting chair Travis Hill will inform the House Financial Services Committee that the regulator plans to propose how it will apply the GENIUS Act this month.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-02T06:12:32.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRkNTUtNTM4ZC03NGY0LWE4YzAtZjk2N2Y5ZTg0ZWRl.jpg"
-    },
-    {
-      "title": "Dogecoin Wicks Below Key Support — Fakeout or Start of Larger Correction?",
-      "link": "https://www.coindesk.com/markets/2025/12/02/dogecoin-wicks-below-key-support-fakeout-or-start-of-larger-correction",
-      "summary": "Dogecoin's recovery remains fragile, with resistance between $0.1362 and $0.1386 needing to be overcome for a bullish shift.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-02T06:10:07.000Z",
-      "image": null
-    },
-    {
-      "title": "Bitcoin May Dump to $65K or Below, Spelling Trouble for ETH, XRP, ADA and Other Majors",
-      "link": "https://www.coindesk.com/markets/2025/12/02/bitcoin-may-dump-to-usd65k-or-below-spelling-trouble-for-eth-xrp-ada-and-other-majors",
-      "summary": "MSCI is considering removing Strategy Inc. from its major equity indices due to the company's large bitcoin holdings, which some traders say could scare smaller players.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-02T05:16:09.000Z",
-      "image": null
     },
     {
       "title": "Here's Where Analysts Say Bitcoin Could Be Headed Next For the Rest of 2025",
@@ -473,14 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-02T02:48:59.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png"
-    },
-    {
-      "title": "China's Z-Image Dethrones Flux as King of AI Art—And Your Potato PC Can Run It",
-      "link": "https://decrypt.co/350572/chinas-z-image-dethrones-flux-king-of-ai-art",
-      "summary": "The six-billion-parameter model is beating Flux2 on hardware from 2019, and the open-source community is going wild.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-02T02:21:27.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png@png"
     }
   ]
 }

@@ -1,7 +1,55 @@
 {
-  "updatedAt": "2025-12-02T13:53:07.262Z",
+  "updatedAt": "2025-12-02T14:19:45.220Z",
   "count": 60,
   "items": [
+    {
+      "title": "CoinDesk 20 Performance Update: NEAR Protocol (NEAR) Gains 8.2% as Index Rises",
+      "link": "https://www.coindesk.com/coindesk-indices/2025/12/02/coindesk-20-performance-update-near-protocol-near-gains-8-2-as-index-rises",
+      "summary": "Cronos (CRO) was also a top performer, up 7.6% from Monday.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T14:17:13.000Z",
+      "image": null
+    },
+    {
+      "title": "Bank of America Greenlights Wealth Advisors to Recommend Up to 4% Bitcoin Allocation",
+      "link": "https://www.coindesk.com/business/2025/12/02/bank-of-america-greenlights-wealth-advisors-to-recommend-up-to-4-bitcoin-allocation",
+      "summary": "The news comes just hours after longtime crypto holdout, asset management giant Vanguard, said it would allow its clientele access to digital asset ETFs.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T14:16:08.000Z",
+      "image": null
+    },
+    {
+      "title": "PlayStation Goes Crypto? Sony Stablecoin Could Be Used for Gaming Payments: Nikkei",
+      "link": "https://decrypt.co/350630/playstation-goes-crypto-sony-stablecoin-gaming-payments-nikkei",
+      "summary": "Sony Group plans for U.S. customers to pay for video game subscriptions and other content using its own stablecoin.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-02T14:08:12.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/sony-logo-gID_7.png@png"
+    },
+    {
+      "title": "Bitcoin Price Watch: Momentum Wobbles While Bears Tighten Their Grip",
+      "link": "https://news.bitcoin.com/bitcoin-price-watch-momentum-wobbles-while-bears-tighten-their-grip/",
+      "summary": "Bitcoin clings to the upper edge of its daily range at $87,818, flaunting a market cap of $1.739 trillion while pushing $72.66 billion in volume across a volatile session capped between $83,989 and $87,820. But under the surface of this intraday hustle lies a complex cocktail of trend exhaustion, technical resistance, and momentum limbo across […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-02T14:00:52.000Z",
+      "image": null
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T13:59:59.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg"
+    },
+    {
+      "title": "Ethereum’s Fusaka upgrade: Scaling rollups without breaking the core",
+      "link": "https://cointelegraph.com/news/ethereum-fusaka-upgrade-scaling-rollups-without-breaking-the-core?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Bitwise Onchain Solutions discusses how Ethereum’s Fusaka upgrade trades big‑bang hard forks for faster, targeted changes that make the network more strategic.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T13:51:54.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlNWUtZmUwMS03ZmE4LTliYmMtZWY2NjE5NWM3Yzcy.jpg"
+    },
     {
       "title": "Morning Minute: Vanguard Finally Lets Investors Buy Crypto",
       "link": "https://decrypt.co/350622/morning-minute-vanguard-finally-lets-investors-buy-crypto",
@@ -379,22 +427,6 @@
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRkMGQtMTExZC03NTZiLTljNDgtY2UwNzc4ZjdlZTQ0.jpg"
     },
     {
-      "title": "Switzerland and Germany Move on Cryptomixer With 25M Euro Bitcoin Seizure",
-      "link": "https://news.bitcoin.com/switzerland-and-germany-move-on-cryptomixer-with-25m-euro-bitcoin-seizure/",
-      "summary": "European authorities toppled Cryptomixer and seized millions in bitcoin, exposing a sprawling laundering pipeline that pushed more than a billion euros through the platform and intensifying a broader clash over privacy in digital finance. Switzerland and Germany Take Cryptomixer Down With Over 25M Euro in Bitcoin Seized Authorities intensified their crackdown on illicit crypto infrastructure […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-02T04:30:46.000Z",
-      "image": null
-    },
-    {
-      "title": "Ethereum devs work on ‘Secret Santa’ protocol to power privacy",
-      "link": "https://cointelegraph.com/news/ethereum-protocol-allows-onchain-secret-santa-with-zk-proofs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "A Solidity engineer proposed a protocol earlier this year using zero-knowledge proofs and transaction relayers to enable a Secret Santa-like feature on Ethereum.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-02T04:19:12.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRkMDItMjgzMC03N2EzLWJiZTYtZWNmZWQ4YjVlYTg0.jpg"
-    },
-    {
       "title": "Bitcoin Traders Bet on Sub-$80K New Year: Derive",
       "link": "https://www.coindesk.com/markets/2025/12/02/bitcoin-traders-bet-on-sub-usd80k-new-year-derive",
       "summary": "Market positioning implies a meaningful probability of sub-$80K BTC to start 2026, Derive's Forster said.",
@@ -427,14 +459,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png"
     },
     {
-      "title": "CZ’s YZi Labs moves to take over board of flatlining BNB treasury",
-      "link": "https://cointelegraph.com/news/cz-yzi-labs-eyes-takeover-cea-industries-board?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "YZi Labs has asked CEA Industries shareholders to support its move to shake up the BNB treasury company’s board and install its pick of directors.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-02T02:45:30.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRjMzktZjA3Yi03YWMyLWExYWMtOTY1YmQ1MjJkZjc0.jpg"
-    },
-    {
       "title": "Asia Morning Briefing: This Year's Tether Debate Is a Good One to Have",
       "link": "https://www.coindesk.com/markets/2025/12/02/asia-morning-briefing-this-year-s-tether-debate-is-a-good-one-to-have",
       "summary": "The crypto market has spent years arguing about Tether’s reserves – sometimes with more hyperbole than substance – but the latest debate is sharper and more revealing than usual.",
@@ -457,30 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-01T23:31:44.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/changpeng-zhao-cz-decrypt-style-02-gID_7.jpg@png"
-    },
-    {
-      "title": "'Mad Cow Disease': Grand Theft Auto Dev Warns That Generative AI Could Harm Games",
-      "link": "https://decrypt.co/350556/grand-theft-auto-dev-warns-generative-ai-could-harm-games",
-      "summary": "Famed GTA developer Dan Houser said models trained on synthetic data could degrade game quality as creators rapidly adopt AI tools.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-01T23:15:00.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-gID_7.jpg@png"
-    },
-    {
-      "title": "U.S. FDIC Chief Says First GENIUS Act Regulations Heading for Proposal This Month",
-      "link": "https://www.coindesk.com/policy/2025/12/01/u-s-fdic-chief-says-first-genius-act-regulations-heading-for-proposal-this-month",
-      "summary": "FDIC Acting Chairman Travis Hill is set to testify at a House hearing that his agency is ready to propose a stablecoin application rule before the month is out.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T22:51:14.000Z",
-      "image": null
-    },
-    {
-      "title": "Vanguard to Allow Bitcoin, Ethereum and XRP ETF Trading in Major Crypto Pivot",
-      "link": "https://decrypt.co/350558/vanguard-allow-trading-bitcoin-ethereum-xrp-etf",
-      "summary": "Vanguard will allow trading of crypto-focused ETFs and mutual funds on its brokerage platform, ending years of resistance.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-01T22:50:28.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-ethereum-decrypt-style-02-scaled-gID_7.jpg@png"
     }
   ]
 }

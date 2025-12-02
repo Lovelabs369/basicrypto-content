@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-12-02T21:17:43.015Z",
+  "updatedAt": "2025-12-02T21:37:38.949Z",
   "count": 60,
   "items": [
+    {
+      "title": "Group of EU banks pushes for a euro-pegged stablecoin by 2027",
+      "link": "https://cointelegraph.com/news/banks-euro-stablecoin-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The entity formed by 10 banks is working on obtaining regulatory approval from the Dutch Central Bank to launch a stablecoin “in the second half of 2026.”",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T21:33:30.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUwOGUtM2Q2ZS03YTkwLWEyMWYtMmY2Nzk2NTE2ZDk0.jpg"
+    },
+    {
+      "title": "Rizzmas is Back? Christmas Solana Meme Coin Wakes From Hibernation",
+      "link": "https://decrypt.co/350678/rizzmas-christmas-solana-meme-coin-wakes-hibernation",
+      "summary": "As December starts, meme coin traders are decorating their Christmas trees and buying up Rizzmas tokens.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-02T21:23:07.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/Santa-Decrypt-Style-Shutterstock2-1-scaled-gID_7.jpg@png"
+    },
+    {
+      "title": "Kraken adds Backed Finance to 2025 acquisition streak, brings xStocks in-house",
+      "link": "https://cointelegraph.com/news/kraken-backed-finance-2025-acquisition-xstocks-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The acquisition will give Kraken full control of the xStocks tokenized-equity platform, strengthening the exchange’s push into regulated real-world assets.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T21:19:15.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUwNTAtN2UyZC03M2NiLTkzOTgtM2QxNTljYzJhOWRh.jpg"
+    },
     {
       "title": "Bitcoin Dipped Below 'Fair Value' for First Time in 2 Years, History Says 132% Gains Next 12 Months",
       "link": "https://www.coindesk.com/markets/2025/12/02/bitcoin-dipped-below-fair-value-for-first-time-in-2-years-history-says-132-gains-next-12-months",
@@ -457,30 +481,6 @@
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-02T13:16:26.000Z",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlZjQtYzkxYy03MjNhLWE5NTYtNTNhYWU5MmFkYzFl.jpg"
-    },
-    {
-      "title": "CZ-owned Trust Wallet debuts prediction markets starting with Myriad",
-      "link": "https://cointelegraph.com/news/cz-trust-wallet-debuts-prediction-markets-myriad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Trust Wallet is the latest crypto wallet to tap into prediction markets, starting with Myriad, highlighting an increasing trend of bundled trading tools.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-02T13:06:17.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlY2EtZTcxNi03ZDNkLWE4NjktNjc5NTA4ODk0YTcw.jpg"
-    },
-    {
-      "title": "Bitcoin's ‘more reliable’ RSI variant hits bear market bottom zone at $87K",
-      "link": "https://cointelegraph.com/news/bitcoin-more-reliable-rsi-variant-bear-market-bottom-zone-87k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin velocity RSI produced a rare bear market bottom signal as BTC price losses sparked a return to extreme \"oversold\" conditions.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-02T13:03:36.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRmMjEtNDAwMy03YmYzLTliODgtYmVkMTkwMDNjMTM4.jpg"
-    },
-    {
-      "title": "UK considers ban on crypto donations to political parties: Politico",
-      "link": "https://cointelegraph.com/news/uk-considers-ban-crypto-donations-reform-uk-farage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "The UK is reportedly considering a ban on political crypto donations as Reform UK tops the polls, raising questions about funding transparency and potential foreign influence.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-02T12:37:48.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlZGUtMjMzYy03NTBiLTlmNjctM2ZhN2Q4ZDRhZGYw.jpg"
     }
   ]
 }

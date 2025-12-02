@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2025-12-02T19:50:24.979Z",
+  "updatedAt": "2025-12-02T20:22:05.379Z",
   "count": 60,
   "items": [
+    {
+      "title": "AAVE Rallies 14% as Bybit, Mantle Integration Connects DeFi Lender to 70M Users",
+      "link": "https://www.coindesk.com/markets/2025/12/02/aave-rallies-14-as-bybit-mantle-integration-connects-defi-lender-to-70m-users",
+      "summary": "The DeFi lender's native token broke above key resistance level, eyeing $190 as the next target level.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T20:16:45.000Z",
+      "image": null
+    },
+    {
+      "title": "Solana on-chain flows flag notable supply shift as SOL trades near key support",
+      "link": "https://cointelegraph.com/news/solana-data-highlights-supply-shift-as-bulls-defend-dollar120?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Solana’s supply crunch and liquidity inflows kept the price above $120, but demand from futures traders remained subdued.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T20:14:45.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRmNTYtMDhiNy03NTZlLWEzYzAtMGFhZWNiNThmZmEw.jpg"
+    },
+    {
+      "title": "Jerome Powell Tight-Lipped on Economy in Latest Speech",
+      "link": "https://news.bitcoin.com/jerome-powell-tight-lipped-on-economy-in-latest-speech/",
+      "summary": "The Fed Chairman delivered a highly personal tribute to Reagan-era economist and statesman George Shultz. Powell’s Tribute to George Shultz Skips Any Mention of the Economy Economists were left disappointed on Monday evening after Fed Chairman Jerome Powell delivered his tribute to late Reagan-era diplomat and economist George Shultz at Stanford University’s Hoover Institution. Markets […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-02T20:10:42.000Z",
+      "image": null
+    },
+    {
+      "title": "Why The Market Crashed On October 10, And Why It’s Struggling to Bounce",
+      "link": "https://www.coindesk.com/opinion/2025/12/02/why-the-market-crashed-on-october-10-and-why-it-s-struggling-to-bounce",
+      "summary": "MSCI’s proposed reclassification and potential index exclusion of Digital Asset Treasury (DAT) companies now looms over the market as a major structural overhang, says Dr. Avtar Sehra, founder and CEO of STBL. This helps explain the lack of a sustained recovery in crypto prices since the October 10th crash.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T19:57:53.000Z",
+      "image": null
+    },
     {
       "title": "What to Expect From Ethereum’s Fusaka Upgrade?",
       "link": "https://decrypt.co/350667/what-expect-ethereums-fusaka-upgrade",
@@ -427,14 +459,6 @@
       "image": null
     },
     {
-      "title": "APT Rises 2.3%, Outperforms Wider Crypto Market",
-      "link": "https://www.coindesk.com/markets/2025/12/02/apt-rises-2-3-outperforms-wider-crypto-market",
-      "summary": "The gains were accompanied by a surge in trading volume signaling potential institutional positioning.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-02T12:27:36.000Z",
-      "image": null
-    },
-    {
       "title": "Privacy Coins Lose Steam as ZCash, Monero, and Dash Follow Crypto Market Pullback",
       "link": "https://decrypt.co/350598/privacy-coins-lose-steam-as-zcash-monero-and-dash-follow-crypto-market-pullback",
       "summary": "Privacy coins like ZCash and Monero dropped as analysts say the \"safe haven\" narrative has broken, tying their fate to Bitcoin's cycles.",
@@ -451,36 +475,12 @@
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlMTItZWUzZC03NmJjLWE4MWEtZWVmOTA1MjE0ZWRj.jpg"
     },
     {
-      "title": "On Thin Ice: Crypto Daybook Americas",
-      "link": "https://www.coindesk.com/daybook-us/2025/12/02/on-thin-ice-crypto-daybook-americas",
-      "summary": "Your day-ahead look for Dec. 2, 2025",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-02T12:15:00.000Z",
-      "image": null
-    },
-    {
       "title": "TBC: Revolutionizing Bitcoin With UTXO Smart Contracts and Cross-Chain Innovation",
       "link": "https://news.bitcoin.com/tbc-revolutionizing-bitcoin-with-utxo-smart-contracts-and-cross-chain-innovation/",
       "summary": "This content is provided by a sponsor. The development of blockchain has reached a new inflection point as the Bitcoin ecosystem advances toward broader utility, higher performance, and improved scalability. In this context, TBC introduces a technological framework designed to extend the capabilities of Bitcoin while maintaining its core principles of decentralization and security. Built […]",
       "source": "Bitcoin News",
       "publishedAt": "2025-12-02T12:00:27.000Z",
       "image": null
-    },
-    {
-      "title": "Myriad Partners With Trust Wallet to Launch First In-Wallet Prediction Markets",
-      "link": "https://decrypt.co/350590/myriad-partners-with-trust-wallet-to-launch-first-in-wallet-prediction-markets",
-      "summary": "Trust Wallet’s self-custody Web3 wallet is the first to natively integrate prediction markets in a “single, streamlined experience.”",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-02T11:48:37.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/Myriad-Myriad-x-Trust-Wallet-Post-V4-gID_7.png@png"
-    },
-    {
-      "title": "RedotPay taps Ripple to roll out Nigerian naira crypto cashouts",
-      "link": "https://cointelegraph.com/news/redotpay-ripple-ngn-crypto-cashouts-nigeria?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "RedotPay said users can convert cryptocurrency into Nigerian naira and receive funds directly in their local bank accounts within minutes.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-02T11:41:48.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlOGYtNWNiYi03NDhhLWExODEtZjFhOWE1YWQxYjJk.jpg"
     }
   ]
 }

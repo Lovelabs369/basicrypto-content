@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-12-02T08:27:12.710Z",
+  "updatedAt": "2025-12-02T08:53:54.936Z",
   "count": 60,
   "items": [
+    {
+      "title": "Ripple, major VCs back RWA platform OpenEden to scale tokenized Treasurys",
+      "link": "https://cointelegraph.com/news/ripple-vcs-back-openeden-tokenized-us-treasuries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "OpenEden has raised an undisclosed round backed by Ripple and major institutions to expand tokenized US Treasurys.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T08:45:47.000Z",
+      "image": null
+    },
+    {
+      "title": "Casa Achieves SOC 2 Type II Attestation for Self‑Custody Platform",
+      "link": "https://news.bitcoin.com/casa-achieves-soc-2-type-ii-attestation-for-self%e2%80%91custody-platform/",
+      "summary": "Casa completed a SOC 2 Type II audit covering April 1–Nov. 15, 2025, attesting to its controls for security, availability, processing integrity, confidentiality and privacy. Casa co‑founder and CSO Jameson Lopp said that the bitcoin self‑custody firm successfully passed a SOC 2 Type II audit conducted by Prescient Assurance, reporting that controls to prevent unauthorized […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-02T08:30:43.000Z",
+      "image": null
+    },
     {
       "title": "Unlimit Debuts Stable.com, a Decentralized Clearing House Built for Stablecoins",
       "link": "https://www.coindesk.com/business/2025/12/02/unlimit-debuts-stable-com-a-decentralized-clearing-house-built-for-stablecoins",
@@ -11,7 +27,7 @@
       "image": null
     },
     {
-      "title": "XRP, Bitcoin On The Edge; Will Santa Abandon Nasdaq?",
+      "title": "XRP, Bitcoin on the Edge; Will Santa Abandon Nasdaq?",
       "link": "https://www.coindesk.com/markets/2025/12/02/xrp-bitcoin-on-the-edge-has-santa-abandoned-nasdaq",
       "summary": "XRP and BTC trade close to make-or-break levels while Nasdaq's November price action raises pullback risks.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -307,14 +323,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-ethereum-decrypt-style-02-scaled-gID_7.jpg@png"
     },
     {
-      "title": "Jordan to Lift Crypto Trading Ban, Launch Regulatory Framework by Year-End",
-      "link": "https://news.bitcoin.com/jordan-to-lift-crypto-trading-ban-launch-regulatory-framework-by-year-end/",
-      "summary": "Jordan is set to lift its ban on cryptocurrency trading, with the Jordan Securities Commission confirming that a comprehensive digital asset regulatory framework will be ready before the end of the year. Shift from Prohibition to Regulation Jordan is moving to lift its ban on cryptocurrency trading, with the government and the Jordan Securities Commission […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T22:45:28.000Z",
-      "image": null
-    },
-    {
       "title": "Kalshi Pushes Further Into Crypto With On-Chain Prediction Markets on Solana",
       "link": "https://decrypt.co/350534/kalshi-solana-on-chain-predictions-aims-increase-liquidity-pool",
       "summary": "Kalshi's prediction market contracts are now tokenized on Solana, unlocking access to the crypto economy, the firm announced on Monday.",
@@ -473,14 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-01T18:13:58.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-shutterstock-gID_7.png@png"
-    },
-    {
-      "title": "Republicans urge action on market structure bill over debanking claims",
-      "link": "https://cointelegraph.com/news/republicans-debanking-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Republican leaders released a final staff report going over claims of debanking by federal regulators in what some have called \"Operation Choke Point 2.0.\"",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T18:08:10.000Z",
-      "image": null
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-12-02T11:39:52.850Z",
+  "updatedAt": "2025-12-02T11:50:18.121Z",
   "count": 60,
   "items": [
+    {
+      "title": "Myriad Partners With Trust Wallet to Launch First In-Wallet Prediction Markets",
+      "link": "https://decrypt.co/350590/myriad-partners-with-trust-wallet-to-launch-first-in-wallet-prediction-markets",
+      "summary": "Trust Wallet’s self-custody Web3 wallet is the first to natively integrate prediction markets in a “single, streamlined experience.”",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-02T11:48:37.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/Myriad-Myriad-x-Trust-Wallet-Post-V4-gID_7.png@png"
+    },
+    {
+      "title": "Crypto Markets Today: Risk-Off Mood Persists as Altcoins Extend Losses",
+      "link": "https://www.coindesk.com/markets/2025/12/02/crypto-markets-today-risk-off-mood-persists-as-altcoins-extend-losses",
+      "summary": "Crypto markets failed to bounce on Tuesday, with bitcoin retracing last week’s gains and altcoins extending losses.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T11:47:20.000Z",
+      "image": null
+    },
+    {
+      "title": "RedotPay taps Ripple to roll out Nigerian naira crypto cashouts",
+      "link": "https://cointelegraph.com/news/redotpay-ripple-ngn-crypto-cashouts-nigeria?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "RedotPay stated that users can convert cryptocurrency into Nigerian naira and receive funds directly in their local bank accounts within minutes.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T11:41:48.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlOGYtNWNiYi03NDhhLWExODEtZjFhOWE1YWQxYjJk.jpg"
+    },
     {
       "title": "Bodies of Russian Crypto Blogger and Wife Found in UAE Desert",
       "link": "https://news.bitcoin.com/bodies-of-russian-crypto-blogger-and-wife-found-in-uae-desert/",
@@ -435,14 +459,6 @@
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRiYmQtMDc0Yi03NGMyLTlkZjItOWM4NDYxMWI3MjM5.jpg"
     },
     {
-      "title": "Bitcoin falls to $84K: Is Japan’s bond market the culprit, or is more at play?",
-      "link": "https://cointelegraph.com/news/bitcoin-drop-to-dollar84k-not-due-to-japan-bond-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin’s decline to $84,000 was driven by US dollar stablecoin concerns, a weakening global macroeconomic outlook and other factors beyond Japan’s bond market stress.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T22:01:16.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRiODQtODg4Ni03YzA0LWI0MzAtMTFjM2U2YmNiNzA2.jpg"
-    },
-    {
       "title": "Bearish Signals Abound for Bitcoin and Ethereum: Here’s What the Charts Say",
       "link": "https://decrypt.co/350531/bearish-signals-bitcoin-ethereum-price-charts-prediction",
       "summary": "Bitcoin fell as low as $85,000 today, with Ethereum likewise down nearly 10%. Prediction markets are beginning to reflect what the charts are suggesting.",
@@ -465,22 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-01T21:22:14.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png"
-    },
-    {
-      "title": "Kalshi Launches Tokenized Event Bets on Solana Blockchain: CNBC",
-      "link": "https://www.coindesk.com/business/2025/12/01/kalshi-launches-tokenized-event-bets-on-solana-blockchain-cnbc",
-      "summary": "The prediction market is rolling out tokenized contracts on Solana to meet crypto traders where they already are, Kalshi told CNBC.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T20:25:50.000Z",
-      "image": null
-    },
-    {
-      "title": "Coinbase C-Suite, Marc Andreessen Sued for Billions Over Alleged Insider Trading Scheme",
-      "link": "https://decrypt.co/350490/coinbase-c-suite-andreessen-sued-billions-alleged-insider-trading",
-      "summary": "A lawsuit filed by Coinbase shareholders accuses the company’s leadership of withholding key information for years while making billions selling inflated stock.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-01T20:03:46.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png"
     }
   ]
 }

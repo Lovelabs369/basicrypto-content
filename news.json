@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-12-02T10:47:06.642Z",
+  "updatedAt": "2025-12-02T11:17:39.148Z",
   "count": 60,
   "items": [
+    {
+      "title": "Goldman's $2B ETF Issuer Takeover Is Both a Blessing and a Curse for Crypto",
+      "link": "https://www.coindesk.com/business/2025/12/02/goldman-s-usd2b-etf-issuer-takeover-is-both-a-blessing-and-a-curse-for-crypto",
+      "summary": "Although the acquisition of Innovator Capital Management does not directly mention crypto, it does inherently imply that Goldman Sachs is expanding into the digital assets arena.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T11:07:16.000Z",
+      "image": null
+    },
     {
       "title": "Bitcoin to end four-year cycle, break out to new highs in 2026: Grayscale",
       "link": "https://cointelegraph.com/news/bitcoin-four-year-cycle-break-out-new-highs-2026-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -473,14 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-01T20:03:46.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png"
-    },
-    {
-      "title": "Ripple to Expand XRP, RLUSD Payments in Singapore After Securing License",
-      "link": "https://decrypt.co/350487/ripple-expand-xrp-rlusd-payments-singapore-after-securing-license",
-      "summary": "XRP is falling hard alongside Bitcoin on Monday, but Ripple just got good news regarding its payments service in Singapore.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-01T19:41:26.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ripple-logo-2-gID_7.png@png"
     }
   ]
 }

@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-12-02T04:37:01.906Z",
+  "updatedAt": "2025-12-02T04:56:07.146Z",
   "count": 60,
   "items": [
+    {
+      "title": "Ethereum ICO wallet moves $120M after a decade, throws it into staking",
+      "link": "https://cointelegraph.com/news/ethereum-ico-wallet-moves-120m-after-a-decade-throws-it-into-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Fears tend to mount whenever an OG crypto whale starts shifting funds, but this one used it to double down on the blockchain network.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T04:46:47.000Z",
+      "image": null
+    },
+    {
+      "title": "BitMine buys $70M ETH while Tom Lee revises Bitcoin prediction",
+      "link": "https://cointelegraph.com/news/bitmine-buys-eth-tom-lee-shifts-bitcoin-all-time-high-prediction-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "BitMine now holds over $10 billion in Ether, doubling down on its strategy to accumulate 5% of the supply despite being underwater on its total position.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T04:39:59.000Z",
+      "image": null
+    },
     {
       "title": "Switzerland and Germany Move on Cryptomixer With 25M Euro Bitcoin Seizure",
       "link": "https://news.bitcoin.com/switzerland-and-germany-move-on-cryptomixer-with-25m-euro-bitcoin-seizure/",
@@ -464,22 +480,6 @@
       "summary": "Mining revenue hits structural lows as hashprice sinks, costs rise and payback periods stretch past 1,000 days, squeezing even the largest operators.",
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-01T16:08:07.000Z",
-      "image": null
-    },
-    {
-      "title": "Why Vitalik believes quantum computing could break Ethereum’s cryptography sooner than expected",
-      "link": "https://cointelegraph.com/news/why-vitalik-believes-quantum-computing-could-break-ethereum-s-cryptography-sooner-than-expected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Buterin warns that quantum computers could threaten Ethereum’s cryptography sooner than expected and outlines how the network can prepare safely.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T16:04:04.000Z",
-      "image": null
-    },
-    {
-      "title": "Digital Asset Treasuries Lead Crypto Stock Sell-Off as Bitcoin Falls to $84K",
-      "link": "https://www.coindesk.com/markets/2025/12/01/digital-asset-treasuries-lead-crypto-stock-sell-off-as-bitcoin-falls-to-usd84k",
-      "summary": "Strategy fell to the lowest since October, 2024, and ether and solana treasury plays including BitMine, Sharplink, Solana Company, Upexi tumbled nearly 10%.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T15:58:42.000Z",
       "image": null
     }
   ]

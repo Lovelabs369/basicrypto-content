@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2025-12-02T14:48:27.727Z",
+  "updatedAt": "2025-12-02T15:20:36.114Z",
   "count": 60,
   "items": [
+    {
+      "title": "Bitcoin ETFs Begin December With Modest Gains as Ether and Solana Slide",
+      "link": "https://news.bitcoin.com/bitcoin-etfs-begin-december-with-modest-gains-as-ether-and-solana-slide/",
+      "summary": "Bitcoin ETFs opened December with a modest inflow, even as ether and solana products returned to outflow territory. Trading remained active across all three segments, signaling investors are still repositioning as year-end approaches. Mixed Start to December for Bitcoin, Ether, and Solana ETFs The first trading day of December delivered a mixed tone across the […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-02T15:02:57.000Z",
+      "image": null
+    },
+    {
+      "title": "BNP Paribas Joins EU Bank Stablecoin Venture Helmed by Ex-Coinbase Germany Exec",
+      "link": "https://www.coindesk.com/business/2025/12/02/bnp-paribas-joins-eu-bank-stablecoin-venture-helmed-by-ex-coinbase-germany-exec",
+      "summary": "The group of 10 banks plans to introduce its euro stablecoin next year under a new Dutch entity named Qivalis.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T15:01:27.000Z",
+      "image": null
+    },
+    {
+      "title": "Coinbase’s x402 adds identity checks to power AI stablecoin payments",
+      "link": "https://cointelegraph.com/news/coinbase-x402-ai-stablecoin-payments-id-age-verification?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Coinbase’s x402 added age and ID checks to stablecoin payments, allowing AI systems to pay for restricted goods and services online.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T15:01:00.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5NzljMDAtYzE4MS03NjhlLTk4MTUtMDY3NWNiODk5ZjI0.jpg"
+    },
+    {
+      "title": "Sanctioned Lender Huione Shuts Phnom Penh Branches, Halts Withdrawals",
+      "link": "https://decrypt.co/350632/sanctioned-lender-huione-shuts-phnom-penh-branches-halts-withdrawals",
+      "summary": "The Cambodian finance giant has closed its doors amid mounting international pressure including U.S. and UK sanctions.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-02T14:56:17.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/phnom-penh-cambodia-decrypt-style-gID_7.jpg@png"
+    },
     {
       "title": "XRP ETF inflows exceed $756M as bullish divergence hints at trend reversal",
       "link": "https://cointelegraph.com/news/xrp-etf-inflows-exceed-756m-bullish-divergence-hints-at-trend-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -27,7 +59,7 @@
       "image": null
     },
     {
-      "title": "Bank of America Greenlights Wealth Advisors to Recommend Up to 4% Bitcoin Allocation",
+      "title": "Bank of America Greenlights Wealth Advisers to Recommend Up to 4% Bitcoin Allocation",
       "link": "https://www.coindesk.com/business/2025/12/02/bank-of-america-greenlights-wealth-advisors-to-recommend-up-to-4-bitcoin-allocation",
       "summary": "The news comes just hours after longtime crypto holdout, asset management giant Vanguard, said it would allow its clientele access to digital asset ETFs.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -387,22 +419,6 @@
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRkNjYtYTc5OS03NDdhLTkyZDAtNTkyMDY4ZTMzMzcy.jpg"
     },
     {
-      "title": "Bollinger Bands suggest Bitcoin bottom won’t fall under $55K",
-      "link": "https://cointelegraph.com/news/bitcoin-will-not-fall-below-55k-in-the-bear-market-says-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "A crypto analyst used Bollinger Bands and RSI data to argue Bitcoin’s bear market bottom will not pass under $55,000.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-02T05:38:12.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRkNjMtMzdlMS03ZmI3LTk1NjEtYTc4YjZjNmVkZDlm.jpg"
-    },
-    {
-      "title": "Sony Bank Prepares US Stablecoin Launch to Expand Digital Asset Reach",
-      "link": "https://news.bitcoin.com/sony-bank-prepares-us-stablecoin-launch-to-expand-digital-asset-reach/",
-      "summary": "Institutional momentum in regulated crypto infrastructure accelerated as Sony Bank moved toward U.S. stablecoins and digital assets, signaling a push toward enterprise-scale adoption backed by a deepening partnership with Bastion. Sony Bank Pushes Stablecoin Path to Drive Enterprise Digital Assets Growing institutional demand for regulated crypto infrastructure advanced on Dec. 1 as Sony Bank Inc. […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-02T05:30:47.000Z",
-      "image": null
-    },
-    {
       "title": "Bitcoin May Dump to $65K or Below, Spelling Trouble for ETH, XRP, ADA and Other Majors",
       "link": "https://www.coindesk.com/markets/2025/12/02/bitcoin-may-dump-to-usd65k-or-below-spelling-trouble-for-eth-xrp-ada-and-other-majors",
       "summary": "MSCI is considering removing Strategy Inc. from its major equity indices due to the company's large bitcoin holdings, which some traders say could scare smaller players.",
@@ -459,28 +475,12 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png"
     },
     {
-      "title": "Asia Morning Briefing: This Year's Tether Debate Is a Good One to Have",
-      "link": "https://www.coindesk.com/markets/2025/12/02/asia-morning-briefing-this-year-s-tether-debate-is-a-good-one-to-have",
-      "summary": "The crypto market has spent years arguing about Tether’s reserves – sometimes with more hyperbole than substance – but the latest debate is sharper and more revealing than usual.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-02T02:41:24.000Z",
-      "image": null
-    },
-    {
       "title": "China's Z-Image Dethrones Flux as King of AI Art—And Your Potato PC Can Run It",
       "link": "https://decrypt.co/350572/chinas-z-image-dethrones-flux-king-of-ai-art",
       "summary": "The six-billion-parameter model is beating Flux2 on hardware from 2019, and the open-source community is going wild.",
       "source": "Decrypt",
       "publishedAt": "2025-12-02T02:21:27.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png@png"
-    },
-    {
-      "title": "Changpeng Zhao, YZi Labs Seek Shakeup at BNB Treasury Firm After Stock Craters",
-      "link": "https://decrypt.co/350495/changpeng-zhao-yzi-labs-seek-shakeup-bnb-treasury-firm-stock-craters",
-      "summary": "Binance co-founder Changpeng \"CZ\" Zhao and YZi Labs are seeking a management overhaul at publicly traded BNB treasury, CEA Industries.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-01T23:31:44.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/changpeng-zhao-cz-decrypt-style-02-gID_7.jpg@png"
     }
   ]
 }

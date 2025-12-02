@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-12-02T19:39:29.301Z",
+  "updatedAt": "2025-12-02T19:50:24.979Z",
   "count": 60,
   "items": [
+    {
+      "title": "What to Expect From Ethereum’s Fusaka Upgrade?",
+      "link": "https://decrypt.co/350667/what-expect-ethereums-fusaka-upgrade",
+      "summary": "Ethereum’s latest major network upgrade is coming Wednesday. Here’s what users can expect.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-02T19:41:02.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-07-gID_7.jpg@png"
+    },
     {
       "title": "CME launches Bitcoin volatility index as institutional crypto trading matures",
       "link": "https://cointelegraph.com/news/cme-bitcoin-volatility-index-institutional-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -251,9 +259,9 @@
       "image": null
     },
     {
-      "title": "Ethereum price analysis: Will ETH continue to decline in December?",
+      "title": "Ether price analysis: Will ETH continue to decline in December?",
       "link": "https://cointelegraph.com/news/ehtereum-price-analysis-will-eth-continue-decline-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Ethereum risks a deeper sell-off toward $2,500–$2,200 as MVRV support weakens and a bearish pennant threatens to break lower.",
+      "summary": "Ether risks a deeper sell-off toward $2,500–$2,200 as MVRV support weakens and a bearish pennant threatens to break lower.",
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-02T15:20:00.000Z",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlZjUtZDhhYi03NjcyLWIyMzItZmMyYjNjOTI4ZjNh.jpg"
@@ -473,14 +481,6 @@
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-02T11:41:48.000Z",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlOGYtNWNiYi03NDhhLWExODEtZjFhOWE1YWQxYjJk.jpg"
-    },
-    {
-      "title": "Bodies of Russian Crypto Blogger and Wife Found in UAE Desert",
-      "link": "https://news.bitcoin.com/bodies-of-russian-crypto-blogger-and-wife-found-in-uae-desert/",
-      "summary": "UAE police recovered the bodies of Russian crypto blogger Roman Novak and his wife, Anna, in a high-profile case involving alleged kidnapping, torture, and murder over cryptocurrency. Extortion and Disappearance The bodies of Russian crypto blogger Roman Novak (38) and his wife, Anna (37), were reportedly recovered in the United Arab Emirates (UAE) by law […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-02T11:30:32.000Z",
-      "image": null
     }
   ]
 }

@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-12-02T05:19:40.344Z",
+  "updatedAt": "2025-12-02T05:42:57.713Z",
   "count": 60,
   "items": [
+    {
+      "title": "Bollinger Bands suggest Bitcoin bottom can’t fall under $55K",
+      "link": "https://cointelegraph.com/news/bitcoin-will-not-fall-below-55k-in-the-bear-market-says-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "A crypto analyst used Bollinger Bands and RSI data to argue Bitcoin’s bear market bottom will not pass under $55,000.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T05:38:12.000Z",
+      "image": null
+    },
+    {
+      "title": "Sony Bank Prepares US Stablecoin Launch to Expand Digital Asset Reach",
+      "link": "https://news.bitcoin.com/sony-bank-prepares-us-stablecoin-launch-to-expand-digital-asset-reach/",
+      "summary": "Institutional momentum in regulated crypto infrastructure accelerated as Sony Bank moved toward U.S. stablecoins and digital assets, signaling a push toward enterprise-scale adoption backed by a deepening partnership with Bastion. Sony Bank Pushes Stablecoin Path to Drive Enterprise Digital Assets Growing institutional demand for regulated crypto infrastructure advanced on Dec. 1 as Sony Bank Inc. […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-02T05:30:47.000Z",
+      "image": null
+    },
     {
       "title": "Bitcoin May Dump to $65K or Below, Spelling Trouble for ETH, XRP, ADA and Other Majors",
       "link": "https://www.coindesk.com/markets/2025/12/02/bitcoin-may-dump-to-usd65k-or-below-spelling-trouble-for-eth-xrp-ada-and-other-majors",
@@ -269,7 +285,7 @@
     {
       "title": "Bitcoin falls to $84K: Is Japan’s bond market the culprit, or is more at play?",
       "link": "https://cointelegraph.com/news/bitcoin-drop-to-dollar84k-not-due-to-japan-bond-market-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin’s decline to $84,000 was driven by US dollar stablecoin concerns, a weakening global macroeconomic outlook and factors beyond Japan’s bond market stress.",
+      "summary": "Bitcoin’s decline to $84,000 was driven by US dollar stablecoin concerns, a weakening global macroeconomic outlook and other factors beyond Japan’s bond market stress.",
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-01T22:01:16.000Z",
       "image": null
@@ -321,14 +337,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-01T21:22:14.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png"
-    },
-    {
-      "title": "Is Bitcoin’s Price Being Manipulated?",
-      "link": "https://news.bitcoin.com/is-bitcoins-price-being-manipulated/",
-      "summary": "The cryptocurrency tumbled 7% in less than 24 hours. Explanations for the drop remain murky, leading many to speculate that something fishy is going on. Unseen Hands: Are Whales Secretly Controlling Bitcoin’s Value? Six large exchanges showed outflows of nearly 40,000 BTC on the same day, according to a popular crypto trader who goes by […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T20:55:18.000Z",
-      "image": null
     },
     {
       "title": "Most of Coinbase’s 2025 law enforcement requests came from outside the US",
@@ -473,14 +481,6 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-12-01T16:45:17.000Z",
       "image": null
-    },
-    {
-      "title": "Over $650M Liquidated! China confirms Crypto Illegal! Infinex Interview!",
-      "link": "https://decrypt.co/videos/interviews/BcHTc0O2/over-650m-liquidated-china-confirms-crypto-illegal-infinex-interview",
-      "summary": "Crypto majors slid sharply, reversing all of last week’s gains, with BTC down 6% to $85,800, ETH down 6% to $2,820, BNB falling 7% to $822, and SOL dropping 7% to $127. Among top movers, MYX (+15%) and JST (+4%) led the market. More than $650 million in positions were liquidated over the past day, including $580 million in longs after BTC dipped below $86,000. ZEC suffered the steepest decline among major tokens, falling 20% to $355 and 35% on the week. Meanwhile, Tether founder Paolo Ardoino ag",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-01T16:31:57.000Z",
-      "image": "https://cdn.jwplayer.com/v2/media/BcHTc0O2/poster.jpg"
     }
   ]
 }

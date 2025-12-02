@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-12-02T21:49:56.654Z",
+  "updatedAt": "2025-12-02T22:15:49.373Z",
   "count": 60,
   "items": [
+    {
+      "title": "IBIT Among Most-Traded ETFs as Bitcoin Surges; Mining Stocks Sink",
+      "link": "https://www.coindesk.com/markets/2025/12/02/ibit-among-most-traded-etfs-as-bitcoin-surges-mining-stocks-sink",
+      "summary": "A 6% rally in bitcoin helped push IBIT ahead of major funds like VOO, but crypto miners including IREN and CIFR posted steep losses.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T22:10:12.000Z",
+      "image": null
+    },
+    {
+      "title": "Fusaka Upgrade Lands Tomorrow — Ethereum Set to Gain Strong L2 Data Flow and Sharper Gas Controls",
+      "link": "https://news.bitcoin.com/fusaka-upgrade-lands-tomorrow-ethereum-set-to-gain-strong-l2-data-flow-and-sharper-gas-controls/",
+      "summary": "Ethereum’s Fusaka upgrade activates tomorrow on Dec. 3, 2025, delivering a sweeping package of scaling, security, and UX improvements aimed at pushing the network into its next era. Unpacking the Fusaka Upgrade Ethereum’s Fusaka upgrade will activate on Dec. 3, 2025, at 21:49:11 UTC, marking the start of epoch 411,392 (slot 13,164,544) and bringing a […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-02T22:10:06.000Z",
+      "image": null
+    },
+    {
+      "title": "ETH briefly touches $3K but traders remain skeptical: Here’s why",
+      "link": "https://cointelegraph.com/news/eth-briefly-touches-3k-but-traders-remain-skeptical-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Ether price surged to $3,000 on Tuesday, but lagged behind the US stock market rally as muted demand for ETH derivatives and growth in competing blockchains kept traders skeptical.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T21:56:36.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUxMGQtZjZhMi03YTEwLTlhYmMtNTFkM2U2OWIyOTdl.jpg"
+    },
     {
       "title": "Taurus adds staking backbone to its custody system via Everstake integration",
       "link": "https://cointelegraph.com/news/taurus-everstake-institutional-staking-pos-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -443,14 +467,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/sony-logo-gID_7.png@png"
     },
     {
-      "title": "Bitcoin Price Watch: Momentum Wobbles While Bears Tighten Their Grip",
-      "link": "https://news.bitcoin.com/bitcoin-price-watch-momentum-wobbles-while-bears-tighten-their-grip/",
-      "summary": "Bitcoin clings to the upper edge of its daily range at $87,818, flaunting a market cap of $1.739 trillion while pushing $72.66 billion in volume across a volatile session capped between $83,989 and $87,820. But under the surface of this intraday hustle lies a complex cocktail of trend exhaustion, technical resistance, and momentum limbo across […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-02T14:00:52.000Z",
-      "image": null
-    },
-    {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
@@ -465,22 +481,6 @@
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-02T13:51:54.000Z",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlNWUtZmUwMS03ZmE4LTliYmMtZWY2NjE5NWM3Yzcy.jpg"
-    },
-    {
-      "title": "Strategy Gains Nearly 20% From Monday Low as Bear Gloating Suggests at Least Temporary Bottom",
-      "link": "https://www.coindesk.com/markets/2025/12/02/strategy-s-bitcoin-bet-backfires-on-retail-as-leveraged-etfs-crater-80",
-      "summary": "There comes a point when long-standing detractors become so vocal, their tone shifting from criticism to arrogance, that it often reflects conditions that are consistent with a bottom.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-02T13:47:06.000Z",
-      "image": null
-    },
-    {
-      "title": "Morning Minute: Vanguard Finally Lets Investors Buy Crypto",
-      "link": "https://decrypt.co/350622/morning-minute-vanguard-finally-lets-investors-buy-crypto",
-      "summary": "It's a major reversal from one of the longest standing anti-crypto giants, and a major signal that crypto is now mainstream.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-02T13:19:17.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/vanguard-decrypt-style-gID_7.jpg@png"
     }
   ]
 }

@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2025-12-02T01:21:48.768Z",
+  "updatedAt": "2025-12-02T03:02:16.604Z",
   "count": 60,
   "items": [
+    {
+      "title": "Frontier AI Models Demonstrate Human-Level Capability in Smart Contract Exploits",
+      "link": "https://decrypt.co/350575/ai-models-human-level-capability-smart-contract-exploits",
+      "summary": "New analysis showed models including Claude Opus and GPT-5 uncovered millions in simulated vulnerabilities across blockchains.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-02T02:48:59.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png"
+    },
+    {
+      "title": "CZ’s YZi Labs moves to take over board of flatlining BNB treasury",
+      "link": "https://cointelegraph.com/news/cz-yzi-labs-eyes-takeover-cea-industries-board?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "YZi Labs has asked CEA Industries shareholders to support its move to shake up the BNB treasury company’s board and install its pick of directors.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T02:45:30.000Z",
+      "image": null
+    },
+    {
+      "title": "Asia Morning Briefing: This Year's Tether Debate is a Good One to Have",
+      "link": "https://www.coindesk.com/markets/2025/12/02/asia-morning-briefing-this-year-s-tether-debate-is-a-good-one-to-have",
+      "summary": "The crypto market has spent years arguing about Tether’s reserves – sometimes with more hyperbole than substance – but the latest debate is sharper and more revealing than usual.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T02:41:24.000Z",
+      "image": null
+    },
+    {
+      "title": "Bitcoin Eyes Explosive Rebound With Nasdaq-Size Moves Poised to Flip",
+      "link": "https://news.bitcoin.com/bitcoin-eyes-explosive-rebound-with-nasdaq-size-moves-poised-to-flip/",
+      "summary": "A sweeping market reset may soon set the stage for a stronger bitcoin rebound, positioning it to potentially outpace the Nasdaq and gold as easing macro strain encourages a shift from fear toward selective risk-taking and renewed momentum. Massive Bitcoin Upside Eyed as Volatility Clears the Path for Rebound Bitcoin’s slide may set up a […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-02T02:30:13.000Z",
+      "image": null
+    },
+    {
+      "title": "China's Z-Image Dethrones Flux as King of AI Art—And Your Potato PC Can Run It",
+      "link": "https://decrypt.co/350572/chinas-z-image-dethrones-flux-king-of-ai-art",
+      "summary": "The six-billion-parameter model is beating Flux2 on hardware from 2019, and the open-source community is going wild.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-02T02:21:27.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png@png"
+    },
+    {
+      "title": "Japan government backs 20% tax on crypto profits, on par with stocks",
+      "link": "https://cointelegraph.com/news/japan-gov-backs-flat-tax-crypto-profits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Japan has taken another step to reform its crypto taxation, replacing its tiered system that can reach as high as 55%.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T02:11:40.000Z",
+      "image": null
+    },
+    {
+      "title": "Robert Kiyosaki Sees 30-Year Bubble Bursting as His Bitcoin Conviction Holds Firm",
+      "link": "https://news.bitcoin.com/robert-kiyosaki-sees-30-year-bubble-bursting-as-his-bitcoin-conviction-holds-firm/",
+      "summary": "A looming global asset unwind is how Robert Kiyosaki frames what he calls a 30-year bubble rupture, urging investors toward bitcoin and other hard assets as he warns of accelerating instability across major markets. Robert Kiyosaki Calls 30-Year Bubble Bursting, Doubles Down on Bitcoin Robert Kiyosaki, author of the best-selling book Rich Dad Poor Dad, […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-02T01:30:05.000Z",
+      "image": null
+    },
     {
       "title": "Vanguard’s 50M+ clients will soon have access to crypto ETFs",
       "link": "https://cointelegraph.com/news/vanguard-to-allow-clients-trade-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -275,14 +331,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-shutterstock-gID_7.png@png"
     },
     {
-      "title": "Bitmine’s Ethereum Stash Hits 3.73M Tokens Amid Fresh Accumulation Push",
-      "link": "https://news.bitcoin.com/bitmines-ethereum-stash-hits-3-73m-tokens-amid-fresh-accumulation-push/",
-      "summary": "Bitmine has pushed its ether haul even higher, amassing one of the largest ETH treasuries on the planet as it edges closer to its long-stated 5% supply ambition. Bitmine Now Controls Over 3% of All Ether Bitmine’s latest update shows the company continues to bulk up its ether position, now holding 3.73 million ETH alongside […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T18:10:38.000Z",
-      "image": null
-    },
-    {
       "title": "Republicans urge action on market structure bill over debanking claims",
       "link": "https://cointelegraph.com/news/republicans-debanking-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "Republican leaders released a final staff report going over claims of debanking by federal regulators in what some have called \"Operation Choke Point 2.0.\"",
@@ -312,14 +360,6 @@
       "summary": "For now, Jack Mallers decided to not comment any further and JPMorgan declined to explain why it debanked the CEO of a company very similar to newly launched JPM Coin.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-12-01T17:24:13.000Z",
-      "image": null
-    },
-    {
-      "title": "Crypto Traders Crushed as Long Positions Are Vaporized in Market Freefall",
-      "link": "https://news.bitcoin.com/crypto-traders-crushed-as-long-positions-are-vaporized-in-market-freefall/",
-      "summary": "It’s an unexpectedly bruising day for crypto assets, tumbling right in step with U.S. equities on Monday, Dec. 1, 2025. The world’s largest digital asset by market cap, bitcoin, slid more than 7.5% and tapped a low of $83,814 per coin. That slip yanked the rest of the market downhill, with altcoins clocking hefty double-digit […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-01T17:21:29.000Z",
       "image": null
     },
     {
@@ -441,46 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-01T15:24:39.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png"
-    },
-    {
-      "title": "Canada Eyes Stablecoin Rules as Scotiabank Flags Limited Market Impact",
-      "link": "https://www.coindesk.com/policy/2025/12/01/canada-eyes-stablecoin-rules-as-scotiabank-flags-limited-market-impact",
-      "summary": "Scotiabank said Ottawa’s move toward a stablecoin framework is more about modernizing payments than reshaping broader financial markets.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T15:14:52.000Z",
-      "image": null
-    },
-    {
-      "title": "Eclipse brings Solana's parallel runtime to Ethereum",
-      "link": "https://cointelegraph.com/news/eclipse-brings-solana-s-parallel-runtime-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Eclipse combines high-throughput execution with Ethereum settlement in a way no other L2 has attempted. Cointelegraph Research breaks down the architecture and the milestones that will define its trajectory.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T15:00:00.000Z",
-      "image": null
-    },
-    {
-      "title": "Tom Lee's BitMine Acquires 97K ETH, Eyeing Fusaka Upgrade, Fed Policy as Positive Catalysts",
-      "link": "https://www.coindesk.com/business/2025/12/01/tom-lee-s-bitmine-acquires-97k-eth-eyeing-fusaka-upgrade-fed-policy-as-positive-catalysts",
-      "summary": "The firm increased the pace of purchases from the previous week despite sitting on large unrealized losses on its ether bet.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T14:23:05.000Z",
-      "image": null
-    },
-    {
-      "title": "CoinDesk 20 Performance Update: Bitcoin (BTC) Drops 5.7% as Index Trades Lower",
-      "link": "https://www.coindesk.com/coindesk-indices/2025/12/01/coindesk-20-performance-update-bitcoin-btc-drops-5-7-as-index-trades-lower",
-      "summary": "Bitcoin Cash (BCH) also declined, shedding 4.8% over the weekend.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T14:21:06.000Z",
-      "image": null
-    },
-    {
-      "title": "Morning Minute: Over $650M Liquidated as BTC Erases Last Week's Gains",
-      "link": "https://decrypt.co/350435/morning-minute-over-650m-liquidated-as-btc-erases-last-weeks-gains",
-      "summary": "It was a Thanksgiving week of crypto price action to be grateful for—until it wasn't.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-01T14:13:01.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-1-gID_7.png@png"
     }
   ]
 }

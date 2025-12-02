@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2025-12-02T12:39:39.265Z",
+  "updatedAt": "2025-12-02T13:24:54.574Z",
   "count": 60,
   "items": [
+    {
+      "title": "Morning Minute: Vanguard Finally Lets Investors Buy Crypto",
+      "link": "https://decrypt.co/350622/morning-minute-vanguard-finally-lets-investors-buy-crypto",
+      "summary": "It's a major reversal from one of the longest standing anti-crypto giants, and a major signal that crypto is now mainstream.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-02T13:19:17.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/vanguard-decrypt-style-gID_7.jpg@png"
+    },
+    {
+      "title": "Bank of America backs 1–4% crypto allocation, opens door to Bitcoin ETFs",
+      "link": "https://cointelegraph.com/news/bank-of-america-4-crypto-allocation-bitcoin-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Bank of America’s wealthiest clients will gain access to Bitcoin ETFs, while its network of over 15,000 wealth advisers can recommend crypto exposure for the first time, Yahoo reported.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T13:16:26.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlZjQtYzkxYy03MjNhLWE5NTYtNTNhYWU5MmFkYzFl.jpg"
+    },
+    {
+      "title": "CZ-owned Trust Wallet debuts prediction markets starting with Myriad",
+      "link": "https://cointelegraph.com/news/cz-trust-wallet-debuts-prediction-markets-myriad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Trust Wallet is the latest crypto wallet to tap into prediction markets, starting with Myriad, highlighting an increasing trend of bundled trading tools.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T13:06:17.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlY2EtZTcxNi03ZDNkLWE4NjktNjc5NTA4ODk0YTcw.jpg"
+    },
+    {
+      "title": "Bitcoin's ‘more reliable’ RSI variant hits bear market bottom zone at $87K",
+      "link": "https://cointelegraph.com/news/bitcoin-more-reliable-rsi-variant-bear-market-bottom-zone-87k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Bitcoin velocity RSI produced a rare bear market bottom signal as BTC price losses sparked a return to extreme \"oversold\" conditions.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T13:03:36.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRmMjEtNDAwMy03YmYzLTliODgtYmVkMTkwMDNjMTM4.jpg"
+    },
+    {
+      "title": "Toncoin Climbs to $1.50 as Cocoon Debut Sparks Surge in Trading Volume",
+      "link": "https://www.coindesk.com/markets/2025/12/02/toncoin-climbs-to-usd1-50-as-cocoon-debut-sparks-surge-in-trading-volume",
+      "summary": "Cocoon lets GPU owners rent out computing power for AI tasks and receive TON tokens as compensation, with Telegram as the first user.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-02T12:59:24.000Z",
+      "image": null
+    },
     {
       "title": "UK considers ban on crypto donations to political parties: Politico",
       "link": "https://cointelegraph.com/news/uk-considers-ban-crypto-donations-reform-uk-farage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -37,7 +77,7 @@
     {
       "title": "Anthropic study says AI agents developed $4.6M in smart contract bugs",
       "link": "https://cointelegraph.com/news/ai-models-autonomously-generate-4-6m-in-real-world-smart-contract-exploits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Commercial AI models were able to autonomously generate real-world smart contract exploits worth millions and found the costs of attack are falling rapidly.",
+      "summary": "Commercial AI models were able to autonomously generate real-world smart contract exploits worth millions; the costs of such attacks are falling rapidly.",
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-02T12:23:17.000Z",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlMTItZWUzZC03NmJjLWE4MWEtZWVmOTA1MjE0ZWRj.jpg"
@@ -155,7 +195,7 @@
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlNDAtZGUxZS03ODQ0LWE2NDAtMTQ4YjNhZDUzNGQ5.jpg"
     },
     {
-      "title": "Poland’s president vetoes strict crypto bill in clash with government",
+      "title": "Poland’s president vetoes strict crypto bill, says it threatens ‘freedoms of Poles’",
       "link": "https://cointelegraph.com/news/poland-president-veto-crypto-bill-political-clash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "Poland’s president vetoed a sweeping cryptocurrency bill over concerns it would stifle innovation and threaten freedoms, sparking a fierce political clash.",
       "source": "Cointelegraph.com News",
@@ -411,22 +451,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png@png"
     },
     {
-      "title": "Japan government backs 20% tax on crypto profits, on par with stocks",
-      "link": "https://cointelegraph.com/news/japan-gov-backs-flat-tax-crypto-profits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Japan has taken another step to reform its crypto taxation, replacing its tiered system that can reach as high as 55%.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-02T02:11:40.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRjNDMtN2MyZC03ZDJjLTg4YTctNDgzZTgwZWY1YWRk.jpg"
-    },
-    {
-      "title": "Vanguard’s 50M+ clients will soon have access to crypto ETFs",
-      "link": "https://cointelegraph.com/news/vanguard-to-allow-clients-trade-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Vanguard CEO Salim Ramji ruled out crypto ETFs on its platform in August, but consistent demand for crypto has seemingly changed his firm’s tune.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-02T01:04:17.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRjMzUtYTUyNC03ZGIzLTk1ZDQtMjllMGU2OTY3ZmRl.jpg"
-    },
-    {
       "title": "Changpeng Zhao, YZi Labs Seek Shakeup at BNB Treasury Firm After Stock Craters",
       "link": "https://decrypt.co/350495/changpeng-zhao-yzi-labs-seek-shakeup-bnb-treasury-firm-stock-craters",
       "summary": "Binance co-founder Changpeng \"CZ\" Zhao and YZi Labs are seeking a management overhaul at publicly traded BNB treasury, CEA Industries.",
@@ -443,14 +467,6 @@
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-gID_7.jpg@png"
     },
     {
-      "title": "Bitcoin’s lack of price strength due to sheepish spot buyers: What happens next?",
-      "link": "https://cointelegraph.com/news/bitcoin-s-lack-of-price-strength-due-to-sheepish-spot-buyers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin fudged the breakout to $93,000 as global TradFi markets stumbled and BTC spot investors failed to provide the necessary volume.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-01T23:00:00.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDQvMDE5NjVlMGEtYjA4ZC03YzczLWI0NWEtN2M2ZmE3ZWJlMzBm.jpg"
-    },
-    {
       "title": "U.S. FDIC Chief Says First GENIUS Act Regulations Heading for Proposal This Month",
       "link": "https://www.coindesk.com/policy/2025/12/01/u-s-fdic-chief-says-first-genius-act-regulations-heading-for-proposal-this-month",
       "summary": "FDIC Acting Chairman Travis Hill is set to testify at a House hearing that his agency is ready to propose a stablecoin application rule before the month is out.",
@@ -465,22 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-01T22:50:28.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-ethereum-decrypt-style-02-scaled-gID_7.jpg@png"
-    },
-    {
-      "title": "Kalshi Pushes Further Into Crypto With On-Chain Prediction Markets on Solana",
-      "link": "https://decrypt.co/350534/kalshi-solana-on-chain-predictions-aims-increase-liquidity-pool",
-      "summary": "Kalshi's prediction market contracts are now tokenized on Solana, unlocking access to the crypto economy, the firm announced on Monday.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-01T22:27:53.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/prediction-market-decrypt-style-gID_7.jpg@png"
-    },
-    {
-      "title": "Vanguard Opens Platform to Crypto ETFs in Major Shift: Bloomberg",
-      "link": "https://www.coindesk.com/business/2025/12/01/vanguard-opens-platform-to-crypto-etfs-in-major-shift-bloomberg",
-      "summary": "The move will give access to the firm's 50 million clients to invest in regulated digital asset ETFs, a reversal from Vanguard's long-standing anti-crypto stance.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-01T22:08:44.000Z",
-      "image": null
     }
   ]
 }

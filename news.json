@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2025-12-02T21:37:38.949Z",
+  "updatedAt": "2025-12-02T21:49:56.654Z",
   "count": 60,
   "items": [
+    {
+      "title": "Taurus adds staking backbone to its custody system via Everstake integration",
+      "link": "https://cointelegraph.com/news/taurus-everstake-institutional-staking-pos-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The move combines Everstake’s validator infrastructure with Taurus’ regulated custody stack, adding a staking pathway for institutional clients.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-02T21:46:18.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUwYzMtMDVkMi03YmE1LTg3NTQtZTZlNTA0YTY4OWI0.jpg"
+    },
     {
       "title": "Group of EU banks pushes for a euro-pegged stablecoin by 2027",
       "link": "https://cointelegraph.com/news/banks-euro-stablecoin-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -473,14 +481,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-02T13:19:17.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/vanguard-decrypt-style-gID_7.jpg@png"
-    },
-    {
-      "title": "Bank of America backs 1%–4% crypto allocation, opens door to Bitcoin ETFs",
-      "link": "https://cointelegraph.com/news/bank-of-america-4-crypto-allocation-bitcoin-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bank of America’s wealthiest clients will gain access to Bitcoin ETFs, while its network of over 15,000 wealth advisers can recommend crypto exposure for the first time, Yahoo reported.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-02T13:16:26.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRlZjQtYzkxYy03MjNhLWE5NTYtNTNhYWU5MmFkYzFl.jpg"
     }
   ]
 }

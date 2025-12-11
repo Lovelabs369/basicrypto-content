@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-12-11T19:11:27.441Z",
+  "updatedAt": "2025-12-11T19:30:29.086Z",
   "count": 60,
   "items": [
+    {
+      "title": "U.S. Senate Rolls Toward Last Vote on Confirming Crypto Regulators at CFTC, FDIC",
+      "link": "https://www.coindesk.com/policy/2025/12/11/u-s-senate-rolls-toward-last-vote-on-confirming-crypto-regulators-at-cftc-fdic",
+      "summary": "In the prolonged process of the Senate, two key officials have faced a series of procedural steps on their way to a final vote, possibly early next week.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-11T19:23:43.000Z",
+      "image": null
+    },
+    {
+      "title": "JPMorgan Pushes Deeper Into Tokenization With Galaxy's Debt Issuance on Solana",
+      "link": "https://www.coindesk.com/business/2025/12/11/jpmorgan-pushes-deeper-into-tokenization-with-galaxy-s-debt-issuance-on-solana",
+      "summary": "Galaxy’s onchain debt deal, where JP Morgan acted as arranger, was settled in USDC stablecoin and backed by Coinbase and Franklin Templeton.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-11T19:16:30.000Z",
+      "image": null
+    },
+    {
+      "title": "Vote on Trump’s CFTC chair pick could come today, US senator says",
+      "link": "https://cointelegraph.com/news/senate-michael-selig-vote-cftc-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Senators could vote on Michael Selig's nomination to head the CFTC, which, if successful, is expected to lead to the departure of acting Chair Caroline Pham.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-11T19:12:02.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlNmMtMDdhZC03NGIxLWE5ZTYtMTUyZDg3NTg4MzM0.jpg"
+    },
     {
       "title": "Bitcoin rallies fail at $94K despite Fed policy shift: Here’s why",
       "link": "https://cointelegraph.com/news/bitcoin-rallies-fail-at-dollar94k-despite-fed-policy-shift-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -299,14 +323,6 @@
       "image": null
     },
     {
-      "title": "Most Influential: Cathie Wood",
-      "link": "https://www.coindesk.com/business/2025/12/11/most-influential-cathie-wood",
-      "summary": "Throughout crypto’s ups and downs, Ark Invest CEO Cathie Wood has remained unflaggingly bullish on the industry’s future.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-11T15:00:00.000Z",
-      "image": null
-    },
-    {
       "title": "Crypto ETFs Extend Rally as Bitcoin Leads With $224 Million Inflow",
       "link": "https://news.bitcoin.com/crypto-etfs-extend-rally-as-bitcoin-leads-with-224-million-inflow/",
       "summary": "Bitcoin and ether ETFs delivered another strong performance on Wednesday, posting combined inflows of $282 million. Solana and XRP joined the momentum, rounding out a steady, all-green day across major crypto ETF sectors. Bitcoin and Ether ETFs Extend Winning Streak with Strong Midweek Inflows Wednesday, Dec. 10, brought an unmistakable sense of momentum to the […]",
@@ -321,14 +337,6 @@
       "source": "Decrypt",
       "publishedAt": "2025-12-11T14:50:25.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_flag-gID_7.png@png"
-    },
-    {
-      "title": "Crypto Trading Volumes Deteriorated Across Board Last Month as Market Slumped: JPMorgan",
-      "link": "https://www.coindesk.com/markets/2025/12/11/crypto-trading-volumes-deteriorated-across-board-last-month-as-market-slumped-jpmorgan",
-      "summary": "Bitcoin, ether and most majors fell last month as spot, derivatives and stablecoin volumes dropped and U.S. crypto ETPs saw heavy outflows.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-11T14:36:34.000Z",
-      "image": null
     },
     {
       "title": "Bitcoin treasuries stall in Q4, but largest holders keep stacking sats",
@@ -473,14 +481,6 @@
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-11T11:22:09.000Z",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVmMmMtYTQ5Yi03YmU4LTk1ZjAtMjQ0Y2E3YTkyMmUw.jpg"
-    },
-    {
-      "title": "UAE telco giant e& taps dirham stablecoin for bill payments pilot",
-      "link": "https://cointelegraph.com/news/etisalat-uae-stablecoin-pilot-ae-coin-mou?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "The MoU marks a cautious step toward real-world stablecoin payments in the UAE, with e& assessing how AE Coin may integrate into its digital channels.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-11T10:59:15.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBjZDAtZjUxNS03YTMzLWFlNGItMjlhMjU2NjY5M2Fl.jpg"
     }
   ]
 }

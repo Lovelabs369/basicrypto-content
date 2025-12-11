@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2025-12-11T19:47:58.237Z",
+  "updatedAt": "2025-12-11T20:12:22.343Z",
   "count": 60,
   "items": [
+    {
+      "title": "U.S. CFTC's Pham Moves for Do-Over on 'Actual Delivery' Guidance on Crypto",
+      "link": "https://www.coindesk.com/policy/2025/12/11/u-s-cftc-s-pham-moves-for-do-over-on-actual-delivery-guidance-on-crypto",
+      "summary": "In what are likely her final days at the agency, the acting chairman checked another box from President Donald Trump's crypto agenda.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-11T19:55:39.000Z",
+      "image": null
+    },
+    {
+      "title": "Coinbase Expands Reach of Stablecoin-Based AI Agent Payments Tool",
+      "link": "https://www.coindesk.com/tech/2025/12/11/coinbase-expands-the-reach-of-its-stablecoin-based-ai-agent-payments-tool",
+      "summary": "The updated protocol, x402 V2, allows developers to combine payments, enable secure wallet access, and add new features via a clean, modular design.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-11T19:52:07.000Z",
+      "image": null
+    },
     {
       "title": "Do Kwon’s Sentencing Hearing Drags on as Court Weighs Mountain of Victim Testimony",
       "link": "https://www.coindesk.com/policy/2025/12/11/do-kwon-s-sentencing-hearing-drags-on-as-court-weighs-mountain-of-victim-testimony",
@@ -310,22 +326,6 @@
       "title": "Most Influential: Sirgoo Lee",
       "link": "https://www.coindesk.com/business/2025/12/11/most-influential-sirgoo-lee",
       "summary": "Lee shaped the exchange that defines Korea’s crypto market, but even after his exit this year, the country’s hyperactive retail engine will keep moving.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-11T15:00:00.000Z",
-      "image": null
-    },
-    {
-      "title": "Coinbase Taps Chainlink CCIP as Sole Bridge for $7B in Wrapped Tokens Across Chains",
-      "link": "https://www.coindesk.com/web3/2025/12/11/coinbase-taps-chainlink-ccip-as-sole-bridge-for-usd7b-in-wrapped-tokens-across-chains",
-      "summary": "The integration enables users to move these assets across different networks and applications, leveraging Chainlink's secure oracle networks.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-11T15:00:00.000Z",
-      "image": null
-    },
-    {
-      "title": "Most Influential: Shayne Coplan",
-      "link": "https://www.coindesk.com/business/2025/12/11/most-influential-shayne-coplan",
-      "summary": "Once mired in legal trouble that included federal probes and law enforcement raids, Polymarket founder and CEO Shayne Coplan has emerged victorious this year, casting off the yoke of regulatory scrutiny and growing the prediction market he founded into a $9 billion betting empire.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-12-11T15:00:00.000Z",
       "image": null

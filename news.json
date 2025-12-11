@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2025-12-11T16:49:34.321Z",
+  "updatedAt": "2025-12-11T17:17:38.524Z",
   "count": 60,
   "items": [
+    {
+      "title": "Disney Targets Google Over AI Copyright Violations—Alongside $1 Billion OpenAI Deal",
+      "link": "https://decrypt.co/352005/disney-targets-google-over-ai-copyright-violations-1-billion-openai-deal",
+      "summary": "Disney says Google’s AI used its characters without permission, as it signed a new deal with OpenAI to allow character generation with Sora.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-11T17:05:04.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/Disney-Decrypt4-scaled-gID_7.jpg@png"
+    },
+    {
+      "title": "Aptos Slumps 7% as Token Unlock Weighs on Sentiment",
+      "link": "https://www.coindesk.com/markets/2025/12/11/aptos-slumps-7-as-token-unlock-weighs-on-sentiment",
+      "summary": "Trading volumes jumped 38% above monthly averages as institutional players repositioned ahead of a scheduled token unlock.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-11T17:05:03.000Z",
+      "image": null
+    },
+    {
+      "title": "TON Slips 3.3% to $1.59 as Broader Crypto Market Weakens",
+      "link": "https://www.coindesk.com/markets/2025/12/11/ton-slips-3-3-to-usd1-59-as-broader-crypto-market-weakens",
+      "summary": "The token is consolidating below resistance at $1.65, with support forming above $1.59, and traders are watching for a breakout above $1.70 to regain momentum.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-11T16:58:04.000Z",
+      "image": null
+    },
+    {
+      "title": "US SEC's Crenshaw takes aim at crypto in final weeks at the agency",
+      "link": "https://cointelegraph.com/news/sec-caroline-crenshaw-crypto-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Caroline Crenshaw, the financial agency’s sole remaining Democratic commissioner, is expected to depart in January, 18 months after her official term ended.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-11T16:53:28.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlMTQtMmUwOS03MmE5LWIyNDAtNDYzYjQ4MzY5NDBm.jpg"
+    },
+    {
+      "title": "124 Pending Crypto ETFs Signal Mounting Liquidity Shifts Among Issuers",
+      "link": "https://news.bitcoin.com/124-pending-crypto-etfs-signal-mounting-liquidity-shifts-among-issuers/",
+      "summary": "Crypto ETF filings are piling up fast, with 124 registrations pressing against the market’s upper limits. Bitcoin leads, followed by tight clusters in XRP, solana, ethereum, and litecoin, signaling issuers bracing for a high-stakes battle as breakout pressure builds. Crypto ETF Filings Stack Higher as 124 Registrations Build Breakout Pressure Crypto exchange-traded funds (ETFs) remain […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-11T16:50:05.000Z",
+      "image": null
+    },
     {
       "title": "ICP Extends Decline as Breakdown Below $3.40 Reinforces Bearish Structure",
       "link": "https://www.coindesk.com/markets/2025/12/11/icp-extends-decline-as-breakdown-below-usd3-40-reinforces-bearish-structure",
@@ -21,7 +61,7 @@
     {
       "title": "BNB Drops Below $865 as Crypto Market Moves Lower",
       "link": "https://www.coindesk.com/markets/2025/12/11/bnb-drops-below-usd865-as-crypto-market-moves-lower",
-      "summary": "The token is now trading in a tight range, with buyers defending the $864-$867 zone and sellers capping gains near $868.50, as traders appear cautious.",
+      "summary": "The token is now trading in a tight range, with buyers defending the $864-$867 zone and sellers capping gains near $868.50.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-12-11T16:24:53.000Z",
       "image": null
@@ -211,7 +251,7 @@
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBkODctNmU5Yi03ZDExLWFmMjgtNzhiYzZjMzViMTBm.jpg"
     },
     {
-      "title": "Ethereum vs. Bitcoin: ETH price poised for 80% rally in 2026",
+      "title": "Ether vs. Bitcoin: ETH price poised for 80% rally in 2026",
       "link": "https://cointelegraph.com/news/ethereum-vs-bitcoin-eth-price-poised-80-rally-in-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "Ether's inverse head-and-shoulders pattern and rebound from a key accumulation zone signal a potential 80% rally in 2026.",
       "source": "Cointelegraph.com News",
@@ -272,22 +312,6 @@
       "summary": "The token now has support at the $1.37 level and resistance at $1.43.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "publishedAt": "2025-12-11T13:44:18.000Z",
-      "image": null
-    },
-    {
-      "title": "Cardano Ecosystem Gets a Privacy Boost as Midnight’s NIGHT Goes Live",
-      "link": "https://www.coindesk.com/markets/2025/12/11/cardano-ecosystem-gets-a-privacy-boost-as-midnight-s-night-goes-live",
-      "summary": "The network uses a dual-state architecture that separates public and private data while allowing controlled disclosure to auditors, institutions or counterparties.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-11T13:41:17.000Z",
-      "image": null
-    },
-    {
-      "title": "Mexico’s Central Bank Keeps a ‘Healthy Distance’ From Crypto",
-      "link": "https://www.coindesk.com/policy/2025/12/11/mexico-s-central-bank-keeps-a-healthy-distance-from-crypto",
-      "summary": "Banxico’s year-end report reaffirms its anti-crypto stance, highlighting legal risks, low adoption, and the need for international regulation.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-11T13:31:27.000Z",
       "image": null
     },
     {
@@ -411,14 +435,6 @@
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU1YjMtOTkyNS03Yjg4LTkzNTktMTYzNDJiZTg3ZDJk.jpg"
     },
     {
-      "title": "Balaji Srinivasan Warns Indian Tech Professionals Against US Immigration",
-      "link": "https://news.bitcoin.com/balaji-srinivasan-warns-indian-tech-professionals-against-us-immigration/",
-      "summary": "Former Coinbase CTO advises Indian tech workers to consider alternatives to U.S. immigration, highlighting opportunities in India, internet economy, and international markets. Balaji Srinivasan published a provocative social media post on X, urging Indian technologists to reconsider immigration to the United States. The post outlines three alternative paths for Indian tech professionals: developing opportunities within […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-11T09:30:39.000Z",
-      "image": null
-    },
-    {
       "title": "Norway’s central bank says CBDC ‘not warranted,’ cites strong payment system",
       "link": "https://cointelegraph.com/news/norges-bank-shelves-cbdc-plans-tokenization-eurosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "Norway rules that a digital krone is unnecessary for now, highlighting its strong payment rails and the uncertain benefits of both retail and wholesale CBDCs.",
@@ -465,22 +481,6 @@
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-11T05:40:23.000Z",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiOWYtMzM0Ny03MjczLWFjZjctNTlmZWViYTRjODlk.jpg"
-    },
-    {
-      "title": "Bhutan Launches Sovereign Gold-Backed Token on Solana",
-      "link": "https://decrypt.co/351928/bhutan-launches-sovereign-gold-backed-token-solana",
-      "summary": "The launch adds to Bhutan’s broader blockchain push, including Bitcoin reserves, Binance Pay integration and hydro-powered BTC mining.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-11T04:58:24.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/Bhutan-gID_7.jpg@png"
-    },
-    {
-      "title": "A16z Crypto opens office in South Korea as it bets on Asia",
-      "link": "https://cointelegraph.com/news/crypto-venture-capital-giant-a16z-crypto-expands-into-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "A16z Crypto has opened its first Asian office in Seoul, South Korea, led by former Polygon Labs executive SungMo Park, with the venture capital firm noting the region’s dominance in global adoption.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-11T04:48:28.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiNzMtYjllNS03MDA5LWEzN2ItMTg4NjUzNzMxMjhl.jpg"
     }
   ]
 }

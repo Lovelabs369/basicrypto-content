@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2025-12-11T17:17:38.524Z",
+  "updatedAt": "2025-12-11T17:51:12.754Z",
   "count": 60,
   "items": [
+    {
+      "title": "21shares XRP ETF Finally Goes Live With Institutional Demand Heating",
+      "link": "https://news.bitcoin.com/21shares-xrp-etf-finally-goes-live-with-institutional-demand-heating/",
+      "summary": "The 21shares XRP ETF has officially begun trading, snapping a long buildup of anticipation as institutions, payment networks, and the XRP community converge around expanding liquidity, clearer transparency, and a direct pathway to streamlined exposure to the asset. 21shares XRP ETF Arrives With Benchmark-Tracked Price Precision Anticipation turned into momentum as 21shares announced on social […]",
+      "source": "Bitcoin News",
+      "publishedAt": "2025-12-11T17:40:36.000Z",
+      "image": null
+    },
+    {
+      "title": "Crypto Investment Firm Blockstream to Acquire TradFi Hedge Fund Corbiere Capital",
+      "link": "https://www.coindesk.com/business/2025/12/11/crypto-investment-firm-blockstream-to-acquire-tradfi-hedge-fund-corbiere-capital",
+      "summary": "The planned deal will bring Corbiere’s equity and event-driven strategies under Blockstream’s asset management arm.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-11T17:36:28.000Z",
+      "image": null
+    },
+    {
+      "title": "Robinhood Stock Slides 8% After Big Decline in November Trading Volumes",
+      "link": "https://www.coindesk.com/markets/2025/12/11/robinhood-shares-slide-8-after-november-trading-volumes-drop-sharply",
+      "summary": "Slumps across equity, options and crypto trading in November raised concerns that retail investor momentum may be fading.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-11T17:30:51.000Z",
+      "image": null
+    },
+    {
+      "title": "Texas grid is heating up again, this time from AI, not Bitcoin miners",
+      "link": "https://cointelegraph.com/news/texas-ai-power-demand-ercot-load-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "ERCOT reported a record surge in large-load requests, with AI data centers surpassing Bitcoin miners and reshaping Texas’s grid planning and reliability outlook.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-11T17:15:00.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlMjctN2Q5Mi03YmY0LThkOTktOGZhZmQ3NjU0NjY1.jpg"
+    },
     {
       "title": "Disney Targets Google Over AI Copyright Violations—Alongside $1 Billion OpenAI Deal",
       "link": "https://decrypt.co/352005/disney-targets-google-over-ai-copyright-violations-1-billion-openai-deal",
@@ -291,28 +323,12 @@
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg"
     },
     {
-      "title": "Klarna Partners With Privy to Explore Crypto Wallet Use Within its Ecosystem",
-      "link": "https://www.coindesk.com/business/2025/12/11/klarna-partners-with-privy-to-explore-crypto-wallet-use-within-its-ecosystem",
-      "summary": "The project aims to make crypto more accessible to everyday users, building on Klarna's recent launch of KlarnaUSD, a dollar-backed stablecoin.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-11T13:50:00.000Z",
-      "image": null
-    },
-    {
       "title": "US DoJ Indicts Ukrainian Over Russia-Linked Cyberattack Groups That Paid in Crypto",
       "link": "https://decrypt.co/351967/us-doj-indicts-ukrainian-over-russia-linked-cyberattack-groups-that-paid-in-crypto",
       "summary": "The individual was allegedly involved in two groups that used Telegram to claim credit for attacks against infrastructure targets in the U.S.",
       "source": "Decrypt",
       "publishedAt": "2025-12-11T13:46:02.000Z",
       "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/DOJ-gID_7.jpg@png"
-    },
-    {
-      "title": "Filecoin Declines 7%, Breaking Below $1.43 Support",
-      "link": "https://www.coindesk.com/markets/2025/12/11/filecoin-declines-7-breaking-below-usd1-43-support",
-      "summary": "The token now has support at the $1.37 level and resistance at $1.43.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-11T13:44:18.000Z",
-      "image": null
     },
     {
       "title": "Bitcoin due 2026 bottom as exchange volumes grind lower: Analysis",
@@ -419,14 +435,6 @@
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBjZDAtZjUxNS03YTMzLWFlNGItMjlhMjU2NjY5M2Fl.jpg"
     },
     {
-      "title": "Bhutan Launches Gold-Backed Digital Token on Solana Blockchain",
-      "link": "https://news.bitcoin.com/bhutan-launches-gold-backed-digital-token-on-solana-blockchain/",
-      "summary": "Gelephu Mindfulness City introduces sovereign gold-backed digital token TER, leveraging Solana blockchain to bring physical gold into the digital realm. Bhutan announced the launch of TER, a gold-backed digital token, on December 11, 2025, through Gelephu Mindfulness City (GMC). The token, whose name derives from the Dzongkha word for “Treasure,” will be issued on Solana’s […]",
-      "source": "Bitcoin News",
-      "publishedAt": "2025-12-11T10:30:11.000Z",
-      "image": null
-    },
-    {
       "title": "XRP transaction fees drop 89%: Is price headed below $1.75?",
       "link": "https://cointelegraph.com/news/xrp-transaction-fees-drop-89-price-headed-below-1-75?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "XRP price risked a 15% drop to as low as $1.73, fuelled by collapsing transaction fees, reduced speculator appetite and a weakening technical structure.",
@@ -473,14 +481,6 @@
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-11T05:42:00.000Z",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiZGQtMTMwMi03ZmQ5LWJmZDctMTQzOGU2Y2U5MzEy.jpg"
-    },
-    {
-      "title": "GOP hardliners vexed as defense bill advances without CBDC ban",
-      "link": "https://cointelegraph.com/news/gop-conservatives-angered-defense-bill-no-cbdc-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Conservatives in the Republican Party are frustrated that a promised ban on central bank digital currencies didn’t make it into a must-pass defense bill that’s now on its way to the Senate.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-11T05:40:23.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiOWYtMzM0Ny03MjczLWFjZjctNTlmZWViYTRjODlk.jpg"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2025-12-11T17:51:12.754Z",
+  "updatedAt": "2025-12-11T18:13:33.102Z",
   "count": 60,
   "items": [
+    {
+      "title": "Klarna Teams With Stripe’s Privy to Build Crypto Wallet ‘For the Masses’",
+      "link": "https://decrypt.co/352015/klarna-teams-stripe-privy-build-crypto-wallet-masses",
+      "summary": "Swedish fintech firm Klarna is working towards the launch of its own crypto wallet with Stripe-owned wallet infrastructure firm, Privy.",
+      "source": "Decrypt",
+      "publishedAt": "2025-12-11T17:54:21.000Z",
+      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/klarna-shutterstock-gID_7.png@png"
+    },
+    {
+      "title": "El Salvador Partners with Elon Musk’s Grok in AI-Powered Education for 1M Students",
+      "link": "https://www.coindesk.com/tech/2025/12/11/el-salvador-partners-with-elon-musk-s-grok-in-ai-powered-education-for-1m-students",
+      "summary": "The nation that first adopted bitcoin as legal tender is looking to pioneer AI-powered education in 5,000 Salvadoran schools with xAI’s Grok",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "publishedAt": "2025-12-11T17:51:36.000Z",
+      "image": null
+    },
+    {
+      "title": "Bhutan goes for gold, announces sovereign-backed RWA token",
+      "link": "https://cointelegraph.com/news/bhutan-ter-sovereign-gold-digital-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The Himalayan Kingdom mines Bitcoin, holds digital asset reserves, and has embraced blockchain technology to modernize its financial system.",
+      "source": "Cointelegraph.com News",
+      "publishedAt": "2025-12-11T17:50:29.000Z",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBlNDEtYjkyZi03ZmU4LWFiZTktOTA1MWI2M2RkM2Q1.jpg"
+    },
     {
       "title": "21shares XRP ETF Finally Goes Live With Institutional Demand Heating",
       "link": "https://news.bitcoin.com/21shares-xrp-etf-finally-goes-live-with-institutional-demand-heating/",
@@ -307,14 +331,6 @@
       "image": null
     },
     {
-      "title": "Nexo Agrees to Buy Argentina’s Buenbit to Expand Crypto Services Across Latin America",
-      "link": "https://www.coindesk.com/business/2025/12/11/nexo-agrees-to-buy-argentina-s-buenbit-to-expand-crypto-services-across-latin-america",
-      "summary": "The deal gives Nexo access to Buenbit's user base and enables it to offer crypto-backed loans, high-yield savings accounts and trading tools.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "publishedAt": "2025-12-11T14:00:00.000Z",
-      "image": null
-    },
-    {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
@@ -465,22 +481,6 @@
       "source": "Cointelegraph.com News",
       "publishedAt": "2025-12-11T06:13:26.000Z",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiYTYtOWEyOS03Y2Q3LWFkZTYtMTI5MDg1ZjdiMzA0.jpg"
-    },
-    {
-      "title": "Gemini Gets CFTC Approval to Launch Prediction Markets in US",
-      "link": "https://decrypt.co/351936/gemini-cftc-approval-prediction-markets-us",
-      "summary": "The CFTC license will let Gemini offer event contracts in the U.S., joining Kalshi and Polymarket in a booming market.",
-      "source": "Decrypt",
-      "publishedAt": "2025-12-11T06:01:17.000Z",
-      "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/gemini-decrypt-style-02-gID_7.jpg@png"
-    },
-    {
-      "title": "Australian regulator eases rules for stablecoins and wrapped tokens",
-      "link": "https://cointelegraph.com/news/australian-regulator-eases-rules-stablecoins-wrapped-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Australia’s securities regulator has removed licensing requirements for stablecoin intermediaries and approved omnibus accounts, reducing compliance costs.",
-      "source": "Cointelegraph.com News",
-      "publishedAt": "2025-12-11T05:42:00.000Z",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiZGQtMTMwMi03ZmQ5LWJmZDctMTQzOGU2Y2U5MzEy.jpg"
     }
   ]
 }
